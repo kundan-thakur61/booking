@@ -1,0 +1,103 @@
+{
+  "seoAnalysis": {
+    "url": "http://localhost:5173/mumbai/andheri",
+    "timestamp": "2026-01-21T10:30:00Z",
+    "status": "ROUTE_NOT_FOUND",
+    "currentBehavior": "Redirects to Mumbai main page (/mumbai)",
+    "analysis": {
+      "technicalSeo": {
+        "pageLoadTime": "N/A",
+        "mobileFriendly": "N/A",
+        "sslCertificate": "N/A",
+        "canonicalIssues": "MISSING_DEDICATED_ROUTE",
+        "robotsTxtAccess": "N/A",
+        "sitemapInclusion": "NOT_INDEXED_SEPARATELY"
+      },
+      "onPageSeo": {
+        "titleTag": "Mumbai Escorts 2026 — 500+ Verified Profiles | BookEase",
+        "metaDescription": "✓ 500+ verified Mumbai escorts ✓ Andheri, Bandra, Juhu ✓ Available tonight ✓ 24/7 service. Book premium companions. 18+ only. Verified profiles.",
+        "h1Tag": "Mumbai Escorts 2026 — 500+ Verified Companions in Andheri, Bandra, Juhu",
+        "contentQuality": "HIGH",
+        "keywordOptimization": "GOOD",
+        "internalLinking": "MODERATE"
+      },
+      "localSeo": {
+        "schemaMarkup": "EXISTING_MUMBAI_SCHEMA",
+        "localBusinessSchema": "IMPLEMENTED",
+        "faqSchema": "IMPLEMENTED",
+        "breadcrumbSchema": "IMPLEMENTED",
+        "geoCoordinates": "PRESENT"
+      },
+      "contentSeo": {
+        "wordCount": "~1000+",
+        "contentDepth": "COMPREHENSIVE",
+        "lsiKeywords": "VERIFIED, ESCORTS, COMPANIONS, SERVICES",
+        "semanticRelevance": "HIGH_FOR_MUMBAI"
+      }
+    },
+    "seoScore": 78,
+    "issuesFound": [
+      {
+        "category": "Technical SEO",
+        "severity": "HIGH",
+        "issue": "Missing dedicated route for /mumbai/andheri",
+        "impact": "Lost opportunity for area-specific SEO targeting",
+        "recommendation": "Create dedicated Andheri page component with specific schema markup"
+      },
+      {
+        "category": "Local SEO",
+        "severity": "MEDIUM",
+        "issue": "Generic Mumbai schema instead of Andheri-specific",
+        "impact": "Missed local intent targeting for Andheri searches",
+        "recommendation": "Implement area-specific schema with Andheri geo-coordinates"
+      },
+      {
+        "category": "Content SEO",
+        "severity": "MEDIUM",
+        "issue": "Andheri mentioned but not deeply optimized",
+        "impact": "Lower relevance for 'Andheri escorts' searches",
+        "recommendation": "Create dedicated Andheri content section with area-specific information"
+      }
+    ],
+    "opportunities": [
+      {
+        "category": "Keyword Targeting",
+        "opportunity": "Target 'Andheri escorts', 'escorts in Andheri', 'Andheri companion services'",
+        "potentialImpact": "HIGH",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "category": "Local Schema",
+        "opportunity": "Implement Andheri-specific LocalBusiness schema",
+        "potentialImpact": "HIGH",
+        "difficulty": "LOW"
+      },
+      {
+        "category": "Content Depth",
+        "opportunity": "Create area-specific FAQ for Andheri services",
+        "potentialImpact": "MEDIUM",
+        "difficulty": "LOW"
+      }
+    ]
+  },
+  "recommendations": {
+    "immediateActions": [
+      "Create dedicated Andheri page component (/src/pages/Andheri.jsx)",
+      "Implement Andheri-specific schema markup with geo-coordinates",
+      "Add route handler in App.jsx for /mumbai/andheri",
+      "Create area-specific FAQ content for Andheri services"
+    ],
+    "shortTermGoals": [
+      "Optimize title and meta description for Andheri-specific keywords",
+      "Add Andheri-specific service listings and pricing",
+      "Implement area-based breadcrumb navigation",
+      "Create Andheri-focused content sections"
+    ],
+    "longTermStrategy": [
+      "Develop area-specific landing pages for all Mumbai locations",
+      "Implement location-based schema hierarchy",
+      "Create local citation strategy for Andheri businesses",
+      "Build topical authority around Mumbai escort areas"
+    ]
+  }
+}

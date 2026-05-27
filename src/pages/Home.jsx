@@ -17,12 +17,29 @@ import {
 
 const Home = () => {
   const topCities = [
-    { name: "Mumbai", slug: "mumbai", count: "500+" },
-    { name: "Delhi", slug: "delhi", count: "450+" },
-    { name: "Bangalore", slug: "bangalore", count: "400+" },
-    { name: "Pune", slug: "pune", count: "300+" },
-    { name: "Hyderabad", slug: "hyderabad", count: "250+" },
-    { name: "Chennai", slug: "chennai", count: "200+" },
+    { name: "mumbai", slug: "maharashtra/mumbai", count: "500+" },
+    { name: "Delhi", slug: "delhi/connaught-place", count: "450+" },
+    { name: "Bangalore", slug: "karnataka/bangalore", count: "400+" },
+    { name: "Pune", slug: "maharashtra/pune", count: "300+" },
+    { name: "Hyderabad", slug: "telangana/hyderabad", count: "250+" },
+    { name: "Chennai", slug: "tamil-nadu/chennai", count: "200+" },
+    { name: "patna", slug: "bihar/patna", count: "200+" },
+    { name: "Jharkhand", slug: "jharkhand/ranchi", count: "200+" },
+    { name: "Goa", slug: "goa/panaji", count: "200+" },
+   
+  ];
+
+   const topLinks = [
+    { name: "verified escort services", slug: "verified-escort-services", count: "500+" },
+    { name: "mumbai escort services", slug: "mumbai-escort-services", count: "450+" },
+    { name: "delhi escort-services", slug: "delhi-escort-services", count: "400+" },
+    { name: "massage escort services", slug: "massage-escort-services", count: "300+" },
+    { name: "companion escort services", slug: "companion-escort-services", count: "250+" },
+    { name: "contact-us", slug: "contact-us", count: " " },
+    { name: "support", slug: "support", count: " " },
+    { name: "help-center", slug: "help-center", count: " " },
+    { name: "blog", slug: "blog", count: " " },
+    { name: "how-to-report-scam", slug: "how-to-report-scam", count: " " },
   ];
 
   // Enhanced structured data with FAQ schema for AEO
@@ -158,8 +175,12 @@ const Home = () => {
       <Header />
 
       {/* Hero Section */}
-      <section className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-16">
-        <div className="container mx-auto px-4 text-center">
+      <section
+        className="relative bg-cover bg-center bg-no-repeat text-white py-24 min-h-[500px] flex items-center"
+        style={{ backgroundImage: "url('https://i.pinimg.com/736x/fe/3f/78/fe3f78c357b7883bd1193a90fd8b57eb.jpg')" }}
+      >
+        <div className="absolute inset-0 bg-gradient-to-r from-pink-600/80 to-pink-700/80"></div>
+        <div className="relative container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">
             Verified Escorts India 2026 — Premium Companion Services Across 500+ Cities
           </h1>
@@ -169,19 +190,19 @@ const Home = () => {
           </p>
           <div className="flex flex-wrap gap-4 justify-center">
             <Link 
-              to="/mumbai"
+              to="/maharashtra/mumbai"
               className="bg-white text-pink-600 px-8 py-3 rounded-full font-semibold hover:bg-pink-50 transition-colors"
             >
               Mumbai Escorts
             </Link>
             <Link 
-              to="/delhi"
+              to="/delhi/connaught-place"
               className="bg-white text-pink-600 px-8 py-3 rounded-full font-semibold hover:bg-pink-50 transition-colors"
             >
               Delhi Escorts
             </Link>
             <Link 
-              to="/bangalore"
+              to="karnataka/bangalore"
               className="bg-white text-pink-600 px-8 py-3 rounded-full font-semibold hover:bg-pink-50 transition-colors"
             >
               Bangalore Escorts
@@ -207,16 +228,47 @@ const Home = () => {
             </Link>
           ))}
         </div>
+        <div className="text-center mt-8">
+          <Link
+            to="/find-all-city"
+            className="inline-flex items-center gap-2 bg-pink-600 text-white px-8 py-3 rounded-full font-semibold hover:bg-pink-700 transition-colors shadow-md"
+          >
+            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+            </svg>
+            View All States &amp; Cities
+          </Link>
+        </div>
       </section>
+      
 
       {/* Services */}
       <section className="container mx-auto px-4 py-12">
-        <h2 className="text-3xl font-bold text-neutral-900 mb-8 text-center">
+        {/* <h2 className="text-3xl font-bold text-neutral-900 mb-8 text-center">
           Featured Services
-        </h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        </h2> */}
+        {/* <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {services.map((service) => (
             <ServiceCard key={service.id} service={service} />
+          ))}
+        </div> */}
+      </section>
+
+       <section className="container mx-auto px-4 py-12">
+        <h2 className="text-3xl font-bold text-neutral-900 mb-8 text-center">
+          Quick Links
+        </h2>
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+          {topLinks.map((city) => (
+            <Link
+              key={city.slug}
+              to={`/${city.slug}`}
+              className="bg-white rounded-xl p-6 text-center hover:shadow-lg transition-shadow border border-neutral-200"
+            >
+              <h3 className="font-bold text-neutral-900 text-lg mb-2">{city.name}</h3>
+              <span className="text-pink-600 font-semibold">{city.count} Profiles</span>
+            </Link>
           ))}
         </div>
       </section>
@@ -350,3 +402,15 @@ const Home = () => {
 };
 
 export default Home;
+
+
+
+// import React from 'react'
+
+// function Home() {
+//   return (
+//     <div>Home</div>
+//   )
+// }
+
+// export default Home

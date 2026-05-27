@@ -15,13 +15,17 @@ const phone = "9999999999";
  * - Unique image gallery for each variant (based on variant ID)
  * - Date selection
  * - Time slot selection
- * - Barber selection
+ * - Companion selection
  * - Booking confirmation
  */
 const Booking = () => {
   const navigate = useNavigate();
   const { currentBooking, updateBooking } = useBooking();
 
+  // State for date, time, and companion selection
+  const [selectedDate, setSelectedDate] = useState("");
+  const [selectedTime, setSelectedTime] = useState("");
+  const [selectedCompanion, setSelectedCompanion] = useState("");
 
 
   // Redirect if no booking started
@@ -37,8 +41,8 @@ const Booking = () => {
   const variantGallery = getVariantGallery(variant.id);
 
   const handleConfirm = () => {
-    if (!selectedDate || !selectedTime || !selectedBarber) {
-      alert("Please select date, time, and barber");
+    if (!selectedDate || !selectedTime || !selectedCompanion) {
+      alert("Please select date, time, and companion");
       return;
     }
 
@@ -46,11 +50,11 @@ const Booking = () => {
     updateBooking({
       date: selectedDate,
       time: selectedTime,
-      barber: selectedBarber,
+      companion: selectedCompanion,
     });
 
     // Analytics: user provided booking details (proceed to confirmation)
-    trackEvent('add_payment_info', {
+    trackEvent('add_service_info', {
       service_id: service.id,
       service_name: service.name,
       value: service.price,
@@ -84,98 +88,84 @@ const Booking = () => {
 
   const dates = getNextSevenDays();
   const times = ["9:00 AM", "10:00 AM", "11:00 AM", "12:00 PM", "2:00 PM", "3:00 PM", "4:00 PM", "5:00 PM"];
-  
-  // 12+ barbers with professional images
+
+  // 12+ companions with professional images
   const barbers = [
     { 
-      name: "John Smith", 
+      name: "Sophia", 
       rating: 4.9, 
-      experience: "5 years",
-      image: "https://i.pravatar.cc/150?img=12",
-      specialty: "Classic Cuts"
-    },
-    { 
-      name: "Mike Johnson", 
-      rating: 4.8, 
-      experience: "4 years",
-      image: "https://i.pravatar.cc/150?img=13",
-      specialty: "Beard Styling"
-    },
-    { 
-      name: "David Brown", 
-      rating: 4.9, 
-      experience: "6 years",
+      experience: "3 years",
       image: "https://i.pravatar.cc/150?img=14",
-      specialty: "Modern Fades"
+      specialty: "VIP Services"
     },
     { 
-      name: "Alex Martinez", 
-      rating: 4.7, 
-      experience: "3 years",
+      name: "Emma", 
+      rating: 4.8, 
+      experience: "2 years",
       image: "https://i.pravatar.cc/150?img=15",
-      specialty: "Hair Design"
+      specialty: "Dinner Dates"
     },
     { 
-      name: "Chris Lee", 
+      name: "Olivia", 
       rating: 4.9, 
-      experience: "7 years",
-      image: "https://i.pravatar.cc/150?img=33",
-      specialty: "Traditional Cuts"
-    },
-    { 
-      name: "Ryan Garcia", 
-      rating: 4.8, 
-      experience: "5 years",
-      image: "https://i.pravatar.cc/150?img=51",
-      specialty: "Trendy Styles"
-    },
-    { 
-      name: "Marcus Williams", 
-      rating: 4.7, 
       experience: "4 years",
-      image: "https://i.pravatar.cc/150?img=52",
-      specialty: "Skin Fades"
+      image: "https://i.pravatar.cc/150?img=33",
+      specialty: "GFE Experience"
     },
     { 
-      name: "James Taylor", 
+      name: "Ava", 
+      rating: 4.7, 
+      experience: "2 years",
+      image: "https://i.pravatar.cc/150?img=51",
+      specialty: "Evening Events"
+    },
+    { 
+      name: "Isabella", 
       rating: 4.9, 
-      experience: "8 years",
-      image: "https://i.pravatar.cc/150?img=53",
-      specialty: "All Styles"
+      experience: "5 years",
+      image: "https://i.pravatar.cc/150?img=52",
+      specialty: "Long Term"
     },
     { 
-      name: "Kevin Anderson", 
+      name: "Mia", 
       rating: 4.8, 
       experience: "3 years",
-      image: "https://i.pravatar.cc/150?img=54",
-      specialty: "Creative Cuts"
+      image: "https://i.pravatar.cc/150?img=53",
+      specialty: "Discreet Meetings"
     },
     { 
-      name: "Tommy Robinson", 
+      name: "Charlotte", 
       rating: 4.7, 
-      experience: "5 years",
-      image: "https://i.pravatar.cc/150?img=56",
-      specialty: "Pompadours"
+      experience: "2 years",
+      image: "https://i.pravatar.cc/150?img=54",
+      specialty: "Travel Companion"
     },
     { 
-      name: "Brandon Clark", 
+      name: "Amelia", 
       rating: 4.9, 
-      experience: "6 years",
-      image: "https://i.pravatar.cc/150?img=57",
-      specialty: "Textured Cuts"
+      experience: "4 years",
+      image: "https://i.pravatar.cc/150?img=56",
+      specialty: "Luxury Experiences"
     },
     { 
-      name: "Eric White", 
+      name: "Harper", 
       rating: 4.8, 
-      experience: "4 years",
+      experience: "3 years",
+      image: "https://i.pravatar.cc/150?img=57",
+      specialty: "Exclusive Services"
+    },
+    { 
+      name: "Evelyn", 
+      rating: 4.7, 
+      experience: "2 years",
       image: "https://i.pravatar.cc/150?img=58",
-      specialty: "Buzz Cuts"
+      specialty: "Intimate Meetings"
     },
   ];
 
   return (
     <div className="min-h-screen bg-neutral-50 pb-32">
-      <Header showBack title="Book Appointment" />
+      <Header showBack title="Book Service" />
 
       <div className="container mx-auto px-4 py-4 sm:py-6 space-y-4 sm:space-y-6">
 
@@ -200,15 +190,14 @@ const Booking = () => {
                 {variant.name}
               </p>
               <div className="flex items-center gap-3 sm:gap-4 mt-2">
-                <span className="text-pink-600 font-bold text-lg sm:text-xl">
-                  ${variant.price}
-                </span>
-                <span className="text-neutral-500 text-xs sm:text-sm flex items-center gap-1">
-                  <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
-                  </svg>
-                  {variant.duration}
-                </span>
+                <div className="text-sm">
+                  <span className="text-neutral-500">Duration: </span>
+                  <span className="font-semibold text-neutral-900">{variant.duration || 'Custom'}</span>
+                </div>
+                <div className="text-sm">
+                  <span className="text-neutral-500">Price: </span>
+                  <span className="font-semibold text-neutral-900">₹{variant.price || 'Custom'}</span>
+                </div>
               </div>
             </div>
           </div>
@@ -220,10 +209,10 @@ const Booking = () => {
             <div className="flex items-center justify-between mb-3 sm:mb-4">
               <div>
                 <h3 className="text-base sm:text-lg font-bold text-neutral-900">
-                  {variant.name} Gallery
+                  {variant.name} Portfolio
                 </h3>
                 <p className="text-xs sm:text-sm text-neutral-600 mt-1">
-                  Examples of this specific style
+                  Sample images of this service
                 </p>
               </div>
               <div className="flex items-center gap-1 text-xs text-neutral-500 bg-neutral-100 px-2 py-1 rounded-full">
@@ -248,7 +237,7 @@ const Booking = () => {
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-black/0 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
                   <div className="absolute bottom-2 left-2 right-2 text-white text-xs font-semibold opacity-0 group-hover:opacity-100 transition-opacity duration-300 truncate">
-                    Style #{idx + 1}
+                    Image #{idx + 1}
                   </div>
                 </div>
               ))}
@@ -257,7 +246,103 @@ const Booking = () => {
         )}
 
         {/* DATE SELECTION */}
-        
+        <div className="bg-white rounded-2xl sm:rounded-3xl p-4 sm:p-6 shadow-sm">
+          <h3 className="text-base sm:text-lg font-bold text-neutral-900 mb-4">
+            Select Date
+          </h3>
+          
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-3">
+            {dates.map((dateObj, index) => (
+              <button
+                key={index}
+                onClick={() => setSelectedDate(dateObj.full)}
+                className={`p-3 rounded-xl border-2 transition-all ${
+                  selectedDate === dateObj.full
+                    ? "border-pink-600 bg-pink-50 text-pink-700"
+                    : "border-neutral-200 hover:border-pink-300"
+                }`}
+              >
+                <div className="text-xs font-semibold">{dateObj.day}</div>
+                <div className="font-bold">{dateObj.date}</div>
+                <div className="text-xs">{dateObj.month}</div>
+              </button>
+            ))}
+          </div>
+        </div>
+
+        {/* TIME SELECTION */}
+        <div className="bg-white rounded-2xl sm:rounded-3xl p-4 sm:p-6 shadow-sm">
+          <h3 className="text-base sm:text-lg font-bold text-neutral-900 mb-4">
+            Select Time
+          </h3>
+          
+          <div className="grid grid-cols-2 sm:grid-cols-3 gap-2 sm:gap-3">
+            {times.map((time, index) => (
+              <button
+                key={index}
+                onClick={() => setSelectedTime(time)}
+                className={`py-3 px-2 rounded-xl border-2 transition-all ${
+                  selectedTime === time
+                    ? "border-pink-600 bg-pink-50 text-pink-700"
+                    : "border-neutral-200 hover:border-pink-300"
+                }`}
+              >
+                <div className="font-semibold">{time}</div>
+              </button>
+            ))}
+          </div>
+        </div>
+
+        {/* COMPANION SELECTION */}
+        <div className="bg-white rounded-2xl sm:rounded-3xl p-4 sm:p-6 shadow-sm">
+          <h3 className="text-base sm:text-lg font-bold text-neutral-900 mb-4">
+            Select Companion
+          </h3>
+          
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 sm:gap-4">
+            {barbers.map((barber, index) => (
+              <div
+                key={index}
+                onClick={() => setSelectedCompanion(barber)}
+                className={`flex items-center gap-3 p-3 rounded-xl border-2 cursor-pointer transition-all ${
+                  selectedCompanion?.name === barber.name
+                    ? "border-pink-600 bg-pink-50"
+                    : "border-neutral-200 hover:border-pink-300"
+                }`}
+              >
+                <img
+                  src={barber.image || "https://placehold.co/60x60/e2e8f0/64748b?text=" + barber.name.charAt(0)}
+                  alt={barber.name}
+                  className="w-12 h-12 rounded-full object-cover"
+                />
+                
+                <div className="flex-1">
+                  <div className="font-semibold text-neutral-900">{barber.name}</div>
+                  <div className="text-xs text-neutral-600 flex items-center gap-2">
+                    <span>★ {barber.rating}</span>
+                    <span>{barber.experience} exp</span>
+                  </div>
+                  <div className="text-xs text-neutral-500">{barber.specialty}</div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        {/* CONFIRMATION BUTTON */}
+        <div className="pt-4">
+          <button
+            onClick={handleConfirm}
+            disabled={!selectedDate || !selectedTime || !selectedCompanion}
+            className={`w-full py-4 rounded-2xl font-bold text-lg text-white transition ${
+              selectedDate && selectedTime && selectedCompanion
+                ? "bg-pink-600 hover:bg-pink-700"
+                : "bg-pink-300 cursor-not-allowed"
+            }`}
+          >
+            Confirm Service
+          </button>
+        </div>
       </div>
 <div className="flex gap-3 w-full mt-4">
                         {/* CALL BUTTON */}

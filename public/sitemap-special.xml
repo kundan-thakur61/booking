@@ -3,8 +3,35 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <!-- High Priority: Companion Services (Target: #1 Ranking) -->
   <url>
-    <loc>https://bookease.com/bakeca-incontri</loc>
+    <loc>https://www.escortmumbaii.in/companion-escort-services</loc>
+    <lastmod>2026-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://www.escortmumbaii.in/companion-services-hero.jpg</image:loc>
+      <image:title>Companion Services India 2026</image:title>
+      <image:caption>Professional companion services including social, travel, and GFE</image:caption>
+    </image:image>
+  </url>
+  <!-- High Priority: Verified Escort Services -->
+  <url>
+    <loc>https://www.escortmumbaii.in/verified-escort-services</loc>
+    <lastmod>2026-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- High Priority: Massage Escort Services -->
+  <url>
+    <loc>https://www.escortmumbaii.in/massage-escort-services</loc>
+    <lastmod>2026-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- Special Pages -->
+  <url>
+    <loc>https://www.escortmumbaii.in/bakeca-incontri</loc>
     <lastmod>2026-01-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
