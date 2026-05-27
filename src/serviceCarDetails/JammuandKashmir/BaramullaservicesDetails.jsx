@@ -1,1 +1,1 @@
-﻿import { services } from '../../data/JammuandKashmir/Baramullaservices';
+﻿import { services } from '../../data/JammuAndKashmir/Baramullaservices';

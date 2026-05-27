@@ -1,1 +1,1 @@
-﻿import { services } from '../../data/JammuandKashmir/Jammuservices';
+﻿import { services } from '../../data/JammuAndKashmir/Jammuservices';

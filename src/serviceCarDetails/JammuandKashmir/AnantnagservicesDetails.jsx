@@ -1,1 +1,1 @@
-﻿import { services } from '../../data/JammuandKashmir/Anantnagservices';
+﻿import { services } from '../../data/JammuAndKashmir/Anantnagservices';

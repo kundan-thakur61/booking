@@ -1,7 +1,7 @@
 import React, { useState, useMemo } from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
 import { useBooking } from '../../context/BookingContext';
-import { services } from '../../data/JammuandKashmir/Udhampurservices';
+import { services } from '../../data/JammuAndKashmir/Udhampurservices';
 import Header from '../../components/Header';
 import { trackEvent } from '../../utils/analytics';
 

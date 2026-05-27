@@ -1,7 +1,7 @@
 import React, { useMemo } from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
 import { useBooking } from '../../context/BookingContext';
-import { services } from '../../data/Jammu and Kashmir/Anantnagservices';
+import { services } from '../../data/JammuAndKashmir/Anantnagservices';
 import Header from '../../components/Header';
 import LazyImage from '../../components/LazyImage';
 import { trackEvent } from '../../utils/analytics';

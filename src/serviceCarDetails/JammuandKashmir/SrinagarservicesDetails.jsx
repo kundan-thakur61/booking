@@ -1,1 +1,1 @@
-﻿import { services } from '../../data/JammuandKashmir/Srinagarservices';
+﻿import { services } from '../../data/JammuAndKashmir/Srinagarservices';
