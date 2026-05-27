@@ -335,8 +335,7 @@ const NizamabadServiceDetail = () => {
                 <button
                   key={i}
                   onClick={() => setActiveImg(i)}
-                  className={`relative overflow-hidden rounded-xl aspect-square focus:outline-none transition-all duration-200 ${i === activeImg ? 'ring-2 ring-pink-500' : ''}`}
-
+                  className="relative overflow-hidden rounded-xl aspect-square focus:outline-none transition-all duration-200"
                 >
                   <img
                     src={img}
