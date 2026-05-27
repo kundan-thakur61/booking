@@ -3,7 +3,7 @@ import SEO from '../../components/SEO';
 import { Link } from 'react-router-dom';
 import Header from '../../components/Header';
 import LazyImage from '../../components/LazyImage';
-import { services } from '../../data/JammuAndKashmir/Udhampurservices';
+import { services } from '../../data/JammuandKashmir/Udhampurservices';
 
 import {
   buildEnhancedOrganizationSchema,
