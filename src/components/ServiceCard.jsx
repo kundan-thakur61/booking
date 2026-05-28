@@ -23,11 +23,11 @@ const ServiceCard = ({ service }) => {
         {/* Image Container with aspect ratio preservation */}
         <div className="relative overflow-hidden bg-neutral-100">
           {/* Aspect ratio container (16:9) */}
-          <div className="aspect-video" style={{ paddingBottom: 'calc(9 / 16 * 100%)' }}>
+          <div className="aspect-video">
             <LazyImage
               src={service.image}
               alt={`${service.name} service preview`}
-              className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 group-focus:scale-105 transition-transform duration-500"
+              className="w-full h-full object-contain group-hover:scale-[1.02] group-focus:scale-[1.02] transition-transform duration-500"
               loading="lazy"
             />
           </div>

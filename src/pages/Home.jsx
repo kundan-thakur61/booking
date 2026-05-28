@@ -2,6 +2,7 @@ import React from 'react';
 import SEO from '../components/SEO';
 import { Link } from 'react-router-dom';
 import Header from '../components/Header';
+import Footer from '../components/Footer';
 import ServiceCard from '../components/ServiceCard';
 import { services } from '../data/services';
 
@@ -176,34 +177,32 @@ const Home = () => {
 
       {/* Hero Section */}
       <section
-        className="relative bg-cover bg-center bg-no-repeat text-white py-24 min-h-[500px] flex items-center"
-        style={{ backgroundImage: "url('https://i.pinimg.com/736x/fe/3f/78/fe3f78c357b7883bd1193a90fd8b57eb.jpg')" }}
+        className="relative bg-gradient-to-r from-pink-600/90 to-pink-700/90 text-white hero-responsive flex items-center"
       >
-        <div className="absolute inset-0 bg-gradient-to-r from-pink-600/80 to-pink-700/80"></div>
-        <div className="relative container mx-auto px-4 text-center">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
+        <div className="container mx-auto px-4 sm:px-6 text-center relative z-10">
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold mb-3 sm:mb-4">
             Verified Escorts India 2026 — Premium Companion Services Across 500+ Cities
           </h1>
-          <p className="text-xl mb-8 max-w-3xl mx-auto">
+          <p className="text-sm sm:text-base md:text-lg lg:text-xl mb-6 sm:mb-8 max-w-3xl mx-auto">
             Browse 2000+ verified profiles of independent escorts and professional companions.
             Available 24/7 across major Indian cities with discreet meetings, safe transactions, and confidential service. 18+ only.
           </p>
-          <div className="flex flex-wrap gap-4 justify-center">
+          <div className="flex flex-col sm:flex-row flex-wrap gap-3 sm:gap-4 justify-center">
             <Link 
               to="/maharashtra/mumbai"
-              className="bg-white text-pink-600 px-8 py-3 rounded-full font-semibold hover:bg-pink-50 transition-colors"
+              className="w-full sm:w-auto bg-white text-pink-600 px-6 sm:px-8 py-3 rounded-full font-semibold hover:bg-pink-50 transition-colors text-center"
             >
               Mumbai Escorts
             </Link>
             <Link 
               to="/delhi/connaught-place"
-              className="bg-white text-pink-600 px-8 py-3 rounded-full font-semibold hover:bg-pink-50 transition-colors"
+              className="w-full sm:w-auto bg-white text-pink-600 px-6 sm:px-8 py-3 rounded-full font-semibold hover:bg-pink-50 transition-colors text-center"
             >
               Delhi Escorts
             </Link>
             <Link 
               to="karnataka/bangalore"
-              className="bg-white text-pink-600 px-8 py-3 rounded-full font-semibold hover:bg-pink-50 transition-colors"
+              className="w-full sm:w-auto bg-white text-pink-600 px-6 sm:px-8 py-3 rounded-full font-semibold hover:bg-pink-50 transition-colors text-center"
             >
               Bangalore Escorts
             </Link>
@@ -212,26 +211,26 @@ const Home = () => {
       </section>
 
       {/* Top Cities */}
-      <section className="container mx-auto px-4 py-12">
-        <h2 className="text-3xl font-bold text-neutral-900 mb-8 text-center">
+      <section className="container mx-auto px-4 sm:px-6 py-8 sm:py-12">
+        <h2 className="text-2xl sm:text-3xl font-bold text-neutral-900 mb-6 sm:mb-8 text-center">
           Browse by City
         </h2>
-        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3 sm:gap-4">
           {topCities.map((city) => (
             <Link
               key={city.slug}
               to={`/${city.slug}`}
-              className="bg-white rounded-xl p-6 text-center hover:shadow-lg transition-shadow border border-neutral-200"
+              className="bg-white rounded-xl p-4 sm:p-6 text-center hover:shadow-lg transition-shadow border border-neutral-200"
             >
-              <h3 className="font-bold text-neutral-900 text-lg mb-2">{city.name}</h3>
-              <span className="text-pink-600 font-semibold">{city.count} Profiles</span>
+              <h3 className="font-bold text-neutral-900 text-base sm:text-lg mb-1 sm:mb-2">{city.name}</h3>
+              <span className="text-pink-600 font-semibold text-sm sm:text-base">{city.count} Profiles</span>
             </Link>
           ))}
         </div>
-        <div className="text-center mt-8">
+        <div className="text-center mt-6 sm:mt-8">
           <Link
             to="/find-all-city"
-            className="inline-flex items-center gap-2 bg-pink-600 text-white px-8 py-3 rounded-full font-semibold hover:bg-pink-700 transition-colors shadow-md"
+            className="inline-flex items-center gap-2 bg-pink-600 text-white px-6 sm:px-8 py-3 rounded-full font-semibold hover:bg-pink-700 transition-colors shadow-md text-sm sm:text-base"
           >
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
@@ -255,38 +254,38 @@ const Home = () => {
         </div> */}
       </section>
 
-       <section className="container mx-auto px-4 py-12">
-        <h2 className="text-3xl font-bold text-neutral-900 mb-8 text-center">
+       <section className="container mx-auto px-4 sm:px-6 py-8 sm:py-12">
+        <h2 className="text-2xl sm:text-3xl font-bold text-neutral-900 mb-6 sm:mb-8 text-center">
           Quick Links
         </h2>
-        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3 sm:gap-4">
           {topLinks.map((city) => (
             <Link
               key={city.slug}
               to={`/${city.slug}`}
-              className="bg-white rounded-xl p-6 text-center hover:shadow-lg transition-shadow border border-neutral-200"
+              className="bg-white rounded-xl p-4 sm:p-6 text-center hover:shadow-lg transition-shadow border border-neutral-200"
             >
-              <h3 className="font-bold text-neutral-900 text-lg mb-2">{city.name}</h3>
-              <span className="text-pink-600 font-semibold">{city.count} Profiles</span>
+              <h3 className="font-bold text-neutral-900 text-sm sm:text-base md:text-lg mb-1 sm:mb-2 break-words">{city.name}</h3>
+              <span className="text-pink-600 font-semibold text-xs sm:text-sm">{city.count} Profiles</span>
             </Link>
           ))}
         </div>
       </section>
 
       {/* FAQ Section for AEO Optimization */}
-      <section className="container mx-auto px-4 py-12 bg-white rounded-2xl shadow-sm">
-        <h2 className="text-3xl font-bold text-neutral-900 mb-8 text-center">
+      <section className="container mx-auto px-4 sm:px-6 py-8 sm:py-12 bg-white rounded-xl sm:rounded-2xl shadow-sm">
+        <h2 className="text-2xl sm:text-3xl font-bold text-neutral-900 mb-6 sm:mb-8 text-center">
           Frequently Asked Questions
         </h2>
         
-        <div className="max-w-4xl mx-auto space-y-6">
+        <div className="max-w-4xl mx-auto space-y-4 sm:space-y-6">
           {/* Voice-optimized FAQ for featured snippets */}
-          <div className="border border-neutral-200 rounded-lg p-6 hover:shadow-md transition-shadow">
-            <h3 className="text-xl font-semibold text-neutral-900 mb-3 flex items-start gap-3">
-              <span className="text-pink-600 font-bold text-lg">Q1.</span>
+          <div className="border border-neutral-200 rounded-lg p-4 sm:p-6 hover:shadow-md transition-shadow">
+            <h3 className="text-base sm:text-lg md:text-xl font-semibold text-neutral-900 mb-2 sm:mb-3 flex items-start gap-2 sm:gap-3">
+              <span className="text-pink-600 font-bold text-sm sm:text-lg">Q1.</span>
               How can I find verified escorts in Mumbai?
             </h3>
-            <div className="ml-8">
+            <div className="ml-6 sm:ml-8">
               <p className="text-neutral-700 leading-relaxed">
                 You can find verified escorts in Mumbai through reputable platforms like BookEase that offer ID-verified profiles with authentic photos. Look for companions in popular areas like Andheri, Bandra, and Juhu who are available 24/7 with discreet, safe service. Always verify authenticity before booking.
               </p>
@@ -344,8 +343,8 @@ const Home = () => {
       </section>
 
       {/* SEO Content */}
-      <section className="container mx-auto px-4 py-12">
-        <div className="bg-white rounded-2xl p-8 max-w-4xl mx-auto">
+      <section className="container mx-auto px-4 sm:px-6 py-8 sm:py-12">
+        <div className="bg-white rounded-xl sm:rounded-2xl p-4 sm:p-6 md:p-8 max-w-4xl mx-auto">
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             About BookEase - India's Premier Adult Services Directory
           </h2>
@@ -397,6 +396,8 @@ const Home = () => {
           </div>
         </div>
       </section>
+
+      <Footer />
     </div>
   );
 };

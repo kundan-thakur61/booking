@@ -95,17 +95,17 @@ User-agent: Baiduspider
 Disallow: /
 
 # Sitemap declarations - Point to our optimized sitemap index
-Sitemap: https://bookease.com/sitemap-index.xml
+Sitemap: https://www.escortmumbaii.in/sitemap-index.xml
 
 # Additional sitemaps for specialized content
-Sitemap: https://bookease.com/sitemap-pages.xml
-Sitemap: https://bookease.com/sitemap-cities.xml
-Sitemap: https://bookease.com/sitemap-services.xml
-Sitemap: https://bookease.com/sitemap-special.xml
-Sitemap: https://bookease.com/sitemap-images.xml
+Sitemap: https://www.escortmumbaii.in/sitemap-pages.xml
+Sitemap: https://www.escortmumbaii.in/sitemap-cities.xml
+Sitemap: https://www.escortmumbaii.in/sitemap-services.xml
+Sitemap: https://www.escortmumbaii.in/sitemap-special.xml
+Sitemap: https://www.escortmumbaii.in/sitemap-images.xml
 
 # Host directive for international targeting
-Host: bookease.com
+Host: www.escortmumbaii.in
 
 # Clean parameter handling for better crawling
 Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content

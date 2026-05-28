@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import SEO from '../components/SEO';
 import { Link } from 'react-router-dom';
 import Header from '../components/Header';
+import Footer from '../components/Footer';
 import { trackEvent } from '../utils/analytics';
 
 
@@ -136,26 +137,26 @@ const ContactUs = () => {
       <Header />
 
       {/* Hero Section */}
-      <section className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-16">
-        <div className="container mx-auto px-4 text-center">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
+      <section className="bg-gradient-to-r from-pink-600 to-pink-700 text-white hero-responsive">
+        <div className="container mx-auto px-4 sm:px-6 text-center">
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold mb-3 sm:mb-4">
             Contact Us
           </h1>
-          <p className="text-xl mb-8 max-w-3xl mx-auto">
+          <p className="text-sm sm:text-base md:text-lg lg:text-xl mb-6 sm:mb-8 max-w-3xl mx-auto">
             Get in touch with our support team. We're here to help you with any questions about our verified escort services.
           </p>
-          <div className="flex flex-wrap gap-4 justify-center">
+          <div className="flex flex-col sm:flex-row flex-wrap gap-3 sm:gap-4 justify-center">
             <a
               href="https://wa.me/919876543210"
               target="_blank"
               rel="noopener noreferrer"
-              className="bg-green-500 text-white px-8 py-3 rounded-full font-semibold hover:bg-green-600 transition-colors"
+              className="w-full sm:w-auto bg-green-500 text-white px-6 sm:px-8 py-3 rounded-full font-semibold hover:bg-green-600 transition-colors text-center"
             >
               WhatsApp Support
             </a>
             <a
               href="tel:+919876543210"
-              className="bg-white text-pink-600 px-8 py-3 rounded-full font-semibold hover:bg-pink-50 transition-colors"
+              className="w-full sm:w-auto bg-white text-pink-600 px-6 sm:px-8 py-3 rounded-full font-semibold hover:bg-pink-50 transition-colors text-center"
             >
               Call Now
             </a>
@@ -163,11 +164,11 @@ const ContactUs = () => {
         </div>
       </section>
 
-      <div className="container mx-auto px-4 py-12">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 max-w-6xl mx-auto">
+      <div className="container mx-auto px-4 sm:px-6 py-8 sm:py-12">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 sm:gap-12 max-w-6xl mx-auto">
 
           {/* Contact Form */}
-          <div className="bg-white rounded-2xl p-8 shadow-lg">
+          <div className="bg-white rounded-xl sm:rounded-2xl p-4 sm:p-6 md:p-8 shadow-lg">
             <h2 className="text-3xl font-bold text-neutral-900 mb-6">
               Send us a Message
             </h2>
@@ -356,6 +357,8 @@ const ContactUs = () => {
           </div>
         </div>
       </div>
+
+      <Footer />
     </div>
   );
 };

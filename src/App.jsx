@@ -42,6 +42,7 @@ const BakecaIncontri          = lazy(() => import('./pages/BakecaIncontri'));
 const Blog                    = lazy(() => import('./pages/Blog'));
 const ContactUs               = lazy(() => import('./pages/ContactUs'));
 const HelpCenter              = lazy(() => import('./pages/HelpCenter'));
+const MasterSEORanking        = lazy(() => import('./pages/MasterSEORanking'));
 const Support                 = lazy(() => import('./pages/Support'));
 const HowToReportScam         = lazy(() => import('./pages/HowToReportScam'));
 const Network                 = lazy(() => import('./pages/Network'));
@@ -111,6 +112,7 @@ export default function App() {
             <Route path="/blog"               element={<Blog />} />
             <Route path="/contact-us"         element={<ContactUs />} />
             <Route path="/help-center"        element={<HelpCenter />} />
+            <Route path="/master-seo-ranking" element={<MasterSEORanking />} />
             <Route path="/support"            element={<Support />} />
             <Route path="/how-to-report-scam" element={<HowToReportScam />} />
             <Route path="/network"            element={<Network />} />
@@ -125,13 +127,13 @@ export default function App() {
             <Route path="/sitemap"            element={<SitemapPage />} />
 
             {/* ── Auto-generated state/city routes (from stateRoutes.jsx) ── */}
-            {stateRoutes.map(({ path, Component }) => (
-              <Route key={path} path={path} element={<Component />} />
+            {stateRoutes.map((route) => (
+              <Route key={route.path} path={route.path} element={React.createElement(route.Component)} />
             ))}
 
             {/* ── Auto-generated service-detail routes ──────────────────── */}
-            {serviceDetailRoutes.map(({ path, Component }) => (
-              <Route key={path} path={path} element={<Component />} />
+            {serviceDetailRoutes.map((route) => (
+              <Route key={route.path} path={route.path} element={React.createElement(route.Component)} />
             ))}
 
             {/* ── 404 catch-all ─────────────────────────────────────────── */}

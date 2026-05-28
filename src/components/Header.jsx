@@ -17,7 +17,6 @@ const Header = ({ title, showBack = false }) => {
   const { searchQuery, updateSearchQuery } = useSearch();
   const [query, setQuery] = useState('');
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-  const [searchFocused, setSearchFocused] = useState(false);
   const menuRef = useRef(null);
   const menuButtonRef = useRef(null);
 
@@ -99,6 +98,7 @@ const Header = ({ title, showBack = false }) => {
     { label: 'Services', path: '/verified-escort-services' },
     { label: 'Security', path: '/security' },
     { label: 'Help Center', path: '/help-center' },
+    { label: 'SEO Tool', path: '/master-seo-ranking' },
     { label: 'Contact Us', path: '/contact-us' },
   ];
 
@@ -141,8 +141,6 @@ const Header = ({ title, showBack = false }) => {
                   type="search"
                   value={query}
                   onChange={handleInputChange}
-                  onFocus={() => setSearchFocused(true)}
-                  onBlur={() => setSearchFocused(false)}
                   placeholder="Search..."
                   aria-label="Search services"
                   className="w-full bg-neutral-100 rounded-full py-2.5 px-4 pl-10 text-sm placeholder:text-neutral-500 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:bg-white transition-all duration-200"
@@ -213,8 +211,6 @@ const Header = ({ title, showBack = false }) => {
                 type="search"
                 value={query}
                 onChange={handleInputChange}
-                onFocus={() => setSearchFocused(true)}
-                onBlur={() => setSearchFocused(false)}
                 placeholder="Search services..."
                 aria-label="Search services"
                 className="w-full bg-neutral-100 rounded-full py-2.5 px-4 pl-10 text-sm placeholder:text-neutral-500 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:bg-white transition-all duration-200"

@@ -110,12 +110,12 @@ const SilcharServiceDetail = () => {
             {/* ── Left: Image Gallery ── */}
             <div className="md:w-1/2 flex flex-col">
               {/* Main image */}
-              <div className="relative overflow-hidden bg-neutral-900" style={{ minHeight: 320 }}>
+              <div className="relative overflow-hidden bg-neutral-900 flex items-center justify-center" style={{ minHeight: 280 }}>
                 <img
                   key={activeImg}
                   src={allImages[activeImg]}
                   alt={`${service.name} — view`}
-                  className="w-full h-80 md:h-96 object-cover transition-all duration-300"
+                  className="w-full h-auto max-h-[320px] sm:max-h-[400px] md:max-h-[480px] object-contain transition-all duration-300"
                   style={{ display: 'block' }}
                 />
 
@@ -171,7 +171,7 @@ const SilcharServiceDetail = () => {
                       <img
                         src={img}
                         alt={`Thumbnail ${i + 1}`}
-                        className="w-full h-full object-cover"
+                        className="w-full h-full object-contain"
                       />
                     </button>
                   ))}
@@ -340,7 +340,7 @@ const SilcharServiceDetail = () => {
                   <img
                     src={img}
                     alt={`${service.name} photo`}
-                    className="w-full h-full object-cover"
+                    className="w-full h-full object-contain"
                   />
                   {i === 0 && (
                     <span className="absolute top-2 left-2 bg-pink-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full">
@@ -373,7 +373,7 @@ const SilcharServiceDetail = () => {
                     <img
                       src={s.image}
                       alt={s.name}
-                      className="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-500"
+                      className="w-full h-48 object-contain group-hover:scale-105 transition-transform duration-500"
                     />
                     <div className="absolute bottom-3 right-3">
                       <span className="bg-pink-600 text-white px-3 py-1.5 rounded-full text-xs font-bold shadow-lg">
@@ -401,7 +401,7 @@ const SilcharServiceDetail = () => {
       </div>
 
       {/* ── Sticky Bottom Bar (mobile) ── */}
-      <div className="fixed bottom-0 left-0 right-0 bg-white border-t border-neutral-200 p-3 z-50 md:hidden">
+      <div className="sticky-bottom-bar md:hidden">
         <div className="flex gap-2">
           <button
             onClick={handleBookNow}

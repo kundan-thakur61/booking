@@ -1,25 +1,25 @@
-import React, { useState, useRef, useEffect, useCallback } from 'react';
+import React, { useState, useCallback } from 'react';
 
 /**
- * Performance-Optimized Lazy Loading Image Component
+ * Performance-Optimized Image Component (SEO & Core Web Vitals focused)
  * Features:
- * - Native lazy loading with Intersection Observer fallback
- * - CLS (Cumulative Layout Shift) prevention with aspect ratio
- * - Responsive image sizing with srcset
- * - WebP with JPEG fallback
- * - Blur-up placeholder effect
- * - Accessibility: proper alt text and semantic HTML
+ * - Native lazy loading (loading="lazy") - Better for Googlebot than IntersectionObserver
+ * - LCP Optimization: fetchpriority="high" for priority images
+ * - CLS (Cumulative Layout Shift) prevention via intrinsic aspect ratio container
+ * - Responsive image sizing with srcSet
+ * - Blur-up / Fade-in placeholder effect
+ * - Accessibility: Proper alt text without duplicate sr-only text
  * - Error handling with fallback placeholder
  * 
  * @param {string} src - Image source URL
- * @param {string} alt - Alt text (required for accessibility)
+ * @param {string} alt - Alt text (required for accessibility and SEO)
  * @param {number} width - Image width (helps with CLS prevention)
  * @param {number} height - Image height (helps with CLS prevention)
  * @param {string} className - Additional CSS classes
  * @param {string} placeholder - Fallback placeholder image
  * @param {string} loading - 'lazy' or 'eager' (native loading attribute)
  * @param {string} sizes - Responsive sizes hint
- * @param {boolean} priority - Load immediately if true
+ * @param {boolean} priority - Load immediately if true (LCP images)
  */
 const LazyImage = ({
   src,
@@ -32,59 +32,13 @@ const LazyImage = ({
   decoding = 'async',
   sizes = '(max-width: 480px) 100vw, (max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw',
   priority = false,
-  objectFit = 'cover',
+  objectFit = 'contain',
   objectPosition = 'center',
+  srcSet,
   ...props
 }) => {
-  const [isLoading, setIsLoading] = useState(priority ? false : true);
+  const [isLoading, setIsLoading] = useState(true);
   const [hasError, setHasError] = useState(false);
-  const [isImageLoaded, setIsImageLoaded] = useState(priority);
-  const imgRef = useRef(null);
-  const observerRef = useRef(null);
-
-  // Intersection Observer for better lazy loading (native loading attribute not supported in all browsers)
-  useEffect(() => {
-    if (!src || priority) {
-      return;
-    }
-
-    if (!imgRef.current) return;
-
-    // Check if native lazy loading is supported
-    const nativeLazyLoadSupported = 'loading' in HTMLImageElement.prototype;
-
-    if (!nativeLazyLoadSupported) {
-      observerRef.current = new IntersectionObserver(
-        (entries) => {
-          entries.forEach((entry) => {
-            if (entry.isIntersecting && imgRef.current) {
-              imgRef.current.src = src;
-              if (imgRef.current.srcset) {
-                imgRef.current.srcset = props.srcset || '';
-              }
-              setIsImageLoaded(true);
-              observerRef.current?.unobserve(entry.target);
-            }
-          });
-        },
-        {
-          rootMargin: '50px 0px',
-          threshold: 0.01,
-        }
-      );
-
-      observerRef.current.observe(imgRef.current);
-
-      return () => {
-        if (observerRef.current) {
-          observerRef.current.disconnect();
-        }
-      };
-    } else {
-      // If native lazy loading is supported, image will lazy load automatically
-      setIsImageLoaded(true);
-    }
-  }, [src, priority, props]);
 
   // Handle image successful load
   const handleLoad = useCallback(() => {
@@ -106,7 +60,7 @@ const LazyImage = ({
       className={`relative overflow-hidden bg-neutral-100 ${className}`}
       style={aspectRatio ? { paddingBottom: `${aspectRatio}%` } : undefined}
     >
-      {/* Placeholder/Loading State - Blur effect */}
+      {/* Placeholder/Loading State - Blur/Pulse effect */}
       {isLoading && !hasError && (
         <div
           className="absolute inset-0 bg-gradient-to-br from-neutral-200 to-neutral-300 animate-pulse"
@@ -140,22 +94,23 @@ const LazyImage = ({
         </div>
       )}
 
-      {/* Actual Image */}
-      {isImageLoaded && (
+      {/* Actual Image - Native Lazy Loading */}
+      {src && (
         <img
-          ref={imgRef}
-          src={hasError ? placeholder : (priority ? src : undefined)}
-          data-src={priority ? undefined : src}
+          src={hasError ? placeholder : src}
+          srcSet={hasError ? undefined : srcSet}
           alt={alt}
           loading={priority ? 'eager' : loading}
           decoding={decoding}
+          fetchpriority={priority ? 'high' : 'auto'}
           sizes={sizes}
-          {...(width && height && { width, height })}
+          width={width}
+          height={height}
           className={`${
             aspectRatio ? 'absolute inset-0 w-full h-full' : 'w-full h-auto'
           } transition-opacity duration-300 ${
             isLoading ? 'opacity-0' : 'opacity-100'
-          } ${hasError ? 'blur-sm' : ''}`}
+          } ${hasError ? 'blur-sm grayscale' : ''}`}
           style={{
             objectFit,
             objectPosition,
@@ -165,11 +120,6 @@ const LazyImage = ({
           {...props}
         />
       )}
-
-      {/* SEO Enhancement - Accessible description */}
-      <div className="sr-only">
-        {alt}
-      </div>
     </div>
   );
 };

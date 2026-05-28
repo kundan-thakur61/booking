@@ -17,8 +17,31 @@ const serviceDetailModules = import.meta.glob([
   '!./serviceCarDetails/Goa/Saket.jsx',
 ]);
 
+/**
+ * Robust slugify that handles:
+ * - Spaces: "Andaman and Nicobar" → "andaman-and-nicobar"
+ * - CamelCase: "ConnaughtPlace" → "connaught-place"
+ * - Compound words: "JammuandKashmir" → "jammu-and-kashmir"
+ * - Pradesh states: "AndhraPradesh" → "andhra-pradesh"
+ */
+const SLUG_OVERRIDES = {
+  'JammuandKashmir': 'jammu-and-kashmir',
+  'AndhraPradesh': 'andhra-pradesh',
+  'ArunachalPradesh': 'arunachal-pradesh',
+  'HimachalPradesh': 'himachal-pradesh',
+  'MadhyaPradesh': 'madhya-pradesh',
+  'UttarPradesh': 'uttar-pradesh',
+  'Andaman and Nicobar': 'andaman-and-nicobar',
+  'WestBengal': 'west-bengal',
+  'TamilNadu': 'tamil-nadu',
+};
+
 function slugify(name) {
+  // Check explicit overrides first
+  if (SLUG_OVERRIDES[name]) return SLUG_OVERRIDES[name];
+
   return name
+    // Insert space before uppercase letters (camelCase split)
     .replace(/([a-z])([A-Z])/g, '$1 $2')
     .toLowerCase()
     .replace(/\s+/g, '-');
@@ -43,7 +66,7 @@ export const stateRoutes = Object.entries(stateModules)
   .filter(Boolean);
 
 // Convert serviceCarDetails file paths to service-detail route definitions
-// e.g. './serviceCarDetails/Delhi/ConnaughtPlaceservicesDetails.jsx'
+// e.g. './serviceCarDetails/Delhi/ConnaughtPlace.jsx'
 //   -> { path: '/delhi/connaught-place/service/:id', Component }
 export const serviceDetailRoutes = Object.entries(serviceDetailModules)
   .map(([filePath, importFn]) => {

@@ -2,51 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://bookease.com/mumbai</loc>
-    
+    <loc>https://www.escortmumbaii.in/</loc>
     <image:image>
-      <image:loc>https://bookease.com/images/profile-sample.jpg</image:loc>
-      <image:caption>Professional companion service provider</image:caption>
-      <image:title>Verified Escort Profile</image:title>
-      <image:license>https://bookease.com/terms-and-conditions</image:license>
+      <image:loc>https://www.escortmumbaii.in/logo.png</image:loc>
+      <image:caption>BookEase - Premium Verified Escort Services in India</image:caption>
+      <image:title>BookEase Logo</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://bookease.com/images/service-massage.jpg</image:loc>
-      <image:caption>Relaxing massage therapy service</image:caption>
-      <image:title>Massage Therapy Services</image:title>
-      
+      <image:loc>https://www.escortmumbaii.in/og-image.jpg</image:loc>
+      <image:caption>Verified escorts across 500+ cities in India with 24/7 service</image:caption>
+      <image:title>BookEase Premium Services</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://bookease.com/delhi</loc>
-    
+    <loc>https://www.escortmumbaii.in/mumbai</loc>
     <image:image>
-      <image:loc>https://bookease.com/images/profile-sample.jpg</image:loc>
-      <image:caption>Professional companion service provider</image:caption>
-      <image:title>Verified Escort Profile</image:title>
-      <image:license>https://bookease.com/terms-and-conditions</image:license>
-    </image:image>
-    <image:image>
-      <image:loc>https://bookease.com/images/service-massage.jpg</image:loc>
-      <image:caption>Relaxing massage therapy service</image:caption>
-      <image:title>Massage Therapy Services</image:title>
-      
+      <image:loc>https://www.escortmumbaii.in/mumbai-og.jpg</image:loc>
+      <image:caption>500+ verified Mumbai escorts in Andheri, Bandra, Juhu - Available 24/7</image:caption>
+      <image:title>Mumbai Verified Escort Services</image:title>
+      <image:license>https://www.escortmumbaii.in/terms-and-conditions</image:license>
     </image:image>
   </url>
   <url>
-    <loc>https://bookease.com/bangalore</loc>
-    
+    <loc>https://www.escortmumbaii.in/delhi</loc>
     <image:image>
-      <image:loc>https://bookease.com/images/profile-sample.jpg</image:loc>
-      <image:caption>Professional companion service provider</image:caption>
-      <image:title>Verified Escort Profile</image:title>
-      <image:license>https://bookease.com/terms-and-conditions</image:license>
+      <image:loc>https://www.escortmumbaii.in/delhi-og.jpg</image:loc>
+      <image:caption>450+ verified Delhi escorts in Connaught Place, Karol Bagh - Available tonight</image:caption>
+      <image:title>Delhi Verified Escort Services</image:title>
+      <image:license>https://www.escortmumbaii.in/terms-and-conditions</image:license>
     </image:image>
+  </url>
+  <url>
+    <loc>https://www.escortmumbaii.in/bangalore</loc>
     <image:image>
-      <image:loc>https://bookease.com/images/service-massage.jpg</image:loc>
-      <image:caption>Relaxing massage therapy service</image:caption>
-      <image:title>Massage Therapy Services</image:title>
-      
+      <image:loc>https://www.escortmumbaii.in/bangalore-og.jpg</image:loc>
+      <image:caption>400+ verified Bangalore escorts in Koramangala, Whitefield - Professional service</image:caption>
+      <image:title>Bangalore Verified Escort Services</image:title>
+      <image:license>https://www.escortmumbaii.in/terms-and-conditions</image:license>
     </image:image>
   </url>
 </urlset>
