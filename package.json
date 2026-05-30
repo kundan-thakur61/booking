@@ -12,7 +12,8 @@
     "preview": "vite preview",
     "start": "vite preview",
     "seo:audit": "node scripts/seo-audit.js",
-    "seo:audit:url": "node scripts/seo-audit.js"
+    "seo:audit:url": "node scripts/seo-audit.js",
+    "sitemaps": "node scripts/generate-sitemaps.cjs"
   },
   "dependencies": {
     "lucide-react": "^0.562.0",

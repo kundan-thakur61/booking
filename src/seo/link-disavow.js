@@ -4,7 +4,7 @@
 export class LinkDisavowManager {
   constructor(config = {}) {
     this.config = {
-      domain: 'bookease.com',
+      domain: 'www.escortmumbaii.in',
       thresholdScores: {
         spamScore: 70,
         toxicityScore: 60,

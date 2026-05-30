@@ -287,7 +287,7 @@ import {
 
 import { LocalBusinessSchemaGenerator } from '../../seo/local-business-schema';
 
-const phone = "07633807420";
+const phone = "9324881345";
 
 const ${componentName} = () => {
   const cityServices = services.slice(0, 6);

@@ -7,7 +7,7 @@ const BakecaIncontri = () => {
       <SEO
         title="Bakeca Incontri — Social Experiences & Meetups | BookEase"
         description="Bakeca Incontri for social experiences, events, and meetups. Discover and book social activities safely."
-        canonical="https://bookease.com/bakeca-incontri"
+        canonical="https://www.escortmumbaii.in/bakeca-incontri"
         meta={[{ name: 'keywords', content: 'bakeca incontri, social events, meetups, social booking' }]}
       />
       

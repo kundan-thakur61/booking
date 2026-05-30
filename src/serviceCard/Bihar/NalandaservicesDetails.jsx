@@ -6,7 +6,7 @@ import Header from '../../components/Header';
 import LazyImage from '../../components/LazyImage';
 import { trackEvent } from '../../utils/analytics';
 
-const phone = "07633807420";
+const phone = "9324881345";
 
 const NalandaServiceDetail = () => {
   const { id } = useParams();
@@ -127,12 +127,6 @@ const NalandaServiceDetail = () => {
 
               {/* CTA Buttons */}
               <div className="space-y-3">
-                <button
-                  onClick={handleBookNow}
-                  className="w-full bg-pink-600 text-white py-3.5 rounded-xl font-semibold hover:bg-pink-700 transition-colors text-center"
-                >
-                  Book Now
-                </button>
                 <div className="flex gap-3">
                   <a
                     href={`tel:+91${phone}`}
@@ -207,12 +201,6 @@ const NalandaServiceDetail = () => {
       {/* Sticky Contact Bar (mobile) */}
       <div className="fixed bottom-0 left-0 right-0 bg-white border-t border-neutral-200 p-4 safe-bottom z-50 md:hidden">
         <div className="flex gap-3">
-          <button
-            onClick={handleBookNow}
-            className="flex-1 bg-pink-600 text-white py-3 rounded-xl font-semibold text-center hover:bg-pink-700 transition-colors"
-          >
-            Book Now
-          </button>
           <a
             href={`https://wa.me/91${phone}`}
             target="_blank"

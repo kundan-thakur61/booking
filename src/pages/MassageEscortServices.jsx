@@ -5,7 +5,7 @@ import Header from '../components/Header';
 import ServiceCard from '../components/ServiceCard';
 import { services } from '../data/services';
 
-const phone = "07633807420";
+const phone = "9324881345";
 
 const MassageEscortServices = () => {
   const massageServices = services.filter(service => 

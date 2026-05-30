@@ -85,8 +85,8 @@
         "Disallow: /admin/",
         "Disallow: /api/private/",
         "",
-        "Sitemap: https://bookease.com/sitemap-index.xml",
-        "Host: bookease.com"
+        "Sitemap: https://www.escortmumbaii.in/sitemap-index.xml",
+        "Host: www.escortmumbaii.in"
       ]
     }
   },
@@ -100,11 +100,11 @@
       "Add canonical tags for filtered/sorted views"
     ],
     "canonicalRules": {
-      "homepage": "https://bookease.com/",
-      "cityPages": "https://bookease.com/{city}",
-      "servicePages": "https://bookease.com/service/{id}",
-      "blogPosts": "https://bookease.com/blog/{slug}",
-      "paginatedContent": "https://bookease.com/{page}?page={number}"
+      "homepage": "https://www.escortmumbaii.in/",
+      "cityPages": "https://www.escortmumbaii.in/{city}",
+      "servicePages": "https://www.escortmumbaii.in/service/{id}",
+      "blogPosts": "https://www.escortmumbaii.in/blog/{slug}",
+      "paginatedContent": "https://www.escortmumbaii.in/{page}?page={number}"
     }
   },
   "openGraphOptimization": {

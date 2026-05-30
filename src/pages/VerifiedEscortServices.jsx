@@ -12,7 +12,7 @@
 // // Enhanced local SEO components
 // import aiContentEnhancement from '../seo/ai-content-enhancement.json';
 
-// const phone = "07633807420";
+// const phone = "9324881345";
 
 // const VerifiedEscortServices = () => {
 //   // Filter premium services for pillar page

@@ -11,8 +11,8 @@ export const LOCAL_SEO_CONFIG = {
       "Discreet Companion Booking"
     ],
     phone: {
-      primary: "+91-9999999999",
-      whatsapp: "+91-9999999999",
+      primary: "+91-9324881345",
+      whatsapp: "+91-9324881345",
       tollFree: ""
     },
     address: {

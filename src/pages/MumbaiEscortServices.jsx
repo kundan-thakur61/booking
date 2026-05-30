@@ -6,7 +6,7 @@ import ServiceCard from '../components/ServiceCard';
 import LazyImage from '../components/LazyImage';
 import { services } from '../data/services';
 
-const phone = "07633807420";
+const phone = "9324881345";
 
 const MumbaiEscortServices = () => {
   const premiumServices = services.slice(0, 4);

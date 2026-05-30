@@ -1,15 +1,19 @@
 import React from 'react';
-import { Helmet } from 'react-helmet-async';
+import EnhancedSEO from '../components/EnhancedSEO';
 
 const HowToReportScam = () => {
   return (
     <div className="min-h-screen bg-gray-50 py-8">
-      <Helmet>
-        <title>How to Report a Scam - Booking App</title>
-        <meta name="description" content="Learn how to identify and report fraudulent activity or scams on our booking platform to help keep our community safe." />
-        <meta name="keywords" content="report scam, fraud prevention, safety, suspicious activity, booking scams" />
-        <link rel="canonical" href="https://www.booking-app.com/how-to-report-scam" />
-      </Helmet>
+      <EnhancedSEO
+        title="How to Report a Scam — Safety & Fraud Prevention | BookEase"
+        description="Learn how to identify and report fraudulent activity on BookEase. Protect yourself and our community by reporting scams, suspicious profiles, and unsafe behavior."
+        canonical="https://www.escortmumbaii.in/how-to-report-scam"
+        breadcrumbs={[
+          { name: 'Home', url: 'https://www.escortmumbaii.in/' },
+          { name: 'Security', url: 'https://www.escortmumbaii.in/security' },
+          { name: 'Report Scam', url: 'https://www.escortmumbaii.in/how-to-report-scam' }
+        ]}
+      />
       
       <div className="max-w-4xl mx-auto px-4">
         <div className="bg-white rounded-lg shadow-md p-6 mb-8">

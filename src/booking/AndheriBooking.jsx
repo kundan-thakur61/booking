@@ -6,7 +6,7 @@ import Header from "../components/Header";
 import Button from "../components/Button";
 import { trackEvent } from '../utils/analytics';
 
-const phone = "9999999999";
+const phone = "9324881345";
 
 /**
  * Booking Page - Complete booking flow with variant-specific galleries

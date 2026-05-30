@@ -277,7 +277,7 @@ const ContactUs = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-neutral-900 mb-1">Email Support</h3>
-                    <p className="text-neutral-600">support@bookease.com</p>
+                    <p className="text-neutral-600">support@www.escortmumbaii.in</p>
                     <p className="text-sm text-neutral-500">We respond within 24 hours</p>
                   </div>
                 </div>

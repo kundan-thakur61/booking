@@ -41,7 +41,7 @@ const SearchResults = () => {
       <SEO
         title={`Search results for "${query}" — BookEase`}
         description={`Search results for "${query}" across our services. Find and book verified companions and services.`}
-        canonical={`https://bookease.com/search?q=${encodeURIComponent(query)}`}
+        canonical={`https://www.escortmumbaii.in/search?q=${encodeURIComponent(query)}`}
         meta={[{ name: 'keywords', content: `search results, ${query}` }]}
       />
       

@@ -1,15 +1,19 @@
 import React from 'react';
-import { Helmet } from 'react-helmet-async';
+import EnhancedSEO from '../components/EnhancedSEO';
 
 const TermsAndConditions = () => {
   return (
     <div className="min-h-screen bg-gray-50 py-8">
-      <Helmet>
-        <title>Terms and Conditions - Booking App</title>
-        <meta name="description" content="Complete terms and conditions for using our booking platform. Read our terms of service, user responsibilities, and platform usage guidelines." />
-        <meta name="keywords" content="terms and conditions, terms of service, booking terms, user agreement, platform terms" />
-        <link rel="canonical" href="https://www.booking-app.com/terms-and-conditions" />
-      </Helmet>
+      <EnhancedSEO
+        title="Terms and Conditions — BookEase Companion Services India"
+        description="Complete terms and conditions for using BookEase platform. Read our terms of service, user responsibilities, age requirements, and platform usage guidelines."
+        canonical="https://www.escortmumbaii.in/terms-and-conditions"
+        breadcrumbs={[
+          { name: 'Home', url: 'https://www.escortmumbaii.in/' },
+          { name: 'Legal', url: 'https://www.escortmumbaii.in/legal' },
+          { name: 'Terms and Conditions', url: 'https://www.escortmumbaii.in/terms-and-conditions' }
+        ]}
+      />
       
       <div className="max-w-4xl mx-auto px-4">
         <div className="bg-white rounded-lg shadow-md p-6 mb-8">

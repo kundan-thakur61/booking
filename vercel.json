@@ -11,6 +11,20 @@
   ],
   "routes": [
     {
+      "src": "/sitemap(.*)\\.xml$",
+      "headers": {
+        "content-type": "application/xml; charset=utf-8",
+        "cache-control": "public, max-age=3600, s-maxage=86400"
+      }
+    },
+    {
+      "src": "/robots\\.txt$",
+      "headers": {
+        "content-type": "text/plain; charset=utf-8",
+        "cache-control": "public, max-age=3600, s-maxage=86400"
+      }
+    },
+    {
       "src": "/assets/(.*)",
       "headers": {
         "cache-control": "public, immutable, max-age=31536000"
@@ -18,7 +32,11 @@
     },
     {
       "src": "/(.*)",
-      "dest": "/index.html"
+      "dest": "/index.html",
+      "headers": {
+        "x-robots-tag": "index, follow",
+        "cache-control": "public, max-age=0, s-maxage=3600, stale-while-revalidate=86400"
+      }
     }
   ],
   "buildCommand": "vite build",

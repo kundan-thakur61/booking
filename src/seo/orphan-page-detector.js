@@ -50,7 +50,7 @@ export class OrphanPageDetector {
   // Extract internal links from page content
   extractInternalLinks(page) {
     const links = new Set();
-    const baseUrl = 'https://bookease.com';
+    const baseUrl = 'https://www.escortmumbaii.in';
     
     // Extract from navigation/menu content
     if (page.navigation) {

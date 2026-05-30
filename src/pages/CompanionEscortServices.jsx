@@ -6,7 +6,7 @@ import ServiceCard from '../components/ServiceCard';
 import LazyImage from '../components/LazyImage';
 import { services } from '../data/services';
 
-const phone = "07633807420";
+const phone = "9324881345";
 const lastUpdated = "January 18, 2026";
 
 const CompanionEscortServices = () => {
@@ -228,7 +228,7 @@ const CompanionEscortServices = () => {
         "name": "How do I book companion services?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Booking companion services involves 5 simple steps: 1) Browse verified companion profiles on BookEase, 2) Select based on preferences, reviews, and availability, 3) Contact via phone (+91-7633807420) or WhatsApp, 4) Discuss requirements and confirm timing, 5) Complete the booking. Our 24/7 support ensures smooth bookings."
+          "text": "Booking companion services involves 5 simple steps: 1) Browse verified companion profiles on BookEase, 2) Select based on preferences, reviews, and availability, 3) Contact via phone (+91-9324881345) or WhatsApp, 4) Discuss requirements and confirm timing, 5) Complete the booking. Our 24/7 support ensures smooth bookings."
         }
       },
       {
@@ -306,7 +306,7 @@ const CompanionEscortServices = () => {
         "@type": "HowToStep",
         "position": 3,
         "name": "Contact via Phone or WhatsApp",
-        "text": "Call +91-7633807420 or WhatsApp to discuss your requirements and confirm companion availability.",
+        "text": "Call +91-9324881345 or WhatsApp to discuss your requirements and confirm companion availability.",
         "url": "https://www.escortmumbaii.in/companion-escort-services#contact"
       },
       {
@@ -333,7 +333,7 @@ const CompanionEscortServices = () => {
     "name": "BookEase Companion Services",
     "description": "India's leading companion services platform offering verified social companions, travel companions, and girlfriend experience services across 10+ major cities.",
     "url": "https://www.escortmumbaii.in",
-    "telephone": "+91-7633807420",
+    "telephone": "+91-9324881345",
     "email": "support@escortmumbaii.in",
     "address": {
       "@type": "PostalAddress",
@@ -576,7 +576,7 @@ const CompanionEscortServices = () => {
                 </div>
               </div>
               <p className="text-sm text-neutral-500 mt-4 italic">
-                📞 Hindi mein booking ke liye call karein: +91-7633807420
+                📞 Hindi mein booking ke liye call karein: +91-9324881345
               </p>
             </div>
           </div>
@@ -809,7 +809,7 @@ const CompanionEscortServices = () => {
                     href={`tel:+91${phone}`}
                     className="bg-pink-100 text-pink-600 px-4 py-2 rounded-full text-sm font-medium hover:bg-pink-600 hover:text-white transition-colors"
                   >
-                    Book Now
+                    Call Now
                   </a>
                 </div>
               </div>
@@ -884,7 +884,7 @@ const CompanionEscortServices = () => {
             {[
               { step: 1, title: "Browse Profiles", desc: "Explore 300+ verified companion profiles with photos, reviews, and details" },
               { step: 2, title: "Select Companion", desc: "Choose based on your preferences, occasion, and availability" },
-              { step: 3, title: "Contact Us", desc: "Call +91-7633807420 or WhatsApp to discuss requirements" },
+              { step: 3, title: "Contact Us", desc: "Call +91-9324881345 or WhatsApp to discuss requirements" },
               { step: 4, title: "Confirm Details", desc: "Finalize timing, location, duration, and any special requests" },
               { step: 5, title: "Enjoy Experience", desc: "Meet your verified companion and enjoy memorable moments" },
             ].map((item) => (
@@ -1226,7 +1226,7 @@ const CompanionEscortServices = () => {
               <p className="mt-4 text-neutral-700 leading-relaxed">
                 Booking companion services involves 5 simple steps: <strong>1)</strong> Browse verified companion 
                 profiles on BookEase, <strong>2)</strong> Select based on preferences, reviews, and availability, 
-                <strong>3)</strong> Contact via phone (+91-7633807420) or WhatsApp, <strong>4)</strong> Discuss 
+                <strong>3)</strong> Contact via phone (+91-9324881345) or WhatsApp, <strong>4)</strong> Discuss 
                 requirements and confirm timing, <strong>5)</strong> Complete the booking. Our 24/7 support ensures 
                 smooth bookings.
               </p>

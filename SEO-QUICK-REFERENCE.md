@@ -134,7 +134,7 @@ const schema = generateLocalBusinessSchema({
   city: "Mumbai",
   profileCount: "500+",
   areas: ["Andheri", "Bandra", "Juhu"],
-  phone: "+91-7633807420",
+  phone: "+91-9324881345",
   rating: 4.8,
   reviewCount: 1523
 });
@@ -308,14 +308,14 @@ const faq = generateCityFAQSchema("Mumbai", [
 ### Primary CTAs
 ```html
 <!-- Call CTA -->
-<a href="tel:+917633807420" 
+<a href="tel:+919324881345" 
    class="bg-pink-600 text-white px-8 py-3 rounded-full"
    aria-label="Call BookEase Mumbai">
   📞 Call Now
 </a>
 
 <!-- WhatsApp CTA -->
-<a href="https://wa.me/917633807420"
+<a href="https://wa.me/919324881345"
    target="_blank"
    rel="noopener noreferrer"
    class="bg-green-500 text-white px-8 py-3 rounded-full"

@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import Header from '../components/Header';
 import { generateLocalBusinessSchema, generateBreadcrumbSchema, generateCityFAQSchema } from '../utils/localBusinessSchema';
 
-const phone = "7633807420";
+const phone = "9324881345";
 
 const Mumbai = () => {
   const popularAreas = [
@@ -29,7 +29,7 @@ const Mumbai = () => {
     },
     {
       question: "How do I book an escort in Mumbai?",
-      answer: "Simply browse profiles, select your preferred companion, and contact us via phone or WhatsApp at +91-7633807420. Our team will help you complete the booking process securely and discreetly."
+      answer: "Simply browse profiles, select your preferred companion, and contact us via phone or WhatsApp at +91-9324881345. Our team will help you complete the booking process securely and discreetly."
     },
     {
       question: "Is the service discreet in Mumbai?",
@@ -322,7 +322,7 @@ export default Mumbai;
 // // Import new Local Business Schema Generator
 // import { LocalBusinessSchemaGenerator, CITY_DATA } from '../seo/local-business-schema';
 
-// const phone = "07633807420";
+// const phone = "9324881345";
 
 // const Mumbai = () => {
 //   // Filter services available in Mumbai

@@ -18,9 +18,9 @@ export class LocalBusinessSchemaGenerator {
         latitude: 19.0760,
         longitude: 72.8777
       },
-      phone: "+91-9999999999",
-      email: "info@bookease.com",
-      website: "https://bookease.com",
+      phone: "+91-9324881345",
+      email: "info@www.escortmumbaii.in",
+      website: "https://www.escortmumbaii.in",
       priceRange: "₹3000-₹50000",
       currenciesAccepted: "INR",
       paymentAccepted: "Cash, Bank Transfer",
@@ -55,7 +55,7 @@ export class LocalBusinessSchemaGenerator {
       },
       "telephone": this.config.phone,
       "email": this.config.email,
-      "url": `https://bookease.com/${cityData.slug || cityData.city.toLowerCase()}`,
+      "url": `https://www.escortmumbaii.in/${cityData.slug || cityData.city.toLowerCase()}`,
       "sameAs": [
         "https://www.facebook.com/bookease",
         "https://twitter.com/bookease", 
@@ -256,19 +256,19 @@ export class LocalBusinessSchemaGenerator {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://bookease.com/"
+          "item": "https://www.escortmumbaii.in/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Cities",
-          "item": "https://bookease.com/cities"
+          "item": "https://www.escortmumbaii.in/cities"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": cityData.city,
-          "item": `https://bookease.com/${cityData.slug || cityData.city.toLowerCase()}`
+          "item": `https://www.escortmumbaii.in/${cityData.slug || cityData.city.toLowerCase()}`
         }
       ]
     };

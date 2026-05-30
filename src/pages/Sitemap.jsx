@@ -12,16 +12,16 @@ const SitemapPage = () => {
   const seoData = {
     title: 'Complete Site Map - BookEase | Verified Companion Services Directory',
     description: 'Navigate our comprehensive directory of verified companion services across India. Find escorts in Mumbai, Delhi, Bangalore and other major cities.',
-    canonical: 'https://bookease.com/sitemap',
-    image: 'https://bookease.com/images/sitemap-preview.jpg',
+    canonical: 'https://www.escortmumbaii.in/sitemap',
+    image: 'https://www.escortmumbaii.in/images/sitemap-preview.jpg',
     jsonLd: [{
       '@context': 'https://schema.org',
       '@type': 'WebSite',
       'name': 'BookEase Sitemap',
-      'url': 'https://bookease.com/',
+      'url': 'https://www.escortmumbaii.in/',
       'potentialAction': {
         '@type': 'SearchAction',
-        'target': 'https://bookease.com/search?q={search_term_string}',
+        'target': 'https://www.escortmumbaii.in/search?q={search_term_string}',
         'query-input': 'required name=search_term_string'
       }
     }]

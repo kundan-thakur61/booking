@@ -132,10 +132,10 @@ export const socialMediaTesting = {
       homepage: {
         title: 'BookEase - Verified Companion Services Across India',
         description: 'Find verified, discreet companion services in Mumbai, Delhi, Bangalore and other major Indian cities. Safe bookings with verified profiles.',
-        canonicalUrl: 'https://bookease.com/',
+        canonicalUrl: 'https://www.escortmumbaii.in/',
         contentType: 'homepage',
         imageData: {
-          url: 'https://bookease.com/images/social/homepage-og.jpg',
+          url: 'https://www.escortmumbaii.in/images/social/homepage-og.jpg',
           alt: 'BookEase - Verified Companion Services'
         }
       },
@@ -143,11 +143,11 @@ export const socialMediaTesting = {
       cityPage: {
         title: 'Mumbai Escorts - Verified Companion Services | BookEase',
         description: 'Verified escorts and companion services in Mumbai. Discreet bookings with verified profiles. Professional service guaranteed.',
-        canonicalUrl: 'https://bookease.com/mumbai',
+        canonicalUrl: 'https://www.escortmumbaii.in/mumbai',
         contentType: 'city',
         city: 'mumbai',
         imageData: {
-          url: 'https://bookease.com/images/social/mumbai-og.jpg',
+          url: 'https://www.escortmumbaii.in/images/social/mumbai-og.jpg',
           alt: 'Verified Mumbai Companion Services'
         }
       },
@@ -155,11 +155,11 @@ export const socialMediaTesting = {
       servicePage: {
         title: 'Premium Companionship Services | BookEase',
         description: 'High-end companion services for special occasions. Verified professionals with discreet service guarantee.',
-        canonicalUrl: 'https://bookease.com/service/1',
+        canonicalUrl: 'https://www.escortmumbaii.in/service/1',
         contentType: 'service',
         serviceName: 'Premium Companionship',
         imageData: {
-          url: 'https://bookease.com/images/social/service-og.jpg',
+          url: 'https://www.escortmumbaii.in/images/social/service-og.jpg',
           alt: 'Premium Companion Services'
         }
       },
@@ -167,7 +167,7 @@ export const socialMediaTesting = {
       blogPost: {
         title: 'How to Choose the Right Companion Service | BookEase Blog',
         description: 'Expert guide on selecting verified companion services. Learn what to look for and how to ensure safe, professional experiences.',
-        canonicalUrl: 'https://bookease.com/blog/choosing-right-companion',
+        canonicalUrl: 'https://www.escortmumbaii.in/blog/choosing-right-companion',
         contentType: 'blog',
         articleData: {
           publishedTime: '2026-01-14T10:00:00Z',
@@ -176,7 +176,7 @@ export const socialMediaTesting = {
           section: 'Guides'
         },
         imageData: {
-          url: 'https://bookease.com/images/social/blog-og.jpg',
+          url: 'https://www.escortmumbaii.in/images/social/blog-og.jpg',
           alt: 'Companion Service Selection Guide'
         }
       }

@@ -6,7 +6,7 @@
 // Configuration for link checking
 const linkCheckerConfig = {
   // URLs to check
-  baseUrl: 'https://bookease.com',
+  baseUrl: 'https://www.escortmumbaii.in',
   
   // Common internal links to monitor
   internalLinks: [

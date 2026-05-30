@@ -1,15 +1,18 @@
 import React from 'react';
-import { Helmet } from 'react-helmet-async';
+import EnhancedSEO from '../components/EnhancedSEO';
 
 const Legal = () => {
   return (
     <div className="min-h-screen bg-gray-50 py-8">
-      <Helmet>
-        <title>Legal Information - Booking App</title>
-        <meta name="description" content="Access all legal documents including terms and conditions, privacy policy, cookie policy, and other important legal information for our booking platform." />
-        <meta name="keywords" content="legal, terms and conditions, privacy policy, cookie policy, legal documents, booking legal" />
-        <link rel="canonical" href="https://www.booking-app.com/legal" />
-      </Helmet>
+      <EnhancedSEO
+        title="Legal Information — Terms, Privacy & Policies | BookEase"
+        description="Access all BookEase legal documents including terms and conditions, privacy policy, cookie policy, and safety reporting guidelines."
+        canonical="https://www.escortmumbaii.in/legal"
+        breadcrumbs={[
+          { name: 'Home', url: 'https://www.escortmumbaii.in/' },
+          { name: 'Legal', url: 'https://www.escortmumbaii.in/legal' }
+        ]}
+      />
       
       <div className="max-w-4xl mx-auto px-4">
         <div className="bg-white rounded-lg shadow-md p-6 mb-8">

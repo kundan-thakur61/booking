@@ -4,7 +4,7 @@
 export class SEOAuditTool {
   constructor(config = {}) {
     this.config = {
-      baseUrl: 'https://bookease.com',
+      baseUrl: 'https://www.escortmumbaii.in',
       userAgent: 'BookEase-SEOBot/1.0',
       maxDepth: 3,
       timeout: 10000,

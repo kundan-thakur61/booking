@@ -96,7 +96,7 @@ Anchor text should be natural and varied to mimic organic linking patterns. Avoi
 - **Exact-Match Anchors (20%):** Target primary keywords sparingly. Example: "beauty services booking India" or "book wellness services online."
 - **Partial-Match Anchors (20%):** Broader variations. Example: "online booking for beauty services" or "wellness booking platform."
 - **Generic Anchors (15%):** Natural phrases. Example: "click here," "learn more," or "read this guide."
-- **Naked URLs (5%):** Plain links for raw backlinks. Example: https://bookease.com/beauty-services-booking-india.
+- **Naked URLs (5%):** Plain links for raw backlinks. Example: https://www.escortmumbaii.in/beauty-services-booking-india.
 
 ### Implementation Tips
 - **Context Matters:** Ensure anchors fit naturally in content (e.g., link "book a facial in Mumbai" to the relevant page).

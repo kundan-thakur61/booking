@@ -6,7 +6,7 @@
 // import LazyImage from '../../components/LazyImage';
 // import { trackEvent } from '../../utils/analytics';
 
-// const phone = "07633807420";
+// const phone = "9324881345";
 
 // const RanchiServiceDetail = () => {
 //   const { id } = useParams();

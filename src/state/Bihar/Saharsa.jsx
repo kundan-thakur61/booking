@@ -19,7 +19,7 @@ import {
 // Import new Local Business Schema Generator
 import { LocalBusinessSchemaGenerator, CITY_DATA } from '../../seo/local-business-schema';
 
-const phone = "07633807420";
+const phone = "9324881345";
 
 const Saharsa = () => {
   // Filter services available in Saharsa

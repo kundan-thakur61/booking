@@ -1,15 +1,19 @@
 import React from 'react';
-import { Helmet } from 'react-helmet-async';
+import EnhancedSEO from '../components/EnhancedSEO';
 
 const PrivacyPolicy = () => {
   return (
     <div className="min-h-screen bg-gray-50 py-8">
-      <Helmet>
-        <title>Privacy Policy - Booking App</title>
-        <meta name="description" content="Our privacy policy explains how we collect, use, protect, and share your personal information when using our booking platform." />
-        <meta name="keywords" content="privacy policy, data protection, personal information, data privacy, booking privacy" />
-        <link rel="canonical" href="https://www.booking-app.com/privacy-policy" />
-      </Helmet>
+      <EnhancedSEO
+        title="Privacy Policy — BookEase Data Protection & Privacy India"
+        description="BookEase privacy policy explains how we collect, use, protect, and share your personal information. Your privacy and data security are our top priority."
+        canonical="https://www.escortmumbaii.in/privacy-policy"
+        breadcrumbs={[
+          { name: 'Home', url: 'https://www.escortmumbaii.in/' },
+          { name: 'Legal', url: 'https://www.escortmumbaii.in/legal' },
+          { name: 'Privacy Policy', url: 'https://www.escortmumbaii.in/privacy-policy' }
+        ]}
+      />
       
       <div className="max-w-4xl mx-auto px-4">
         <div className="bg-white rounded-lg shadow-md p-6 mb-8">

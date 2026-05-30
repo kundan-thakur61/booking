@@ -19,7 +19,7 @@ export default Delhi
 
 
 
-// const phone = "9999999999";
+// const phone = "9324881345";
 
 // const Delhi = () => {
 //   // Filter services available in Delhi
@@ -41,7 +41,7 @@ export default Delhi
 //     "@context": "https://schema.org",
 //     "@type": "AdultEntertainment",
 //     "name": "BookEase Delhi Escorts",
-//     "image": "https://bookease.com/delhi-banner.jpg",
+//     "image": "https://www.escortmumbaii.in/delhi-banner.jpg",
 //     "description": "Verified escort and companion services in Delhi with 450+ profiles across Connaught Place, Karol Bagh, Saket and more areas",
 //     "priceRange": "₹₹₹",
 //     "address": {
@@ -57,7 +57,7 @@ export default Delhi
 //       "latitude": 28.7041,
 //       "longitude": 77.1025
 //     },
-//     "url": "https://bookease.com/delhi",
+//     "url": "https://www.escortmumbaii.in/delhi",
 //     "telephone": `+91-${phone}`,
 //     "openingHoursSpecification": {
 //       "@type": "OpeningHoursSpecification",

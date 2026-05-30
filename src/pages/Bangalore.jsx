@@ -19,7 +19,7 @@ export default Bangalore
 
 // // Enhanced local SEO components
 
-// const phone = "9999999999";
+// const phone = "9324881345";
 
 // const Bangalore = () => {
 //   // Filter services available in Bangalore
@@ -41,7 +41,7 @@ export default Bangalore
 //     "@context": "https://schema.org",
 //     "@type": "AdultEntertainment",
 //     "name": "BookEase Bangalore Escorts",
-//     "image": "https://bookease.com/bangalore-banner.jpg",
+//     "image": "https://www.escortmumbaii.in/bangalore-banner.jpg",
 //     "description": "Verified escort and companion services in Bangalore with 400+ profiles across Koramangala, Indiranagar, Whitefield and more areas",
 //     "priceRange": "₹₹₹",
 //     "address": {
@@ -57,7 +57,7 @@ export default Bangalore
 //       "latitude": 12.9716,
 //       "longitude": 77.5946
 //     },
-//     "url": "https://bookease.com/bangalore",
+//     "url": "https://www.escortmumbaii.in/bangalore",
 //     "telephone": `+91-${phone}`,
 //     "openingHoursSpecification": {
 //       "@type": "OpeningHoursSpecification",

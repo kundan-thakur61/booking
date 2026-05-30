@@ -38,7 +38,7 @@
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
-          "value": "https://bookease.com"
+          "value": "https://www.escortmumbaii.in"
         },
         {
           "key": "Access-Control-Allow-Methods",
@@ -72,13 +72,13 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://bookease.com/$1",
+      "destination": "https://www.escortmumbaii.in/$1",
       "permanent": true,
       "statusCode": 301,
       "has": [
         {
           "type": "host",
-          "value": "www.bookease.com"
+          "value": "www.escortmumbaii.in"
         }
       ]
     }

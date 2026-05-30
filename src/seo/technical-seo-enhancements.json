@@ -120,7 +120,7 @@
   },
   "crawlabilityOptimization": {
     "robotsTxt": {
-      "sitemap": "https://bookease.com/sitemap.xml",
+      "sitemap": "https://www.escortmumbaii.in/sitemap.xml",
       "crawlDelay": 1,
       "disallow": ["/admin/", "/private/"]
     },

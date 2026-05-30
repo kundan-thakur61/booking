@@ -55,6 +55,40 @@ const SEO = ({
     ...(meta || [])
   ];
 
+  // Auto-generate breadcrumb schema from URL path if none provided
+  const generateAutoBreadcrumb = () => {
+    const pathname = currentPath || (typeof window !== 'undefined' ? window.location?.pathname : null) || '/';
+    if (pathname === '/') return null;
+    
+    const segments = pathname.split('/').filter(Boolean);
+    if (segments.length === 0) return null;
+    
+    const items = [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.escortmumbaii.in/' }
+    ];
+    
+    let currentUrl = '';
+    segments.forEach((segment, idx) => {
+      currentUrl += `/${segment}`;
+      const name = segment
+        .split('-')
+        .map(w => w.charAt(0).toUpperCase() + w.slice(1))
+        .join(' ');
+      items.push({
+        '@type': 'ListItem',
+        position: idx + 2,
+        name,
+        item: `https://www.escortmumbaii.in${currentUrl}`
+      });
+    });
+    
+    return {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      itemListElement: items
+    };
+  };
+
   // Build comprehensive JSON-LD structure with advanced schemas
   const buildJsonLdStructure = () => {
     const baseJsonLd = [siteOrganizationJsonLd];
@@ -68,7 +102,14 @@ const SEO = ({
     // Add page-specific schemas
     if (articleSchema) baseJsonLd.push(articleSchema);
     if (faqSchema) baseJsonLd.push(faqSchema);
-    if (breadcrumbSchema) baseJsonLd.push(breadcrumbSchema);
+    
+    // Add breadcrumb schema (explicit or auto-generated)
+    if (breadcrumbSchema) {
+      baseJsonLd.push(breadcrumbSchema);
+    } else {
+      const autoBreadcrumb = generateAutoBreadcrumb();
+      if (autoBreadcrumb) baseJsonLd.push(autoBreadcrumb);
+    }
 
     // Add custom JSON-LD
     if (Array.isArray(jsonLd)) {

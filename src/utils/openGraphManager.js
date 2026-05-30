@@ -17,25 +17,25 @@ const ogConfig = {
   // Dynamic image generation based on content type
   imageTemplates: {
     homepage: {
-      url: 'https://bookease.com/images/og-homepage.jpg',
+      url: 'https://www.escortmumbaii.in/images/og-homepage.jpg',
       alt: 'BookEase - Find Verified Companion Services in Major Indian Cities',
       width: 1200,
       height: 630
     },
     cityPage: {
-      url: 'https://bookease.com/images/og-city-template.jpg',
+      url: 'https://www.escortmumbaii.in/images/og-city-template.jpg',
       alt: 'Verified {city} Companion Services - BookEase',
       width: 1200,
       height: 630
     },
     servicePage: {
-      url: 'https://bookease.com/images/og-service-template.jpg',
+      url: 'https://www.escortmumbaii.in/images/og-service-template.jpg',
       alt: '{serviceName} Services - Professional Companion Matching',
       width: 1200,
       height: 630
     },
     blogPost: {
-      url: 'https://bookease.com/images/og-blog-template.jpg',
+      url: 'https://www.escortmumbaii.in/images/og-blog-template.jpg',
       alt: '{title} - BookEase Blog',
       width: 1200,
       height: 630

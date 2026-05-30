@@ -31,6 +31,21 @@ const Footer = () => {
     { label: 'Chennai', path: '/chennai' },
     { label: 'Kolkata', path: '/kolkata' },
     { label: 'Jaipur', path: '/jaipur' },
+    { label: 'Patna', path: '/patna' },
+    { label: 'Goa', path: '/goa' },
+    { label: 'Jharkhand', path: '/jharkhand' },
+    { label: 'All Cities', path: '/find-all-city' },
+  ];
+
+  const stateLinks = [
+    { label: 'Maharashtra', path: '/maharashtra/mumbai' },
+    { label: 'Karnataka', path: '/karnataka/bangalore' },
+    { label: 'Tamil Nadu', path: '/tamil-nadu/chennai' },
+    { label: 'West Bengal', path: '/west-bengal/kolkata' },
+    { label: 'Rajasthan', path: '/rajasthan/jaipur' },
+    { label: 'Gujarat', path: '/gujarat/ahmedabad' },
+    { label: 'Bihar', path: '/bihar/patna' },
+    { label: 'Uttar Pradesh', path: '/uttar-pradesh/lucknow' },
   ];
 
   const legalLinks = [
@@ -46,7 +61,7 @@ const Footer = () => {
     <footer className="bg-gradient-to-b from-neutral-900 to-neutral-950 text-neutral-300 safe-bottom" role="contentinfo">
       {/* Main Footer Content */}
       <div className="container mx-auto px-4 sm:px-6 py-10 sm:py-14 md:py-16">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 sm:gap-10 lg:gap-12">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-8 sm:gap-10 lg:gap-8">
 
           {/* Brand Column */}
           <div className="sm:col-span-2 lg:col-span-1">
@@ -63,22 +78,22 @@ const Footer = () => {
             {/* Contact Info */}
             <div className="space-y-2 text-sm">
               <a 
-                href="tel:+917633807420" 
+                href="tel:+919324881345" 
                 className="flex items-center gap-2 text-neutral-400 hover:text-pink-400 transition-colors no-underline"
               >
                 <svg className="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
                 </svg>
-                +91 76338 07420
+                +91 93248 81345
               </a>
               <a 
-                href="mailto:support@bookease.com" 
+                href="mailto:support@escortmumbaii.in" 
                 className="flex items-center gap-2 text-neutral-400 hover:text-pink-400 transition-colors no-underline"
               >
                 <svg className="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                 </svg>
-                support@bookease.com
+                support@escortmumbaii.in
               </a>
             </div>
           </div>
@@ -105,6 +120,23 @@ const Footer = () => {
             <h3 className="text-white font-bold text-sm uppercase tracking-wider mb-4">Top Cities</h3>
             <ul className="space-y-2.5 list-none ml-0">
               {cityLinks.map((link) => (
+                <li key={link.path} className="mb-0">
+                  <Link
+                    to={link.path}
+                    className="text-sm text-neutral-400 hover:text-pink-400 transition-colors no-underline py-1 inline-block"
+                  >
+                    {link.label}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </nav>
+
+          {/* State Links */}
+          <nav aria-label="State links">
+            <h3 className="text-white font-bold text-sm uppercase tracking-wider mb-4">Browse by State</h3>
+            <ul className="space-y-2.5 list-none ml-0">
+              {stateLinks.map((link) => (
                 <li key={link.path} className="mb-0">
                   <Link
                     to={link.path}

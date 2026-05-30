@@ -62,7 +62,7 @@ const Success = () => {
     const body = encodeURIComponent(
       `Booking Reference: ${bookingRef}\nService: ${service.name}\nDate: ${formatDate(date)}\nTime: ${time}`
     );
-    window.location.href = `mailto:booking@bookease.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:booking@www.escortmumbaii.in?subject=${subject}&body=${body}`;
   };
 
   return (

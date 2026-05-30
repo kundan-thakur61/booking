@@ -18,7 +18,7 @@ export const generateLocalBusinessSchema = ({
   city,
   profileCount = "500+",
   areas = [],
-  phone = "+91-7633807420",
+  phone = "+91-9324881345",
   rating = 4.8,
   reviewCount = 1500
 }) => {

@@ -8,7 +8,7 @@ const twitterConfig = {
   defaults: {
     site: '@BookEase',
     creator: '@BookEase',
-    domain: 'bookease.com'
+    domain: 'escortmumbaii.in'
   },
   
   // Different Twitter card types for various content
@@ -51,9 +51,9 @@ const twitterConfig = {
   
   // Default images for different card types
   defaultImages: {
-    summary: 'https://bookease.com/images/twitter-summary-default.jpg',
-    summaryLargeImage: 'https://bookease.com/images/twitter-large-default.jpg',
-    app: 'https://bookease.com/images/twitter-app-default.jpg'
+    summary: 'https://escortmumbaii.in/images/twitter-summary-default.jpg',
+    summaryLargeImage: 'https://escortmumbaii.in/images/twitter-large-default.jpg',
+    app: 'https://escortmumbaii.in/images/twitter-app-default.jpg'
   }
 };
 
@@ -163,8 +163,8 @@ const hasVisualContent = (contentType) => {
 const getDefaultImageForCard = (cardType, contentType) => {
   // Try content-type specific image first
   const contentImages = {
-    city: `https://bookease.com/images/twitter-${contentType}-default.jpg`,
-    service: `https://bookease.com/images/twitter-${contentType}-default.jpg`
+    city: `https://escortmumbaii.in/images/twitter-${contentType}-default.jpg`,
+    service: `https://escortmumbaii.in/images/twitter-${contentType}-default.jpg`
   };
   
   if (contentImages[contentType]) {

@@ -6,7 +6,7 @@ import { useBooking } from '../context/BookingContext';
 import { services } from '../data/services';
 import { trackEvent } from '../utils/analytics';
 
-const PHONE = '07633807420';
+const PHONE = '9324881345';
 
 const ServiceDetail = () => {
   const { id } = useParams();
@@ -117,13 +117,7 @@ const ServiceDetail = () => {
               </div>
 
               <div className="space-y-3">
-                <button
-                  type="button"
-                  onClick={handleBookNow}
-                  className="w-full rounded-xl bg-pink-600 py-3.5 font-semibold text-white transition-colors hover:bg-pink-700"
-                >
-                  Book Now
-                </button>
+
                 <div className="grid grid-cols-2 gap-3">
                   <a
                     href={`tel:+91${PHONE}`}

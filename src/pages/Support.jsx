@@ -1,15 +1,18 @@
 import React from 'react';
-import { Helmet } from 'react-helmet-async';
+import EnhancedSEO from '../components/EnhancedSEO';
 
 const Support = () => {
   return (
     <div className="min-h-screen bg-gray-50 py-8">
-      <Helmet>
-        <title>Support - Booking App</title>
-        <meta name="description" content="Get help with your bookings, account issues, and general questions about our booking platform. Contact our support team for assistance." />
-        <meta name="keywords" content="support, help, customer service, booking support, customer assistance" />
-        <link rel="canonical" href="https://www.booking-app.com/support" />
-      </Helmet>
+      <EnhancedSEO
+        title="Support — Help & Customer Service | BookEase India"
+        description="Get help with your BookEase bookings, account issues, and general questions. Our 24/7 support team is available via phone, WhatsApp, and email."
+        canonical="https://www.escortmumbaii.in/support"
+        breadcrumbs={[
+          { name: 'Home', url: 'https://www.escortmumbaii.in/' },
+          { name: 'Support', url: 'https://www.escortmumbaii.in/support' }
+        ]}
+      />
       
       <div className="max-w-4xl mx-auto px-4">
         <div className="bg-white rounded-lg shadow-md p-6 mb-8">

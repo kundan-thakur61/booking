@@ -5,7 +5,7 @@ import fs from 'fs';
 import path from 'path';
 
 async function runCLIAudit() {
-  const url = process.argv[2] || 'https://bookease.com';
+  const url = process.argv[2] || 'https://www.escortmumbaii.in';
   
   console.log(`
   ╔══════════════════════════════════════╗

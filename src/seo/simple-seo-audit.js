@@ -201,7 +201,7 @@ export class SimpleSEOAudit {
 }
 
 // Simple CLI function
-export async function runSimpleAudit(url = 'https://bookease.com') {
+export async function runSimpleAudit(url = 'https://www.escortmumbaii.in') {
   const auditor = new SimpleSEOAudit(url);
   return await auditor.runAudit();
 }

@@ -1,15 +1,18 @@
 import React from 'react';
-import { Helmet } from 'react-helmet-async';
+import EnhancedSEO from '../components/EnhancedSEO';
 
 const Security = () => {
   return (
     <div className="min-h-screen bg-gray-50 py-8">
-      <Helmet>
-        <title>Security - Booking App</title>
-        <meta name="description" content="Learn about our security measures and commitment to protecting your personal information and bookings on our platform." />
-        <meta name="keywords" content="security, data protection, platform security, account safety, booking security" />
-        <link rel="canonical" href="https://www.booking-app.com/security" />
-      </Helmet>
+      <EnhancedSEO
+        title="Security — BookEase Platform Safety & Data Protection"
+        description="Learn about BookEase's security measures including encryption, verified profiles, and data protection to keep your information and bookings safe."
+        canonical="https://www.escortmumbaii.in/security"
+        breadcrumbs={[
+          { name: 'Home', url: 'https://www.escortmumbaii.in/' },
+          { name: 'Security', url: 'https://www.escortmumbaii.in/security' }
+        ]}
+      />
       
       <div className="max-w-4xl mx-auto px-4">
         <div className="bg-white rounded-lg shadow-md p-6 mb-8">

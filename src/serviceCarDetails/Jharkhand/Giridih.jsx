@@ -5,7 +5,7 @@ import { services } from '../../data/Jharkhand/Giridihservices';
 import Header from '../../components/Header';
 import { trackEvent } from '../../utils/analytics';
 
-const phone = "07633807420";
+const phone = "9324881345";
 
 /* ─────────────────────────────────────────
    Helper: parse comma-separated strings
@@ -292,12 +292,6 @@ const GiridihServiceDetail = () => {
 
               {/* CTA Buttons */}
               <div className="flex flex-col gap-2 pt-2">
-                <button
-                  onClick={handleBookNow}
-                  className="w-full bg-pink-600 text-white py-3.5 rounded-xl font-semibold hover:bg-pink-700 active:scale-95 transition-all text-center"
-                >
-                  Book Now
-                </button>
                 <div className="flex gap-2">
                   <a
                     href={`tel:+91${phone}`}
@@ -403,12 +397,6 @@ const GiridihServiceDetail = () => {
       {/* ── Sticky Bottom Bar (mobile) ── */}
       <div className="sticky-bottom-bar md:hidden">
         <div className="flex gap-2">
-          <button
-            onClick={handleBookNow}
-            className="flex-1 bg-pink-600 text-white py-3 rounded-xl font-semibold text-center hover:bg-pink-700 transition-colors text-sm"
-          >
-            Book Now
-          </button>
           <a
             href={`https://wa.me/91${phone}`}
             target="_blank"

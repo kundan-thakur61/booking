@@ -1,15 +1,18 @@
 import React from 'react';
-import { Helmet } from 'react-helmet-async';
+import EnhancedSEO from '../components/EnhancedSEO';
 
 const Company = () => {
   return (
     <div className="min-h-screen bg-gray-50 py-8">
-      <Helmet>
-        <title>About Us - Booking App</title>
-        <meta name="description" content="Learn about our company, mission, values, and commitment to providing the best booking experience for our users." />
-        <meta name="keywords" content="about us, company information, booking platform, mission, values" />
-        <link rel="canonical" href="https://www.booking-app.com/company" />
-      </Helmet>
+      <EnhancedSEO
+        title="About BookEase — Premium Companion Services Platform India"
+        description="Learn about BookEase, India's trusted platform for verified companion services. Our mission, values, and commitment to safety and discretion across 500+ cities."
+        canonical="https://www.escortmumbaii.in/company"
+        breadcrumbs={[
+          { name: 'Home', url: 'https://www.escortmumbaii.in/' },
+          { name: 'Company', url: 'https://www.escortmumbaii.in/company' }
+        ]}
+      />
       
       <div className="max-w-4xl mx-auto px-4">
         <div className="bg-white rounded-lg shadow-md p-6 mb-8">

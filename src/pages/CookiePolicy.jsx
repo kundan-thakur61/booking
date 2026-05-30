@@ -1,15 +1,19 @@
 import React from 'react';
-import { Helmet } from 'react-helmet-async';
+import EnhancedSEO from '../components/EnhancedSEO';
 
 const CookiePolicy = () => {
   return (
     <div className="min-h-screen bg-gray-50 py-8">
-      <Helmet>
-        <title>Cookie Policy - Booking App</title>
-        <meta name="description" content="Learn about how we use cookies and similar tracking technologies on our booking platform to enhance your experience." />
-        <meta name="keywords" content="cookie policy, cookies, tracking technologies, data collection, booking cookies" />
-        <link rel="canonical" href="https://www.booking-app.com/cookie-policy" />
-      </Helmet>
+      <EnhancedSEO
+        title="Cookie Policy — BookEase Tracking & Analytics India"
+        description="Learn how BookEase uses cookies and tracking technologies to enhance your browsing experience. Manage your cookie preferences and understand data collection."
+        canonical="https://www.escortmumbaii.in/cookie-policy"
+        breadcrumbs={[
+          { name: 'Home', url: 'https://www.escortmumbaii.in/' },
+          { name: 'Legal', url: 'https://www.escortmumbaii.in/legal' },
+          { name: 'Cookie Policy', url: 'https://www.escortmumbaii.in/cookie-policy' }
+        ]}
+      />
       
       <div className="max-w-4xl mx-auto px-4">
         <div className="bg-white rounded-lg shadow-md p-6 mb-8">

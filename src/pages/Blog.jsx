@@ -58,7 +58,7 @@ const Blog = () => {
       <SEO
         title="Blog — City Guides, Safety & Booking Tips | BookEase"
         description="Read city guides, safety tips, and booking advice for escorts and companion services in India."
-        canonical="https://bookease.com/blog"
+        canonical="https://www.escortmumbaii.in/blog"
         meta={[{ name: 'keywords', content: 'escort blog, safety tips, booking guides, city guide escorts' }]}
       />
       

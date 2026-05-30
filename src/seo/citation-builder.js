@@ -207,9 +207,9 @@ export class CitationBuilder {
         country: "India"
       },
       contact: {
-        phone: "+91-9999999999",
-        email: "info@bookease.com",
-        website: "https://bookease.com"
+        phone: "+91-9324881345",
+        email: "info@www.escortmumbaii.in",
+        website: "https://www.escortmumbaii.in"
       },
       description: this.generateBusinessDescription(citation.city),
       hours: "24 hours daily",
@@ -282,17 +282,17 @@ export class CitationBuilder {
     return [
       {
         type: "logo",
-        url: "https://bookease.com/images/logo.png",
+        url: "https://www.escortmumbaii.in/images/logo.png",
         description: "BookEase Official Logo"
       },
       {
         type: "service",
-        url: "https://bookease.com/images/services/premium-companion.jpg",
+        url: "https://www.escortmumbaii.in/images/services/premium-companion.jpg",
         description: "Premium Companion Services"
       },
       {
         type: "team",
-        url: "https://bookease.com/images/team/professional-staff.jpg", 
+        url: "https://www.escortmumbaii.in/images/team/professional-staff.jpg", 
         description: "Professional Staff Team"
       }
     ];

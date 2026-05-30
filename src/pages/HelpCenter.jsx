@@ -47,7 +47,7 @@ const HelpCenter = () => {
         "@type": "ListItem",
         "position": 2,
         "name": "Help Center",
-        "item": "https://bookease.com/help-center"
+        "item": "https://www.escortmumbaii.in/help-center"
       }
     ]
   };

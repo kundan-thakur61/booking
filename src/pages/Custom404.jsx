@@ -102,7 +102,7 @@ const Custom404 = () => {
   const seoData = {
     title: `Page Not Found | BookEase - Verified Companion Services`,
     description: `The page you're looking for doesn't exist. Find verified companion services in Mumbai, Delhi, Bangalore and other major Indian cities.`,
-    canonical: `https://bookease.com/404`,
+    canonical: `https://www.escortmumbaii.in/404`,
     entityType: 'website'
   };
   

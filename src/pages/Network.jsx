@@ -1,15 +1,18 @@
 import React from 'react';
-import { Helmet } from 'react-helmet-async';
+import EnhancedSEO from '../components/EnhancedSEO';
 
 const Network = () => {
   return (
     <div className="min-h-screen bg-gray-50 py-8">
-      <Helmet>
-        <title>Our Network - Booking App</title>
-        <meta name="description" content="Explore our extensive network of service providers, partners, and locations that make our booking platform possible." />
-        <meta name="keywords" content="network, service providers, partners, locations, booking network" />
-        <link rel="canonical" href="https://www.booking-app.com/network" />
-      </Helmet>
+      <EnhancedSEO
+        title="Our Network — 500+ Cities, 2000+ Verified Profiles | BookEase"
+        description="Explore BookEase's extensive network across 500+ Indian cities with 2000+ verified companion profiles. Quality service providers, 24/7 availability nationwide."
+        canonical="https://www.escortmumbaii.in/network"
+        breadcrumbs={[
+          { name: 'Home', url: 'https://www.escortmumbaii.in/' },
+          { name: 'Network', url: 'https://www.escortmumbaii.in/network' }
+        ]}
+      />
       
       <div className="max-w-4xl mx-auto px-4">
         <div className="bg-white rounded-lg shadow-md p-6 mb-8">

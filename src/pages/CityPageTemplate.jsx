@@ -17,7 +17,7 @@ import { generateLocalBusinessSchema, generateBreadcrumbSchema, generateCityFAQS
  * 6. Add route to App.jsx
  */
 
-const phone = "7633807420";
+const phone = "9324881345";
 
 // ============================================================================
 // CONFIGURATION - UPDATE THIS FOR EACH CITY

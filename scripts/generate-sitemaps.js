@@ -13,7 +13,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Configuration
-const SITE_URL = 'https://bookease.com';
+const SITE_URL = 'https://www.escortmumbaii.in';
 const BUILD_DIR = path.join(__dirname, '..', 'public');
 
 // Page data - dynamically generated based on actual content

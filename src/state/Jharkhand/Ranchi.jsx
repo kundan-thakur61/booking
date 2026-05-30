@@ -13,7 +13,7 @@ import {
 
 import { LocalBusinessSchemaGenerator } from '../../seo/local-business-schema';
 
-const phone = "07633807420";
+const phone = "9324881345";
 
 const Ranchi = () => {
   const cityServices = services.slice(0, 6);
@@ -374,7 +374,7 @@ export default Ranchi;
 
 // import { LocalBusinessSchemaGenerator } from '../../seo/local-business-schema';
 
-// const phone = "07633807420";
+// const phone = "9324881345";
 
 // /* ─────────────────────────────────────────
 //    ServiceCard — maps every field from the
@@ -904,7 +904,7 @@ export default Ranchi;
 
 // import { LocalBusinessSchemaGenerator } from '../../seo/local-business-schema';
 
-// const phone = "07633807420";
+// const phone = "9324881345";
 
 // /* ─────────────────────────────────────────
 //    ServiceModal — full-screen detail drawer

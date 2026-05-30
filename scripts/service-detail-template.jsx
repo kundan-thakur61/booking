@@ -4,9 +4,10 @@ import { useBooking } from '../../context/BookingContext';
 import { services } from '../../data/__STATE_DATA__/__CITY_NAME__services';
 import Header from '../../components/Header';
 import LazyImage from '../../components/LazyImage';
+import SEO from '../../components/SEO';
 import { trackEvent } from '../../utils/analytics';
 
-const phone = "07633807420";
+const phone = "9324881345";
 
 const __CITY_NAME__ServiceDetail = () => {
   const { id } = useParams();
@@ -55,8 +56,50 @@ const __CITY_NAME__ServiceDetail = () => {
 
   const relatedServices = services.filter((s) => String(s.id) !== String(id)).slice(0, 3);
 
+  // FAQ schema for service detail
+  const serviceFaqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": `Is ${service.name} available in __CITY_DISPLAY__?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `Yes, ${service.name} is available in __CITY_DISPLAY__, __STATE_DISPLAY__. Our verified companions offer this service 24/7 with complete privacy and discretion.`
+        }
+      },
+      {
+        "@type": "Question",
+        "name": `How do I book ${service.name} in __CITY_DISPLAY__?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `To book ${service.name} in __CITY_DISPLAY__, browse the profile, then contact us via phone or WhatsApp. Our team will help arrange a safe, discreet booking.`
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Are profiles verified for __CITY_DISPLAY__?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, all profiles serving __CITY_DISPLAY__ are thoroughly verified with ID proof and authentic photos for your safety."
+        }
+      }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-neutral-50">
+      <SEO
+        title={`${service.name} in __CITY_DISPLAY__ — Verified | BookEase`}
+        description={`✓ ${service.name} in __CITY_DISPLAY__, __STATE_DISPLAY__ ✓ Verified profiles ✓ 24/7 available ✓ Safe & discreet. Book now on BookEase. 18+ only.`}
+        canonical={`https://www.escortmumbaii.in/__STATE_SLUG__/__CITY_SLUG__/service/${id}`}
+        currentPath={`/__STATE_SLUG__/__CITY_SLUG__/service/${id}`}
+        entityType="service"
+        faqSchema={serviceFaqSchema}
+        city="__CITY_DISPLAY__"
+        serviceName={service.name}
+      />
       <Header showBack title={service.name} />
 
       {/* Breadcrumb */}
@@ -118,7 +161,7 @@ const __CITY_NAME__ServiceDetail = () => {
                         idx === selectedImg ? 'border-pink-600 ring-2 ring-pink-300' : 'border-transparent hover:border-neutral-300'
                       }`}
                     >
-                      <LazyImage src={img} alt={`Thumbnail ${idx + 1}`} className="w-full h-full object-cover" />
+                      <LazyImage src={img} alt={`${service.name} in __CITY_DISPLAY__ - Gallery photo ${idx + 1}`} className="w-full h-full object-cover" />
                     </button>
                   ))}
                 </div>

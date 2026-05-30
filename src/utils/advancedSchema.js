@@ -35,7 +35,7 @@ export const buildLocalBusinessSchema = (cityData = {}) => {
     state = '',
     country = 'India',
     url = 'https://www.escortmumbaii.in',
-    phone = '+91-7633807420',
+    phone = '+91-9324881345',
     description = 'Premium verified companion services',
     services = [],
     hours = null,
@@ -299,7 +299,7 @@ export const buildEnhancedOrganizationSchema = (orgData = {}) => {
     'foundingDate': foundingDate,
     'contactPoint': {
       '@type': 'ContactPoint',
-      'telephone': contactPoint.phone || '+91-7633807420',
+      'telephone': contactPoint.phone || '+91-9324881345',
       'contactType': contactPoint.type || 'Customer Service',
       'availableLanguage': contactPoint.languages || ['English', 'Hindi']
     },

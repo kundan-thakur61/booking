@@ -85,25 +85,25 @@ export const INTERNATIONAL_SEO_CONFIG = {
   urlStructures: {
     ccTLD: {
       description: "Country Code Top Level Domains",
-      example: "bookease.co.uk, bookease.com.au",
+      example: "bookease.co.uk, www.escortmumbaii.in.au",
       pros: ["Strong geo-targeting signal", "Clear country identification"],
       cons: ["Expensive", "Management complexity"]
     },
     subdirectory: {
       description: "Subdirectory structure",
-      example: "bookease.com/in/, bookease.com/us/",
+      example: "www.escortmumbaii.in/in/, www.escortmumbaii.in/us/",
       pros: ["Easy to implement", "Cost-effective", "Centralized management"],
       cons: ["Weaker geo-signal than ccTLD"]
     },
     subdomain: {
       description: "Subdomain structure", 
-      example: "in.bookease.com, us.bookease.com",
+      example: "in.www.escortmumbaii.in, us.www.escortmumbaii.in",
       pros: ["Good geo-targeting", "Separate hosting options"],
       cons: ["Requires separate configuration", "Link equity distribution"]
     },
     parameter: {
       description: "URL parameters",
-      example: "bookease.com?country=in&lang=en",
+      example: "www.escortmumbaii.in?country=in&lang=en",
       pros: ["Simple implementation"],
       cons: ["Poor user experience", "SEO complications"]
     }
@@ -111,7 +111,7 @@ export const INTERNATIONAL_SEO_CONFIG = {
 
   // Chosen Implementation (subdirectory approach)
   chosenStructure: "subdirectory",
-  baseUrl: "https://bookease.com",
+  baseUrl: "https://www.escortmumbaii.in",
 
   // Service Regions Mapping
   serviceRegions: {
@@ -212,7 +212,7 @@ export const generateCountryPages = (baseContent) => {
 // Country-specific phone numbers
 const getCountryPhoneNumber = (countryCode) => {
   const phoneNumbers = {
-    "IN": "+91-9999999999",
+    "IN": "+91-9324881345",
     "US": "+1-555-123-4567", 
     "GB": "+44-20-1234-5678",
     "AU": "+61-2-1234-5678",

@@ -5,7 +5,7 @@ export function buildServiceJsonLd(service, variant = null) {
     "@type": "Offer",
     "price": variant.price,
     "priceCurrency": "INR",
-    "url": `https://bookease.com/service/${service.id}`,
+    "url": `https://www.escortmumbaii.in/service/${service.id}`,
     "availability": "http://schema.org/InStock"
   } : undefined;
 
@@ -18,7 +18,7 @@ export function buildServiceJsonLd(service, variant = null) {
     "provider": {
       "@type": "LocalBusiness",
       "name": "BookEase",
-      "url": "https://bookease.com"
+      "url": "https://www.escortmumbaii.in"
     },
     "areaServed": service.city ? { "@type": "City", "name": service.city } : undefined,
   };
@@ -36,7 +36,7 @@ export function buildProductSchema(service, reviews = []) {
     "@type": "Product",
     "name": service.name,
     "description": service.description,
-    "image": service.image || "https://bookease.com/default-service-image.jpg",
+    "image": service.image || "https://www.escortmumbaii.in/default-service-image.jpg",
     "brand": {
       "@type": "Brand",
       "name": "BookEase"
@@ -138,7 +138,7 @@ export function buildEnhancedOrganizationSchema() {
     "url": "https://www.escortmumbaii.in",
     "logo": "https://www.escortmumbaii.in/logo.png",
     "description": "India's premier verified escort and companion services directory with 2000+ verified profiles across major cities",
-    "telephone": "+91-9999999999",
+    "telephone": "+91-9324881345",
     "email": "support@escortmumbaii.in",
     "sameAs": [
       "https://www.facebook.com/escortmumbaii",

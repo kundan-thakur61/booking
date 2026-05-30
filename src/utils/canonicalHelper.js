@@ -8,50 +8,50 @@ const canonicalConfig = {
   // Homepage variations
   homepage: {
     paths: ['/', '/home', '/index'],
-    canonical: 'https://bookease.com/'
+    canonical: 'https://www.escortmumbaii.in/'
   },
   
   // City pages with variations
   cities: {
     mumbai: {
       paths: ['/mumbai', '/mumbai-escorts', '/escorts-mumbai'],
-      canonical: 'https://bookease.com/mumbai'
+      canonical: 'https://www.escortmumbaii.in/mumbai'
     },
     delhi: {
       paths: ['/delhi', '/delhi-escorts', '/escorts-delhi', '/ncr'],
-      canonical: 'https://bookease.com/delhi'
+      canonical: 'https://www.escortmumbaii.in/delhi'
     },
     bangalore: {
       paths: ['/bangalore', '/bangalore-escorts', '/escorts-bangalore'],
-      canonical: 'https://bookease.com/bangalore'
+      canonical: 'https://www.escortmumbaii.in/bangalore'
     },
     pune: {
       paths: ['/pune', '/pune-escorts', '/escorts-pune'],
-      canonical: 'https://bookease.com/pune'
+      canonical: 'https://www.escortmumbaii.in/pune'
     },
     hyderabad: {
       paths: ['/hyderabad', '/hyderabad-escorts', '/escorts-hyderabad'],
-      canonical: 'https://bookease.com/hyderabad'
+      canonical: 'https://www.escortmumbaii.in/hyderabad'
     },
     chennai: {
       paths: ['/chennai', '/chennai-escorts', '/escorts-chennai'],
-      canonical: 'https://bookease.com/chennai'
+      canonical: 'https://www.escortmumbaii.in/chennai'
     },
     kolkata: {
       paths: ['/kolkata', '/kolkata-escorts', '/escorts-kolkata'],
-      canonical: 'https://bookease.com/kolkata'
+      canonical: 'https://www.escortmumbaii.in/kolkata'
     },
     ahmedabad: {
       paths: ['/ahmedabad', '/ahmedabad-escorts', '/escorts-ahmedabad'],
-      canonical: 'https://bookease.com/ahmedabad'
+      canonical: 'https://www.escortmumbaii.in/ahmedabad'
     },
     goa: {
       paths: ['/goa', '/goa-escorts', '/escorts-goa'],
-      canonical: 'https://bookease.com/goa'
+      canonical: 'https://www.escortmumbaii.in/goa'
     },
     jaipur: {
       paths: ['/jaipur', '/jaipur-escorts', '/escorts-jaipur'],
-      canonical: 'https://bookease.com/jaipur'
+      canonical: 'https://www.escortmumbaii.in/jaipur'
     }
   },
   
@@ -59,27 +59,27 @@ const canonicalConfig = {
   services: {
     '1': {
       paths: ['/service/1', '/premium-companionship'],
-      canonical: 'https://bookease.com/service/1'
+      canonical: 'https://www.escortmumbaii.in/service/1'
     },
     '2': {
       paths: ['/service/2', '/discreet-meetings'],
-      canonical: 'https://bookease.com/service/2'
+      canonical: 'https://www.escortmumbaii.in/service/2'
     },
     '3': {
       paths: ['/service/3', '/event-companionship'],
-      canonical: 'https://bookease.com/service/3'
+      canonical: 'https://www.escortmumbaii.in/service/3'
     },
     '4': {
       paths: ['/service/4', '/travel-companions'],
-      canonical: 'https://bookease.com/service/4'
+      canonical: 'https://www.escortmumbaii.in/service/4'
     },
     '5': {
       paths: ['/service/5', '/dinner-dates'],
-      canonical: 'https://bookease.com/service/5'
+      canonical: 'https://www.escortmumbaii.in/service/5'
     },
     '6': {
       paths: ['/service/6', '/special-occasions'],
-      canonical: 'https://bookease.com/service/6'
+      canonical: 'https://www.escortmumbaii.in/service/6'
     }
   },
   
@@ -87,19 +87,19 @@ const canonicalConfig = {
   legal: {
     terms: {
       paths: ['/terms', '/terms-and-conditions'],
-      canonical: 'https://bookease.com/terms-and-conditions'
+      canonical: 'https://www.escortmumbaii.in/terms-and-conditions'
     },
     privacy: {
       paths: ['/privacy', '/privacy-policy'],
-      canonical: 'https://bookease.com/privacy-policy'
+      canonical: 'https://www.escortmumbaii.in/privacy-policy'
     },
     cookie: {
       paths: ['/cookie-policy'],
-      canonical: 'https://bookease.com/cookie-policy'
+      canonical: 'https://www.escortmumbaii.in/cookie-policy'
     },
     security: {
       paths: ['/security'],
-      canonical: 'https://bookease.com/security'
+      canonical: 'https://www.escortmumbaii.in/security'
     }
   },
   
@@ -107,7 +107,7 @@ const canonicalConfig = {
   special: {
     bakeca: {
       paths: ['/bakeca-incontri', '/bakeca'],
-      canonical: 'https://bookease.com/bakeca-incontri'
+      canonical: 'https://www.escortmumbaii.in/bakeca-incontri'
     }
   }
 };
@@ -163,21 +163,21 @@ export const getCanonicalUrl = (currentPath) => {
     const pageNumber = paginationMatch[2];
     // For page 1, use base URL as canonical
     if (pageNumber === '1') {
-      return `https://bookease.com${basePath}`;
+      return `https://www.escortmumbaii.in${basePath}`;
     }
     // For other pages, use the paginated URL as canonical
-    return `https://bookease.com${normalizedPath}`;
+    return `https://www.escortmumbaii.in${normalizedPath}`;
   }
   
   // Handle filtered content (sort, filter parameters)
   const filterMatch = normalizedPath.match(/^(.*?)(\?.*sort=.*)$/);
   if (filterMatch) {
     // Use base path without filters as canonical
-    return `https://bookease.com${filterMatch[1]}`;
+    return `https://www.escortmumbaii.in${filterMatch[1]}`;
   }
   
   // Default: return the current path as canonical if no match found
-  return `https://bookease.com${normalizedPath}`;
+  return `https://www.escortmumbaii.in${normalizedPath}`;
 };
 
 

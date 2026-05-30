@@ -17,7 +17,7 @@ export default Jharkhand
 // import ServiceCard from '../components/ServiceCard';
 // import { services } from '../data/services';
 
-// const phone = "9999999999";
+// const phone = "9324881345";
 
 // const Jharkhand = () => {
 //   const jharkhandServices = services.slice(0, 6);
