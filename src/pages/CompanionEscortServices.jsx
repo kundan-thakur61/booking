@@ -7,7 +7,7 @@ import LazyImage from '../components/LazyImage';
 import { services } from '../data/services';
 
 const phone = "9324881345";
-const lastUpdated = "January 18, 2026";
+const lastUpdated = "May 30, 2026";
 
 const CompanionEscortServices = () => {
   // Filter companion-related services
@@ -97,7 +97,7 @@ const CompanionEscortServices = () => {
   const companionPillarSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "Companion Services 2026 — Complete Guide to Professional Companionship in India",
+    "headline": "Companion Services India — Verified Professional Companionship",
     "description": "Comprehensive guide to companion services in India. Find verified social companions, travel companions, and GFE services across major cities. Pricing, booking, safety tips included.",
     "author": {
       "@type": "Organization",
@@ -116,7 +116,7 @@ const CompanionEscortServices = () => {
       }
     },
     "datePublished": "2024-01-01",
-    "dateModified": "2026-01-18",
+    "dateModified": "2026-05-30",
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "https://www.escortmumbaii.in/companion-escort-services"
@@ -129,7 +129,11 @@ const CompanionEscortServices = () => {
       { "@type": "Thing", "name": "Travel Companion" },
       { "@type": "Thing", "name": "Girlfriend Experience" }
     ],
-    "keywords": "companion services, companion services india, social companion, travel companion, girlfriend experience, professional companionship, verified companions"
+    "keywords": "companion services, companion services india, social companion, travel companion, girlfriend experience, professional companionship, verified companions",
+    "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [".quick-answer-box", ".pricing-section table", ".faq-section summary"]
+    }
   };
 
   // Service schema for rich results
@@ -414,8 +418,8 @@ const CompanionEscortServices = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Companion Services 2026 — Premium Professional Companionship India | BookEase"
-        description="✓ Companion Services India ✓ 300+ verified companions ✓ Social, travel, GFE services ✓ 24/7 booking ✓ Safe & discreet. Book your perfect companion. Rates from ₹6,000."
+        title="Companion Services India — 300+ Verified | Rates ₹6,000+"
+        description="India's #1 companion services platform. Verified social companions, travel partners & GFE. 4.8★ rated by 2,500+ clients. Book 24/7. Rates from ₹6,000."
         canonical="https://www.escortmumbaii.in/companion-escort-services"
         image="https://www.escortmumbaii.in/companion-services-guide.jpg"
         entityType="article"
@@ -424,10 +428,10 @@ const CompanionEscortServices = () => {
         faqSchema={companionFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'companion services, companion services india, social companion, travel companion, girlfriend experience, professional companionship, verified companions, companion booking' },
+          { name: 'keywords', content: 'companion services, companion services india, social companion, travel companion, girlfriend experience, professional companionship, verified companions, companion booking, companion near me' },
           { name: 'author', content: 'BookEase Editorial Team' },
           { name: 'robots', content: 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1' },
-          { property: 'article:modified_time', content: '2026-01-18' },
+          { property: 'article:modified_time', content: '2026-05-30' },
           { property: 'article:section', content: 'Companion Services' }
         ]}
       />
@@ -459,7 +463,7 @@ const CompanionEscortServices = () => {
 
           {/* H1 with Primary Keyword - Critical for SEO */}
           <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-6 leading-tight">
-            Companion Services 2026 — Premium Professional Companionship in India
+            Companion Services India — Verified Professional Companionship
           </h1>
 
           {/* Featured Snippet Optimized Definition Paragraph - First 100 words contain keyword */}
@@ -550,7 +554,7 @@ const CompanionEscortServices = () => {
           <div className="flex items-start gap-4">
             <div className="text-4xl">🇮🇳</div>
             <div>
-              <h2 className="text-2xl font-bold text-neutral-900 mb-3">Companion Services Kya Hai? (हिंदी में समझें)</h2>
+              <h3 className="text-2xl font-bold text-neutral-900 mb-3">Companion Services Kya Hai? (हिंदी में समझें)</h3>
               <p className="text-lg text-neutral-700 leading-relaxed mb-4">
                 <strong>Companion services</strong> yaani साथी सेवाएं — yeh professional companionship hai jahan verified 
                 individuals aapko social events, travel, business meetings, aur intimate experiences ke liye company provide 
@@ -585,7 +589,7 @@ const CompanionEscortServices = () => {
         {/* Video Content Section - For Engagement & SGE */}
         <section className="mb-12 bg-neutral-900 rounded-2xl p-8 text-white">
           <div className="text-center mb-6">
-            <h2 className="text-3xl font-bold mb-3">📹 Watch: How to Book Companion Services</h2>
+            <h3 className="text-2xl font-bold mb-3">📹 Watch: How to Book Companion Services</h3>
             <p className="text-neutral-300 max-w-2xl mx-auto">
               Learn the complete booking process in under 4 minutes. Safe, secure, and simple.
             </p>
@@ -620,7 +624,7 @@ const CompanionEscortServices = () => {
         {/* Client Testimonials - User Generated Content for EEAT */}
         <section className="mb-12 bg-white rounded-2xl p-8 shadow-sm">
           <div className="text-center mb-8">
-            <h2 className="text-3xl font-bold text-neutral-900 mb-3">⭐ What Our Clients Say</h2>
+            <h3 className="text-2xl font-bold text-neutral-900 mb-3">⭐ What Our Clients Say</h3>
             <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
               Real reviews from verified clients who have experienced BookEase companion services.
             </p>
@@ -1093,11 +1097,11 @@ const CompanionEscortServices = () => {
         {/* City-Wise Companion Services - Internal Linking Hub */}
         <section className="mb-12 bg-white rounded-2xl p-8 shadow-sm">
           <h2 className="text-3xl font-bold text-neutral-900 mb-3 text-center">
-            Companion Services Available in Major Indian Cities
+            Find Companion Services Near You — Major Indian Cities
           </h2>
           <p className="text-lg text-neutral-600 text-center mb-8 max-w-3xl mx-auto">
-            BookEase provides verified companion services across 10+ major cities in India. 
-            Click on any city to explore local companions and services.
+            BookEase provides verified companion services near you across 10+ major cities in India. 
+            Click on any city to explore local companions and booking options.
           </p>
 
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
@@ -1108,9 +1112,9 @@ const CompanionEscortServices = () => {
                 className="group bg-gradient-to-br from-neutral-50 to-neutral-100 rounded-xl p-4 text-center hover:from-pink-50 hover:to-purple-50 hover:shadow-lg transition-all border border-neutral-200"
               >
                 <span className="font-bold text-neutral-900 group-hover:text-pink-600 transition-colors block">
-                  {city.name}
+                  {city.name} Companions
                 </span>
-                <span className="text-sm text-neutral-500">{city.companions} companions</span>
+                <span className="text-sm text-neutral-500">{city.companions} verified</span>
               </Link>
             ))}
           </div>
@@ -1131,9 +1135,9 @@ const CompanionEscortServices = () => {
         {/* Available Companion Services */}
         {companionServices.length > 0 && (
           <section className="mb-12">
-            <h2 className="text-3xl font-bold text-neutral-900 mb-3 text-center">
+            <h3 className="text-3xl font-bold text-neutral-900 mb-3 text-center">
               Featured Companion Profiles
-            </h2>
+            </h3>
             <p className="text-lg text-neutral-600 text-center mb-8 max-w-3xl mx-auto">
               Browse our selection of verified companion profiles. All profiles are ID-verified 
               and reviewed by our quality team.
@@ -1317,6 +1321,12 @@ const CompanionEscortServices = () => {
                 Call for Answers
               </a>
               <Link 
+                to="/contact-us"
+                className="inline-flex items-center gap-2 bg-purple-600 text-white px-6 py-3 rounded-full font-semibold hover:bg-purple-700 transition-colors"
+              >
+                Contact Us
+              </Link>
+              <Link 
                 to="/help-center"
                 className="inline-flex items-center gap-2 bg-neutral-200 text-neutral-800 px-6 py-3 rounded-full font-semibold hover:bg-neutral-300 transition-colors"
               >
@@ -1328,9 +1338,9 @@ const CompanionEscortServices = () => {
 
         {/* Related Services - Internal Linking */}
         <section className="mb-12 bg-gradient-to-r from-neutral-100 to-neutral-50 rounded-2xl p-8">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6 text-center">
+          <h3 className="text-3xl font-bold text-neutral-900 mb-6 text-center">
             Explore Related Services
-          </h2>
+          </h3>
           <div className="grid md:grid-cols-3 gap-6">
             <Link 
               to="/verified-escort-services" 

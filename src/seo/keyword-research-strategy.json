@@ -1,0 +1,157 @@
+{
+  "seedKeywords": [
+    {
+      "keyword": "escort service",
+      "volume": 74000,
+      "difficulty": 68,
+      "priority": "HIGH"
+    },
+    {
+      "keyword": "call girls",
+      "volume": 165000,
+      "difficulty": 72,
+      "priority": "HIGH"
+    },
+    {
+      "keyword": "escort mumbai",
+      "volume": 33100,
+      "difficulty": 65,
+      "priority": "CRITICAL"
+    },
+    {
+      "keyword": "companion services",
+      "volume": 2900,
+      "difficulty": 42,
+      "priority": "MEDIUM"
+    },
+    {
+      "keyword": "verified escort",
+      "volume": 3600,
+      "difficulty": 48,
+      "priority": "HIGH"
+    }
+  ],
+  "quickWins": [
+    {
+      "keyword": "verified escort profiles mumbai",
+      "volume": 1900,
+      "difficulty": 28,
+      "intent": "Commercial",
+      "conversionPotential": "HIGH",
+      "targetPage": "/maharashtra/mumbai",
+      "action": "Add verification section with schema"
+    },
+    {
+      "keyword": "andheri escorts available tonight",
+      "volume": 2400,
+      "difficulty": 22,
+      "intent": "Transactional",
+      "conversionPotential": "VERY HIGH",
+      "targetPage": "/maharashtra/mumbai/andheri",
+      "action": "Create urgency-focused landing page"
+    },
+    {
+      "keyword": "safe escort booking platform",
+      "volume": 1600,
+      "difficulty": 31,
+      "intent": "Commercial",
+      "conversionPotential": "HIGH",
+      "targetPage": "/safety",
+      "action": "Create comprehensive safety guide"
+    },
+    {
+      "keyword": "independent escort contact mumbai",
+      "volume": 1800,
+      "difficulty": 26,
+      "intent": "Transactional",
+      "conversionPotential": "VERY HIGH",
+      "targetPage": "/maharashtra/mumbai",
+      "action": "Highlight direct contact CTAs"
+    },
+    {
+      "keyword": "escort service rates mumbai",
+      "volume": 2100,
+      "difficulty": 29,
+      "intent": "Commercial",
+      "conversionPotential": "HIGH",
+      "targetPage": "/maharashtra/mumbai",
+      "action": "Add transparent pricing section"
+    }
+  ],
+  "longTailClusters": {
+    "locationService": [
+      "escort service in mumbai andheri",
+      "call girls in bandra mumbai",
+      "juhu escorts available tonight",
+      "powai independent escorts",
+      "colaba vip escort service",
+      "worli premium companion services",
+      "lower parel verified escorts",
+      "bkc escorts mumbai",
+      "marine drive escort service",
+      "churchgate premium escorts"
+    ],
+    "serviceType": [
+      "verified escort profiles india",
+      "safe escort booking platform",
+      "discreet companion services",
+      "24/7 escort availability",
+      "premium escort with real photos",
+      "independent escort direct contact",
+      "hotel visit escort service",
+      "outcall escort service mumbai",
+      "overnight escort booking"
+    ],
+    "bookingIntent": [
+      "book escort online mumbai",
+      "escort service contact number",
+      "whatsapp escort booking",
+      "escort available tonight near me",
+      "same day escort service",
+      "instant escort confirmation",
+      "cash payment escort mumbai"
+    ],
+    "safetyTrust": [
+      "how to verify escort authenticity",
+      "fake escort warning signs",
+      "escort scam prevention tips",
+      "safe escort meeting places",
+      "verified vs unverified escorts",
+      "trusted escort agencies mumbai"
+    ]
+  },
+  "aeoKeywords": [
+    "How much does an escort cost in Mumbai?",
+    "Where can I find verified escorts in Delhi?",
+    "What is the safest way to book an escort?",
+    "Are escort services legal in India?",
+    "How do I know if an escort profile is real?",
+    "What areas in Mumbai have the most escorts?",
+    "Can I book an escort for overnight?",
+    "How far in advance should I book an escort?",
+    "What should I ask before booking an escort?",
+    "Is it safe to meet escorts in hotels?"
+  ],
+  "entityKeywords": {
+    "places": [
+      "Andheri West",
+      "Bandra Linking Road",
+      "Juhu Beach",
+      "Powai Hiranandani",
+      "Colaba Causeway",
+      "Worli Sea Face",
+      "BKC Bandra Kurla Complex",
+      "Marine Drive",
+      "Lower Parel"
+    ],
+    "services": [
+      "Verified escort profiles",
+      "Safe escort booking",
+      "Discreet companion services",
+      "Premium adult entertainment",
+      "Independent escort directory",
+      "Outcall escort service",
+      "Overnight escort booking"
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "intentMapping": [
+    {
+      "keyword": "escort service",
+      "searchIntent": "Informational/Commercial",
+      "funnelStage": "TOFU",
+      "contentFormat": "Service overview page + FAQ",
+      "conversionPotential": "Medium",
+      "userQuestions": [
+        "What is an escort service?",
+        "How does escort booking work?",
+        "Is it safe and legal?"
+      ],
+      "recommendedCTA": "Browse Verified Profiles"
+    },
+    {
+      "keyword": "call girls mumbai",
+      "searchIntent": "Transactional",
+      "funnelStage": "BOFU",
+      "contentFormat": "Location landing page + booking CTA",
+      "conversionPotential": "High",
+      "userQuestions": [
+        "Who is available now?",
+        "What are the rates?",
+        "How do I contact them?"
+      ],
+      "recommendedCTA": "Call Now / WhatsApp"
+    },
+    {
+      "keyword": "how to book escort safely",
+      "searchIntent": "Informational",
+      "funnelStage": "TOFU",
+      "contentFormat": "Blog post + video guide",
+      "conversionPotential": "Low",
+      "userQuestions": [
+        "How do I verify authenticity?",
+        "What are red flags?",
+        "Where should I meet?"
+      ],
+      "recommendedCTA": "Read Safety Guidelines"
+    },
+    {
+      "keyword": "escort available tonight",
+      "searchIntent": "Transactional",
+      "funnelStage": "BOFU",
+      "contentFormat": "Real-time availability page",
+      "conversionPotential": "Very High",
+      "userQuestions": [
+        "Who is free right now?",
+        "Can I book immediately?",
+        "What's the fastest way to confirm?"
+      ],
+      "recommendedCTA": "View Available Now"
+    },
+    {
+      "keyword": "verified escort profiles",
+      "searchIntent": "Commercial Investigation",
+      "funnelStage": "MOFU",
+      "contentFormat": "Profile directory + verification badges",
+      "conversionPotential": "High",
+      "userQuestions": [
+        "How are profiles verified?",
+        "Are photos real?",
+        "Can I trust these profiles?"
+      ],
+      "recommendedCTA": "Browse Verified Profiles"
+    },
+    {
+      "keyword": "escort service rates mumbai",
+      "searchIntent": "Commercial Investigation",
+      "funnelStage": "MOFU",
+      "contentFormat": "Pricing page + comparison table",
+      "conversionPotential": "High",
+      "userQuestions": [
+        "How much does it cost?",
+        "What's included in the price?",
+        "Are there hidden charges?"
+      ],
+      "recommendedCTA": "View Pricing & Book"
+    },
+    {
+      "keyword": "andheri escorts",
+      "searchIntent": "Transactional",
+      "funnelStage": "BOFU",
+      "contentFormat": "Micro-location page",
+      "conversionPotential": "Very High",
+      "userQuestions": [
+        "Who serves Andheri area?",
+        "How quickly can they arrive?",
+        "What's the contact number?"
+      ],
+      "recommendedCTA": "Call Now"
+    },
+    {
+      "keyword": "independent escort contact",
+      "searchIntent": "Transactional",
+      "funnelStage": "BOFU",
+      "contentFormat": "Direct contact page",
+      "conversionPotential": "Very High",
+      "userQuestions": [
+        "How do I reach them directly?",
+        "Is there a phone number?",
+        "Can I WhatsApp?"
+      ],
+      "recommendedCTA": "Get Contact Details"
+    },
+    {
+      "keyword": "mumbai escort reviews",
+      "searchIntent": "Commercial Investigation",
+      "funnelStage": "MOFU",
+      "contentFormat": "Review/testimonial page",
+      "conversionPotential": "High",
+      "userQuestions": [
+        "What do other clients say?",
+        "Are reviews genuine?",
+        "Which escorts are highly rated?"
+      ],
+      "recommendedCTA": "Read Reviews & Book"
+    },
+    {
+      "keyword": "premium escort service",
+      "searchIntent": "Commercial Investigation",
+      "funnelStage": "MOFU",
+      "contentFormat": "Premium tier landing page",
+      "conversionPotential": "High",
+      "userQuestions": [
+        "What makes it premium?",
+        "What's the price difference?",
+        "What extra services are included?"
+      ],
+      "recommendedCTA": "Explore Premium Options"
+    },
+    {
+      "keyword": "escort service near me",
+      "searchIntent": "Transactional",
+      "funnelStage": "BOFU",
+      "contentFormat": "Geo-targeted landing page",
+      "conversionPotential": "Very High",
+      "userQuestions": [
+        "Who is closest to me?",
+        "How fast can they come?",
+        "What areas do they cover?"
+      ],
+      "recommendedCTA": "Find Nearby Escorts"
+    },
+    {
+      "keyword": "overnight escort booking",
+      "searchIntent": "Transactional",
+      "funnelStage": "BOFU",
+      "contentFormat": "Service type page + pricing",
+      "conversionPotential": "Very High",
+      "userQuestions": [
+        "What's the overnight rate?",
+        "What time does it start/end?",
+        "Can I book for multiple nights?"
+      ],
+      "recommendedCTA": "Book Overnight Service"
+    },
+    {
+      "keyword": "fake escort warning signs",
+      "searchIntent": "Informational",
+      "funnelStage": "TOFU",
+      "contentFormat": "Educational blog post",
+      "conversionPotential": "Low",
+      "userQuestions": [
+        "How do I spot fakes?",
+        "What are common scams?",
+        "How can I protect myself?"
+      ],
+      "recommendedCTA": "Learn Safety Tips"
+    },
+    {
+      "keyword": "russian escorts mumbai",
+      "searchIntent": "Transactional",
+      "funnelStage": "BOFU",
+      "contentFormat": "Ethnicity filter page",
+      "conversionPotential": "High",
+      "userQuestions": [
+        "Are they really Russian?",
+        "What's the rate?",
+        "How do I book?"
+      ],
+      "recommendedCTA": "View Russian Escorts"
+    },
+    {
+      "keyword": "escort cancellation policy",
+      "searchIntent": "Informational",
+      "funnelStage": "MOFU",
+      "contentFormat": "Policy page",
+      "conversionPotential": "Low",
+      "userQuestions": [
+        "Can I cancel my booking?",
+        "Is there a cancellation fee?",
+        "How much notice do I need to give?"
+      ],
+      "recommendedCTA": "View Full Policy"
+    }
+  ]
+}

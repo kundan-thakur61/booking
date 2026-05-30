@@ -130,7 +130,7 @@ function generateImageSitemap() {
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">`;
   
   // Associate images with relevant pages
-  const imageEntries = PAGES_DATA.cityPages.slice(0, 3).map((page, index) => {
+  const imageEntries = PAGES_DATA.cityPages.slice(0, 3).map((page) => {
     const pageImages = images.map(img => `
     <image:image>
       <image:loc>${img.loc}</image:loc>
@@ -199,7 +199,9 @@ function main() {
     
   } catch (error) {
     console.error('❌ Error generating sitemaps:', error.message);
-    process.exit(1);
+    if (typeof process !== 'undefined' && process?.exit) {
+      process.exit(1);
+    }
   }
 }
 
