@@ -748,9 +748,10 @@ export const getEnhancedBotResponse = (userMessage) => {
 };
 
 // Export both functions for backward compatibility
-export { getBotResponse, getEnhancedBotResponse as default };
+export { getEnhancedBotResponse as default };
 
-// ============================================================================
+// ==========================================================================
+
 // EXTENDED CITY RESPONSES - 50+ MORE CITIES (2000+ variations)
 // ============================================================================
 export const extendedCityResponses = {
@@ -1074,4 +1075,6 @@ export const getComprehensiveBotResponse = (userMessage) => {
 };
 
 // Export the comprehensive function as the main one
-export { getComprehensiveBotResponse as getBotResponse };
+// (getBotResponse is already defined above; keep comprehensive export under a different name)
+export { getComprehensiveBotResponse as getEnhancedComprehensiveBotResponse };
+
