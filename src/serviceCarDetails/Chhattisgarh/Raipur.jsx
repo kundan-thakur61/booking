@@ -4,6 +4,9 @@ import { useBooking } from '../../context/BookingContext';
 import { services } from '../../data/Chhattisgarh/Raipurservices';
 import Header from '../../components/Header';
 import { trackEvent } from '../../utils/analytics';
+import EnhancedSEO from '../../components/EnhancedSEO';
+import { buildLocalBusinessSchema, buildFAQSchema } from '../../utils/advancedSchema';
+
 
 const phone = "9324881345";
 
@@ -50,6 +53,26 @@ const RaipurServiceDetail = () => {
   if (!service) {
     return (
       <div className="min-h-screen bg-neutral-50">
+      <EnhancedSEO
+        title={`${service?.name || 'Service'} in Raipur | BookEase Premium`}
+        description={`Book ${service?.name || 'premium escort services'} in Raipur. Verified profile, professional service, 24/7 available. Safe and discreet booking.`}
+        canonical={`https://www.escortmumbaii.in/${window.location.pathname}`}
+        image={service?.image || 'https://www.escortmumbaii.in/og-image.jpg'}
+        breadcrumbs={[
+          { name: 'Home', url: 'https://www.escortmumbaii.in' },
+          { name: 'Raipur', url: `https://www.escortmumbaii.in/${window.location.pathname.split('/').slice(0, -2).join('/')}` },
+          { name: service?.name || 'Service', url: `https://www.escortmumbaii.in/${window.location.pathname}` }
+        ]}
+        city="Raipur"
+        cityData={{
+          latitude: 20.5937,
+          longitude: 78.9629,
+          services: [
+            { name: service?.name || 'Escort Services', description: service?.description || 'Professional companion services' }
+          ]
+        }}
+      />
+
         <Header showBack title="Service Not Found" />
         <div className="container mx-auto px-4 py-16 text-center">
           <h1 className="text-3xl font-bold text-neutral-900 mb-4">Service Not Found</h1>

@@ -11,7 +11,8 @@ export default Goa
 
 
 // import React from 'react';
-// import SEO from '../components/SEO';
+// import EnhancedSEO from '../components/EnhancedSEO';
+import { buildLocalBusinessSchema, buildFAQSchema } from '../utils/advancedSchema';
 // import { Link } from 'react-router-dom';
 // import Header from '../components/Header';
 // import ServiceCard from '../components/ServiceCard';
@@ -70,13 +71,61 @@ export default Goa
 
 //   return (
 //     <div className="min-h-screen bg-neutral-50">
-//       <SEO
-//         title="Escorts in Goa — Verified Companions & Discreet Booking | BookEase"
-//         description="Browse 200+ verified companion profiles in Goa (Calangute, Baga, Anjuna). Discreet, safe, and professional bookings with verified providers."
-//         canonical="https://www.escortmumbaii.in/goa"
-//         jsonLd={[localBusinessSchema]}
-//         breadcrumbSchema={breadcrumbSchema}
-//       />
+//       <EnhancedSEO
+        title="Goa Escorts 2026 — 150+ Verified Profiles | BookEase"
+        description="✓ 150+ verified Goa escorts ✓ Panaji, Calangute, Baga ✓ Available tonight ✓ 24/7 service. Book premium companions with verified photos. Safe, discreet, professional. 18+ only."
+        canonical="https://www.escortmumbaii.in/goa"
+        image="https://www.escortmumbaii.in/goa-og.jpg"
+        breadcrumbs={[
+          { name: 'Home', url: 'https://www.escortmumbaii.in' },
+          { name: 'Cities', url: 'https://www.escortmumbaii.in/find-all-city' },
+          { name: 'Goa', url: 'https://www.escortmumbaii.in/goa' }
+        ]}
+        city="Goa"
+        cityData={{
+          latitude: 15.2993,
+          longitude: 74.124,
+          services: [
+            { name: 'Verified Escorts', description: 'Professional escorts in Goa' },
+            { name: 'Companion Services', description: 'Premium companion services' },
+            { name: 'Massage Services', description: 'Professional massage services' }
+          ]
+        }}
+        faqSchema={buildFAQSchema([
+          {
+            question: 'Are the escort profiles in Goa verified?',
+            answer: 'Yes, all profiles on our platform are verified with ID proof and authentic photos. We conduct thorough background checks to ensure safety and authenticity for all Goa bookings.'
+          },
+          {
+            question: 'What areas do you cover in Goa?',
+            answer: 'We cover all major areas of Goa including Panaji, Calangute, Baga, Anjuna, Candolim. Our companions are available across the city 24/7.'
+          },
+          {
+            question: 'How do I book an escort in Goa?',
+            answer: 'Simply browse profiles, select your preferred companion, and contact us via phone or WhatsApp. Our team will help you complete the booking process securely and discreetly.'
+          },
+          {
+            question: 'Is the service discreet in Goa?',
+            answer: 'Absolutely. Your privacy is our top priority. All bookings are handled with complete confidentiality, and our companions are professional and discreet throughout Goa.'
+          },
+          {
+            question: 'What are the rates for escorts in Goa?',
+            answer: 'Rates vary based on duration, service type, and companion experience. Contact us for exact pricing and availability in Goa.'
+          }
+        ])}
+        jsonLd={[buildLocalBusinessSchema({
+          city: 'Goa',
+          state: 'Goa',
+          latitude: 15.2993,
+          longitude: 74.124,
+          url: 'https://www.escortmumbaii.in/goa',
+          services: [
+            { name: 'Verified Escorts', description: 'Professional verified escort services in Goa' },
+            { name: 'Companion Services', description: 'Premium companion services for events and occasions' },
+            { name: 'Massage Services', description: 'Professional massage and relaxation services' }
+          ]
+        })]}
+      />
 
 //       <Header showBack title="Goa Escorts" />
 

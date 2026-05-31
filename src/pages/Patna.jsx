@@ -11,7 +11,8 @@ export default Patna
 
 
 // import React from 'react';
-// import SEO from '../components/SEO';
+// import EnhancedSEO from '../components/EnhancedSEO';
+import { buildLocalBusinessSchema, buildFAQSchema } from '../utils/advancedSchema';
 // import { Link } from 'react-router-dom';
 // import Header from '../components/Header';
 // import ServiceCard from '../components/ServiceCard';
@@ -70,13 +71,61 @@ export default Patna
 
 //   return (
 //     <div className="min-h-screen bg-neutral-50">
-//       <SEO
-//         title="Escorts in Patna — Verified Companions & Discreet Booking | BookEase"
-//         description="Browse 200+ verified companion profiles in Patna (Boring Road, Kankarbagh, Bailey Road). Discreet, safe, and professional bookings."
-//         canonical="https://www.escortmumbaii.in/patna"
-//         jsonLd={[localBusinessSchema]}
-//         breadcrumbSchema={breadcrumbSchema}
-//       />
+//       <EnhancedSEO
+        title="Patna Escorts 2026 — 100+ Verified Profiles | BookEase"
+        description="✓ 100+ verified Patna escorts ✓ Boring Road, Kankarbagh, Patliputra ✓ Available tonight ✓ 24/7 service. Book premium companions with verified photos. Safe, discreet, professional. 18+ only."
+        canonical="https://www.escortmumbaii.in/patna"
+        image="https://www.escortmumbaii.in/patna-og.jpg"
+        breadcrumbs={[
+          { name: 'Home', url: 'https://www.escortmumbaii.in' },
+          { name: 'Cities', url: 'https://www.escortmumbaii.in/find-all-city' },
+          { name: 'Patna', url: 'https://www.escortmumbaii.in/patna' }
+        ]}
+        city="Patna"
+        cityData={{
+          latitude: 25.5941,
+          longitude: 85.1376,
+          services: [
+            { name: 'Verified Escorts', description: 'Professional escorts in Patna' },
+            { name: 'Companion Services', description: 'Premium companion services' },
+            { name: 'Massage Services', description: 'Professional massage services' }
+          ]
+        }}
+        faqSchema={buildFAQSchema([
+          {
+            question: 'Are the escort profiles in Patna verified?',
+            answer: 'Yes, all profiles on our platform are verified with ID proof and authentic photos. We conduct thorough background checks to ensure safety and authenticity for all Patna bookings.'
+          },
+          {
+            question: 'What areas do you cover in Patna?',
+            answer: 'We cover all major areas of Patna including Boring Road, Kankarbagh, Patliputra, Rajendra Nagar, Fraser Road. Our companions are available across the city 24/7.'
+          },
+          {
+            question: 'How do I book an escort in Patna?',
+            answer: 'Simply browse profiles, select your preferred companion, and contact us via phone or WhatsApp. Our team will help you complete the booking process securely and discreetly.'
+          },
+          {
+            question: 'Is the service discreet in Patna?',
+            answer: 'Absolutely. Your privacy is our top priority. All bookings are handled with complete confidentiality, and our companions are professional and discreet throughout Patna.'
+          },
+          {
+            question: 'What are the rates for escorts in Patna?',
+            answer: 'Rates vary based on duration, service type, and companion experience. Contact us for exact pricing and availability in Patna.'
+          }
+        ])}
+        jsonLd={[buildLocalBusinessSchema({
+          city: 'Patna',
+          state: 'Bihar',
+          latitude: 25.5941,
+          longitude: 85.1376,
+          url: 'https://www.escortmumbaii.in/patna',
+          services: [
+            { name: 'Verified Escorts', description: 'Professional verified escort services in Patna' },
+            { name: 'Companion Services', description: 'Premium companion services for events and occasions' },
+            { name: 'Massage Services', description: 'Professional massage and relaxation services' }
+          ]
+        })]}
+      />
 
 //       <Header showBack title="Patna Escorts" />
 

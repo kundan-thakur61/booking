@@ -126,7 +126,7 @@ const OptimizedImage = ({
           className={`absolute inset-0 w-full h-full transition-opacity duration-300 ${
             isLoaded ? 'opacity-100' : 'opacity-0'
           } ${className}`}
-          style={{ objectFit, objectPosition: 'center' }}
+          style={{ objectFit, objectPosition: 'center', filter: 'blur(8px)' }}
           onLoad={handleLoad}
           onError={handleError}
           decoding="async"

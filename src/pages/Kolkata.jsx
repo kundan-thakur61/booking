@@ -1,5 +1,6 @@
 import React from 'react';
-import SEO from '../components/SEO';
+import EnhancedSEO from '../components/EnhancedSEO';
+import { buildLocalBusinessSchema, buildFAQSchema } from '../utils/advancedSchema';
 import { Link } from 'react-router-dom';
 import Header from '../components/Header';
 import ServiceCard from '../components/ServiceCard';
@@ -58,12 +59,60 @@ const Kolkata = () => {
 
   return (
     <div className="min-h-screen bg-neutral-50">
-      <SEO
-        title="Escorts in Kolkata — Verified Companions & Discreet Booking | BookEase"
-        description="Browse 200+ verified companion profiles in Kolkata (Park Street, Salt Lake, New Town). Discreet, safe, and professional bookings."
+      <EnhancedSEO
+        title="Kolkata Escorts 2026 — 180+ Verified Profiles | BookEase"
+        description="✓ 180+ verified Kolkata escorts ✓ Park Street, Salt Lake, Ballygunge ✓ Available tonight ✓ 24/7 service. Book premium companions with verified photos. Safe, discreet, professional. 18+ only."
         canonical="https://www.escortmumbaii.in/kolkata"
-        jsonLd={[localBusinessSchema]}
-        breadcrumbSchema={breadcrumbSchema}
+        image="https://www.escortmumbaii.in/kolkata-og.jpg"
+        breadcrumbs={[
+          { name: 'Home', url: 'https://www.escortmumbaii.in' },
+          { name: 'Cities', url: 'https://www.escortmumbaii.in/find-all-city' },
+          { name: 'Kolkata', url: 'https://www.escortmumbaii.in/kolkata' }
+        ]}
+        city="Kolkata"
+        cityData={{
+          latitude: 22.5726,
+          longitude: 88.3639,
+          services: [
+            { name: 'Verified Escorts', description: 'Professional escorts in Kolkata' },
+            { name: 'Companion Services', description: 'Premium companion services' },
+            { name: 'Massage Services', description: 'Professional massage services' }
+          ]
+        }}
+        faqSchema={buildFAQSchema([
+          {
+            question: 'Are the escort profiles in Kolkata verified?',
+            answer: 'Yes, all profiles on our platform are verified with ID proof and authentic photos. We conduct thorough background checks to ensure safety and authenticity for all Kolkata bookings.'
+          },
+          {
+            question: 'What areas do you cover in Kolkata?',
+            answer: 'We cover all major areas of Kolkata including Park Street, Salt Lake, Ballygunge, Alipore, New Town. Our companions are available across the city 24/7.'
+          },
+          {
+            question: 'How do I book an escort in Kolkata?',
+            answer: 'Simply browse profiles, select your preferred companion, and contact us via phone or WhatsApp. Our team will help you complete the booking process securely and discreetly.'
+          },
+          {
+            question: 'Is the service discreet in Kolkata?',
+            answer: 'Absolutely. Your privacy is our top priority. All bookings are handled with complete confidentiality, and our companions are professional and discreet throughout Kolkata.'
+          },
+          {
+            question: 'What are the rates for escorts in Kolkata?',
+            answer: 'Rates vary based on duration, service type, and companion experience. Contact us for exact pricing and availability in Kolkata.'
+          }
+        ])}
+        jsonLd={[buildLocalBusinessSchema({
+          city: 'Kolkata',
+          state: 'West Bengal',
+          latitude: 22.5726,
+          longitude: 88.3639,
+          url: 'https://www.escortmumbaii.in/kolkata',
+          services: [
+            { name: 'Verified Escorts', description: 'Professional verified escort services in Kolkata' },
+            { name: 'Companion Services', description: 'Premium companion services for events and occasions' },
+            { name: 'Massage Services', description: 'Professional massage and relaxation services' }
+          ]
+        })]}
       />
 
       <Header showBack title="Kolkata Escorts" />

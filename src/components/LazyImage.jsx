@@ -114,6 +114,7 @@ const LazyImage = ({
           style={{
             objectFit,
             objectPosition,
+            filter: 'blur(8px)',
           }}
           onLoad={handleLoad}
           onError={handleError}

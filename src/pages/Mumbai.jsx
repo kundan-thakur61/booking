@@ -1,8 +1,8 @@
 import React from 'react';
-import SEO from '../components/SEO';
+import EnhancedSEO from '../components/EnhancedSEO';
 import { Link } from 'react-router-dom';
 import Header from '../components/Header';
-import { generateLocalBusinessSchema, generateBreadcrumbSchema, generateCityFAQSchema } from '../utils/localBusinessSchema';
+import { buildLocalBusinessSchema, buildBreadcrumbSchema, buildFAQSchema } from '../utils/advancedSchema';
 
 const phone = "9324881345";
 
@@ -41,44 +41,52 @@ const Mumbai = () => {
     }
   ];
 
-  // Generate structured data
-  const localBusinessSchema = generateLocalBusinessSchema({
+  // Generate structured data using advanced schema builders
+  const localBusinessSchema = buildLocalBusinessSchema({
     city: "Mumbai",
-    profileCount: "500+",
-    areas: popularAreas.map(a => a.name),
-    phone: `+91-${phone}`,
-    rating: 4.8,
-    reviewCount: 1523
+    state: "Maharashtra",
+    latitude: 19.0760,
+    longitude: 72.8777,
+    url: "https://www.escortmumbaii.in/mumbai",
+    services: [
+      { name: "Verified Escorts", description: "Professional verified escort services in Mumbai with ID-verified profiles" },
+      { name: "Companion Services", description: "Premium companion services for events, dinners, and social occasions" },
+      { name: "Massage Services", description: "Professional massage and relaxation services by verified companions" }
+    ]
   });
 
-  const breadcrumbSchema = generateBreadcrumbSchema([
+  const breadcrumbSchema = buildBreadcrumbSchema([
     { name: "Home", url: "https://www.escortmumbaii.in/" },
     { name: "Mumbai Escorts", url: "https://www.escortmumbaii.in/mumbai" }
   ]);
 
-  const faqSchema = generateCityFAQSchema("Mumbai", cityFAQs);
+  const faqSchema = buildFAQSchema(cityFAQs.map(faq => ({
+    question: faq.question,
+    answer: faq.answer
+  })));
 
   return (
     <div className="min-h-screen bg-neutral-50">
-      <SEO
+      <EnhancedSEO
         title="Mumbai Escorts 2026 — 500+ Verified Profiles | BookEase"
         description="✓ 500+ verified Mumbai escorts ✓ Andheri, Bandra, Juhu ✓ Available tonight ✓ 24/7 service. Book premium companions with verified photos. Safe, discreet, professional. 18+ only."
         canonical="https://www.escortmumbaii.in/mumbai"
         image="https://www.escortmumbaii.in/mumbai-og.jpg"
-        entityType="localBusiness"
-        lang="en-IN"
-        jsonLd={[localBusinessSchema]}
-        faqSchema={faqSchema}
-        breadcrumbSchema={breadcrumbSchema}
-        meta={[
-          { name: 'keywords', content: 'Mumbai escorts 2026, verified Mumbai escorts, 500+ profiles, Andheri escorts, Bandra escorts, Juhu escorts, available tonight, Mumbai escort services' },
-          { name: 'geo.region', content: 'IN-MH' },
-          { name: 'geo.placename', content: 'Mumbai' },
-          { name: 'geo.position', content: '19.0760;72.8777' },
-          { name: 'ICBM', content: '19.0760, 72.8777' }
+        breadcrumbs={[
+          { name: "Home", url: "https://www.escortmumbaii.in/" },
+          { name: "Mumbai Escorts", url: "https://www.escortmumbaii.in/mumbai" }
         ]}
         city="Mumbai"
-        serviceName="Verified Escort Services"
+        cityData={{
+          latitude: 19.0760,
+          longitude: 72.8777,
+          services: [
+            { name: "Verified Escorts", description: "Professional escorts in Mumbai" },
+            { name: "Companions", description: "Premium companion services" }
+          ]
+        }}
+        faqSchema={faqSchema}
+        jsonLd={[localBusinessSchema]}
       />
 
       <Header />

@@ -197,13 +197,12 @@
   /* Link styles */
   a {
     color: var(--color-primary-600);
-    text-decoration: underline;
+    text-decoration: none;
     transition: color 0.2s ease-out;
   }
 
   a:hover {
     color: var(--color-primary-700);
-    text-decoration-thickness: 2px;
   }
 
   /* List styles */

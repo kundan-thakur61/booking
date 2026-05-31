@@ -40,6 +40,7 @@ const BakecaIncontri          = lazy(() => import('./pages/BakecaIncontri'));
 
 // Info / legal / support pages
 const Blog                    = lazy(() => import('./pages/Blog'));
+const Chat                    = lazy(() => import('./pages/Chat'));
 const ContactUs               = lazy(() => import('./pages/ContactUs'));
 const HelpCenter              = lazy(() => import('./pages/HelpCenter'));
 const MasterSEORanking        = lazy(() => import('./pages/MasterSEORanking'));
@@ -110,6 +111,7 @@ export default function App() {
 
             {/* ── Info / support / legal ─────────────────────────────────── */}
             <Route path="/blog"               element={<Blog />} />
+            <Route path="/chat"               element={<Chat />} />
             <Route path="/contact-us"         element={<ContactUs />} />
             <Route path="/help-center"        element={<HelpCenter />} />
             <Route path="/master-seo-ranking" element={<MasterSEORanking />} />

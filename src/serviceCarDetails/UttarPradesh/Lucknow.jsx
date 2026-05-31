@@ -4,6 +4,9 @@ import { useBooking } from '../../context/BookingContext';
 import { services } from '../../data/Uttar Pradesh/Lucknowservices';
 import Header from '../../components/Header';
 import { trackEvent } from '../../utils/analytics';
+import EnhancedSEO from '../../components/EnhancedSEO';
+import { buildLocalBusinessSchema, buildFAQSchema } from '../../utils/advancedSchema';
+
 
 const phone = "9324881345";
 
@@ -50,6 +53,26 @@ const LucknowServiceDetail = () => {
   if (!service) {
     return (
       <div className="min-h-screen bg-neutral-50">
+      <EnhancedSEO
+        title={`${service?.name || 'Service'} in Lucknow | BookEase Premium`}
+        description={`Book ${service?.name || 'premium escort services'} in Lucknow. Verified profile, professional service, 24/7 available. Safe and discreet booking.`}
+        canonical={`https://www.escortmumbaii.in/${window.location.pathname}`}
+        image={service?.image || 'https://www.escortmumbaii.in/og-image.jpg'}
+        breadcrumbs={[
+          { name: 'Home', url: 'https://www.escortmumbaii.in' },
+          { name: 'Lucknow', url: `https://www.escortmumbaii.in/${window.location.pathname.split('/').slice(0, -2).join('/')}` },
+          { name: service?.name || 'Service', url: `https://www.escortmumbaii.in/${window.location.pathname}` }
+        ]}
+        city="Lucknow"
+        cityData={{
+          latitude: 26.8467,
+          longitude: 80.9462,
+          services: [
+            { name: service?.name || 'Escort Services', description: service?.description || 'Professional companion services' }
+          ]
+        }}
+      />
+
         <Header showBack title="Service Not Found" />
         <div className="container mx-auto px-4 py-16 text-center">
           <h1 className="text-3xl font-bold text-neutral-900 mb-4">Service Not Found</h1>
