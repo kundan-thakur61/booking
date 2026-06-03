@@ -2,7 +2,7 @@
   {
     id: "imphal-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "INDIPENDENT💸 𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 PAYMENT HAND TO HAND FULL SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE 24X7 AVAILABLE",
     image: "https://i.pinimg.com/originals/0c/13/4a/0c134a36316bdbd6eb4d149f09afa832.jpg",
     images: [
       "https://i.pinimg.com/originals/7b/08/b3/7b08b36d6c2ba81e82d493323b92a9da.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "imphal",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "INDIPENDENT💸 𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 PAYMENT HAND TO HAND FULL SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE 24X7 AVAILABLE college girl model VIP available full service",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "imphal-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in imphal.",
+    description: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
     image: "https://i.pinimg.com/originals/7f/b4/a9/7fb4a9e45a108548fc34e2496be53e4d.jpg",
     images: [
       "https://i.pinimg.com/originals/b7/ff/8c/b7ff8c9ef3189d77a2eb9b0def906422.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "imphal",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "imphal-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "NO ANY ADVANCE PAYMENT HAND TO HAND PAYMENT ANAL,LIP TO LIP KISS, PUSHY LIKS,BLOJOB WITH OUT CONDOM, DOGGY STYLE,69 POSSITION A TO Z COMPLETE SERVICE.",
     image: "https://i.pinimg.com/originals/2e/3b/b7/2e3bb713b6d1223afc73d3f47154c408.jpg",
     images: [
       "https://i.pinimg.com/originals/40/fd/db/40fddba27691c0db8bacbf2e4d8ba768.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "imphal",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "NO ADVANCE PAYMENT GENUINE SERVICE FULL B2B TO BODY MASSAGE WITH UNLIMITED SHOT 24 HOURS AVAILABLE HOME AND HOTEL SERVICE. ✈️ HOTEL & HOME SEX 100% REAL SERVICE.✅ No advance here, Payment after service Andheri, Thane,Daisher, Chembur and other place…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "imphal-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hi,im swati providing you the best massage service in rani bagh new delhi onlyonce you avail our service you wont go anywhere in future",
     image: "https://i.pinimg.com/originals/2d/2c/be/2d2cbefa8187d4091df02cfd83c10bc8.jpg",
     images: [
       "https://i.pinimg.com/originals/76/fd/8d/76fd8d12c6a290a933f0522e708c6428.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "imphal",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi,im swati providing you the best massage service in rani bagh new delhi only.you can relax your self in our centre with trained therapist with various massage and services NURU MASSAGE KERALA MASSAGE DEEP TISSUE MASSAGE B2B MASSAGE HOT OIL MASSAGE",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "imphal-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Bangalore LOW RATE (VIDHI CALL GIRLS) ESCORT FULL HARD FUCK WITH NAUGHTY IF YOU WANT TO FUCK MY PINK PUSSY WITH BIG BOOBS A",
     image: "https://i.pinimg.com/originals/8e/fc/ba/8efcbad7c8740b0447c01cc2b792a5f6.jpg",
     images: [
       "https://i.pinimg.com/originals/3b/41/3e/3b413efcf08af3db0705b9c57da28b1b.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "imphal",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "LOVELY HOTTY 👅💏 HI MODELS COLLEGE GIRLS👅💋 HI PROFILE VERY NAUGHTY💦📞👙 💥ANAL SEX💥 BDSM💥 POSE💥LIP KISS💥 DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANCE💥 BOOBS RUBBING💥 LICKING💥HAND JOB 💏GIRLFRIEND EXPERIENCE💏 EROTIC MASSAGE💥 💥 SEX IN DIFFERENT…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "imphal-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in imphal.",
+    description: "GENUINE SERVICE AVAILABLE DIRECT HAND TO HAND CASH PAYMENT NO ADVANCE NO EXTRA CHARGES",
     image: "https://i.pinimg.com/originals/a6/13/57/a61357a613116bc975329ecb20814892.jpg",
     images: [
       "https://i.pinimg.com/originals/c1/ef/0f/c1ef0fbcc3c30119b476df28d8b76c0c.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "imphal",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Direct Meeting Direct Payment Before Service Cash or UPI. ▪♨️ No Booking Charges or No Online Advance Payment Service Details :- ▪♨️ Full Open Nude Sex Without any Dess With 100% Satisfaction. ▪♨️ BlowJob Oral Sex Pussy Licking Boobs Sucking69 Style…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

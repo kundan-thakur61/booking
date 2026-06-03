@@ -2,7 +2,7 @@
   {
     id: "jorhat-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "NO ADVANCE ONLY CASH HAND TO HAND PAYMENT GENUINE SERVICE IN ALL BANGLORE COLLEGE GIRLS",
     image: "https://i.pinimg.com/originals/5a/6f/64/5a6f64d142418bf345a516cf8a89c76b.jpg",
     images: [
       "https://i.pinimg.com/originals/5a/85/40/5a8540dcc0cb03916925f82388faf832.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "jorhat",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Bangalore)✅ONLY CASH PAYMENT ⭐100% GENUINE SAME PROFILE HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100%…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "jorhat-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in jorhat.",
+    description: "🙏🏼No advance only 3000 unlimited shots coustomer satisfaction service ♥️",
     image: "https://i.pinimg.com/originals/5a/bc/bd/5abcbd7ffdde9b302946aa4d10a530b4.jpg",
     images: [
       "https://i.pinimg.com/originals/5a/e3/72/5ae3721b17b2b52195fde47f0c882735.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "jorhat",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Call me:- Ritu Sharma Hotel and home service available 100% genuine service full satisfactionLocation:- Andheri, Sakinaka, Mora, Andheri airport, Chakala, Powai, Dadar, Bandra, Kurla, Chembur, Malad, Santacruz,Vile Parle, Mira Road, Goregaon,…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "jorhat-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "✅✅ My SELF NEHA INDEPENDENT CALL GIRL AVAILABLE FOR OUTCALLL GENUINE MEET SERVICES. AVAILABLE 24/7",
     image: "https://i.pinimg.com/originals/5b/08/e2/5b08e2ac811d732a528426bbb00aec1a.jpg",
     images: [
       "https://i.pinimg.com/originals/5b/4b/e4/5b4be424c130b7649666c6ce91c16bbc.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "jorhat",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hey dear. Service available now. Full service. Shot with protection bj without protection all type kissing. . Anal. All type kissing. Full service without any restriction. . . If you have your own place you have to pay some advance for. . Hotel -all…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "jorhat-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "All' Delhi available 1 hour 2000 2 hour 3000 Full nyt 6000",
     image: "https://i.pinimg.com/originals/5b/5b/be/5b5bbeed218bd10be459f1748fbcadcc.jpg",
     images: [
       "https://i.pinimg.com/originals/5b/5f/51/5b5f5102bf473b18058ba7452743e357.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "jorhat",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "HELLO GENTLEMAN CALL & WHATSAPP ONLY GENUINE PERSON GENUINE REAL MEET DOOR-STEP SERVICE AVAILABLE CALL OR WHATSAP ME NOW 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗔𝗹𝗹 𝗛𝗢𝗧𝗘𝗟𝗦 𝗜𝗡 GUARANTEE FULL SATISFACTION & IN CASE OF ANY UNHAPPY EXPERIENCE, WE WOULD REFUND YOUR FEES, WITHOUT ANY QUESTIONS ASKED.FEEL FREE TO CALL US FEMALE SERVICE PROVIDER HOURS OPENS... ▀ 𝐈𝐍𝐃𝐄𝐏𝐄𝐍𝐃𝐄𝐍𝐓 CALL 𝐆𝐈𝐑𝐋…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "jorhat-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "❤Demo 50rs 💓Hi, I Am Genuine💓 College Girl Nude Chat Video Call Service With Voice Also Full 50rs No security change no extra charge",
     image: "https://i.pinimg.com/originals/5b/aa/46/5baa46c3256b5dd9cff3be56ad8c346e.jpg",
     images: [
       "https://i.pinimg.com/originals/5b/c6/de/5bc6de71324fbe9a64905cf0150a6789.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "jorhat",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "💦/Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge and make ur mood happy👩‍❤️‍👨 ❤ full nude service call service ❤ phone call sex ❤ sex chat ❤ sex education ❤ maximum satisfied customer we…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "jorhat-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in jorhat.",
+    description: "HAND TO HAND CASH PAYMENT NO ADVANCE NO EXTRA PAYMENT ME",
     image: "https://i.pinimg.com/originals/5c/2c/c9/5c2cc9367a2953d9e2368b8cb4df1c44.jpg",
     images: [
       "https://i.pinimg.com/originals/5c/3f/69/5c3f69e31257ed52dbcd4e5c005f7c6d.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "jorhat",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "I'm independent call girl And I am a girl from a poor family, I am sure that I will satisfy you, my height is 166 cm and my weight is 50 kgs, I am a very hot guy, I hope you will like me.",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

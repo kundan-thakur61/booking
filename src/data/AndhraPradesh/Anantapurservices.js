@@ -2,7 +2,7 @@
   {
     id: "anantapur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Genuine Horny Bhabhi for Services(free Confirmation)",
     image: "https://i.pinimg.com/originals/07/c1/d6/07c1d65365ba605914d344870e6bafd7.jpg",
     images: [
       "https://i.pinimg.com/originals/08/00/ee/0800ee817ef1a3104b8d35de51e7ff48.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "anantapur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hello guys, This is jivika 26 yr old married having busty body available for live services. Free voice confirmation. Plz Contact me on. WhatsApp. My pics r attached",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "anantapur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in anantapur.",
+    description: "All delhi available ✨❣️ Full safe and secure Genuine CALL-GIRL Service incall and out call available",
     image: "https://i.pinimg.com/originals/08/74/99/087499a13cdc123fde18e00b373a75c6.jpg",
     images: [
       "https://i.pinimg.com/originals/08/85/4c/08854c2f5a95db439cd017950cc0a025.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "anantapur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "FULL B2B MASSAGE AND FULL SEXUAL SERVICE INCALL & OUTCALL AVAILABLE ENJOY B2B NUDE SEX/ SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE BOOB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS OF MUMBAI Call/ WhatsApp Ankita (Incall/Outcall Cash…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "anantapur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "I’m seeking trust woman, well minded",
     image: "https://i.pinimg.com/originals/08/90/f9/0890f9d1c20521702517baa1f1027bed.jpg",
     images: [
       "https://i.pinimg.com/originals/08/93/f3/0893f356b1ee064d01651604c941946d.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "anantapur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "anantapur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Rs 1000 (HyderNgr) - Full Nude🩱Body Massage in Kukatpally JNTU HyderNagar💗KPHB B2B Body massage Spa with BJ🍌 - Kukatpally / JNTU / HyderNagar",
     image: "https://i.pinimg.com/originals/08/a7/77/08a777d078078cbbaaa8d33750c9a772.jpg",
     images: [
       "https://i.pinimg.com/originals/09/01/4d/09014db485d8ffed332d2b315629eaf4.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "anantapur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Kukatpally Massage Spa Massage starting form 1000/- HyderNagar Massage Spa Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "anantapur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "BODY massage for doorstep",
     image: "https://i.pinimg.com/originals/09/4f/2a/094f2a721791a3ebb66279f74d2ca60f.jpg",
     images: [
       "https://i.pinimg.com/originals/09/67/bc/0967bc79464d33e81c307230c602169f.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "anantapur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "BODY massage for doorstep Full cash payment home service Hotel both available Massage with full sarvice available I like girl friend experience blowjab anal french kiss Hand to hand payment no advance payment Plz genuine client masage plz don't time…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "anantapur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in anantapur.",
+    description: "✅✅ yah gentleman I'm aarti available for genuine meet service. All cash payment in hand",
     image: "https://i.pinimg.com/originals/09/7f/43/097f43faa8c52d061eb620e79f7c5364.jpg",
     images: [
       "https://i.pinimg.com/originals/09/c2/52/09c25276c003fbf599b16bdfc857a4b6.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "anantapur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hey Aarti hare . Text me for real meet . . All cash payment. Camshow available now. 24/7",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

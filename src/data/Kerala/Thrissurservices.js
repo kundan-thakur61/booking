@@ -2,7 +2,7 @@
   {
     id: "thrissur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Offer for couples. Single please stay away",
     image: "https://i.pinimg.com/originals/ae/26/fb/ae26fbc752b0fd81734fedce5589c893.jpg",
     images: [
       "https://i.pinimg.com/originals/30/0d/df/300ddf2f435a49e648755fcc56ce2ad4.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "thrissur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hello couples and single females, I am Rajeev, age 35 years from Delhi, visiting Bengaluru from 4th June 2026 to 6th June and will stay at Holiday inn yeshwantpur. If you want to explore the special naughty things along with your partner then your…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "thrissur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in thrissur.",
+    description: "✍🏻 Directly Meeting Bangalore Electronic City In Call Out Call Avl🤙🏻Nude Video Call 100 5 minutes Vc Full Open Body Show figure and voice ka sath",
     image: "https://i.pinimg.com/originals/4b/4e/44/4b4e4453be109cb38d18be166817ddbe.jpg",
     images: [
       "https://i.pinimg.com/originals/a1/65/00/a16500b54750010b58ac240bc5882964.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "thrissur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "My name is masuma from electronic City",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "thrissur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "All' Delhi available 1 hour 2000 2 hour 3000 Full nyt 6000",
     image: "https://i.pinimg.com/originals/35/17/cf/3517cf91f8ea6c413bce1bd7eb3588ae.jpg",
     images: [
       "https://i.pinimg.com/originals/14/49/84/14498426bfbdc6299bd6af6111652e98.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "thrissur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "HELLO GENTLEMAN CALL & WHATSAPP ONLY GENUINE PERSON GENUINE REAL MEET DOOR-STEP SERVICE AVAILABLE CALL OR WHATSAP ME NOW 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗔𝗹𝗹 𝗛𝗢𝗧𝗘𝗟𝗦 𝗜𝗡 GUARANTEE FULL SATISFACTION & IN CASE OF ANY UNHAPPY EXPERIENCE, WE WOULD REFUND YOUR FEES, WITHOUT ANY QUESTIONS ASKED.FEEL FREE TO CALL US FEMALE SERVICE PROVIDER HOURS OPENS... ▀ 𝐈𝐍𝐃𝐄𝐏𝐄𝐍𝐃𝐄𝐍𝐓 CALL 𝐆𝐈𝐑𝐋…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "thrissur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Only video call service 24 hours available full nude with face service confirmation only voice call",
     image: "https://i.pinimg.com/originals/5a/ea/c9/5aeac9b08ab1e15e0bbdbde8a8b23d75.jpg",
     images: [
       "https://i.pinimg.com/originals/cc/f2/98/ccf298c1131e844b75ae65a2040141a3.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "thrissur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Only video call service 24 hours available full nude with face service confirmation only voice call",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "thrissur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 DIRECT🌿💞 PAYMENT CALL GIRLS PREMIUM ESCORT INDIAN TOP MODELS PROFILE",
     image: "https://i.pinimg.com/originals/91/67/4f/91674fc8c39c84b28cc4fd2e55ecae67.jpg",
     images: [
       "https://i.pinimg.com/originals/8e/1b/ba/8e1bba7524cf0824feb5819968a4f4ab.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "thrissur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "About me Hello, Sir. I am at your service. I offer my services on a cash-payment basis and will ensure your complete satisfaction. I am confident that you will be pleased with my services. Please refrain from messaging me merely to pass the time; for…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "thrissur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in thrissur.",
+    description: "💥 NO NEED ANY ADVANCE PAYMENT, ONLY HAND TO HAND CASH PAYMENT, VIP GENUINE INDEPENDENT CALL GIRL💥",
     image: "https://i.pinimg.com/originals/f7/1d/cc/f71dcc208ca62fa99df94346516133a1.jpg",
     images: [
       "https://i.pinimg.com/originals/9d/86/56/9d8656dccaadfb001bb2082272896d42.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "thrissur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "✅ NO NEED ANY ADVANCE PAYMENT ✅ 💯 ONLY FOR CASH PAYMENT HAND TO HAND 💯 💕 100% GENUINE AND SECURE SERVICE SENTER 💕 ✌ HELLO GUYS 🕺🕺🕺 VIP GENUINE AND SECURE SERVICE AVAILABLE HERE🕺🕺🕺 🫂 FULL FRIENDLY 🫂 FULL COOPERATIVE 🫂 LIKE GIRLFRIEND EXPERIENCE 🫂 100%…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

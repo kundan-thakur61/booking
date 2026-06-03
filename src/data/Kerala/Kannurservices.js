@@ -2,7 +2,7 @@
   {
     id: "kannur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "NO ADVANCE ONLY HAND CASH PAYMENT ANAL ORALS KISSING BLUJUB 24 HOURS AVAILABLE SERVICE IN HYDERABAD GENIUNE HOT GIRLS UNLIMITED SHOT FULL SERVICE",
     image: "https://i.pinimg.com/originals/d9/f2/87/d9f2870e5ae85fd70eacc4b91d0368a9.jpg",
     images: [
       "https://i.pinimg.com/originals/63/e6/29/63e62900cd157743bbb2b09509057205.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "kannur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "No NEED ANY ADVANCE HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR bbs96 COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential and no information is provided to any one at any cost. ★ EXCLUSIVE PROFILes…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "kannur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in kannur.",
+    description: "Kannada Hot Aunty Sexy' Video Call Service Full Nude All Audio Chat Phone Sex",
     image: "https://i.pinimg.com/originals/03/08/1f/03081f47591a30fefd15dc284f15ca68.jpg",
     images: [
       "https://i.pinimg.com/originals/c5/a4/d1/c5a4d1f050afcdf74a128dccf55fcc34.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "kannur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Kannada Hot Aunty Sexy' Video Call Service Full Nude All Audio Chat Phone Sex only genuine person message me on WhatsApp",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "kannur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "🚨 सावधान दल्लों से सावधान रहे:- Avoid scammer, हिजड़ा,sixerman ,fake profile and agent here.",
     image: "https://i.pinimg.com/originals/d9/6a/1a/d96a1a78007f9576351bc55b2eae7a51.jpg",
     images: [
       "https://i.pinimg.com/originals/6d/cd/2f/6dcd2fd07b36a32382e2e6425a926915.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "kannur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Nude live 🔴 𝗗𝗘𝗠𝗢 confirmation with voice available here,i needed genuine person only message me .. 🔴 𝗗𝗘𝗠𝗢 Livecallgirl (nude demo call once per user lifetime 🤙) 💋Full service with face and voice 💋Livecall ~ now ✅ 🆕 I'm Girl independent and self…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "kannur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "HYY I AM INDU INDEPENDENT GIRL VVIP SERVICE AVAILABLE CASH PAYMENT GENUINE PROFILE HOT SEXY MODEL 24HRS",
     image: "https://i.pinimg.com/originals/44/aa/80/44aa80e5b864264a9341a28118eb365b.jpg",
     images: [
       "https://i.pinimg.com/originals/dc/c1/7e/dcc17ed877e18410710823f21e8a366f.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "kannur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "HELLO I AM INDU WHATSAPP ONLY GENUINE PERSON GENUINE REAL MEET DOOR-STEP SERVICE AVAILABLE WHATSAP ME NOW 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗔𝗹𝗹 𝗛𝗢𝗧𝗘𝗟𝗦 𝗜𝗡 GUARANTEE FULL SATISFACTION & IN CASE OF ANY UNHAPPY EXPERIENCE, WE WOULD REFUND YOUR FEES, WITHOUT ANY QUESTIONS…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "kannur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Delhi 24/7 top best low price call girls sex service available 100% safe and secure",
     image: "https://i.pinimg.com/originals/5b/fe/15/5bfe15cbf4efc206ea5ed021eb40c419.jpg",
     images: [
       "https://i.pinimg.com/originals/84/96/aa/8496aa050175cde323eb5d0abe0bd874.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "kannur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "kannur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in kannur.",
+    description: "BOOBS🩷 SUCKING 🫦💦 FULL NUDE NURU MASSAGE WITH HAPPYENDING",
     image: "https://i.pinimg.com/originals/b2/c4/ae/b2c4ae1d462ee22d5fb92691223a8486.jpg",
     images: [
       "https://i.pinimg.com/originals/00/89/d6/0089d62085eb15150066002c9b0a0632.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "kannur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "OUR SPCL SERVICES: SEXY GIRLS ONLY AROMATHERAPY, SPA, HAPPY ENDING MASSAGE, NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE B0OB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS contact sweety Affordable Rate, 100 %…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

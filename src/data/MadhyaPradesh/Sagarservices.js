@@ -2,7 +2,7 @@
   {
     id: "sagar-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "GENUINE 77954 INDEPENDENT 44304ESCORT LTR HAND CASH PAYMENT TRULY",
     image: "https://i.pinimg.com/originals/d0/a4/b4/d0a4b41897b5f7cf2638ef2de874786b.jpg",
     images: [
       "https://i.pinimg.com/originals/8d/ef/f7/8deff7696ac17ea9c9348ab87e30dbb1.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "sagar",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Direct Meeting Direct Payment Before Service Cash or UPI. ▪♨️ No Booking Charges or No Online Advance Payment Service Details :- ▪♨️ Full Open Nude Sex Without any Dess With 100% Satisfaction. ▪♨️ BlowJob Oral Sex Pussy Licking Boobs Sucking69 Style…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "sagar-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in sagar.",
+    description: "ONLY💦 100 💨 I,M GENUINE COLLEGE GIRLS Full CALL SERVICE FULL SAFE AND SATISFIED CALL SERVICE REAL",
     image: "https://i.pinimg.com/originals/e7/88/1f/e7881f1ae7d985490a350687a1afdb14.jpg",
     images: [
       "https://i.pinimg.com/originals/7b/df/48/7bdf482b9686d624806fe2416db63fb5.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "sagar",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "ONLY💦 100 💨 I,M GENUINE COLLEGE GIRLS Full CALL SERVICE FULL SAFE AND SATISFIED CALL SERVICE REAL",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "sagar-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "TANI HERE TO MAKE YOUR DAY AND FORGETTABLE CONTACT ME FOR MORE DETAILS AND INFORMATION",
     image: "https://i.pinimg.com/originals/be/34/8c/be348c2a8698820f6a9f0cbb3020ac51.jpg",
     images: [
       "https://i.pinimg.com/originals/f7/4e/20/f74e209c5fe86b72b78a10dac7b1f2c1.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "sagar",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Contact me for more information I am waiting for your message and calls",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "sagar-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💯NO ADVANCE ONLY CASH PAYMENT AFTER THE MEET✅ HIGH CLASS PRIMIUM VVIP ESCORTS SERVICE IN BANGALORE",
     image: "https://i.pinimg.com/originals/3d/e4/e8/3de4e8f8b39b05f4acc888b2512ecaf5.jpg",
     images: [
       "https://i.pinimg.com/originals/bb/ba/90/bbba90ebb53d750d45839ef689cdd0fe.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "sagar",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Bangalore)✅ONLY CASH PAYMENT ⭐100% GENUINE SAME PROFILE HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100%…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "sagar-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hi it's genuine vc available",
     image: "https://i.pinimg.com/originals/00/80/15/008015846fa744e761291f08aa9041c7.jpg",
     images: [
       "https://i.pinimg.com/originals/b9/fb/18/b9fb18dc8a756a07387de5dcc25c7324.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "sagar",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hi it's genuine vc available",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "sagar-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in sagar.",
+    description: "Best body massage therapist in pune",
     image: "https://i.pinimg.com/originals/ef/59/77/ef5977dd286255cfc6799d32ddbbde13.jpg",
     images: [
       "https://i.pinimg.com/originals/89/5a/73/895a73732be9e6d5b24f10237bf772b6.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "sagar",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hi Ladies I am experienced body massager, special massage therepy reduce your stress and pain. If you are genuine female than I will be provided you the best massage services at doorstep, hotel. Please let me know if you are interested for best…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

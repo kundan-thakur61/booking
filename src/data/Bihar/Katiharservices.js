@@ -2,7 +2,7 @@
   {
     id: "katihar-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hy i am kannada hudgi nishu geninune video call service available",
     image: "https://i.pinimg.com/originals/89/b1/21/89b121206a620fee6f8caf6a07fd665a.jpg",
     images: [
       "https://i.pinimg.com/originals/89/be/d1/89bed1fb991cfea14423dfa1f2ab69aa.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "katihar",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "It's paid geninune video call service and it's only online service",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "katihar-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in katihar.",
+    description: "My name is Ruhi Patel i am independent college girl no broker ❌ no agency ill provide the without registration 👍",
     image: "https://i.pinimg.com/originals/8a/04/3b/8a043bb63bcae19c772b3bfef6affbf4.jpg",
     images: [
       "https://i.pinimg.com/originals/8a/23/78/8a23789fde6dd8d95ece3310e82cff21.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "katihar",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Dear Customers Are You Looking Call Girl Service In Bangalore,But Unable To Find Geniune Best One! Don't Worry,I'm Here To Full Fill Your All Requirment, My Name is Soniya I'M a Independent Call Girl and I Will Provide The Service Without Any Restriction without any Stupid Condition,You Just Connect With Me Through Whatsapp Or Teligram And Get…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "katihar-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "THE ZEN SPA OFFERS THAILAND STYLE SOAPY MASSAGE BY 2 GIRL & NURO TANTRIC B2B OIL MASSAGE BY HOT GIRLS",
     image: "https://i.pinimg.com/originals/8a/59/6c/8a596c0522d162117c5f3c3784751ec8.jpg",
     images: [
       "https://i.pinimg.com/originals/8a/75/59/8a7559ba071097b6a8a3b34acb7a65d8.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "katihar",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Welcome to \"THE ZEN SPA\" Body Massage in Bangalore ,If you are looking over for a Best Body Massage Center in Bangalore? Spa provides you with the world standard body massage. Contact us - 953-555-4703 experience the Best Body Massage in Bangalore.…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "katihar-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💃HIGH CLASS COLLEGE HOSTEL GIRLS INDEPENDENT OR HOTEL STAY AVAILABLE VERRY REASONABLE PRICE CONTACT PLEASE💃",
     image: "https://i.pinimg.com/originals/8a/bb/a3/8abba3ef43e3392518ec2764cef96395.jpg",
     images: [
       "https://i.pinimg.com/originals/8a/d6/0d/8ad60d8fa6aee717b72d15a13c7ccab1.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "katihar",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Escorts Service In Delhi- 8796- 155 -250📌𝐚𝐧𝐝 𝐊𝐢𝐬𝐬𝐢𝐧𝐠, 𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠 𝐋𝐢𝐩𝐥𝐨𝐜𝐤, 𝐃𝐞𝐞𝐩 𝐊𝐢𝐬𝐬, 𝐅𝐫𝐞𝐧𝐜𝐡 𝐊𝐢𝐬𝐬 100% satisfaction guaranteed",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "katihar-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "HAND TO HAND CASH PAYMENT NO ADVANCE NO EXTRA PAYMENT ME 💖",
     image: "https://i.pinimg.com/originals/8a/e7/1a/8ae71a631a6797fd00d73ba41c6a16d1.jpg",
     images: [
       "https://i.pinimg.com/originals/8a/e7/f9/8ae7f949b5bc29e4dbc323682df92cb1.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "katihar",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "katihar-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in katihar.",
+    description: "HEY I AM ARPITA NO ADVANCE FULL HAND TO HAND CASH PAYMENT IN HOTEL AND HOME",
     image: "https://i.pinimg.com/originals/8b/16/14/8b161472c9496e978704408afdd938e5.jpg",
     images: [
       "https://i.pinimg.com/originals/8b/2b/1b/8b2b1b13b86d1068abeb3c1e4fa1e6dd.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "katihar",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "💸💸 NO advance FULL CASH pay 💃 💦HOT & SEXY MODELS💃 // COLLEGE GIRLS💃 AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ % SATISFACTION,UNLIMITED ENJOYMENT. ★…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

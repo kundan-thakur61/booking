@@ -2,7 +2,7 @@
   {
     id: "jabalpur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "💥 Just Married Couples 🔥 💥",
     image: "https://i.pinimg.com/originals/d8/cf/4c/d8cf4cef932fc25899f6c1f7eebc08d1.jpg",
     images: [
       "https://i.pinimg.com/originals/3e/e9/20/3ee9205deb66932e4eadd4349b988605.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "jabalpur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "💑 Fresh Couple Vibes 😍 ❤️ Real Passion • Real Connection 🔒 Full Privacy Guaranteed ⚡ VIP Experience Only 👉 Hurry Up! Limited Availability ⏳",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "jabalpur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in jabalpur.",
+    description: "💫Live video call service 🎥 full open 💦 video call service Geniuen 🖤call girl fingering and voice call 📞Demo charges 100.5min♻️💐 Full enjoy fingerling",
     image: "https://i.pinimg.com/originals/18/54/88/18548831ef57167e10b7a1c6db8fc9b9.jpg",
     images: [
       "https://i.pinimg.com/originals/32/26/e2/3226e281fe8972554788f562ddef87e6.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "jabalpur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "💫Live video call service 🎥 full open 💦 video call service Geniuen 🖤call girl fingering and voice call 📞Demo charges 100.5min♻️💐 Full enjoy fingerling and voice sex 💞",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "jabalpur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct",
     image: "https://i.pinimg.com/originals/07/86/72/078672c545565ed43f22d65b8583f5bb.jpg",
     images: [
       "https://i.pinimg.com/originals/62/f7/8c/62f78cc8f0eb09350fa6bd411253cbdb.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "jabalpur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "No extra charge genuine people came here time pass direct block genuine people came here 24 HOUR",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "jabalpur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "SS SPA",
     image: "https://i.pinimg.com/originals/6b/03/2f/6b032f31baa47815091174876aaec253.jpg",
     images: [
       "https://i.pinimg.com/originals/94/90/d0/9490d09ebe21d93f62624ad72b2d6bd9.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "jabalpur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Best erotic massage and tantric massage nice heaven relaxation",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "jabalpur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Rs 1100 (Counter) - *Full Nude🩱Body Massage💗B2B Body massage Spa with BJ🍌 - Manikonda / Nanakramguda / Gachibowli / Shaikpet / Narsingi",
     image: "https://i.pinimg.com/originals/a1/05/f1/a105f1cf51c0c7f8a515aec42276f2bc.jpg",
     images: [
       "https://i.pinimg.com/originals/3a/97/a5/3a97a5217dd3cc6cfe5c56354031f40e.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "jabalpur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Manikonda Hot Massage Spa Massage starting form 1000/- Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "jabalpur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in jabalpur.",
+    description: "Mumbai. 💯% SAFE AND SECURE TODAY LOW PRICE HIGH PROFILE COLLAGE GIRL'S AVAILABLE",
     image: "https://i.pinimg.com/originals/c0/14/6b/c0146b7cc9807a0dc8346d9a53e283fa.jpg",
     images: [
       "https://i.pinimg.com/originals/21/7c/f3/217cf31dc0f73a9e5edd22e32477abfc.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "jabalpur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

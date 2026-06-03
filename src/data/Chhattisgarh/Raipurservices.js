@@ -2,7 +2,7 @@
   {
     id: "raipur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hot bhabhi full finger video call service big boobs live show",
     image: "https://i.pinimg.com/originals/af/20/3d/af203d7f5173cb94cbdb73e06e187c01.jpg",
     images: [
       "https://i.pinimg.com/originals/af/42/9c/af429c4a7b1137473743827021ce903a.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "raipur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Genuine bhabhi live show video call service sex chat voice call sex sex demo phone sex big boobs",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "raipur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in raipur.",
+    description: "3 mint video 95 pay nude 👈Genuine girl Video⚡call service full🍌🌹full satisfy open boobs rubbing fingerings come water of pussy💃🇮🇳Full open video call",
     image: "https://i.pinimg.com/originals/af/c5/da/afc5dab5e8c10ac5e0c737fabf6d54cd.jpg",
     images: [
       "https://i.pinimg.com/originals/af/c9/2e/afc92ed7c196c7cb29b528c26f77681a.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "raipur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "3 mint video 95 pay nude 👈Genuine girl Video⚡call service full🍌🌹full satisfy open boobs rubbing fingerings come water of pussy💃🇮🇳Full open video call service available⚡🇮🇳",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "raipur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Delhi 24/7 top best low price call girls sex service available 100% safe and secure",
     image: "https://i.pinimg.com/originals/b0/0b/7c/b00b7c64dccfa0ca92b8c54d0abbf07e.jpg",
     images: [
       "https://i.pinimg.com/originals/b0/1c/ad/b01cad50591d9482a1d07f5bf22a4cbd.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "raipur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "raipur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hi I saw your ad on skkoka only 50 full open video call service",
     image: "https://i.pinimg.com/originals/b0/2c/43/b02c43bfa7aa61bd2ec9c8cb494fe55b.jpg",
     images: [
       "https://i.pinimg.com/originals/b0/35/84/b03584d669bae4288fd82a1b7708bcb9.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "raipur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "👉🏼Full open video call service with. 👉🏼. voice full enjoy 👉🏼No time pass",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "raipur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "SS SPA",
     image: "https://i.pinimg.com/originals/b0/cc/c1/b0ccc1165511f1241bf588438dde4f97.jpg",
     images: [
       "https://i.pinimg.com/originals/b0/d8/48/b0d848eca7c5cbed475701cd95086403.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "raipur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Best erotic massage and tantric massage nice heaven relaxation",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "raipur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in raipur.",
+    description: "HAND TO HAND CASH PAYMENT HOT SLIM MODAL PRETTY GIRL Want To Fuck You Anytime... She Will Treat You Like Her Little Girlfriend In Bed",
     image: "https://i.pinimg.com/originals/b0/fd/37/b0fd37c08969832fc8c1fba3dcbd4beb.jpg",
     images: [
       "https://i.pinimg.com/originals/b1/09/69/b109691c436f38e97885923a8d0191d5.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "raipur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "I am independent call girl living alone looking honest and genuine guys for fun and enjoyment. I am available for both incall and outcall services at low charges. So, without any hesitation pick your cell phone and book me for shot and night…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

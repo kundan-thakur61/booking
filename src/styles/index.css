@@ -33,7 +33,9 @@
   
   /* === TYPOGRAPHY === */
   --font-family-display: 'Space Grotesk', system-ui, sans-serif;
-  --font-family-sans: 'Inter', system-ui, sans-serif;
+  /* Use system font stack (no external providers) */
+  --font-family-display: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  --font-family-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
   --font-size-xs: 0.75rem; /* 12px */
   --font-size-sm: 0.875rem; /* 14px */
   --font-size-base: 1rem; /* 16px */
@@ -175,7 +177,8 @@
   }
 
   h3 {
-    font-size: clamp(1.25rem, 3vw, 1.875rem);
+    /* Slightly larger h3 for clearer titles */
+    font-size: clamp(1.375rem, 3.5vw, 2rem);
     margin-bottom: 0.75rem;
   }
 
@@ -193,6 +196,8 @@
   p {
     margin-bottom: 1rem;
     line-height: var(--line-height-relaxed);
+    font-size: var(--font-size-xl); /* a little bigger for readability */
+    font-family: var(--font-family-sans);
   }
 
   /* Link styles */

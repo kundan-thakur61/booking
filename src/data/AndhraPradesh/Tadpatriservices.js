@@ -2,7 +2,7 @@
   {
     id: "tadpatri-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "MANISHA REDDY BEAUTIFUL SEXY SLIM GIRLS ONLY CASH PAYMENT,IN CALL OUT CALL 2/3/4/5 STAR ⭐⭐⭐⭐ OYO ROOM DOOR TO DOOR SERVICE 100% SATISFIED WITH RESPECT",
     image: "https://i.pinimg.com/originals/33/a0/90/33a090b815f0de75af3afc27dcb1d802.jpg",
     images: [
       "https://i.pinimg.com/originals/33/af/d8/33afd814004493c9b096714d9a3adf9b.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "tadpatri",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "MANISHA REDDY BEAUTIFUL SEXY SLIM GIRLS ONLY CASH PAYMENT,IN CALL OUT CALL 2/3/4/5 STAR ⭐⭐⭐⭐ OYO ROOM DOOR TO DOOR SERVICE 100% SATISFIED WITH RESPECT FULL,DECENT , COOPERATIVE BOOK NOW 🌿🌿🌿🌿 24×7 Location-Koregaon park. Hinjewadi. Viman Nagar. Kataraj. Hadapsar. Pimpri wakad all over pune call girl available Sex type Service----- *Anal *Blow Job…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "tadpatri-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in tadpatri.",
+    description: "Independence meet up 24/7",
     image: "https://i.pinimg.com/originals/33/e4/be/33e4be09308567285650b999377c90aa.jpg",
     images: [
       "https://i.pinimg.com/originals/34/12/27/3412279ca5214c7df8fe473281f0fcb2.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "tadpatri",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hi dear friend my is ruhi singh from Bangalore near by kormangla independent meet and cam show provide if you interested with my profile come my WhatsApp or telegram let's fun i hope enjoy with me For meeting Short time 8k Full night 12k For cam 15…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "tadpatri-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "BODY MASSAGE N PUSSY LICKER ONLY FOR LADIES WOMENS",
     image: "https://i.pinimg.com/originals/34/3a/d2/343ad2677b9128ecdd703cd8fd729bc5.jpg",
     images: [
       "https://i.pinimg.com/originals/34/53/79/345379cc9a1bc3371af9d0b19006aec8.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "tadpatri",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Note : Satisfaction Guaranteed",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "tadpatri-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Telugu Independent Woman, milky boobs, service available.",
     image: "https://i.pinimg.com/originals/34/71/f9/3471f9bd68015ccc8fc0b40c9f415c04.jpg",
     images: [
       "https://i.pinimg.com/originals/34/87/36/3487365da091f7131bfac496a06a6a04.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "tadpatri",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Telugu Independent Woman, milky boobs, service available only outcall. WhatsApp for further details.",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "tadpatri-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "💖PRIYA💖 independent Girl Staying Alone in Flat Just Visit Once",
     image: "https://i.pinimg.com/originals/34/a3/fb/34a3fb770ad82355068e3dfbc09dc9e8.jpg",
     images: [
       "https://i.pinimg.com/originals/34/a9/84/34a9840ddd47b38d82d024c4bf4e279e.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "tadpatri",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hello Guys Am PRIYA💝 🌟🌟Hotel service available 24 hour 💐 All over Hotel outcall service and incall with regular price guarantee satisfaction genuine service",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "tadpatri-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in tadpatri.",
+    description: "MANISHA REDDY BEAUTIFUL SEXY SLIM GIRLS ONLY CASH PAYMENT,IN CALL OUT CALL 2/3/4/5 STAR ⭐⭐⭐⭐ OYO ROOM DOOR TO DOOR SERVICE 100% SATISFIED WITH RESPECT",
     image: "https://i.pinimg.com/originals/34/d1/10/34d11075365e4fa7f204ef3a7940c7ec.jpg",
     images: [
       "https://i.pinimg.com/originals/34/da/7a/34da7a3977397e5055e15f339b5e4ea6.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "tadpatri",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "MANISHA REDDY BEAUTIFUL SEXY SLIM GIRLS ONLY CASH PAYMENT,IN CALL OUT CALL 2/3/4/5 STAR ⭐⭐⭐⭐ OYO ROOM DOOR TO DOOR SERVICE 100% SATISFIED WITH RESPECT FULL,DECENT , COOPERATIVE BOOK NOW 🌿🌿🌿🌿 24×7 Location-Koregaon park. Hinjewadi. Viman Nagar. Kataraj. Hadapsar. Pimpri wakad all over pune call girl available Sex type Service----- *Anal *Blow Job…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

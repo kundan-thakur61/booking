@@ -2,7 +2,7 @@
   {
     id: "bettiah-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "hi how are you",
     image: "https://i.pinimg.com/originals/74/4f/07/744f07aca44c714e3bc4c347f2335e93.jpg",
     images: [
       "https://i.pinimg.com/originals/74/61/b4/7461b41f88424a1c92b0cedbbc19cfc9.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "bettiah",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Full open video call in just 50 demo charge with voice with enjoy full enjoy hot girl ❤️❤️💘💕 50 demo charge 🥵 💦",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "bettiah-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in bettiah.",
+    description: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
     image: "https://i.pinimg.com/originals/74/fd/55/74fd55b0b2b74f024d4ead767c184868.jpg",
     images: [
       "https://i.pinimg.com/originals/75/6b/80/756b801e876fb79ec4ed0e28a78e27b6.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "bettiah",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "bettiah-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Siya full open video call service with voice full satisfaction",
     image: "https://i.pinimg.com/originals/75/ca/3b/75ca3b3ff4851e23049bcbf96743f097.jpg",
     images: [
       "https://i.pinimg.com/originals/75/d6/d0/75d6d0e7f2861c4df6cd56a786a373f9.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "bettiah",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "💋💋 About me Hey Priya, ❤I am Priya.❤ I am an independent call girl (College Student ) , ❤offering now My deep Nude Video Call service, ❤ Sex 💋chat with Nude pics and many more as per your interest❤:- 👆 Will offer on Nude video call",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "bettiah-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "88502 -92443 INDEPENDENT PREMIUM EDUCATED SEXY GIRLS & BHABHIS ONLY CASH NO ADVANCE",
     image: "https://i.pinimg.com/originals/75/eb/73/75eb737121f31c6a86bb785335c861ae.jpg",
     images: [
       "https://i.pinimg.com/originals/75/f1/7d/75f17d459cfb7fc25a1b4315323f14a3.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "bettiah",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Greetings all, the name is Sushmita Arora and I’m a truly stunning and elegant 22-year-old independent call girl. I'm going to become the woman who'll be able to make you cum like never before, dear. I have such a beautiful and natural figure that…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "bettiah-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Mrs Mini(Housewife) here ,Real sex service Available",
     image: "https://i.pinimg.com/originals/76/2c/82/762c8223840c878360e9205755695dfe.jpg",
     images: [
       "https://i.pinimg.com/originals/76/30/6c/76306c008b507250e59aea6baba77f5f.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "bettiah",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hello Dear Myself Mrs Mini(Housewife) here, And I am living here from 2 year Best Sex Service with Full Satisfaction I am giving Real sex Service at Very Low Charges (sex,foreplay,blowjob) Charges 2000/- 2hr(2shots with place + Ac included) booking…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "bettiah-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in bettiah.",
+    description: "💫✅NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL SERVICE WITHOUT CONDOM 100% SECURE ALL OVER PUNE CITY",
     image: "https://i.pinimg.com/originals/76/3f/6a/763f6ad64f4572e46ca7ad53ef016641.jpg",
     images: [
       "https://i.pinimg.com/originals/76/42/07/764207525e2fab7eb629cc397406ba0d.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "bettiah",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "NO ADVANCE DIRECT CASH PAYMENT IN HAND FULL SAFE AND SECURE WE GURANTEE 100% SATISFACTION IN LOWEST PRICE ( Incall & outcall ) service 24*7 hrs available here.. Location :- Koregaon park Viman Nagar Hadapsar kharadi Wagholi Hinjewadi Kalyani Nagar…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

@@ -2,7 +2,7 @@
   {
     id: "champhai-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct",
     image: "https://i.pinimg.com/originals/aa/04/7e/aa047e0db4fa08b0f2184ef27e305364.jpg",
     images: [
       "https://i.pinimg.com/originals/1c/a4/59/1ca4597c65bc03249bec90b9118027fc.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "champhai",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "No extra charge genuine people came here time pass direct block genuine people came here 24 HOUR",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "champhai-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in champhai.",
+    description: "Hiiiiiiii i m anju bhabhi divorce big size boobies hot body butiful sexy",
     image: "https://i.pinimg.com/originals/33/1d/c7/331dc72f8c5cc2c5fdd0f94805a24009.jpg",
     images: [
       "https://i.pinimg.com/originals/23/4d/71/234d71e1b901d3a7a21e0fb616df1325.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "champhai",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Fingering show boobies press pusssy liking genuine service available",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "champhai-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "💋IM NISHA INDEPENDENT ✅ CALL GIRL, STAYING ALONE IN BANGALORE CONTACT ME FOR SERVICE LOW PRICE",
     image: "https://i.pinimg.com/originals/0d/9d/b6/0d9db6ed0708423f2d4eff556c410f1e.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/a9/87/4e/a9874eb1cad5e661c6452aad2d82797c.0000000.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "champhai",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Dear Customers Are you looking call girl service in mysore but unable to find out best geniune, don't worry I'm here for you to full fill all requirements you just connect with me through whatsapp and get service anytime anywhere in BANGALORE",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "champhai-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "today full discount Independent college student and house wife hand to hand payment HYDERABAD",
     image: "https://i.pinimg.com/originals/19/62/c2/1962c236aa7f7b79826bfee7c7f25769.jpg",
     images: [
       "https://i.pinimg.com/originals/fd/39/27/fd3927291e77f4bbf20a9b3bac4bd604.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "champhai",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "new new profile avl I have Many collection of Independent girls and house wife They are goodlooking and ready to do anything for money For any information and booking please feel free and call me directly",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "champhai-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hii am 💗 Divya 💗 independent hot girl.banglore video call service available",
     image: "https://i.pinimg.com/originals/8e/e1/d1/8ee1d11e99509bcc8cce503f0589515b.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/52/76/1b/52761b1d5d149b04524376efbe207135.0000000.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "champhai",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hii am 💗 Divya 💗 independent college girl .. Out call and incall service available Due to some proverty problem dad was dead that's why am doing this work. Video call and audio call service also available. It's truly genuine service genuine person…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "champhai-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in champhai.",
+    description: "41 demo charges only video call service only demo charges 41 nude video call service",
     image: "https://i.pinimg.com/originals/3d/43/51/3d4351bbfab75c82269d5dd22882584a.jpg",
     images: [
       "https://i.pinimg.com/originals/1e/59/6a/1e596a73f6921c6de706c881f35cc70c.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "champhai",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "41 demo charges only video call service only demo charges 41 nude video call service",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

@@ -2,7 +2,7 @@
   {
     id: "tenali-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "GENUINE SERVICE AVAILABLE DIRECT HAND TO HAND CASH PAYMENT NO ADVANCE PAYMENT NO EXTRA CHARGES",
     image: "https://i.pinimg.com/originals/35/0f/d6/350fd6c8e433d9a4991b4834a8457e4e.jpg",
     images: [
       "https://i.pinimg.com/originals/35/17/cf/3517cf91f8ea6c413bce1bd7eb3588ae.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "tenali",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Direct Meeting Direct Payment Before Service Cash or UPI. ▪♨️ No Booking Charges or No Online Advance Payment Service Details :- ▪♨️ Full Open Nude Sex Without any Dess With 100% Satisfaction. ▪♨️ BlowJob Oral Sex Pussy Licking Boobs Sucking69 Style…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "tenali-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in tenali.",
+    description: "NO ADVANCE PAYMENT HAND TO HAND 100% GENUINE SERVICE VIP PROFILE COLLEGE GIRLS",
     image: "https://i.pinimg.com/originals/35/8d/e9/358de93bc563e21f9466b05d64d9c341.jpg",
     images: [
       "https://i.pinimg.com/originals/35/8f/82/358f824d3accdb8c7139eea31b27ddef.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "tenali",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "FULL B2B MASSAGE AND FULL SEXUAL SERVICE INCALL & OUTCALL AVAILABLE ENJOY B2B NUDE SEX/ SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE BOOB SUCKING,…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "tenali-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "NO ADVANCE CASH PAYMENT FULL SERVICE ALL KOLKATA HOME AND HOTEL SERVICE",
     image: "https://i.pinimg.com/originals/35/ae/a7/35aea7f47dbe01c067bfb4c12b74d031.jpg",
     images: [
       "https://i.pinimg.com/originals/35/b2/6d/35b26db2e3075b52b13d038e6dc7612b.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "tenali",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "CALL AND OUT-CALL FACILITY HOTEL AND HOME SERVICE AVAILABLE affordable Rate satisfaction NOTE:- ALL OUR GIRLS ARE MEDICALLY TESTED PERIODICALLY JUST TO ENSURE SAFE AND SECURE RELATIONSHIP WITH. BEST CALL GIRL ESCORT SERVICE IN/OUT CALL LOW-COST CALL…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "tenali-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hii ladies if needed genuine massage service then connect me",
     image: "https://i.pinimg.com/originals/36/07/4a/36074ad6ee71f19e0bf5ca58baa51ab1.jpg",
     images: [
       "https://i.pinimg.com/originals/36/08/c4/3608c4a3aa1f3535256d28b949e0902b.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "tenali",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hii ladies this is vivek and provide massage service for female only those are feeling tired and bored connect me i will give the best massage therapy and provide extra services also so genuinely those are needed connect me without hesitation because…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "tenali-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "I am sonam Genuine independent Call girl contact me for service 24/7 hours in mumbai",
     image: "https://i.pinimg.com/originals/36/25/7f/36257f515d2c990c7ebfbf25d1d806f2.jpg",
     images: [
       "https://i.pinimg.com/originals/36/2c/94/362c94f99047e532b8150edd8397fc59.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "tenali",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "hi everyone I'm sonam indipendent call girl from mumbai I provide real meet genuine services in all over mumbai Call me now for real meet genuine services in all over mumbai 24/7 Outcall incall available with complete satisfaction without any restriction call us now",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "tenali-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in tenali.",
+    description: "Genuine service ✅ Full Satisfied ✅Aunty number paid ✅ contact me",
     image: "https://i.pinimg.com/originals/36/83/7b/36837b12b98959fb0153d9012f191cf2.jpg",
     images: [
       "https://i.pinimg.com/originals/36/98/68/369868b546aafdb40da818e335fac0a1.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "tenali",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "🥰Trusted video call sarvice 🥰 Full fingring with dirty voice nude show Full open Tamil girl Age 28 VIDEO CAAL CHARAGE Face demo SEX CHAT",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

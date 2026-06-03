@@ -2,7 +2,7 @@
   {
     id: "srikakulam-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "MANISHA REDDY BEAUTIFUL SEXY SLIM GIRLS ONLY CASH PAYMENT,IN CALL OUT CALL 2/3/4/5 STAR ⭐⭐⭐⭐ OYO ROOM DOOR TO DOOR SERVICE 100% SATISFIED WITH RESPECT",
     image: "https://i.pinimg.com/originals/2f/9d/7c/2f9d7cda6a46fddf401fdd77bc4c7f80.jpg",
     images: [
       "https://i.pinimg.com/originals/2f/ae/0b/2fae0bf0a421b1b20b8085f48333d5e9.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "srikakulam",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "MANISHA REDDY BEAUTIFUL SEXY SLIM GIRLS ONLY CASH PAYMENT,IN CALL OUT CALL 2/3/4/5 STAR ⭐⭐⭐⭐ OYO ROOM DOOR TO DOOR SERVICE 100% SATISFIED WITH RESPECT FULL,DECENT , COOPERATIVE BOOK NOW 🌿🌿🌿🌿 24×7 Location-Koregaon park. Hinjewadi. Viman Nagar. Kataraj. Hadapsar. Pimpri wakad all over pune call girl available Sex type Service----- *Anal *Blow Job…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "srikakulam-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in srikakulam.",
+    description: "Delhi 24/7 top best low price call girls sex service available 100% safe and secure",
     image: "https://i.pinimg.com/originals/2f/f9/f2/2ff9f2bd1d775e1645cc8b3a8d84e93c.jpg",
     images: [
       "https://i.pinimg.com/originals/30/00/09/300009c6dec1155e08d7ac5653372f3d.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "srikakulam",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "srikakulam-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "I m kannada hudgi geninu vc available with real face and voice",
     image: "https://i.pinimg.com/originals/30/1f/2a/301f2a0510ea3d807463b89645396f44.jpg",
     images: [
       "https://i.pinimg.com/originals/30/2c/d8/302cd85ea099bd6b18e3504fa3ede0e3.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "srikakulam",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "I m kannada hudgi geninu vc available with real face and voice",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "srikakulam-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hy i am independent girl CAM session and real meet available 100% genuine escorts service all type service 24/7 AVAILABLE",
     image: "https://i.pinimg.com/originals/30/65/63/3065637abc86ec1a4c823c646a1d537b.jpg",
     images: [
       "https://i.pinimg.com/originals/30/7f/b7/307fb78e8359f174ac9ce56d52a05839.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "srikakulam",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Out call and incall Hotel ya home Blojob Kissing Full open body to body massage Oral sex BDSM No time pass only genuine MSG me CAM session avelable Full nude with face and full satisfaction Genuine service",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "srikakulam-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "💦VIDYA FULL NUDE WITH VOICE VIDEO CALL SERVICE 🎥 SEXTING 💌 PHONE 🥀SEX📞NO FREE DEMO.",
     image: "https://i.pinimg.com/originals/30/a5/40/30a54015d8e3d92aa628be14584ada85.jpg",
     images: [
       "https://i.pinimg.com/originals/30/aa/f9/30aaf95a72a85274db17d4f53cfe5541.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "srikakulam",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "am independent college girl👩‍🏫 working as Video call Girl 💋 full Nude Video call As you like as your mood. Its my guarantee that you will fill like real meet. with maximum satisfaction. 💯💯💯💯♀️special specifications♂️💯💯💯 ❤ full nude video call service…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "srikakulam-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in srikakulam.",
+    description: "88502 - 92443 ONLY CASH PAYMENT INDEPENDENT GIRLS AND HOUSE WIVES RUSSIAN NO ADVANCE",
     image: "https://i.pinimg.com/originals/30/c0/34/30c034dbaa9d5a476dd1c7a771b6e8d5.jpg",
     images: [
       "https://i.pinimg.com/originals/31/02/25/31022575c6a98b455768034ca8d23250.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "srikakulam",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Greetings all, the name is PRITI JAIN and I’m a truly stunning and elegant 22-year-old independent call girl. I'm going to become the woman who'll be able to make you cum like never before, dear. I have such a beautiful and natural figure that you…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

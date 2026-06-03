@@ -2,7 +2,7 @@
   {
     id: "hajipur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "MY SELF SWETA CALL GIRL & BODY-TO-BODY MASSAGE SPA SERVICES OUTCALL AND INCALL",
     image: "https://i.pinimg.com/originals/86/0d/54/860d5445ce5af6ab3cedfb62dc4777a6.jpg",
     images: [
       "https://i.pinimg.com/originals/86/13/3d/86133d96c1bae38a6c2ce1a778f93883.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "hajipur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "EROTIC MASSAGE •BLOWJOB👅 FULL NUDE • NURU👅💦ERVICE SHOWER 👅👅👅 GIRLFRIEND EXPERIENCE💏❤️DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANGIRLFRIEND EXPERIENCE💏💥 LICKING💥HAND JOB ❤️DEEP SUCKING WITHOUT CONDOM 💥 CUM ON FACE 💥 NUDE DANCE 💥 BOOBS RUBBING💥 LICKING💥 HAND JOB ❤️EROTIC MASSAGE • BLOWJOB👅 • • FULL NUDE • NURU •💦 ❤️DEEP SUCKING WITHOUT CONDOM💥…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "hajipur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in hajipur.",
+    description: "LOW COST BODY MASSAGE OR BODY SCRUB DOOR TO DOOR SERVICE AVAILABLE ( MUMBAI)",
     image: "https://i.pinimg.com/originals/86/66/c4/8666c42f4a600e50a5f9e13ac0970c01.jpg",
     images: [
       "https://i.pinimg.com/originals/86/79/73/867973acf434489181880162fea7af8f.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "hajipur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "VISHAL ( MUMBAI) body massager & FUN DOOR TO DOOR SERVICE Location -- Mumbai Age 35 6 year professional experience 1_ Offer all types of massage which are also follows. PUSSY & , UNDERARM HAIR REMOVAL Nude massage Deep tissue massage Reflexology…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "hajipur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "A007 Rs 1000 (Counter) - Full Nude🩱Body Massage💗B2B Body massage Spa with BJ🍌 - Madeenaguda / Kukatpally /Miyapur / Hafeezpet",
     image: "https://i.pinimg.com/originals/86/e1/67/86e167cf65f942573dcf62b3f78f2910.jpg",
     images: [
       "https://i.pinimg.com/originals/86/f1/f5/86f1f563aa9bae3c3274936310bc0957.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "hajipur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Madeenaguda Beauty Spa Massage starting form 1000/- Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "hajipur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "HAND TO HAND CASH PAYMENT NO ADVANCE NO EXTRA CHARGES ME 💜",
     image: "https://i.pinimg.com/originals/86/ff/c4/86ffc413edac322750b79459dbe7c4af.jpg",
     images: [
       "https://i.pinimg.com/originals/87/16/f5/8716f5ea61d4ebcb91de2cfc3509aec3.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "hajipur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hey guys my self puja from Bangalore near by kormangla independent meet and cam show provide if you interested with my profile come my WhatsApp or telegram let's fun i hope enjoy with me For meeting Short time 8k Full night 12k For cam 15 minutes 1k…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "hajipur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Live hot sexy full nude WhatsApp and telegram vedio call sex service",
     image: "https://i.pinimg.com/originals/87/36/5e/87365e4d769d72842b7a906e0c3e9815.jpg",
     images: [
       "https://i.pinimg.com/originals/87/56/23/875623552874d9d1014b45cc15f722fc.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "hajipur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hii dear if you need vedio call sex service so please WhatsApp or telegram msg to me immediately.i will setisfied you.",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "hajipur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in hajipur.",
+    description: "Slim juicy body shape AFRICAN Hot Juicy Body Available.. Horny Hot Wet Fat Tight Pussy Girl .Fucking Meet Now ..fuck as you want ready..",
     image: "https://i.pinimg.com/originals/87/8f/f5/878ff5a8b81bc8ace3b2a70e4302f996.jpg",
     images: [
       "https://i.pinimg.com/originals/87/be/29/87be29b5b0339564f185364bed857463.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "hajipur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "MY NAME Is Joy Are you looking for some good time? Want to relax and have fun? You are in here the right place.☺️ I’M VERY CLEAN, SPORTY and HEALTHY NARROW WAIST , WIDE HIPS🍑 And SILKY SMOOTH SKIN ☺️ ——————————————————————— I am a very easy going…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

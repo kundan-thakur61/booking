@@ -2,7 +2,7 @@
   {
     id: "bandra-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hiiii i am aditya😎experience and expert massager I now all type of massges for more details call me😊🔥",
     image: "https://i.pinimg.com/originals/74/bc/10/74bc10dedeeab63b69c64b8c481ebef7.jpg",
     images: [
       "https://i.pinimg.com/originals/07/1e/a3/071ea396f0d91c0da04adb375a41be86.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "bandra",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Adiiii 24 years | Erotic Massages | MUMBAI i am aditya experience and expert massager I now all type of massges for more details call me I have over 5 years of experience as Massage therapists. I am available in Main areas in Mumbai . I visit to…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "bandra-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in bandra.",
+    description: "Hii I am Neetu independent genuine location BTM Layout but only out call available and full service please no time pass",
     image: "https://i.pinimg.com/originals/f9/38/8a/f9388a524d525bfd2ccb3087fef4e02f.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/f9/ea/de/f9eade1c977b0d8a037cf7e67967be7e.0000000.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "bandra",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hii I am Neetu independent genuine location BTM Layout but only out call available short time 7k 2 short 3 hours full night 12k 4 short and full service please no time pass",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "bandra-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hiiii i am aditya😎experience and expert massager I now all type of massges for more details call me😊🔥",
     image: "https://i.pinimg.com/originals/90/99/6d/90996d52da9479c1051b14a1f2c29a8a.jpg",
     images: [
       "https://i.pinimg.com/originals/89/ec/d9/89ecd94cfc4fe68f9d3f46329694c3a9.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "bandra",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Adiiii 24 years | Erotic Massages | MUMBAI i am aditya experience and expert massager I now all type of massges for more details call me I have over 5 years of experience as Massage therapists. I am available in Main areas in Mumbai . I visit to…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "bandra-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💯NO ADVANCE ONLY CASH PAYMENT AFTER THE MEET✅ HIGH CLASS PRIMIUM VVIP ESCORTS SERVICE IN BANGALORE",
     image: "https://i.pinimg.com/originals/5f/f3/f4/5ff3f45c10d510083efdb97aed795d2a.jpg",
     images: [
       "https://i.pinimg.com/originals/a9/8e/9a/a98e9a3e0b5b40388008f2caddf616a4.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "bandra",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Bangalore)✅ONLY CASH PAYMENT ⭐100% GENUINE SAME PROFILE HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100%…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "bandra-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hot oil erotic massage",
     image: "https://i.pinimg.com/originals/9c/2f/a9/9c2fa9deae0759b2fa72ace8f1ed7161.jpg",
     images: [
       "https://i.pinimg.com/originals/7e/a7/e2/7ea7e2cdb391ade2fe921765783f6ae7.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "bandra",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "This is Ruth, Today special Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with (2)girls with pressure XTRA SERVICES AVAILABLE: ****SPECIAL SERVICE ALSO…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "bandra-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in bandra.",
+    description: "Hy i am kannada girl paid video call",
     image: "https://i.pinimg.com/originals/e3/41/51/e3415136b068c12aea88f6e3e784b7c8.jpg",
     images: [
       "https://i.pinimg.com/originals/97/b0/eb/97b0eb2bba226dcbaf5cb5509f154e52.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "bandra",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Yes I am kannada girl paid video call sarves",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

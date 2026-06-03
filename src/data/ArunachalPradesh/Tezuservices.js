@@ -2,7 +2,7 @@
   {
     id: "tezu-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Low budget video chat sex service available video call sexting, phone sex in India",
     image: "https://i.pinimg.com/originals/48/ff/26/48ff265814cec44bbfd50cb794ec8033.jpg",
     images: [
       "https://i.pinimg.com/originals/49/12/80/4912807f0c3b910cb01b68e7aacb0acd.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "tezu",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "I am beautiful girl I am available for video call, sexting or phone sex call me on whatsApp",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "tezu-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in tezu.",
+    description: "Massage service",
     image: "https://i.pinimg.com/originals/49/5e/c4/495ec41ebae3b7483253623b7dba9a19.jpg",
     images: [
       "https://i.pinimg.com/originals/49/74/3f/49743f735e9eb03ab93e81552d117c53.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "tezu",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hi ,I am genuinely providing massage service at door step at reasonable rate.only genuine people contact. Couples and single can contact only. No time pass.",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "tezu-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "💫✅NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL SERVICE WITHOUT CONDOM 100% SECURE ALL OVER PUNE CITY",
     image: "https://i.pinimg.com/originals/49/b4/bc/49b4bcab25641d7587488bf99f52f19c.jpg",
     images: [
       "https://i.pinimg.com/originals/4a/09/6e/4a096e1ff46777663b1617b41ab88b33.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "tezu",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "NO ADVANCE DIRECT CASH PAYMENT IN HAND FULL SAFE AND SECURE WE GURANTEE 100% SATISFACTION IN LOWEST PRICE ( Incall & outcall ) service 24*7 hrs available here.. Location :- Koregaon park Viman Nagar Hadapsar kharadi Wagholi Hinjewadi Kalyani Nagar…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "tezu-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "RNBW Rs 1000 (Counter) - Full Nude🩱Body Massage💗B2B Body massage Spa with BJ🍌 - Madeenaguda / Kukatpally /Miyapur / Hafeezpet",
     image: "https://i.pinimg.com/originals/4a/32/56/4a3256aa07abc8b6ad2210634c212125.jpg",
     images: [
       "https://i.pinimg.com/originals/4a/37/ec/4a37ec448f8da81419940e89a4c49ba0.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "tezu",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Madeenaguda Beauty Spa Massage starting form 1000/- Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "tezu-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 PAYMENT SECURE 100% SATISFACTION CALL ROY FOR GENUINE",
     image: "https://i.pinimg.com/originals/4a/65/64/4a6564beaae03e588a46d93455112313.jpg",
     images: [
       "https://i.pinimg.com/originals/4a/67/a4/4a67a4af86daef1a34cf405613af2e39.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "tezu",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "About me NO ADVANCE PAYMENT HAND TO HAND 100% GENUINE SERVICE VIP PROFILE COLLEGE GIRLS HOUSE WIFE HOTEL AND HOME SERVICE AVAILABLE HOTEL",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "tezu-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in tezu.",
+    description: "699/-BOOBS SUCKING 🥵👅💦FULL NUDE B2B NURU MASSAGE WITH HAPPYEND.",
     image: "https://i.pinimg.com/originals/4a/9c/51/4a9c51ad4e079f49c7bf97c04805ab8f.jpg",
     images: [
       "https://i.pinimg.com/originals/4a/a7/31/4aa731855b63f31269e5ec5cceb1e3d9.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "tezu",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "OF TYPES MASSAGE AVAILABLE • Normal Massage Swedish Massage ✔ Cream massage Deep tissue massage Body Polishing Massage Gel Massage • Legwand Massage EXTRA SERVICES ALSO AVABILES Full nude Massage Body to body Rubbing Romance Shower bath Happy Ending…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

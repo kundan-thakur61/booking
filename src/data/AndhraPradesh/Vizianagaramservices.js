@@ -2,7 +2,7 @@
   {
     id: "vizianagaram-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "💥BOOK ₹ 2K SHORT ₹ 7k NIGHT 99998 call 58187 PAYMENT GIRL HAND YOUR FLAT HOTEL HOME ✅ IN CALL FREE ROOM 🆗 OUT CALL YOUR PLACE REAL WHATSAPP",
     image: "https://i.pinimg.com/originals/3d/4c/c0/3d4cc03cfb68036bb4314dfe14f95c9a.jpg",
     images: [
       "https://i.pinimg.com/originals/3d/99/0d/3d990d626772cd82f95f6602143e33c4.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "vizianagaram",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "CALL GIRLS IN DELHI:- 99998 call 58187❤️𝗛𝗔𝗡𝗗 𝗧𝗢 𝗛𝗔𝗡𝗗 𝗖𝗔𝗦𝗛 𝗣𝗔𝗬𝗠𝗘𝗡𝗧 𝗡𝗢 𝗔𝗗𝗩𝗔𝗡𝗖𝗘 𝗡𝗢 𝗘𝗫𝗧𝗥𝗔 𝗖𝗛𝗔𝗥𝗚𝗘❤️ DELHI 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗣𝗥𝗢𝗩𝗜𝗗𝗘𝗥 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝟮𝟰/𝟳 ALL OVER DELHI NCR SHREY 𝐁𝐨𝐨𝐤 𝐧𝐨𝐰 V★I★P Genuine High Profile Model's Available - ALL DELHI NCR Hotel &…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "vizianagaram-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in vizianagaram.",
+    description: "93720 - 27981 DIRECT CASH PAYMENT NO ADVANCE INDEPENDENT HOT GIRLS, BHABHIS & RUSSIANS",
     image: "https://i.pinimg.com/originals/3e/06/de/3e06dea960f8aca6e7eab4f50fe6c19e.jpg",
     images: [
       "https://i.pinimg.com/originals/3e/19/39/3e1939fb63222f6fa01ba93f8948ac62.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "vizianagaram",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Greetings all, the name is MEETA JAIN and I’m a truly stunning and elegant 23-year-old independent call girl. I'm going to become the woman who'll be able to make you cum like never before, dear. I have such a beautiful and natural figure that you…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "vizianagaram-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Big boobs live show full finger video full service line sex show genuine",
     image: "https://i.pinimg.com/originals/3e/64/c7/3e64c70f738ba0396872bf63f4ddd8a7.jpg",
     images: [
       "https://i.pinimg.com/originals/3e/66/81/3e6681c3f8f64778d9042ed5a7527d97.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "vizianagaram",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hot full live show big boobs finger show video call service chat chat audio sex demo sex",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "vizianagaram-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Myself chhoti singh and Genuine independent Call Girls Meet Dairectl No Advance Dairect Hand Cash it's a Genuine",
     image: "https://i.pinimg.com/originals/3e/8f/37/3e8f3795cfc4d9c0a679e5b10676c221.jpg",
     images: [
       "https://i.pinimg.com/originals/3e/94/db/3e94db67706ba40b30987e0e235515a9.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "vizianagaram",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi Myself chhoti Really genuine independent Call Girls Meet Dairectl No Agents it's a paid relationship with my bed I will provide u all types of services like bj lipkiss anaul services In call out call hotel home and doorstep services available",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "vizianagaram-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Bangalore Live Video Call Service 💦📱 Full Open 🔥 Genuine 💯 Demo Available 💸 Fast Response 📞 Banni Bega 😉",
     image: "https://i.pinimg.com/originals/3e/a2/07/3ea2077eaa68dbec6163322ed666df2a.jpg",
     images: [
       "https://i.pinimg.com/originals/3e/d0/f3/3ed0f3cffe5d3698b4bb36d5cd7679ea.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "vizianagaram",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Bangalore Live Video Call Service 💦📱 Full Open 🔥 Genuine 💯 Demo Available 💸 Fast Response 📞 Banni Bega 😉",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "vizianagaram-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in vizianagaram.",
+    description: "Telugu independent girl in hyderabad all types of genuine service istha",
     image: "https://i.pinimg.com/originals/3f/14/62/3f14623e41b41681b8b5441bf82bac09.jpg",
     images: [
       "https://i.pinimg.com/originals/3f/25/91/3f25913c88d15a6f462d771da7b8d57c.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "vizianagaram",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Nenu me Telugu ammayi miku kavalisina anni genuine service istha Nenu full hot and sexy ga untha Nenu miku full romantic service Istha Video call service are available Sex chat with sexy' pics service All types of genuine service are available Please…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

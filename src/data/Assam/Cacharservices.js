@@ -2,7 +2,7 @@
   {
     id: "cachar-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "HAND TO HAND CASH PAYMENT NO ADVANCE NO EXTRA PAYMENT ME",
     image: "https://i.pinimg.com/originals/50/a1/0e/50a10e10188ad7332d95a35f942226b6.jpg",
     images: [
       "https://i.pinimg.com/originals/50/c4/de/50c4dee54f414c04e6fb030f66950067.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "cachar",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "I'm independent call girl And I am a girl from a poor family, I am sure that I will satisfy you, my height is 166 cm and my weight is 50 kgs, I am a very hot guy, I hope you will like me.",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "cachar-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in cachar.",
+    description: "Independent college girl Ramya no Broker direct hand cash payment",
     image: "https://i.pinimg.com/originals/51/1e/4c/511e4ca2209c1e0a86ba0c545c6c7c10.jpg",
     images: [
       "https://i.pinimg.com/originals/51/1f/88/511f889bc2ee805d55cfee94b992271c.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "cachar",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Ramya... Call & WhatsApp Now Hand to hand cash only direct girl no Agent No Broker High class independent girls models House wife air hostess, college girls call center girls,who are not only good looking but also very mannered.incall _out Call…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "cachar-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k fu",
     image: "https://i.pinimg.com/originals/51/6a/55/516a55ce92e6275ce14abe616d5ce8cc.jpg",
     images: [
       "https://i.pinimg.com/originals/51/d1/14/51d114737c3021d97fe8f54b5565e518.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "cachar",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k full night unlimited shots with condom without condom front or back both said A TO Z service available…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "cachar-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Intrested lady girls housewife are contact me for dating meeting and physically at full secret so contact me whatsapp",
     image: "https://i.pinimg.com/originals/51/eb/91/51eb913d15e05008b930791742770e8c.jpg",
     images: [
       "https://i.pinimg.com/originals/52/28/ec/5228ec19e01bc004316f5e5128e8e615.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "cachar",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hlw my self vicky Iam defence person Any intrested lady girls housewife are intrested for dating meeting and physically relationship so msg me fast aur hamari puri meeting puri tarah sa secret rahagi yah mai apko bharosha dilata hu 1baar biswas krka…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "cachar-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "💞❤️IM SEEMA YDV 💯 CASH PAYMENT NO AGENT NO BROKER 💋✅💵💵💸💸💞 INDIVIDUAL GIRL 💦 OUTCALL HOME HOTEL FULLY SATISFY U UNLIMITED WAY 💞💞 IM READY TO FULLY SATI",
     image: "https://i.pinimg.com/originals/52/63/0a/52630ac1ccbe8cd1df152709078c69b1.jpg",
     images: [
       "https://i.pinimg.com/originals/52/83/14/528314e7138b38a53f3e326df671a860.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "cachar",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "💞❤️IM SEEMA YDV 💯 CASH PAYMENT NO AGENT NO BROKER 💋✅💵💵💸💸💞 INDIVIDUAL GIRL 💦 OUTCALL HOME HOTEL FULLY SATISFY U UNLIMITED WAY 💞💞 IM READY TO FULLY SATI",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "cachar-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in cachar.",
+    description: "HAND TO HAND CASH PAYMENT NO ADVANCE NO EXTRA PAYMENT ME 💖",
     image: "https://i.pinimg.com/originals/52/a0/e4/52a0e483c4010e7e0b562f2556c11665.jpg",
     images: [
       "https://i.pinimg.com/originals/52/b2/01/52b20155e9acfdeb66d4c87bcc53bd21.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "cachar",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

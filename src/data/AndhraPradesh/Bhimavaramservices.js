@@ -2,7 +2,7 @@
   {
     id: "bhimavaram-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "SOUTH🍑🍆 AND NORTH🍑🍆 AND NORTH EAST COLLAGE GIRLS💦LOW PRICE 💥👅💦 B2B & NURU 💥👅👅💦*HAPPY ENDING👅💦 👅💦ROMANCE👅💦BODY TO BODY MASSAGE👅💦FULL NUDE MASSAGE👅💦SPA",
     image: "https://i.pinimg.com/originals/0a/48/8f/0a488f472c2183f2a6d20b26af1d4bbb.jpg",
     images: [
       "https://i.pinimg.com/originals/0a/5c/37/0a5c3722f93b9e38a77b38a845826cbc.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "bhimavaram",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "WHATS APP ME 96111-94827EROTIC MASSAGE •BLOWJOB👅 FULL NUDE • NURU👅💦ERVICE SHOWER 👅👅👅 GIRLFRIEND EXPERIENCE💏❤️DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANGIRLFRIEND EXPERIENCE💏💥 LICKING💥HAND JOB ❤️DEEP SUCKING WITHOUT CONDOM 💥 CUM ON FACE 💥 NUDE DANCE 💥 BOOBS RUBBING💥 LICKING💥 HAND JOB ❤️EROTIC MASSAGE • BLOWJOB👅 • • FULL NUDE • NURU •💦 ❤️DEEP…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "bhimavaram-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in bhimavaram.",
+    description: "Hy i am kannada hudgi nishu geninune video call service available",
     image: "https://i.pinimg.com/originals/0a/ab/bd/0aabbd867453366533d394b555fc4fe0.jpg",
     images: [
       "https://i.pinimg.com/originals/0a/ad/e1/0aade14c28fe61cd37816964f14c7e76.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "bhimavaram",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "It's paid geninune video call service and it's only online service",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "bhimavaram-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "demo time 5 minutes ☘️☘️ full live nude 👉 open video call service 💦💦 fingerings k sath available 💯 girlfriend experience call 🥰☘️",
     image: "https://i.pinimg.com/originals/0b/5f/80/0b5f80f370df3cc2c401ca1aec440e35.jpg",
     images: [
       "https://i.pinimg.com/originals/0b/73/f6/0b73f614d08daffadbbe5cbbd64d4064.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "bhimavaram",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "demo time 5 minutes ☘️☘️ full live nude 👉 open video call service 💦💦 fingerings k sath available 💯 girlfriend experience call 🥰☘️",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "bhimavaram-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Only video call service nude video call service nude video call",
     image: "https://i.pinimg.com/originals/0b/97/b7/0b97b70fb6b5c6948a1804d54db77c8e.jpg",
     images: [
       "https://i.pinimg.com/originals/0b/bd/b9/0bbdb9834801bcae27c2cd5dfce73088.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "bhimavaram",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Only video call service nude video call service nude video call",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "bhimavaram-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k fu",
     image: "https://i.pinimg.com/originals/0b/e2/98/0be2985bf6f141ed82275a0a454b4112.jpg",
     images: [
       "https://i.pinimg.com/originals/0b/fa/62/0bfa6208827a5a7ca64c31b40d10ad9a.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "bhimavaram",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k full night unlimited shots with condom without condom front or back both said A TO Z service available…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "bhimavaram-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in bhimavaram.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct",
     image: "https://i.pinimg.com/originals/0c/31/5b/0c315bfdbd1182bff2e0e2413d5c0c72.jpg",
     images: [
       "https://i.pinimg.com/originals/0c/42/dc/0c42dcd0f9c88e17bb2e10efe7ac4474.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "bhimavaram",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "No extra charge genuine people came here time pass direct block genuine people came here 24 HOUR",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

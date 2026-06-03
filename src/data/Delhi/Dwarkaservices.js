@@ -2,7 +2,7 @@
   {
     id: "dwarka-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct",
     image: "https://i.pinimg.com/originals/b5/74/3f/b5743f5a0e25d879581cfffd60e6ff81.jpg",
     images: [
       "https://i.pinimg.com/originals/b5/9d/37/b59d37401bc9cef346a01677ef2d9ced.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "dwarka",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "No extra charge genuine people came here time pass direct block genuine people came here 24 HOUR",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "dwarka-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in dwarka.",
+    description: "💞❤️IM SEEMA YDV 💯 CASH PAYMENT NO AGENT NO BROKER 💋✅💵💵💸💸💞 INDIVIDUAL GIRL 💦 OUTCALL HOME HOTEL FULLY SATISFY U UNLIMITED WAY 💞💞 IM READY TO FULLY SATI",
     image: "https://i.pinimg.com/originals/b5/ff/e0/b5ffe0b3cfba3644bce2f6bac027b319.jpg",
     images: [
       "https://i.pinimg.com/originals/b6/5e/7d/b65e7d212f1c80c404d3af589814162b.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "dwarka",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "💞❤️IM SEEMA YDV 💯 CASH PAYMENT NO AGENT NO BROKER 💋✅💵💵💸💸💞 INDIVIDUAL GIRL 💦 OUTCALL HOME HOTEL FULLY SATISFY U UNLIMITED WAY 💞💞 IM READY TO FULLY SATI",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "dwarka-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "✅NO ADVANCE & ONLY 3000 AIRPORT MUMBAI HIGH' PROFILE COLLEGE GIRLS AVAILABLE FULL HAND CASH PAYMENT 💯 GENUINE SERVICE",
     image: "https://i.pinimg.com/originals/b6/a0/6c/b6a06c5366eea4b755c37868cf10b468.jpg",
     images: [
       "https://i.pinimg.com/originals/b6/a3/4d/b6a34d6fb6953136ca4ca9301953ef98.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "dwarka",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "💚💚ONLY CASH PAYMENTS Cash ON HOTEL BEST CALL GIRL SERVICE JUST CALL ME AND BOOK NOW #ONLY CASH PAYMENT ALL HOTEL# CASH ON HAND GIRL % 1/ #REAL PHOTO AND REAL GIRLS AVAILABLE .TRUST ME SIR REAL PHOTO REAL GIRLS GENUINE GIRLS AVAILABLE# 2/#SERVICE…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "dwarka-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "4✨5✨ HAND TO HAND CASH PAYMENT WITH FULL SEXUAL SERVICES 24/7 AVAILABLE 💵 NO ADVANCE",
     image: "https://i.pinimg.com/originals/b6/d1/39/b6d13964dd76e6bb37d4dea6577948be.jpg",
     images: [
       "https://i.pinimg.com/originals/b6/d9/8b/b6d98b2f31b822cc1c598d233cdbde83.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "dwarka",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "💵 HAND TO HAND CASH PAYMENT 100% ALL BANGALORE 🏬 SERVICE AVAILABLE *100% Real service provider *Body to body massage sexual service *Lip to lip 💋 kissing *Xx. Full open available No advance hand to hand cash payment massage with sexual service…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "dwarka-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "I m kannada hudgi geninu vc available with real face and voice",
     image: "https://i.pinimg.com/originals/b6/e4/10/b6e410330f59983e3a3ac78161db204f.jpg",
     images: [
       "https://i.pinimg.com/originals/b6/ed/ce/b6edce12c357f609b38d0f81c4777271.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "dwarka",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "I m kannada hudgi geninu vc available with real face and voice",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "dwarka-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in dwarka.",
+    description: "MyselF Radhika Really independent Call Girls Meet Dairectly No Agents it's a trusted Service",
     image: "https://i.pinimg.com/originals/b7/32/56/b73256b36bdde4317a111447547a8256.jpg",
     images: [
       "https://i.pinimg.com/originals/b7/42/74/b7427442884392e1025b5d53319e43af.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "dwarka",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hi myself Radhika Really Kannada independent College Girl Meet Dairectly No Agents it's a genuine service In call out call and doorstep services available Time passars please stay away",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

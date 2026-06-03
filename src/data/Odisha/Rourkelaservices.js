@@ -2,7 +2,7 @@
   {
     id: "rourkela-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Delhi 24/7 top best low price call girls sex service available 100% safe and secure",
     image: "https://i.pinimg.com/originals/a2/aa/75/a2aa75728ffa0829335a3ea6bff8738f.jpg",
     images: [
       "https://i.pinimg.com/originals/40/97/69/409769d1de8352d500570a48d2bd91fa.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "rourkela",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "rourkela-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in rourkela.",
+    description: "👑LUXURIOUS MODEL👙AIRHOSTESS HOT SEXY🥻CLG GIRL READY HOUSEWIFE♦️MUMBAI BEST🌍ESCORT AVAILABLE🏪",
     image: "https://i.pinimg.com/originals/63/76/a2/6376a24f90bdb30b18a0548e84d744fb.jpg",
     images: [
       "https://i.pinimg.com/originals/06/b7/f7/06b7f7efb4c0d6f46f0bd304a5f0c048.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "rourkela",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "VIP GIRL AVAILABLE HOTEL 3🌟4🌟5🌟HIGH PROFILE ESCORTS FOR PREMIER ESCORT SERVICES COLLEGE ESCORTS IN MUMBAI PROVIDES BEST ROMANTIC PLEASURES ONLY CASH PAYMENT 100% REAL MUMBAI ESCORT SERVICES SAFE AND ORIGINAL. 100% SATISFIED MUMBAI ESCORT SERVICES SAFE AND ORIGINAL. 100% SATISFIED GUARANTEED (age-20,21,22.....) College girls , party girls and also…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "rourkela-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "💕😍Sexy'Girls💖💚Tight Boobs Full Nude💕😍 💙 Body To Body💚 Happy Ending massage 💕̈́♥️Happy ending💚💙💚Full nude touching💚 massage🌹💚Shower bath with girl💙💙Roma",
     image: "https://i.pinimg.com/originals/93/98/bc/9398bc31d72f27a8e2cbff16eaea6a70.jpg",
     images: [
       "https://i.pinimg.com/originals/b5/9d/37/b59d37401bc9cef346a01677ef2d9ced.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "rourkela",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "💕😍Sexy'Girls💖💚Tight Boobs Full Nude💕😍 💙 Body To Body💚 Happy Ending massage 💕̈́♥️Happy ending💚💙💚Full nude touching💚 massage🌹💚Shower bath with girl💙💙Romance in shower💙💙 Blowjob in shower💙💙💙 ANAL 💙PUSSY 💙 BLOWJOB💙 69 NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "rourkela-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "I m kannada hudgi geninu vc available with real face and voice",
     image: "https://i.pinimg.com/originals/cf/b8/dd/cfb8dd5f25a11c5c4c2565d005675486.jpg",
     images: [
       "https://i.pinimg.com/originals/6c/4d/de/6c4ddecd45cb33df7d10c83d408646a5.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "rourkela",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "I m kannada hudgi geninu vc available with real face and voice",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "rourkela-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Myself Rani I provide nude live video call service if you want kindly let me know",
     image: "https://i.pinimg.com/originals/b7/6b/0d/b76b0da088adbfe6b2df3955ebb31090.jpg",
     images: [
       "https://i.pinimg.com/originals/b3/e5/7d/b3e57db18ba8c5d2748dab5e441b718a.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "rourkela",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Myself Rani I provide nude live video call service if you want kindly let me know",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "rourkela-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in rourkela.",
+    description: "Full open video call with voice ☎️ nude sex chat open clothes in video call ❤️🫠🫠",
     image: "https://i.pinimg.com/originals/e5/52/e0/e552e06a8227357c2732c8d3514f9064.jpg",
     images: [
       "https://i.pinimg.com/originals/62/62/c0/6262c0d5e7ee07f6360c8cf0bdf3e9a5.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "rourkela",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Demo 70/- only ◼️◾▪️💞hey I'm Radhika Bangalore hot girl genius Full Nude video sex service💞 new joinonly 70/-Full 💝nude 🤗video call without clothes demo charge 70",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

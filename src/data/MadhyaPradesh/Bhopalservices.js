@@ -2,7 +2,7 @@
   {
     id: "bhopal-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "HAND TO HAND CASH PAYMENT HOT SLIM MODAL PRETTY GIRL Want To Fuck You Anytime... She Will Treat You Like Her Little Girlfriend In Bed",
     image: "https://i.pinimg.com/originals/02/d4/43/02d443d7541cb408aa0d92a52dca24c6.jpg",
     images: [
       "https://i.pinimg.com/originals/43/64/fb/4364fb5d407bf4697246dcbbcd776aae.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "bhopal",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "I am independent call girl living alone looking honest and genuine guys for fun and enjoyment. I am available for both incall and outcall services at low charges. So, without any hesitation pick your cell phone and book me for shot and night…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "bhopal-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in bhopal.",
+    description: "💦 3 min 75 /Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge",
     image: "https://i.pinimg.com/videos/thumbnails/originals/15/c8/1f/15c81f15914c033425c20db42d9ec749.0000000.jpg",
     images: [
       "https://i.pinimg.com/originals/8b/ae/87/8bae878556edc1d42b513e2ca0096a93.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "bhopal",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "💦 3 min 75 /Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge and make ur mood happy👩‍❤️‍👨 40min 299 ❤ full nude service call service ❤ phone call sex ❤ sex chat ❤ sex education ❤ maximum…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "bhopal-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hye I'm Ritu independent girl",
     image: "https://i.pinimg.com/originals/c0/1a/5d/c01a5d2d972f0eec6869a48fa3e0e952.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/38/b8/58/38b858d52e08b4f32e477f9a155125be.0000000.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "bhopal",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "No advance only cash payment only genuine person comes 🙏",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "bhopal-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💯NO ADVANCE ONLY CASH PAYMENT AFTER THE MEET✅ HIGH CLASS PRIMIUM VVIP ESCORTS SERVICE IN BANGALORE",
     image: "https://i.pinimg.com/originals/cc/f7/82/ccf782aef0dc22f04ea0b1312899d271.jpg",
     images: [
       "https://i.pinimg.com/originals/4d/56/1e/4d561efbddf695322c7a359c66893e64.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "bhopal",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Bangalore)✅ONLY CASH PAYMENT ⭐100% GENUINE SAME PROFILE HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100%…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "bhopal-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Happy Ending massage spa Manikonda B2B full romance Nude ❤️Girls selection available walk-in, Call or whatsapp me now",
     image: "https://i.pinimg.com/originals/f9/18/94/f91894228c1cc8d4ecb1484f4bd9efb0.jpg",
     images: [
       "https://i.pinimg.com/originals/8b/ae/87/8bae878556edc1d42b513e2ca0096a93.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "bhopal",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hello guys Welcome to our spa and today you gets very hot girls 😍Normal massage 🤪Aroma Massage 😛Deep Tissue Massage 😗😂Body polish massage 🥳Thai Massage 🤣Head massage 🤩Foot massage 😘Oil massage 👅Gel massage 👄Cream massage Extras available ❣️Topless massage 🥰Full nude massage 💋Body to body rubbing massage 🤩Romance 💓Magical touchings 💙Happy ending…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "bhopal-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in bhopal.",
+    description: "41 demo charges only video call service only demo charges 41 nude video call service",
     image: "https://i.pinimg.com/originals/45/b0/56/45b05603810c4199b792ec246879d0d7.jpg",
     images: [
       "https://i.pinimg.com/originals/8b/cc/19/8bcc19578d7c05882799d489193ef6cc.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "bhopal",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "41 demo charges only video call service only demo charges 41 nude video call service",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

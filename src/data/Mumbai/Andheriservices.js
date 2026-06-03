@@ -2,7 +2,7 @@
   {
     id: "andheri-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "NO ANY ADVANCE PAYMENT HAND TO HAND PAYMENT ANAL,LIP TO LIP KISS, PUSHY LIKS,BLOJOB WITH OUT CONDOM, DOGGY STYLE,69 POSSITION A TO Z COMPLETE SERVICE.",
     image: "https://i.pinimg.com/originals/35/17/cf/3517cf91f8ea6c413bce1bd7eb3588ae.jpg",
     images: [
       "https://i.pinimg.com/originals/86/5a/b3/865ab3051b294f5ae16a4a68d2289115.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "andheri",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "NO ADVANCE PAYMENT GENUINE SERVICE FULL B2B TO BODY MASSAGE WITH UNLIMITED SHOT 24 HOURS AVAILABLE HOME AND HOTEL SERVICE. ✈️ HOTEL & HOME SEX 100% REAL SERVICE.✅ No advance here, Payment after service Andheri, Thane,Daisher, Chembur and other place…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "andheri-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in andheri.",
+    description: "Full open nude video call 🤙 sarvice 💋 only genuine sarvice 💋",
     image: "https://i.pinimg.com/originals/a7/0b/4d/a70b4d62bef429a105618c1530bf5d19.jpg",
     images: [
       "https://i.pinimg.com/originals/d7/fd/db/d7fddb8bc04367cdbe42fd4c6fac5c5b.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "andheri",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Full open nude video call 🤙 sarvice 💋 only genuine sarvice 💋",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "andheri-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Body massage only female Want to get pussy massaged? Contact us.",
     image: "https://i.pinimg.com/videos/thumbnails/originals/4f/04/eb/4f04ebcbbd86bf1a88365b368e845eef.0000000.jpg",
     images: [
       "https://i.pinimg.com/originals/d6/2b/54/d62b54098d17fa23b2072fa0ae5f5e5c.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "andheri",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Sex massage body massage I suck the pussy and massage it with gentle chatting.",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "andheri-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL SERVICE WITHOUT CONDOM 100% SECURE ALL OVER BANGLORE CITY",
     image: "https://i.pinimg.com/originals/55/2e/bf/552ebf39d4b7ca1ea5a49bf53c2b8cb1.jpg",
     images: [
       "https://i.pinimg.com/originals/de/73/30/de7330cd6c882abf6fae9dcd42c23622.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "andheri",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "me 💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "andheri-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "NO ADVANCE//BUSTY & BIG BOOBS YOUNG GIRL AVAILABLE IN YOUR CITY WITH REASONABLE PRICE",
     image: "https://i.pinimg.com/originals/dc/d4/e8/dcd4e87b19aaa8bc106e63e1b01c9f1d.jpg",
     images: [
       "https://i.pinimg.com/originals/bb/ba/92/bbba92caf37a6dbde24db0e9b255902a.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "andheri",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hello Everyone, I'm Mahi Singh We are genuine service provider in Bangalore. If you are genuinely interested than tell Text me....ok Only OutCall Don't Ask For InCall I can be everything you have always desire seductive and mischievous in one moment,…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "andheri-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in andheri.",
+    description: "Myself chhoti singh and Genuine independent Call Girls Meet Dairectl No Advance Dairect Hand Cash it's a Genuine",
     image: "https://i.pinimg.com/originals/60/18/0d/60180d60d081c04742846eb94bc2c612.jpg",
     images: [
       "https://i.pinimg.com/originals/62/39/0d/62390d1c1b749241ac3147dec9d0651b.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "andheri",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hi Myself chhoti Really genuine independent Call Girls Meet Dairectl No Agents it's a paid relationship with my bed I will provide u all types of services like bj lipkiss anaul services In call out call hotel home and doorstep services available",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

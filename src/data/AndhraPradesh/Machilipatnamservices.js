@@ -2,7 +2,7 @@
   {
     id: "machilipatnam-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "today full discount Independent college student and house wife hand to hand payment HYDERABAD",
     image: "https://i.pinimg.com/originals/1f/57/63/1f5763a5be9c46ddf46f0e156fb34426.jpg",
     images: [
       "https://i.pinimg.com/originals/1f/82/ae/1f82ae24ee8d783f8d5a1ff19e480b4d.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "machilipatnam",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "new new profile avl I have Many collection of Independent girls and house wife They are goodlooking and ready to do anything for money For any information and booking please feel free and call me directly",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "machilipatnam-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in machilipatnam.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct",
     image: "https://i.pinimg.com/originals/1f/d2/52/1fd2528f1bbfd6614b9c153d5fa8bc1a.jpg",
     images: [
       "https://i.pinimg.com/originals/1f/df/3e/1fdf3e721430f02962a61a1757483503.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "machilipatnam",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "No extra charge genuine people came here time pass direct block genuine people came here 24 HOUR",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "machilipatnam-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Body massage only female Want to get pussy massaged? Contact us.",
     image: "https://i.pinimg.com/originals/20/2e/27/202e276700a1bef87b845d493f1ad0e4.jpg",
     images: [
       "https://i.pinimg.com/originals/20/3a/d6/203ad6893ffca72553abd89b57c0e97d.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "machilipatnam",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Sex massage body massage I suck the pussy and massage it with gentle chatting.",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "machilipatnam-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct block",
     image: "https://i.pinimg.com/originals/20/4a/ea/204aeafc0753c0606ce71916c5ee5316.jpg",
     images: [
       "https://i.pinimg.com/originals/20/9d/a4/209da4ef854350c78e9462084f40e9fb.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "machilipatnam",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Live video call service available no meet only genuine people came here no extra charge",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "machilipatnam-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hi it's genuine vc available",
     image: "https://i.pinimg.com/originals/20/e3/1f/20e31fb835e7df96b6d108f60d2cfabc.jpg",
     images: [
       "https://i.pinimg.com/originals/21/1c/6c/211c6c512a534857cd73c54c1016d1ba.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "machilipatnam",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hi it's genuine vc available",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "machilipatnam-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in machilipatnam.",
+    description: "only 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     image: "https://i.pinimg.com/originals/21/7c/f3/217cf31dc0f73a9e5edd22e32477abfc.jpg",
     images: [
       "https://i.pinimg.com/originals/21/8e/8e/218e8e32087d7e07b6a87958c3b6d9a7.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "machilipatnam",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Demo 50/- only ◼️◾▪️💞hey I'm Radhika Bangalore hot girl genius Full Nude video sex service💞 new joinonly 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

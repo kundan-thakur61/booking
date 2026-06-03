@@ -2,7 +2,7 @@
   {
     id: "amritsar-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "🔥VIP GENUINE ESCORT SERVICE, NO NEED ANY ADVANCE, ONLY HAND TO HAND PAYMENT 🔥",
     image: "https://i.pinimg.com/originals/df/3d/3b/df3d3b9b00defb7cb367e632b9736463.jpg",
     images: [
       "https://i.pinimg.com/originals/fa/7f/e9/fa7fe95131526d092a875daf07a3ee9c.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "amritsar",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "💕 NO NEED ANY ADVANCE PAYMENT 💕 💕 Only for cash payment hand to hand 💕 💖 100% GENUINE AND SECURE SERVICE CENTRE 💖 👋 HELLO GENTLEMAN 🕺🕺🕺 VIP GENUINE & SECURE SERVICE AVAILABLE HERE 🕺🕺🕺 🫂 FULL FRIENDLY 🫂 FULL COOPERATIVE 🫂 100% SATISFACTION 🫂 LIKE…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "amritsar-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in amritsar.",
+    description: "💃HIGH CLASS COLLEGE HOSTEL GIRLS INDEPENDENT OR HOTEL STAY AVAILABLE VERRY REASONABLE PRICE CONTACT PLEASE💃",
     image: "https://i.pinimg.com/originals/c7/c7/24/c7c724d124b3b4fac7b82f49c81699e0.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/a5/21/a8/a521a82633ad5919a3ea8ea7bb162340.0000000.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "amritsar",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Escorts Service In Delhi- 8796- 155 -250📌𝐚𝐧𝐝 𝐊𝐢𝐬𝐬𝐢𝐧𝐠, 𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠 𝐋𝐢𝐩𝐥𝐨𝐜𝐤, 𝐃𝐞𝐞𝐩 𝐊𝐢𝐬𝐬, 𝐅𝐫𝐞𝐧𝐜𝐡 𝐊𝐢𝐬𝐬 100% satisfaction guaranteed",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "amritsar-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Rs 1000 (Counter) - Full Nude🩱Body Massage💗B2B Body massage Spa with BJ🍌 - Mirjalguda / Malkajgiri / Anand Bagh / Lalapet",
     image: "https://i.pinimg.com/originals/19/c4/95/19c49569269874e62ac11d2cba4489b5.jpg",
     images: [
       "https://i.pinimg.com/originals/40/14/7d/40147d10a2433dc3866f25a3571e236f.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "amritsar",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Malkajgiri Beauty Spa Massage starting form 1000/- Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "amritsar-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "HIGH PROFILE COLLEGE CALL GIRLS IN DELHI JUST BOOKING NOW ANY TIME 99580 Top 18831",
     image: "https://i.pinimg.com/originals/c2/d9/dc/c2d9dca8a14ae8eb6d8a25560bcf6ebd.jpg",
     images: [
       "https://i.pinimg.com/originals/d3/66/6e/d3666e3c9d0fcd55a3ce3d77213d0894.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "amritsar",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Call & Whatsapp Now 99580-/-18831 Safe & Secure High Class Services Affordable Rate 100% Satisfaction, Unlimited Enjoyment. Any Time for Model/Escort in Delhi High class luxury and premium escorts High class luxury and premium escorts Well Educated,…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "amritsar-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "93720 - 27981 ONLY CASH PAYMENT NO ADVANCE NO BOOKING AMOUNT INDEPENDENT EDUCATED INDIAN RUSSIAN GIRLS",
     image: "https://i.pinimg.com/originals/5b/aa/46/5baa46c3256b5dd9cff3be56ad8c346e.jpg",
     images: [
       "https://i.pinimg.com/originals/da/44/e3/da44e363f41fa0f7bf2a9a0a8b0705f6.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "amritsar",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Greetings all, the name is REKHA JOSHI and I’m a truly stunning and elegant 23-year-old independent call girl. I'm going to become the woman who'll be able to make you cum like never before, dear. I have such a beautiful and natural figure that you…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "amritsar-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in amritsar.",
+    description: "🔥VIP GENUINE ESCORT SERVICE, NO NEED ANY ADVANCE, ONLY HAND TO HAND PAYMENT 🔥",
     image: "https://i.pinimg.com/originals/14/d8/bb/14d8bba4f7fc611a3dacf54933677b45.jpg",
     images: [
       "https://i.pinimg.com/originals/1b/e9/3b/1be93be5d84c69cd0bd53d9877987bb2.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "amritsar",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "💕 NO NEED ANY ADVANCE PAYMENT 💕 💕 Only for cash payment hand to hand 💕 💖 100% GENUINE AND SECURE SERVICE CENTRE 💖 👋 HELLO GENTLEMAN 🕺🕺🕺 VIP GENUINE & SECURE SERVICE AVAILABLE HERE 🕺🕺🕺 🫂 FULL FRIENDLY 🫂 FULL COOPERATIVE 🫂 100% SATISFACTION 🫂 LIKE…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

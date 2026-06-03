@@ -2,7 +2,7 @@
   {
     id: "margao-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "I'M pooja INDIPENDENT CALL GIRL CALL ME NOW FOR REAL MEET GENUINE SERVICE IN ALL OVER BANGALORE 24/7",
     image: "https://i.pinimg.com/originals/c1/f3/7c/c1f37c5e5b633a151fb4d3e88f7b5048.jpg",
     images: [
       "https://i.pinimg.com/originals/c2/07/ff/c207ff66b5fdb2275f8bb34c51025b18.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "margao",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hi everyone I'm Pooja indipendent call girl from Bangalore I provide real meet genuine services in all over Bangalore Call me now for real meet genuine services in all over Bangalore 24/",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "margao-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in margao.",
+    description: "Hey myself sneha I'm independent girl call me now for real meet genuine sarvice available 24/7 hours all over bangalore",
     image: "https://i.pinimg.com/originals/c2/4e/4b/c24e4b0044e0e251aec1a64de3055bab.jpg",
     images: [
       "https://i.pinimg.com/originals/c2/5d/89/c25d89a9a033a2ea641114e338c87164.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "margao",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hi everyone I'm sneha indipendent call girl from Bangalore I provide real meet genuine services in all over bangalore Call me now for real meet genuine services in all over bangalore 24/7",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "margao-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "NO ADVANCE SAFE AND SECURE CALL GIRL SERVICE",
     image: "https://i.pinimg.com/originals/c2/cb/57/c2cb5775991384f775b7820c55e9e415.jpg",
     images: [
       "https://i.pinimg.com/originals/c2/d0/4d/c2d04dfa8804eba8f39ede1f4ac01212.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "margao",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "NO ADVANCE ONLY HAND CASH PAYMENT CALL GIRL SERVICE SAFE AND SECURE DIRECT MEET AFTER PAYMENT PAY ..",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "margao-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Demo 50/-Full 💝nude hi Anjali 🤗video call without clothes demo charge 50💦",
     image: "https://i.pinimg.com/originals/c2/d9/dc/c2d9dca8a14ae8eb6d8a25560bcf6ebd.jpg",
     images: [
       "https://i.pinimg.com/originals/c3/04/3f/c3043f459567b569315ee542686aef6b.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "margao",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Demo full nude video call service,💯🥰🥰💕full enjoy full Demo 50/-Full 💝nude hi Anjali 🤗video call without clothes demo charge 50💦 ful Bangalore Live Video Call Service 💦📱 Full Open 🔥 Genuine 💯 Demo Available 💸 Fast Response 📞 Banni Bega 😉",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "margao-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "💫 Professional top of Faridabad😈 Massage also available 💆🏻‍♂️💆🏻‍♀️",
     image: "https://i.pinimg.com/originals/c3/4d/de/c34dde09ede91f37e3dfcdf4d418e12e.jpg",
     images: [
       "https://i.pinimg.com/originals/c3/51/f7/c351f7560cdc577956dc978fea4d4250.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "margao",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hi I'm Anmol I have been in this service for the last 2 years and have a good client base and have a great experience as a massager with happy ending. Bhabhi couple and bottoms are most welcome. No advance required just book a cab or rapido from my…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "margao-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in margao.",
+    description: "🔥VIP GENUINE ESCORT SERVICE, NO NEED ANY ADVANCE, ONLY HAND TO HAND PAYMENT 🔥",
     image: "https://i.pinimg.com/originals/c3/aa/98/c3aa9808cd1332cad235dd3b21345fa3.jpg",
     images: [
       "https://i.pinimg.com/originals/c3/dc/18/c3dc180350290e62f360cdd559b89934.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "margao",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "💕 NO NEED ANY ADVANCE PAYMENT 💕 💕 Only for cash payment hand to hand 💕 💖 100% GENUINE AND SECURE SERVICE CENTRE 💖 👋 HELLO GENTLEMAN 🕺🕺🕺 VIP GENUINE & SECURE SERVICE AVAILABLE HERE 🕺🕺🕺 🫂 FULL FRIENDLY 🫂 FULL COOPERATIVE 🫂 100% SATISFACTION 🫂 LIKE…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

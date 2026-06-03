@@ -2,7 +2,7 @@
   {
     id: "malad-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "💖PRIYA💖 independent Girl Staying Alone in Flat Just Visit Once",
     image: "https://i.pinimg.com/originals/4d/bb/73/4dbb736f8ffc98e9f16dc1742ce6d0a6.jpg",
     images: [
       "https://i.pinimg.com/originals/c8/fd/c2/c8fdc2449a441ae8002711dfd0daff58.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "malad",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hello Guys Am PRIYA💝 🌟🌟Hotel service available 24 hour 💐 All over Hotel outcall service and incall with regular price guarantee satisfaction genuine service",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "malad-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in malad.",
+    description: "Hot bhabhi full finger video call service big boobs live show",
     image: "https://i.pinimg.com/originals/1f/bf/9f/1fbf9f40fea32eb82588b6a1b1d8bc85.jpg",
     images: [
       "https://i.pinimg.com/originals/a3/d1/dd/a3d1dd45c72e07efa35af5532680a5be.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "malad",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Genuine bhabhi live show video call service sex chat voice call sex sex demo phone sex big boobs",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "malad-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "I LIKE BIG DIC**K(I have 36 size BOOBS n big pussy) –",
     image: "https://i.pinimg.com/originals/2f/9d/7c/2f9d7cda6a46fddf401fdd77bc4c7f80.jpg",
     images: [
       "https://i.pinimg.com/originals/10/6e/2e/106e2e696a339c406fffa1cf4f5f8bca.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "malad",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Looking for some fun with guy in and out of the bedroom.. I want to ride your face and if you are good I'll ride your cock.. I'm Laila, 28, love to do fun.. Tell me how fun you are want.. call or missed call-",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "malad-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💥BOOK ₹ 2K SHORT ₹ 7k NIGHT 99998 call 58187 PAYMENT GIRL HAND YOUR FLAT HOTEL HOME ✅ IN CALL FREE ROOM 🆗 OUT CALL YOUR PLACE REAL WHATSAPP",
     image: "https://i.pinimg.com/originals/59/11/4f/59114f2b27bf1ac7c6cf2185bdb0f38a.jpg",
     images: [
       "https://i.pinimg.com/originals/6b/f9/91/6bf9913dccb29927bc4d63c7a53c6180.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "malad",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "CALL GIRLS IN DELHI:- 99998 call 58187❤️𝗛𝗔𝗡𝗗 𝗧𝗢 𝗛𝗔𝗡𝗗 𝗖𝗔𝗦𝗛 𝗣𝗔𝗬𝗠𝗘𝗡𝗧 𝗡𝗢 𝗔𝗗𝗩𝗔𝗡𝗖𝗘 𝗡𝗢 𝗘𝗫𝗧𝗥𝗔 𝗖𝗛𝗔𝗥𝗚𝗘❤️ DELHI 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗣𝗥𝗢𝗩𝗜𝗗𝗘𝗥 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝟮𝟰/𝟳 ALL OVER DELHI NCR SHREY 𝐁𝐨𝐨𝐤 𝐧𝐨𝐰 V★I★P Genuine High Profile Model's Available - ALL DELHI NCR Hotel &…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "malad-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "My name is Ruhi Patel i am independent college girl no broker ❌ no agency ill provide the without registration 👍",
     image: "https://i.pinimg.com/originals/59/fb/d9/59fbd94d1468817a14b6d67c3dcf3b6f.jpg",
     images: [
       "https://i.pinimg.com/originals/92/cc/61/92cc61fa77e9d928225957da2fd85b12.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "malad",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Dear Customers Are You Looking Call Girl Service In Bangalore,But Unable To Find Geniune Best One! Don't Worry,I'm Here To Full Fill Your All Requirment, My Name is Soniya I'M a Independent Call Girl and I Will Provide The Service Without Any Restriction without any Stupid Condition,You Just Connect With Me Through Whatsapp Or Teligram And Get…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "malad-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in malad.",
+    description: "HAND TO HAND CASH PAYMENT HOT SLIM MODAL PRETTY GIRL Want To Fuck You Anytime... She Will Treat You Like Her Little Girlfriend In Bed",
     image: "https://i.pinimg.com/originals/7a/82/d2/7a82d2a226ffc3a9950324396cc5c4c5.jpg",
     images: [
       "https://i.pinimg.com/originals/34/53/79/345379cc9a1bc3371af9d0b19006aec8.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "malad",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "I am independent call girl living alone looking honest and genuine guys for fun and enjoyment. I am available for both incall and outcall services at low charges. So, without any hesitation pick your cell phone and book me for shot and night services. I am really very active in bed, I like work hard at it and above all leave my lovers very…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

@@ -2,7 +2,7 @@
   {
     id: "lohit-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Marathi Meera aho video call sex service",
     image: "https://i.pinimg.com/originals/45/94/b9/4594b9fc76b0bc18e29b72302e4358d0.jpg",
     images: [
       "https://i.pinimg.com/originals/45/b0/56/45b05603810c4199b792ec246879d0d7.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "lohit",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hi service available No free confirmation or demo or nude pics Genuine service available only",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "lohit-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in lohit.",
+    description: "NO ANY ADVANCE PAYMENT HAND TO HAND PAYMENT ANAL,LIP TO LIP KISS, PUSHY LIKS,BLOJOB WITH OUT CONDOM, DOGGY STYLE,69 POSSITION A TO Z COMPLETE SERVICE.",
     image: "https://i.pinimg.com/originals/45/e4/b9/45e4b97c46614d4d02b124292165ac84.jpg",
     images: [
       "https://i.pinimg.com/originals/45/f2/f6/45f2f6166a9868b8654fe4445d936ce0.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "lohit",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "NO ADVANCE PAYMENT GENUINE SERVICE FULL B2B TO BODY MASSAGE WITH UNLIMITED SHOT 24 HOURS AVAILABLE HOME AND HOTEL SERVICE. ✈️ HOTEL & HOME SEX 100% REAL SERVICE.✅ No advance here, Payment after service Andheri, Thane,Daisher, Chembur and other place…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "lohit-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "❤️ KRITIKA INDEPENDENT CALL GIRL REAL MEET GENUINE SERVICE AVAILABLE 24/7💯💯",
     image: "https://i.pinimg.com/originals/46/47/18/464718a4c2a02dc8308ee6c38e3aaa73.jpg",
     images: [
       "https://i.pinimg.com/originals/46/86/0a/46860a6baa8c0e3643e1af82d7afac73.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "lohit",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "❤️ hii gentalman My self kritika sinha I am independent girl I am college student I am hot girl Please text me genuine person 💯💯 Real meet service available 24/7💯💯 I am available now for real meet service all over banglore 24/7💯💯",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "lohit-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "NO ADVANCE DIRECT CASH PAYMENT CALL-GIRL 24hr available hotel in home apartment",
     image: "https://i.pinimg.com/originals/46/c3/4d/46c34d7dc8348983240db21967ad9526.jpg",
     images: [
       "https://i.pinimg.com/originals/46/d5/81/46d58167e6c1b578fad7dafcef835c1d.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "lohit",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "HAND TO HAND CASH PAYMENT HIGH PROFILE GIRLS hotel and home AVAILABLE 24/7 ALL TYPE GIRL. 🌟✨CALL &WHATSAPP = ONLY GENU⁵IPERSONNE DON'T TIME WASTE GENUINE PERSON ENJOY 100% Cus bytomers Satisfaction Guarantee // 100 % Vip Profiles Top Grade Service //1 100% Cooperative All round Service. WE GUARANTEE FULL SATISFACTION & IN CASE OF ANY UNHAPPY…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "lohit-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "HAND TO HAND CASH PAYMENT NO ADVANCE NO EXTRA PAYMENT ME",
     image: "https://i.pinimg.com/originals/47/17/c8/4717c8584541cadcbd34aec38efde406.jpg",
     images: [
       "https://i.pinimg.com/originals/47/19/3c/47193ce21a8f9ce958b7bfdf24f3620f.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "lohit",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "I'm independent call girl And I am a girl from a poor family, I am sure that I will satisfy you, my height is 166 cm and my weight is 50 kgs, I am a very hot guy, I hope you will like me.",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "lohit-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in lohit.",
+    description: "Priyanka housewife available for online vc service",
     image: "https://i.pinimg.com/originals/47/45/2e/47452e55446edcf7ae21181a20f9335f.jpg",
     images: [
       "https://i.pinimg.com/originals/47/46/a5/4746a511ae5b8bbbbf1bb0f9dba1509f.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "lohit",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hii dear i am sonia live video call nude show sarvice available whatsapp online",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

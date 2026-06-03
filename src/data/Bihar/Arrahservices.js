@@ -2,7 +2,7 @@
   {
     id: "arrah-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "SS SPA",
     image: "https://i.pinimg.com/originals/6b/ca/42/6bca42c872cad5c36a178590e5a5778d.jpg",
     images: [
       "https://i.pinimg.com/originals/6b/d7/95/6bd795fae2ac73f50cd6c58ce60a8ed2.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "arrah",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Best erotic massage and tantric massage nice heaven relaxation",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "arrah-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in arrah.",
+    description: "Bangalore aunty Room sex videos genuine genuine Hot girl body video sex chat with room sex audio call and with voice service railway real sex and mass",
     image: "https://i.pinimg.com/originals/6c/1d/e0/6c1de0d7bf32ed9b1a1435d50afbeb39.jpg",
     images: [
       "https://i.pinimg.com/originals/6c/48/39/6c483973444a97d1b0b277f717abd3d7.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "arrah",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Bangalore aunty Room sex videos genuine genuine Hot girl body video sex chat with room sex audio call and with voice service railway real sex and massage service",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "arrah-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Night fun",
     image: "https://i.pinimg.com/originals/6c/4e/54/6c4e545c9d16f8ac1e5e405634d91af5.jpg",
     images: [
       "https://i.pinimg.com/originals/6c/52/f8/6c52f80085f98b34bad60e463e0453cc.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "arrah",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "I don't lie like others, straight talk, no nonsense, I don't have a wife, I want a night partner, if anyone wants to accompany me then all the details are confidential.",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "arrah-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hi m lund🍌🍌🍌. Hot girl's, bhabhi lund🍌ko chusne,satisfied, threesome, enjoy, party, relationship karne ke liye contact me.",
     image: "https://i.pinimg.com/originals/6c/9a/21/6c9a2143952c36babaffbda3edab35c0.jpg",
     images: [
       "https://i.pinimg.com/originals/6c/a3/e8/6ca3e83183ce8c0d4d98d4dd38251c27.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "arrah",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Bhabhi, diveroce girl's Apni chut🥝ko satisfied, hard sex, anal, oral, relationship, enjoy, party karne ke liye message me. Hot girls Apni chut🥝ki seal tudwane, sex experience lene, sex chat,massage karvana ke liye message me.",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "arrah-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "699/-FULL NUDE 🩷PINK PUSSY LICKING 🫦💦 NURU MASSAGE WITH HAPPYENDING",
     image: "https://i.pinimg.com/originals/6d/12/06/6d1206cd291602682da075a450de1577.jpg",
     images: [
       "https://i.pinimg.com/originals/6d/15/de/6d15de45d69b2b82afa49678443695ab.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "arrah",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "OUR SPCL SERVICES: SEXY GIRLS ONLY AROMATHERAPY, SPA, HAPPY ENDING MASSAGE, NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE B0OB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS contact sweety Affordable Rate, 100 %…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "arrah-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in arrah.",
+    description: "NO ADVANCE REQUIRED SAFE & CONFIDENTIAL ONE OF THE ONLY BEST TRUSTWORTHY FEMALES FULL CO-OPERATIVE VERIFIED GENUINE STAFF 1OO% SATISFICATION GUARANTEE",
     image: "https://i.pinimg.com/originals/6d/4a/f3/6d4af37fd011db93bc498bed62ac5651.jpg",
     images: [
       "https://i.pinimg.com/originals/6d/68/d7/6d68d700d5973f92374bc88ad820b701.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "arrah",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "WE BELIEVE IN CUSTOMER SATISFACTION AND BUILDING LONG-TERM RELATIONSHIPS WITH OUR CLIENTS. EVERY PROFILE IS CAREFULLY SELECTED TO ENSURE A SMOOTH, RESPECTFUL, AND MEMORABLE EXPERIENCE TAILORED TO YOUR PREFERENCES. BEST AND HOT SELECTED PROFILES :- -…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

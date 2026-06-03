@@ -2,7 +2,7 @@
   {
     id: "bhubaneswar-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Massage Services For Females Only At Home By Individual Trained Therapist With 100% Privacy & Maintain Hygiene",
     image: "https://i.pinimg.com/originals/d1/d6/82/d1d682e8e3efd1a63e9faa4a621f9d51.jpg",
     images: [
       "https://i.pinimg.com/originals/6f/1a/30/6f1a309fa53d3d277d3df0610ee5a3ef.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "bhubaneswar",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "I am Individual and Trained Massage Therapist. 🌸Balance ​yourself Between work, family, and daily life, it’s easy to put self-care on the back burner. 1.DEEP TISSUE MASSAGE 2.THAI MASSAGE 3.SWEDISH MASSAGE 4.TRIGGER POINT MASSAGE 5.HEAD & NECK…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "bhubaneswar-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in bhubaneswar.",
+    description: "I am independent girl💖 no advance hand to hand payment ❌",
     image: "https://i.pinimg.com/originals/0a/48/8f/0a488f472c2183f2a6d20b26af1d4bbb.jpg",
     images: [
       "https://i.pinimg.com/originals/19/4b/b5/194bb53d34cbacf866e092ba941a8a69.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "bhubaneswar",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hotel service No advance❌hand to hand payment and home service 300₹ advance payment available 💖❤️only genuine person contact me 🙏 I give full and all types of services with no any restriction...i give you full satisfaction in service 😍 All ,2,3,4,5 ✨…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "bhubaneswar-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "🔥VIP GENUINE ESCORT SERVICE, NO NEED ANY ADVANCE, ONLY HAND TO HAND PAYMENT 🔥",
     image: "https://i.pinimg.com/originals/f6/14/93/f61493efc14e37c190ea765dce88e9f0.jpg",
     images: [
       "https://i.pinimg.com/originals/64/26/68/6426686dedefb3e1b5da27dc3b44eece.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "bhubaneswar",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "💕 NO NEED ANY ADVANCE PAYMENT 💕 💕 Only for cash payment hand to hand 💕 💖 100% GENUINE AND SECURE SERVICE CENTRE 💖 👋 HELLO GENTLEMAN 🕺🕺🕺 VIP GENUINE & SECURE SERVICE AVAILABLE HERE 🕺🕺🕺 🫂 FULL FRIENDLY 🫂 FULL COOPERATIVE 🫂 100% SATISFACTION 🫂 LIKE…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "bhubaneswar-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Available_Tonight",
     image: "https://i.pinimg.com/originals/0e/de/09/0ede0933ed0058b27d49b3c73aed7b4a.jpg",
     images: [
       "https://i.pinimg.com/originals/58/91/a1/5891a1c1c9708d99f586733058e8724b.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "bhubaneswar",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hello guys! I'm young , sweet and full of irresistible charm - with a beautiful face, a phenomenal figure and a sensual style that's sure to captivate you. My friendly, playful nature makes every moment with me unforgettable........",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "bhubaneswar-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Sexy video call genuine girl proved",
     image: "https://i.pinimg.com/originals/a9/fe/13/a9fe131caeae1dabb8316326df03ad8e.jpg",
     images: [
       "https://i.pinimg.com/originals/cc/f2/98/ccf298c1131e844b75ae65a2040141a3.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "bhubaneswar",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hot sexy girl phone sex camsex sexting adult live video call genuine service in...",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "bhubaneswar-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in bhubaneswar.",
+    description: "Happy Ending massage spa Manikonda B2B full romance Nude ❤️Girls selection available walk-in, Call or whatsapp me now",
     image: "https://i.pinimg.com/originals/a9/8d/4a/a98d4af43cf25f81a2b02c03ecc77860.jpg",
     images: [
       "https://i.pinimg.com/originals/9b/6a/43/9b6a430364020b09f16d02c8b2c2dd46.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "bhubaneswar",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hello guys Welcome to our spa and today you gets very hot girls 😍Normal massage 🤪Aroma Massage 😛Deep Tissue Massage 😗😂Body polish massage 🥳Thai Massage 🤣Head massage 🤩Foot massage 😘Oil massage 👅Gel massage 👄Cream massage Extras available ❣️Topless massage 🥰Full nude massage 💋Body to body rubbing massage 🤩Romance 💓Magical touchings 💙Happy ending…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

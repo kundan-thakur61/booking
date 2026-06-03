@@ -2,7 +2,7 @@
   {
     id: "hazaribagh-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Low budget video chat sex service available video call sexting, phone sex in India",
     image: "https://i.pinimg.com/videos/thumbnails/originals/2c/86/3a/2c863a0f67dcb40036adbbdcc7cc6a88.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/38/b8/58/38b858d52e08b4f32e477f9a155125be.0000000.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "hazaribagh",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "I am beautiful girl I am available for video call, sexting or phone sex call me on whatsApp",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "hazaribagh-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in hazaribagh.",
+    description: "💫 Professional top of Faridabad😈 Massage also available 💆🏻‍♂️💆🏻‍♀️",
     image: "https://i.pinimg.com/videos/thumbnails/originals/48/52/ac/4852ac50d72067ebc1d76974af70d09e.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/48/9a/4f/489a4f95af24c7bada2eab1d82ac2822.0000000.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "hazaribagh",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hi I'm Anmol I have been in this service for the last 2 years and have a good client base and have a great experience as a massager with happy ending. Bhabhi couple and bottoms are most welcome. No advance required just book a cab or rapido from my…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "hazaribagh-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hii I am Neetu independent genuine location BTM Layout but only out call available and full service please no time pass",
     image: "https://i.pinimg.com/videos/thumbnails/originals/4f/04/eb/4f04ebcbbd86bf1a88365b368e845eef.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/52/76/1b/52761b1d5d149b04524376efbe207135.0000000.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "hazaribagh",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hii I am Neetu independent genuine location BTM Layout but only out call available short time 7k 2 short 3 hours full night 12k 4 short and full service please no time pass",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "hazaribagh-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hii am 💗Anusha💗 independent hot and sexy girl .kannada hudgi",
     image: "https://i.pinimg.com/videos/thumbnails/originals/5c/e7/f7/5ce7f79aa25ca11e8fb3dfd4d3aa62a8.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/64/0b/f9/640bf9ebacd940fb5b5b399dffec39c6.0000000.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "hazaribagh",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hii am 💗 Anusha 💗 independent college girl .. Out call and incall service available Due to some proverty problem dad was dead that's why am doing this work. Video call and audio call service also available. It's truly genuine service genuine person…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "hazaribagh-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "TANI HERE TO MAKE YOUR DAY UNFORGETTABLE MESSAGE ME ON TELEGRAM FOR MORE DETAILS",
     image: "https://i.pinimg.com/videos/thumbnails/originals/66/b7/44/66b7443bb46f65f700d6832c6f2f3fb0.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/68/cf/d7/68cfd70ca774ff9b51d100976d01ea67.0000000.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "hazaribagh",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Message me on telegram and call me for more details I am waiting for your message and call",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "hazaribagh-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in hazaribagh.",
+    description: "I’m seeking trust woman, well minded",
     image: "https://i.pinimg.com/videos/thumbnails/originals/74/14/43/741443d568926c932593d176e2d2d428.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/75/38/2f/75382faaf481fe834257a28f8f87279d.0000000.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "hazaribagh",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

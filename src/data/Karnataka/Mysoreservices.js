@@ -2,7 +2,7 @@
   {
     id: "mysore-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "DIRECT HAND TO HAND CASH PAYMENT NO ADVANCE PAYMENT NO EXTRA CHARGES GENUINE SERVICE AVAILABLE",
     image: "https://i.pinimg.com/originals/ac/b0/b3/acb0b3d28e0425e723e912a820cf6ffc.jpg",
     images: [
       "https://i.pinimg.com/originals/43/3b/69/433b69510ab3155adb020585b19a42d1.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "mysore",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Direct Meeting Direct Payment Before Service Cash or UPI. ▪♨️ No Booking Charges or No Online Advance Payment Service Details :- ▪♨️ Full Open Nude Sex Without any Dess With 100% Satisfaction. ▪♨️ BlowJob Oral Sex Pussy Licking Boobs Sucking69 Style…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "mysore-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in mysore.",
+    description: "Hello ladies jisko v gndi trh se chudna ho mere w p msg kre only women",
     image: "https://i.pinimg.com/originals/e6/45/5f/e6455f17fa0fc11da6d027ed3ab77089.jpg",
     images: [
       "https://i.pinimg.com/originals/2d/ca/fa/2dcafa6133c1ff6e5fd1dd407f0a9eea.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "mysore",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Sex experience acchi h timing mere second third round me 1.5 hours h but bndi me exited krni ki dam honi chaiye jisko chudna ho whi msg kre time kharab krne wale n msg kre thnxx",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "mysore-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Independent college girl Ramya no Broker direct hand cash payment",
     image: "https://i.pinimg.com/originals/f7/d1/7b/f7d17bda44c9f8935d5faf1b101449c2.jpg",
     images: [
       "https://i.pinimg.com/originals/90/14/de/9014de7c34a709e3cc0e110b745dc371.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "mysore",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Ramya... Call & WhatsApp Now Hand to hand cash only direct girl no Agent No Broker High class independent girls models House wife air hostess, college girls call center girls,who are not only good looking but also very mannered.incall _out Call…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "mysore-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Am Shreya truly genuine independent call girl direct meet independent escorts service available",
     image: "https://i.pinimg.com/originals/86/0d/54/860d5445ce5af6ab3cedfb62dc4777a6.jpg",
     images: [
       "https://i.pinimg.com/originals/4e/cb/9d/4ecb9d86a88e5f2551cd0ed5eaa10ba8.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "mysore",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "It's a safe and genuine service available in Bangalore all types of services available including hotel and home service available direct meet also available no broker involved with me try and enjoy your day with me",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "mysore-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hi,im swati providing u the best massage in punjabi bagh,new delhi.once you avail our service u wont go any where in future,new delhi only",
     image: "https://i.pinimg.com/originals/59/30/25/5930255f06604dc648ff3d65aae62b03.jpg",
     images: [
       "https://i.pinimg.com/originals/51/1e/4c/511e4ca2209c1e0a86ba0c545c6c7c10.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "mysore",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "We are providing you the best massage in punjabi bagh,club road Nuru massage Kerala massage Deep tissue massage Turkish massage Jaccuzi massage New delhi only,new delhi only",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "mysore-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in mysore.",
+    description: "College 💓girls face to face payment no advance 24*7 service all over Chandigarh mohali kharar",
     image: "https://i.pinimg.com/originals/82/57/4a/82574a4abdf199ccd9f14982820b960b.jpg",
     images: [
       "https://i.pinimg.com/originals/d1/89/9b/d1899bedd029af195718c3e295015c05.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "mysore",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "We believe in customer satisfaction call or whats app for more enquiries Safe and secure service",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

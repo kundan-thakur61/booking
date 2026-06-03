@@ -2,7 +2,7 @@
   {
     id: "nellore-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Royal genuine service available best good service hotel and home ☺️",
     image: "https://i.pinimg.com/originals/27/cf/cf/27cfcf79f3f6f82e80f5bde3b7c6e4a4.jpg",
     images: [
       "https://i.pinimg.com/originals/27/eb/a0/27eba0f4fe02bb619e16b618038ce44a.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "nellore",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hello lover my name is Rani and I am a hot 23 _ years old in the privacy of company our best girlfriend if you want to enjoy the most exquisite sex i am the woman for you I m convinced that you will be I am best good service love to my dear Who loves…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "nellore-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in nellore.",
+    description: "____Genuine Vip Independent Escort Service In Bangalore Available For Doorstep And Hotel Service ____",
     image: "https://i.pinimg.com/originals/28/45/fb/2845fbc611b259d0fd97682a8fdb62ed.jpg",
     images: [
       "https://i.pinimg.com/originals/28/78/6e/28786eeb28f8660245d3747117f6354c.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "nellore",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Call or What`s App Me __97420 Manu 25924__ For More Details-Bangalore Genuine Independent Escort Service Available For Doorstep And Hotel Service ... \"NO Cheating NO Misbehave\" ...... This Ads Is Only For Those Clients Who Are Looking For Genuine And…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "nellore-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Bangalore Live Video Call Service 💦📱 Full Open 🔥 Genuine 💯 Demo Available 💸 Fast Response 📞 Banni Bega 😉",
     image: "https://i.pinimg.com/originals/28/ff/ad/28ffadb7206bd04b893470fe64becd01.jpg",
     images: [
       "https://i.pinimg.com/originals/29/0e/39/290e398c3952b276637785952dcb961b.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "nellore",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Bangalore Live Video Call Service 💦📱 Full Open 🔥 Genuine 💯 Demo Available 💸 Fast Response 📞 Banni Bega 😉",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "nellore-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hot curvy collage girls kissing body to body hard rubbing makes your day very special",
     image: "https://i.pinimg.com/originals/29/18/ff/2918ffee057eec40d0bd4bf167fee7ca.jpg",
     images: [
       "https://i.pinimg.com/originals/29/32/4f/29324f116b2eda2b50f3abecce99e804.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "nellore",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with (2)girls with pressure XTRA SERVICES AVAILABLE: ******* **TOPLESS TOUCHING*** ***HAPPY ENDING***…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "nellore-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "699/-BOOBS RUBBING 🥵FULL NUDE B2B NURU MASSAGE WITH HAPPYEND.",
     image: "https://i.pinimg.com/originals/29/41/16/2941162e3f79a56ee03f9e33dfe56993.jpg",
     images: [
       "https://i.pinimg.com/originals/29/42/65/2942656f9d2b25c17026e2fef4ddbc6e.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "nellore",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "OF TYPES MASSAGE AVAILABLE • Normal Massage Swedish Massage ✔ Cream massage Deep tissue massage Body Polishing Massage Gel Massage • Legwand Massage EXTRA SERVICES ALSO AVABILES Full nude Massage Body to body Rubbing Romance Shower bath Happy Ending…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "nellore-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in nellore.",
+    description: "🚨 सावधान दल्लों से सावधान रहे:- Avoid scammer, हिजड़ा,sixerman ,fake profile and agent here.",
     image: "https://i.pinimg.com/originals/29/93/9d/29939dc4cb5de506a0a13c3cbfc0b91f.jpg",
     images: [
       "https://i.pinimg.com/originals/29/a4/6f/29a46fa7845fd982e4ff3a8f1b8ee838.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "nellore",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Nude live 🔴 𝗗𝗘𝗠𝗢 confirmation with voice available here,i needed genuine person only message me .. 🔴 𝗗𝗘𝗠𝗢 Livecallgirl (nude demo call once per user lifetime 🤙) 💋Full service with face and voice 💋Livecall ~ now ✅ 🆕 I'm Girl independent and self…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

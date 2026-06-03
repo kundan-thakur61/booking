@@ -2,7 +2,7 @@
   {
     id: "visakhapatnam-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "💃HIGH CLASS COLLEGE HOSTEL GIRLS INDEPENDENT OR HOTEL STAY AVAILABLE VERRY REASONABLE PRICE CONTACT PLEASE💃",
     image: "https://i.pinimg.com/originals/3a/80/b0/3a80b0ad894ec5e0f772098fdcc42ba9.jpg",
     images: [
       "https://i.pinimg.com/originals/3a/95/a5/3a95a52c3270f7532e9713cc0f95ce59.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "visakhapatnam",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Escorts Service In Delhi- 8796- 155 -250📌𝐚𝐧𝐝 𝐊𝐢𝐬𝐬𝐢𝐧𝐠, 𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠 𝐋𝐢𝐩𝐥𝐨𝐜𝐤, 𝐃𝐞𝐞𝐩 𝐊𝐢𝐬𝐬, 𝐅𝐫𝐞𝐧𝐜𝐡 𝐊𝐢𝐬𝐬 100% satisfaction guaranteed",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "visakhapatnam-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in visakhapatnam.",
+    description: "GENUINE SERVICE AVAILABLE DIRECT HAND TO HAND CASH PAYMENT NO ADVANCE PAYMENT NO EXTRA CHARGES",
     image: "https://i.pinimg.com/originals/3a/b8/19/3ab819dda612ba6f470fe35cdf20bf83.jpg",
     images: [
       "https://i.pinimg.com/originals/3a/c7/f7/3ac7f7b35fea267e4ee519288ae60848.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "visakhapatnam",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Direct Meeting Direct Payment Before Service Cash or UPI. ▪♨️ No Booking Charges or No Online Advance Payment Service Details :- ▪♨️ Full Open Nude Sex Without any Dess With 100% Satisfaction. ▪♨️ BlowJob Oral Sex Pussy Licking Boobs Sucking69 Style…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "visakhapatnam-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Offer for couples. Single please stay away",
     image: "https://i.pinimg.com/originals/3b/3f/f2/3b3ff25ced4be443ce251c4d6330b28a.jpg",
     images: [
       "https://i.pinimg.com/originals/3b/41/3e/3b413efcf08af3db0705b9c57da28b1b.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "visakhapatnam",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hello couples and single females, I am Rajeev, age 35 years from Delhi, visiting Bengaluru from 4th June 2026 to 6th June and will stay at Holiday inn yeshwantpur. If you want to explore the special naughty things along with your partner then your…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "visakhapatnam-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Myself chhoti singh and Genuine independent Call Girls Meet Dairectl No Advance Dairect Hand Cash it's a Genuine",
     image: "https://i.pinimg.com/originals/3b/a9/29/3ba92921db06fabccd796abd7e5d158a.jpg",
     images: [
       "https://i.pinimg.com/originals/3c/25/ee/3c25ee209a213c083909608b96dfb163.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "visakhapatnam",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi Myself chhoti Really genuine independent Call Girls Meet Dairectl No Agents it's a paid relationship with my bed I will provide u all types of services like bj lipkiss anaul services In call out call hotel home and doorstep services available",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "visakhapatnam-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hye i am Kannada hudgi nishu geninune video call service available",
     image: "https://i.pinimg.com/originals/3c/43/1f/3c431f6687b46100c755299e4faa7178.jpg",
     images: [
       "https://i.pinimg.com/originals/3c/a9/b8/3ca9b821edd9a3b905831b890297a1a6.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "visakhapatnam",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "It's paid geninune call service and it's only online service",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "visakhapatnam-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in visakhapatnam.",
+    description: "THIS IS GENUINE SERVICE ❤️ NO ADVANCE PAYMENT ❌ HAND CASE PAYMENT ❤️",
     image: "https://i.pinimg.com/originals/3d/0a/d7/3d0ad719df1a0c21b0d69d5a9d132ab2.jpg",
     images: [
       "https://i.pinimg.com/originals/3d/18/d9/3d18d996f3a6c871eb7633b354666fb5.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "visakhapatnam",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "LOVELY HOTTY 👅💏 HI MODELS COLLEGE GIRLS👅💋 HI PROFILE VERY NAUGHTY💦📞👙 💥ANAL SEX💥 BDSM💥 POSE💥LIP KISS💥 DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANCE💥 BOOBS RUBBING💥 LICKING💥HAND JOB 💏GIRLFRIEND EXPERIENCE💏 EROTIC MASSAGE💥 💥 SEX IN DIFFERENT POSITION etc. A to Z SERVICE WITHOUT ANY RESTICATION💥 Sensual massaging and proper passionate blowjobs…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

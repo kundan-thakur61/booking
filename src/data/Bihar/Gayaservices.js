@@ -2,7 +2,7 @@
   {
     id: "gaya-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "A007 Rs 1000 (Counter) - Full Nude🩱Body Massage💗B2B Body massage Spa with BJ🍌 - Madeenaguda / Kukatpally /Miyapur / Hafeezpet",
     image: "https://i.pinimg.com/originals/81/ec/af/81ecafd31eec14fa11c895a2dec2d26f.jpg",
     images: [
       "https://i.pinimg.com/originals/81/f5/d3/81f5d3ee49bfc4fc4a77e31b61069bb4.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "gaya",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Madeenaguda Beauty Spa Massage starting form 1000/- Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "gaya-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in gaya.",
+    description: "Bangalore. 💯% SAFE AND SECURE TODAY LOW PRICE HIGH PROFILE COLLAGE GIRL'S AVAILABLE",
     image: "https://i.pinimg.com/originals/82/65/a8/8265a8fed6355c79292948cbcf2ddf3f.jpg",
     images: [
       "https://i.pinimg.com/originals/82/7c/7b/827c7bd89173a87a6b6ebcfd16dc870c.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "gaya",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "gaya-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "699/-BOOBS RUBBING 🥵FULL NUDE B2B NURU MASSAGE WITH HAPPYEND.",
     image: "https://i.pinimg.com/originals/83/51/71/83517129414e8578707fc2126c0abc23.jpg",
     images: [
       "https://i.pinimg.com/originals/83/57/58/835758c0222ef5f72486c1e1b918c2d5.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "gaya",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "OF TYPES MASSAGE AVAILABLE • Normal Massage Swedish Massage ✔ Cream massage Deep tissue massage Body Polishing Massage Gel Massage • Legwand Massage EXTRA SERVICES ALSO AVABILES Full nude Massage Body to body Rubbing Romance Shower bath Happy Ending…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "gaya-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💥 NO NEED ANY ADVANCE PAYMENT, ONLY HAND TO HAND CASH PAYMENT, VIP GENUINE INDEPENDENT CALL GIRL💥",
     image: "https://i.pinimg.com/originals/83/b0/45/83b0459846ebb29e0206924b9db29f3c.jpg",
     images: [
       "https://i.pinimg.com/originals/83/d6/bb/83d6bb6e20fecc238dfc8e9e57a7ca7a.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "gaya",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "✅ NO NEED ANY ADVANCE PAYMENT ✅ 💯 ONLY FOR CASH PAYMENT HAND TO HAND 💯 💕 100% GENUINE AND SECURE SERVICE SENTER 💕 ✌ HELLO GUYS 🕺🕺🕺 VIP GENUINE AND SECURE SERVICE AVAILABLE HERE🕺🕺🕺 🫂 FULL FRIENDLY 🫂 FULL COOPERATIVE 🫂 LIKE GIRLFRIEND EXPERIENCE 🫂 100%…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "gaya-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Genuine Horny Bhabhi For Enjoyment",
     image: "https://i.pinimg.com/originals/83/ea/e0/83eae064168aa7e666ba73c07e47021f.jpg",
     images: [
       "https://i.pinimg.com/originals/83/ee/8f/83ee8f8a6852626560bcca2e9ad85df2.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "gaya",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hello guys, This is jivika 26 yr old fair complexion, married having big assests. U can see me on WhatsApp. Plz genuine person only contact Dont timepass Free voice confirmation Plz Contact me on WhatsApp",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "gaya-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in gaya.",
+    description: "💖PRIYA💖 independent Girl Staying Alone in Flat Just Visit Once",
     image: "https://i.pinimg.com/originals/84/14/bd/8414bdd657bcbe0861ccfdf35db9d1b2.jpg",
     images: [
       "https://i.pinimg.com/originals/84/1e/6d/841e6da103b10744a5f92f6142d4e0de.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "gaya",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hello Guys Am PRIYA💝 🌟🌟Hotel service available 24 hour 💐 All over Hotel outcall service and incall with regular price guarantee satisfaction genuine service",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

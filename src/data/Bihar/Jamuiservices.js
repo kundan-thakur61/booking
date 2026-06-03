@@ -2,7 +2,7 @@
   {
     id: "jamui-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Full body massage deeepa ❤️with service available b2b top less Full nude Massages available sucking licking boobs ❤️❤️❤️",
     image: "https://i.pinimg.com/originals/88/2c/76/882c767d6590b696ade97c28c8eb2861.jpg",
     images: [
       "https://i.pinimg.com/originals/88/38/58/883858065599ad3500b0a2179cacadb4.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "jamui",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Full body massage service available Happy Ending Touching happy ending Top less Touching boobs happy ending Body to Body service Nude Body to Body Service Massages Deep tissue massage Swedish massage Balinese massage Olive oil massage Hot oil massage Open 11 am to 8.30 pm Call me now for appointment",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "jamui-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in jamui.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct",
     image: "https://i.pinimg.com/originals/88/7a/84/887a845a972831be85a86dfde6dced1b.jpg",
     images: [
       "https://i.pinimg.com/originals/88/81/f1/8881f1d398021253f752290e9cc7d382.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "jamui",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "No extra charge genuine people came here time pass direct block genuine people came here 24 HOUR",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "jamui-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Telugu vacha live nude video call service",
     image: "https://i.pinimg.com/originals/88/b1/9b/88b19b5d3a20e4b5c3dceb71c28322ee.jpg",
     images: [
       "https://i.pinimg.com/originals/88/bf/7b/88bf7b1ff229ab99ba3956a4457e31e8.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "jamui",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hi guys I am providing live nude video call service sex chat with Pic's telugu language boobs playing pusy fingaring shower 🚿 show bathing full enjoyment full satisfaction genuine service no extra charges only fixed price",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "jamui-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "I m kannada hudgi geninu vc available with real face and voice",
     image: "https://i.pinimg.com/originals/89/05/17/890517ea87a6de7525ce10bd527061f4.jpg",
     images: [
       "https://i.pinimg.com/originals/89/15/2e/89152ec4360066789d7bb5fde7b7279d.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "jamui",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "I m kannada hudgi geninu vc available with face voice",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "jamui-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "699/-BOOBS SUCKING 🥵👅💦FULL NUDE B2B NURU MASSAGE WITH HAPPYEND.",
     image: "https://i.pinimg.com/originals/89/5a/73/895a73732be9e6d5b24f10237bf772b6.jpg",
     images: [
       "https://i.pinimg.com/originals/89/5f/e4/895fe43c32d2a8d443727d9b90bab683.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "jamui",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "OF TYPES MASSAGE AVAILABLE • Normal Massage Swedish Massage ✔ Cream massage Deep tissue massage Body Polishing Massage Gel Massage • Legwand Massage EXTRA SERVICES ALSO AVABILES Full nude Massage Body to body Rubbing Romance Shower bath Happy Ending…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "jamui-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in jamui.",
+    description: "TANI HERE TO MAKE YOUR DAY AND FORGETTABLE MESSAGE ME YOUR TELEGRAM AT WHATSAPP FOR MORE DETAILS I'M WAITING FOR YOUR MESSAGE",
     image: "https://i.pinimg.com/originals/89/94/4f/89944f01c04942c5dc4c51c9aa97de5b.jpg",
     images: [
       "https://i.pinimg.com/originals/89/ad/b3/89adb33e5047b5b868b2a7a9f785f425.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "jamui",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Message me on telegram at WhatsApp I am waiting for your message",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

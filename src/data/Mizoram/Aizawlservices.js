@@ -2,7 +2,7 @@
   {
     id: "aizawl-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "I m indipendent here shruti available 24hrs",
     image: "https://i.pinimg.com/originals/62/99/ff/6299ff01fd397a7cae7e80f3cb6fcf92.jpg",
     images: [
       "https://i.pinimg.com/originals/3d/c7/e3/3dc7e3fc1fcf4b1b64368d313fb7d131.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "aizawl",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "All services without any restriction Full service no restriction here Genuine n indipendent",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "aizawl-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in aizawl.",
+    description: "Kajal full open video call with voice service available",
     image: "https://i.pinimg.com/originals/04/a1/f1/04a1f184b888442a2b698532031bf5f6.jpg",
     images: [
       "https://i.pinimg.com/originals/ce/a0/ed/cea0ed9a5c4f93c6c429ae7d24ec352f.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "aizawl",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "💋💋 About me Hey kajal, ❤I am kajal.❤ I am an independent call girl (College Student ) , ❤offering now My deep Nude Video Call service, ❤ Sex 💋chat with Nude pics and many more as per your interest❤:- 👆 Will offer on Nude video call",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "aizawl-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hot bhabhi full finger video call service big boobs live show",
     image: "https://i.pinimg.com/originals/78/f2/e7/78f2e7b263fa69bfd94180bb07dd0bfb.jpg",
     images: [
       "https://i.pinimg.com/originals/cc/ac/a3/ccaca3e4174e3f397c9f367927eb5226.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "aizawl",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Genuine bhabhi live show video call service sex chat voice call sex sex demo phone sex big boobs",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "aizawl-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Low budget video chat sex service available video call sexting, phone sex in India",
     image: "https://i.pinimg.com/originals/46/d5/81/46d58167e6c1b578fad7dafcef835c1d.jpg",
     images: [
       "https://i.pinimg.com/originals/a5/74/ef/a574ef07d6a4130c207c44308e2a6fc0.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "aizawl",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "I am beautiful girl I am available for video call, sexting or phone sex call me on whatsApp",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "aizawl-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "LOW RATE (VIDHI CALL GIRLS) ESCORT FULL HARD FUCK WITH NAUGHTY IF YOU WANT TO FUCK MY PINK PUSSY WITH BIG BOOBS A",
     image: "https://i.pinimg.com/originals/ac/b0/b3/acb0b3d28e0425e723e912a820cf6ffc.jpg",
     images: [
       "https://i.pinimg.com/originals/18/f6/6d/18f66d06f7dcc3602694964c2d4326af.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "aizawl",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "LOVELY HOTTY 👅💏 HI MODELS COLLEGE GIRLS👅💋 HI PROFILE VERY NAUGHTY💦📞👙 💥ANAL SEX💥 BDSM💥 POSE💥LIP KISS💥 DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANCE💥 BOOBS RUBBING💥 LICKING💥HAND JOB 💏GIRLFRIEND EXPERIENCE💏 EROTIC MASSAGE💥 💥 SEX IN DIFFERENT…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "aizawl-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in aizawl.",
+    description: "Hot curvy collage girls kissing body to body hard rubbing makes your day very special",
     image: "https://i.pinimg.com/originals/96/56/e8/9656e841286333e085db7f1c25df2e4e.jpg",
     images: [
       "https://i.pinimg.com/originals/06/14/a0/0614a0abd9beba7cbcb33efa36a172c5.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "aizawl",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with (2)girls with pressure XTRA SERVICES AVAILABLE: ******* **TOPLESS TOUCHING*** ***HAPPY ENDING***…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

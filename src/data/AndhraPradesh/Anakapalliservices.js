@@ -2,7 +2,7 @@
   {
     id: "anakapalli-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "No broker Remember no time for free For booking what's app Aradhana",
     image: "https://i.pinimg.com/originals/05/f4/a0/05f4a0f46ba6419d21961072a841d07c.jpg",
     images: [
       "https://i.pinimg.com/originals/06/14/a0/0614a0abd9beba7cbcb33efa36a172c5.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "anakapalli",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Independent Independent house wife for nude video chat 30 mins: 5000/ 20 mins: 3000/ 10 mins: 2500/ Remember no time for free demo ifyou don't trust don't message After payment done Aradhana will inform me I will then start with my session For…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "anakapalli-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in anakapalli.",
+    description: "Myself Nidhi Really genuine independent Call Girls Meet Dairectly No Agents",
     image: "https://i.pinimg.com/originals/06/2d/3e/062d3e8c875e9822e2427daf75fda5b0.jpg",
     images: [
       "https://i.pinimg.com/originals/06/43/56/064356c6d1f374d4905eb89cf152dc9f.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "anakapalli",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hi guys Myself Nidhi Really genuine Kannada independent call girl meet Dairect no Agent it's a genuine service in call out call hotel home and doorstep services available",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "anakapalli-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hi guys I am Priya out call door step service",
     image: "https://i.pinimg.com/originals/06/71/4c/06714c5b919911f84545437228a82b7f.jpg",
     images: [
       "https://i.pinimg.com/originals/06/93/e2/0693e2f6c29784dfaeb583a837985bf2.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "anakapalli",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hi guys I am Priya out call door step service available 100% VIP genuine service available don't timepass",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "anakapalli-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Delhi service. Video call sexy' full open. Photo charge sexy' full open",
     image: "https://i.pinimg.com/originals/06/d4/39/06d43912e02734874c094e18be3df81a.jpg",
     images: [
       "https://i.pinimg.com/originals/06/e2/f5/06e2f5e2113599e91cf32f3ae404ad0c.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "anakapalli",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Delhi. Service video call sexy' full open. Photo charge sexy' full open. Audio call sexy' full open. Chat sex full first payment",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "anakapalli-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "hy guys genuine phone chat voice chat talk contact my watsApp number",
     image: "https://i.pinimg.com/originals/07/15/e4/0715e4a335329baf323963593837de92.jpg",
     images: [
       "https://i.pinimg.com/originals/07/1e/a3/071ea396f0d91c0da04adb375a41be86.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "anakapalli",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hy guys sexy girl all time available content me my watsApp number",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "anakapalli-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in anakapalli.",
+    description: "🔥 RS 5OOO NIGHT -OR- DAY ❣️ NO ADVANCE DIRECT PAY IN YOUR ROOM SATISFACTION GUARANTEE 24x7 Independent Delhi Escorts - Call Girl Services",
     image: "https://i.pinimg.com/originals/07/84/81/07848162d2dc8e0f58d4318be903e534.jpg",
     images: [
       "https://i.pinimg.com/originals/07/86/72/078672c545565ed43f22d65b8583f5bb.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "anakapalli",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "𝗖𝗔𝗟𝗟 𝗚𝗜𝗥𝗟𝗦 𝗜𝗡 𝗗𝗘𝗟𝗛𝗜 𝗥𝗔𝗦𝗛𝗠𝗜 ✔️ ✔️ 𝗗𝗲𝗹𝗵𝗶 𝗖𝗮𝗹𝗹 𝗚𝗶𝗿𝗹𝘀 𝗘𝘀𝗰𝗼𝗿𝘁𝘀 𝗣𝗿𝗼𝘃𝗶𝗱𝗲𝗿 𝟮𝟰𝘅𝟳 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗗𝗲𝗹𝗵𝗶 𝗖𝗮𝗹𝗹 𝗚𝗶𝗿𝗹𝘀- 𝙑★𝙄★𝙋 𝙂𝙚𝙣𝙪𝙞𝙣𝙚 𝙃𝙞𝙜𝙝 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙈𝙤𝙙𝙚𝙡'𝙨 𝘼𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 - 𝘿𝙚𝙡𝙝𝙞 𝙉𝙘𝙧, 𝙉𝙤𝙞𝙙𝙖 𝙂𝙪𝙧𝙜𝙖𝙤𝙣 𝙃𝙤𝙩𝙚𝙡 & 𝙃𝙤𝙢𝙚 𝙎𝙚𝙧𝙫𝙞𝙘𝙚 ( 𝘿𝙖𝙮 / 𝙉𝙞𝙜𝙝𝙩 ) 𝘾𝙖𝙡𝙡 𝙂𝙞𝙧𝙡𝙨 𝙍𝙚𝙖𝙙𝙮 𝙛𝙤𝙧 𝘼𝙡𝙡 𝙔𝙤𝙪𝙧 𝙒𝙞𝙨𝙝𝙚𝙨 𝙖𝙣𝙙…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

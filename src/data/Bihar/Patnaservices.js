@@ -2,7 +2,7 @@
   {
     id: "patna-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "💫Only cash payment ✨High profile ✨college girl VIP model top model✨ independent✨ girl available service all types service 💫",
     image: "https://i.pinimg.com/originals/91/aa/f4/91aaf4fe3fa65fe4cced570aa7a316e9.jpg",
     images: [
       "https://i.pinimg.com/originals/91/b5/9d/91b59d5f9485ab474a1d7a416febd0da.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "patna",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "V★I★P Genuine High Profile Model's Available - ALL OVER PUNE Hotel & Home Service ( Day / Night ) Call Girls Ready for All Your Wishes and Needs Call Girls In PUNE...! This is the Most Trusted Paid Service With 100% Safisfaction Guaranteed Pakka…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "patna-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in patna.",
+    description: "Genuine bhabhi full service video call service complete final service",
     image: "https://i.pinimg.com/originals/92/a4/4a/92a44a02b6cc931ebe3c5a11cb9fc0e0.jpg",
     images: [
       "https://i.pinimg.com/originals/92/ca/9d/92ca9de3eb9e171277ccbad4475df151.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "patna",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Full open 💦Demo 3 minutes video call service full open full Masti fingering ke sath Pani nikalungi with voice",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "patna-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "🔥 RS 5OOO NIGHT -OR- DAY ❣️ NO ADVANCE DIRECT PAY IN YOUR ROOM SATISFACTION GUARANTEE 24x7 Independent Delhi Escorts - Call Girl Services",
     image: "https://i.pinimg.com/originals/92/f1/1f/92f11feacde12550b8983f1243937493.jpg",
     images: [
       "https://i.pinimg.com/originals/92/f2/d4/92f2d4aba72c9331d5ab000680b7e4ba.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "patna",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "𝗖𝗔𝗟𝗟 𝗚𝗜𝗥𝗟𝗦 𝗜𝗡 𝗗𝗘𝗟𝗛𝗜 𝗥𝗔𝗦𝗛𝗠𝗜 ✔️ ✔️ 𝗗𝗲𝗹𝗵𝗶 𝗖𝗮𝗹𝗹 𝗚𝗶𝗿𝗹𝘀 𝗘𝘀𝗰𝗼𝗿𝘁𝘀 𝗣𝗿𝗼𝘃𝗶𝗱𝗲𝗿 𝟮𝟰𝘅𝟳 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗗𝗲𝗹𝗵𝗶 𝗖𝗮𝗹𝗹 𝗚𝗶𝗿𝗹𝘀- 𝙑★𝙄★𝙋 𝙂𝙚𝙣𝙪𝙞𝙣𝙚 𝙃𝙞𝙜𝙝 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙈𝙤𝙙𝙚𝙡'𝙨 𝘼𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 - 𝘿𝙚𝙡𝙝𝙞 𝙉𝙘𝙧, 𝙉𝙤𝙞𝙙𝙖 𝙂𝙪𝙧𝙜𝙖𝙤𝙣 𝙃𝙤𝙩𝙚𝙡 & 𝙃𝙤𝙢𝙚 𝙎𝙚𝙧𝙫𝙞𝙘𝙚 ( 𝘿𝙖𝙮 / 𝙉𝙞𝙜𝙝𝙩 ) 𝘾𝙖𝙡𝙡 𝙂𝙞𝙧𝙡𝙨 𝙍𝙚𝙖𝙙𝙮 𝙛𝙤𝙧 𝘼𝙡𝙡 𝙔𝙤𝙪𝙧 𝙒𝙞𝙨𝙝𝙚𝙨 𝙖𝙣𝙙…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "patna-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGI",
     image: "https://i.pinimg.com/originals/93/3d/6e/933d6e38fadd4922868ec4a359e01cbd.jpg",
     images: [
       "https://i.pinimg.com/originals/93/4c/9e/934c9e88c6fb30acbb2029c010210d2c.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "patna",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "patna-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Independent call girl No Broker direct hand cash payment",
     image: "https://i.pinimg.com/originals/93/6d/f1/936df1c8a155cde7dc078f5f22163406.jpg",
     images: [
       "https://i.pinimg.com/originals/93/6f/8e/936f8ef657122302d1185acae609f359.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "patna",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Deepa... Call & WhatsApp Now Hand to hand cash only direct girl no Agent No Broker High class independent girls models House wife air hostess, college girls call center girls,who are not only good looking but also very mannered.incall _out Call…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "patna-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in patna.",
+    description: "HOT 🔥FULL NUDE VIDEO CALL SERVICE🎥 SEXTING 💬 PHONE 🥀SEX 💋 FINGRING ALSO",
     image: "https://i.pinimg.com/originals/93/8c/fe/938cfeadd657c2eacfd0615e08786b01.jpg",
     images: [
       "https://i.pinimg.com/originals/93/95/bd/9395bd1a7dfc9f91ea4ee2a70cdd8345.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "patna",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "🔥 HOT 🔥 NUDE LIVE VIDEO CALL SERVICE, SEX CHAT, VOICE CALL, ROLE PLAY, FULL OPEN VIDEO CALL SERVICE WITH VOICE AND WITH FACE BOOBS PRESSING AND OPEN PUSSY FINGRING WITH VOICE AND WITH FACE",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

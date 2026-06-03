@@ -2,7 +2,7 @@
   {
     id: "nalanda-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "BODY MASSAGE N PUSSY LICKER ONLY FOR LADIES WOMENS",
     image: "https://i.pinimg.com/originals/90/14/de/9014de7c34a709e3cc0e110b745dc371.jpg",
     images: [
       "https://i.pinimg.com/originals/90/23/23/90232393d01556ef8825be7d04cece86.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "nalanda",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Note : Satisfaction Guaranteed",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "nalanda-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in nalanda.",
+    description: "Independent sex girl Radha No Broker direct hand cash payment",
     image: "https://i.pinimg.com/originals/90/83/d5/9083d5a13f4edb07e9c1662346804014.jpg",
     images: [
       "https://i.pinimg.com/originals/90/99/6d/90996d52da9479c1051b14a1f2c29a8a.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "nalanda",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Radha... Call & WhatsApp Now Hand to hand cash only direct girl no Agent No Broker High class independent girls models House wife air hostess, college girls call center girls,who are not only good looking but also very mannered.incall _out Call…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "nalanda-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Looking for a open minded female for chats and oral fun.",
     image: "https://i.pinimg.com/originals/90/d0/91/90d091aa57ecf6083b600a76402fda15.jpg",
     images: [
       "https://i.pinimg.com/originals/90/d5/69/90d5693b4ded80ce5c119d0d0e2be25f.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "nalanda",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hello. This is alex 35 yrs old guy. Clean and maintained dick. Im looking for open minded college girls or ladies who love to play with my dick. Im ready to give gifts n much more as i love getting my dick sucked. If any one wants to get paid for…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "nalanda-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "I m kannada hudgi geninu vc available with real face and voice",
     image: "https://i.pinimg.com/originals/91/18/7a/91187a2e5ee97d5a5798ba8b36e5fedc.jpg",
     images: [
       "https://i.pinimg.com/originals/91/27/8f/91278fc2e59443a5a28ee2840e4e2adb.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "nalanda",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "I m kannada hudgi geninu vc available with face voice",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "nalanda-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "My self Monali Delhi Call Girl Service Available full Night and Shot No Advance Cash Accepted Here",
     image: "https://i.pinimg.com/originals/91/53/b0/9153b052360ad63cbce7005dc6bedf11.jpg",
     images: [
       "https://i.pinimg.com/originals/91/61/4a/91614a04d8bb1ba7ce176eb9c4cb8641.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "nalanda",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hello, guys. I am Monali Sharma. If You Want Service in Delhi, Noida, or Gurgaon. Then Contact Here Any Time Any Places. Only Hand-to-Hand Payment. No Advance Required. Hotel Room Me Bhi ap Payment Kar Sakte ho Koi Dikkat Nhi. Only Genuine service.…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "nalanda-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in nalanda.",
+    description: "💦 3 min 75 /Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge and make ur mood",
     image: "https://i.pinimg.com/originals/91/7b/a3/917ba3b745cef568c75b854992be8461.jpg",
     images: [
       "https://i.pinimg.com/originals/91/83/3e/91833e5f59a5eafe58d92ca5aa53164e.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "nalanda",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "💦 3 min 75 /Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge and make ur mood happy👩‍❤️‍👨 40min 299 ❤ full nude service call service ❤ phone call sex ❤ sex chat ❤ sex education ❤ maximum…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

@@ -2,7 +2,7 @@
   {
     id: "haridwar-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hi,im anjali providing u the dynamic massage therapy in rohini and pitampura.new delhi only",
     image: "https://i.pinimg.com/originals/35/8d/e9/358de93bc563e21f9466b05d64d9c341.jpg",
     images: [
       "https://i.pinimg.com/originals/bb/c1/30/bbc1302f4351c9b04289930f1cb9a557.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "haridwar",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hi,im anjali providing you the dynamic massage therapy in pitampuranew delhi only.once you take my massage service you wont go any where in future Nuru massage Kerala massage Deep tissue Oil and cream massage Aroma therapy",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "haridwar-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in haridwar.",
+    description: "NO ANY ADVANCE PAYMENT HAND TO HAND PAYMENT ANAL,LIP TO LIP KISS, PUSHY LIKS,BLOJOB WITH OUT CONDOM, DOGGY STYLE,69 POSSITION A TO Z COMPLETE SERVICE.",
     image: "https://i.pinimg.com/originals/e1/86/3b/e1863be8140652c403779a92c3eacd41.jpg",
     images: [
       "https://i.pinimg.com/originals/aa/59/e0/aa59e0e5b108ffc0a1c98ed7bcc6f42e.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "haridwar",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "NO ADVANCE PAYMENT GENUINE SERVICE FULL B2B TO BODY MASSAGE WITH UNLIMITED SHOT 24 HOURS AVAILABLE HOME AND HOTEL SERVICE. ✈️ HOTEL & HOME SEX 100% REAL SERVICE.✅ No advance here, Payment after service Andheri, Thane,Daisher, Chembur and other place…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "haridwar-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "RNBW Rs 1000 (Counter) - Full Nude🩱Body Massage💗B2B Body massage Spa with BJ🍌 - Madeenaguda / Kukatpally /Miyapur / Hafeezpet",
     image: "https://i.pinimg.com/videos/thumbnails/originals/75/38/2f/75382faaf481fe834257a28f8f87279d.0000000.jpg",
     images: [
       "https://i.pinimg.com/originals/a5/f3/7f/a5f37f0322f4d256448171357083bed7.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "haridwar",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Madeenaguda Beauty Spa Massage starting form 1000/- Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "haridwar-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hii I am Neetu independent genuine location BTM Layout but only out call available and full service please no time pass",
     image: "https://i.pinimg.com/originals/21/93/9f/21939f6f75bcd5cbc3d0e7137cd17175.jpg",
     images: [
       "https://i.pinimg.com/originals/29/41/16/2941162e3f79a56ee03f9e33dfe56993.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "haridwar",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hii I am Neetu independent genuine location BTM Layout but only out call me available short time 7k 2 short 3 hours full night 12k 4 short and full service please no time pass",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "haridwar-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct block",
     image: "https://i.pinimg.com/originals/bb/1a/50/bb1a50b0f24c51b2498ddf4cd1583069.jpg",
     images: [
       "https://i.pinimg.com/originals/9c/d2/8c/9cd28cc3f91e80939baa54473aef7e20.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "haridwar",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "No extra charge genuine people came here time pass direct block only genuine video call service available 24 HOUR",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "haridwar-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in haridwar.",
+    description: "Live hot sexy full nude WhatsApp and telegram vedio call sex service",
     image: "https://i.pinimg.com/originals/33/43/74/3343745671bf3abbaacb14fe1763e14a.jpg",
     images: [
       "https://i.pinimg.com/originals/42/40/78/42407826900ee2c688ab0d36f5442da0.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "haridwar",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hii dear if you need vedio call sex service so please WhatsApp or telegram msg to me immediately.i will setisfied you.",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

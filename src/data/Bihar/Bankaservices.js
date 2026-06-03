@@ -2,7 +2,7 @@
   {
     id: "banka-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "699/-BOOBS SUCKING 🥵👅💦FULL NUDE B2B NURU MASSAGE WITH HAPPYEND.",
     image: "https://i.pinimg.com/originals/6f/81/7d/6f817da87054068c9ba1d24b62716ced.jpg",
     images: [
       "https://i.pinimg.com/originals/6f/9b/c0/6f9bc07a8bbbeca8c098f72a527aa888.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "banka",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "OF TYPES MASSAGE AVAILABLE • Normal Massage Swedish Massage ✔ Cream massage Deep tissue massage Body Polishing Massage Gel Massage • Legwand Massage EXTRA SERVICES ALSO AVABILES Full nude Massage Body to body Rubbing Romance Shower bath Happy Ending…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "banka-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in banka.",
+    description: "💥 NO NEED ANY ADVANCE PAYMENT, ONLY HAND TO HAND CASH PAYMENT, VIP GENUINE INDEPENDENT CALL GIRL💥",
     image: "https://i.pinimg.com/originals/70/79/66/70796621b75a981889e58de8115b9d0e.jpg",
     images: [
       "https://i.pinimg.com/originals/70/83/64/708364a938727e94289f5d6fb90d4897.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "banka",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "✅ NO NEED ANY ADVANCE PAYMENT ✅ 💯 ONLY FOR CASH PAYMENT HAND TO HAND 💯 💕 100% GENUINE AND SECURE SERVICE SENTER 💕 ✌ HELLO GUYS 🕺🕺🕺 VIP GENUINE AND SECURE SERVICE AVAILABLE HERE🕺🕺🕺 🫂 FULL FRIENDLY 🫂 FULL COOPERATIVE 🫂 LIKE GIRLFRIEND EXPERIENCE 🫂 100%…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "banka-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Full Body Massage",
     image: "https://i.pinimg.com/originals/71/0b/03/710b030ad65bbcc762e57d6c00c7162e.jpg",
     images: [
       "https://i.pinimg.com/originals/71/1d/cd/711dcd26ea99acedc10cb1100cf37b91.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "banka",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Full Body Massage Head & Shoulder Massage Foot Reflexology Stress Relief Therapy 🌸 Experienced Staff | Clean & Peaceful Environment",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "banka-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hye i am Kannada hudgi nishu geninune video call service available",
     image: "https://i.pinimg.com/originals/71/3a/7e/713a7eb7b0445aa7fb97fe5c246e53ec.jpg",
     images: [
       "https://i.pinimg.com/originals/71/40/45/714045db3daf24cef39e2b537a03189e.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "banka",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "It's paid geninune call service and it's only online service",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "banka-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Nikita 👄👙NO ADVANCE DIRECT PAY TO GIRL INDEPENDENT GIRLS AVAILABLE",
     image: "https://i.pinimg.com/originals/71/71/5e/71715eb6e066b7b939b8f2e49cd98e2d.jpg",
     images: [
       "https://i.pinimg.com/originals/71/71/71/717171925ee5076d5bb5ec8442827301.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "banka",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "DIRECT PAY TO GIRL NO ADVANCE INDEPENDENT GIRLS AVAILABLE full service available and same girl available",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "banka-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in banka.",
+    description: "Kisi bhabhi ko service chahiye to massage kare full enjoy mile gi vo bhi kam Price me",
     image: "https://i.pinimg.com/originals/71/d9/1c/71d91c25abcf54215170191477e6cd6b.jpg",
     images: [
       "https://i.pinimg.com/originals/71/ef/2c/71ef2c1a160721237ea6f1024122bfca.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "banka",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Kisi bhi badi age ki aunty ya bhabhi ko service ye relationship chahiye to massage kare",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

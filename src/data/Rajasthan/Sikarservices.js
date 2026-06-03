@@ -2,7 +2,7 @@
   {
     id: "sikar-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Offer for couples. Single please stay away",
     image: "https://i.pinimg.com/originals/fc/84/2d/fc842d3042683cebf3a39fb49c18aee6.jpg",
     images: [
       "https://i.pinimg.com/originals/6a/1f/4c/6a1f4c42d6efc3553ff1bb0b3acaa529.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "sikar",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hello couples and single females, I am Rajeev, age 35 years from Delhi, visiting Bengaluru from 4th June 2026 to 6th June and will stay at Holiday inn yeshwantpur. If you want to explore the special naughty things along with your partner then your…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "sikar-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in sikar.",
+    description: "TANI HERE TO MAKE YOUR DAY UNFORGETTABLE MESSAGE ME ON TELEGRAM FOR MORE DETAILS",
     image: "https://i.pinimg.com/originals/ec/d4/f8/ecd4f8d175a2f425f52447bd470a786c.jpg",
     images: [
       "https://i.pinimg.com/originals/1c/f4/0e/1cf40eae7a0fda0a575f77991659d524.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "sikar",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Message me on telegram for more details I am waiting for your call and message",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "sikar-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "MANISHA REDDY BEAUTIFUL SEXY SLIM GIRLS ONLY CASH PAYMENT,IN CALL OUT CALL 2/3/4/5 STAR ⭐⭐⭐⭐ OYO ROOM DOOR TO DOOR SERVICE 100% SATISFIED WITH RESPECT",
     image: "https://i.pinimg.com/originals/5d/8e/64/5d8e64319148dbf91b0fed8cdb7c6a83.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/c7/fd/9f/c7fd9f730e33db95badff91fb42f1e5a.0000000.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "sikar",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "MANISHA REDDY BEAUTIFUL SEXY SLIM GIRLS ONLY CASH PAYMENT,IN CALL OUT CALL 2/3/4/5 STAR ⭐⭐⭐⭐ OYO ROOM DOOR TO DOOR SERVICE 100% SATISFIED WITH RESPECT FULL,DECENT , COOPERATIVE BOOK NOW 🌿🌿🌿🌿 24×7 Location-Koregaon park. Hinjewadi. Viman Nagar. Kataraj. Hadapsar. Pimpri wakad all over pune call girl available Sex type Service----- *Anal *Blow Job…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "sikar-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "MY SELF SWETA CALL GIRL & BODY-TO-BODY MASSAGE SPA SERVICES OUTCALL AND INCALL",
     image: "https://i.pinimg.com/originals/51/eb/91/51eb913d15e05008b930791742770e8c.jpg",
     images: [
       "https://i.pinimg.com/originals/9b/d6/93/9bd69399e1c12164891bf37ac3b66470.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "sikar",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "EROTIC MASSAGE •BLOWJOB👅 FULL NUDE • NURU👅💦ERVICE SHOWER 👅👅👅 GIRLFRIEND EXPERIENCE💏❤️DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANGIRLFRIEND EXPERIENCE💏💥 LICKING💥HAND JOB ❤️DEEP SUCKING WITHOUT CONDOM 💥 CUM ON FACE 💥 NUDE DANCE 💥 BOOBS RUBBING💥…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "sikar-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "💸No advnc Direct Meet 🤝♨️Independent Call-girl👙 Staying Alone in Hyderabad 🔥",
     image: "https://i.pinimg.com/originals/68/f9/3e/68f93ef6eb9733edde7275e9176eb42f.jpg",
     images: [
       "https://i.pinimg.com/originals/5c/2c/c9/5c2cc9367a2953d9e2368b8cb4df1c44.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "sikar",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Direct Meet🤝 Hand To Hand Cash Pay 💵 to 🔥Horny 👙Independent Call girls 👅 Call Ms. Shweta For Genuine Escorts service in Surat Rating :100% ⭐⭐⭐⭐⭐ Satisfaction : 100%⭐⭐⭐⭐⭐ 💦Fingering💦 💦Boobpress💦 service🔥24 hours available service 💦💦 👅💋 HI PROFILE VERY…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "sikar-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in sikar.",
+    description: "Hy i am independent girl CAM session and real meet available 100% genuine escorts service all type service 24/7 AVAILABLE",
     image: "https://i.pinimg.com/originals/52/dd/bd/52ddbd21ffc57469a01cab8cc693e4c1.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/a4/4e/10/a44e10e6cc6a0b615e9f1a9851e17f73.0000000.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "sikar",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Out call and incall Hotel ya home Blojob Kissing Full open body to body massage Oral sex BDSM No time pass only genuine MSG me CAM session avelable Full nude with face and full satisfaction Genuine service",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

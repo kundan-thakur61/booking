@@ -2,7 +2,7 @@
   {
     id: "saket-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "RNBW Rs 1000 (Counter) - Full Nude🩱Body Massage💗B2B Body massage Spa with BJ🍌 - Madeenaguda / Kukatpally /Miyapur / Hafeezpet",
     image: "https://i.pinimg.com/originals/bb/3b/f4/bb3bf4de083491617b4254417e71d893.jpg",
     images: [
       "https://i.pinimg.com/originals/bb/52/0b/bb520b900e996b16d1a2c85eae6d49a6.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "saket",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Madeenaguda Beauty Spa Massage starting form 1000/- Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "saket-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in saket.",
+    description: "jis bhi ladki y bhabhi y aunty ko hard sex krna passand ho wahi msg kare but meri bhi condition ha mujhe high sex timing k he sath karta hu 15/20 mini",
     image: "https://i.pinimg.com/originals/bb/8d/16/bb8d16974447ec7ef93c58c6f0bdd6b7.jpg",
     images: [
       "https://i.pinimg.com/originals/bb/99/06/bb99069163b1436ade5da2d7c2073caf.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "saket",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "jis bhi ladki y bhabhi y aunty ko hard sex krna passand ho wahi msg kare but meri bhi condition ha mujhe high sex timing k he sath karta hu 15/20 minits wli mujhse contact na kare please jiski timing high ho wahi msg kare only delhi",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "saket-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Wild Experience 🔥 Of African Queen Curvy Booty 💥😻 Waterfall Of Water 🌊",
     image: "https://i.pinimg.com/originals/bb/b2/76/bbb2763de3879ef35bb08c374e0c8e25.jpg",
     images: [
       "https://i.pinimg.com/originals/bb/ba/90/bbba90ebb53d750d45839ef689cdd0fe.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "saket",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "🌹 ZARI 🌹 Hey there, cutie 😉💫 Looking for a Premium Sex ? , a dash of charm, and moments that make your day brighter? I’m here to make your time fun, flirty, and absolutely unforgettable 💖✨ Imagine soft laughter, teasing smiles 😏, and a cozy, warm atmosphere where you can just relax, feel special, and enjoy the magic of the moment 🌙💐 🔥☎️…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "saket-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💦VIDYA FULL NUDE WITH VOICE VIDEO CALL SERVICE 🎥 SEXTING 💌 PHONE 🥀SEX📞NO FREE DEMO.",
     image: "https://i.pinimg.com/originals/bb/c1/30/bbc1302f4351c9b04289930f1cb9a557.jpg",
     images: [
       "https://i.pinimg.com/originals/bb/d2/62/bbd262e48f14f76605b1f895433ed92a.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "saket",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "am independent college girl👩‍🏫 working as Video call Girl 💋 full Nude Video call As you like as your mood. Its my guarantee that you will fill like real meet. with maximum satisfaction. 💯💯💯💯♀️special specifications♂️💯💯💯 ❤ full nude video call service…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "saket-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hi guys I am Neetu independent only out call available service",
     image: "https://i.pinimg.com/originals/bc/02/5d/bc025d182a8cbbffe220a8c18a65bc98.jpg",
     images: [
       "https://i.pinimg.com/originals/bc/46/1f/bc461f94fede2a2989da583ec64f6471.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "saket",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hii sir l me Neetu independent but only out call available short time 7k 2 short 3 hours full night 12k 4 short and full service please no time pass",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "saket-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in saket.",
+    description: "GENUINE SERVICE AVAILABLE DIRECT HAND TO HAND CASH PAYMENT NO ADVANCE PAYMENT NO EXTRA CHARGES",
     image: "https://i.pinimg.com/originals/bc/8a/c9/bc8ac968c4b389ba98a7eea3b164f366.jpg",
     images: [
       "https://i.pinimg.com/originals/bc/c0/70/bcc0702822d9aedf07941d711b8b69cd.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "saket",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Direct Meeting Direct Payment Before Service Cash or UPI. ▪♨️ No Booking Charges or No Online Advance Payment Service Details :- ▪♨️ Full Open Nude Sex Without any Dess With 100% Satisfaction. ▪♨️ BlowJob Oral Sex Pussy Licking Boobs Sucking69 Style Sucking Hand Job. ▪♨️ Romance Erotic Body Touching and Kissing Including Liplock Deep Kiss French…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

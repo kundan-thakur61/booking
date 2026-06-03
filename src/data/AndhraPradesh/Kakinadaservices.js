@@ -2,7 +2,7 @@
   {
     id: "kakinada-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hii ladies if needed genuine massage service then connect me",
     image: "https://i.pinimg.com/originals/1c/21/66/1c21665b9153f106c2729b028a8b11d3.jpg",
     images: [
       "https://i.pinimg.com/originals/1c/21/f9/1c21f9f01802ecf5a1b9fd4940588d6f.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "kakinada",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hii ladies this is vivek and provide massage service for female only those are feeling tired and bored connect me i will give the best massage therapy and provide extra services also so genuinely those are needed connect me without hesitation because…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "kakinada-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in kakinada.",
+    description: "3 mint video 95 pay nude 👈Genuine girl Video⚡call service full🍌🌹full satisfy open boobs rubbing fingerings come water of pussy💃🇮🇳Full open video call",
     image: "https://i.pinimg.com/originals/1c/3f/35/1c3f355c10e00ae12e6ac32081158cd7.jpg",
     images: [
       "https://i.pinimg.com/originals/1c/8a/60/1c8a6082153d4604d2f30a8d7b1aab2b.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "kakinada",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "3 mint video 95 pay nude 👈Genuine girl Video⚡call service full🍌🌹full satisfy open boobs rubbing fingerings come water of pussy💃🇮🇳Full open video call service available⚡🇮🇳",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "kakinada-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Lasya Massage And Spa Center",
     image: "https://i.pinimg.com/originals/1c/a4/59/1ca4597c65bc03249bec90b9118027fc.jpg",
     images: [
       "https://i.pinimg.com/originals/1c/a8/01/1ca80103790e2b200e554e019978f31e.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "kakinada",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "SEMI NUDE MASSAGE WHAT SHOWER BATHING MASSAGE ✨💋 FULL NUDE MASSAGE WITH SHOWER BATH MASSAGE 🛀 ****BLOWJAB WITH ROMANTIC FEELING****** 💃HAPPY ENDING WITH B2B MASSAGE ✨🌹 ✨OUR STAFF IS EXPERT IN HOT BIGG BOOBS SUCKING NURU MASSAGE ✨ ******SELECTION IS AVAILABLE SOUTH***** ♣️ NORMAL MASSAGE ♣️ 💃 AROMA MASSAGE 💃 ✨ DEEP TISSUE MASSAGE 💋 BODY MASSAGE 💋…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "kakinada-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "🌻FRND WITH BENEFITS🌻 IM INDIPENDENT SINGLE GIRL",
     image: "https://i.pinimg.com/originals/1c/ab/fe/1cabfe820f6856d0fa8e8b23b542c21f.jpg",
     images: [
       "https://i.pinimg.com/originals/1c/b2/4e/1cb24e943699f4cbb3146ed10fe2b2c7.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "kakinada",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "im single indipendent girl looking frnd With benefits long term ❤️ I'm kannada hindi english ok working from home so I'm bored 🥱 so any one interested msg me",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "kakinada-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Call Girls For One Night outcall Short time incall at",
     image: "https://i.pinimg.com/originals/1c/d8/1f/1cd81f2b1d1dfd8566a1c32525806657.jpg",
     images: [
       "https://i.pinimg.com/originals/1c/e9/f6/1ce9f656d1b9598b2d778cef303efbdf.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "kakinada",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Delhi NCR Booking For One Night Stayeng At Home Hotel Booking Hi-class college girls horny wife availabel any time",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "kakinada-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in kakinada.",
+    description: "NO CCHEAT NO FRAUD TRUST FULL SERVICE",
     image: "https://i.pinimg.com/originals/1d/03/38/1d0338fdd079184913473bd42404ea39.jpg",
     images: [
       "https://i.pinimg.com/originals/1d/30/49/1d30497d9cc59cbdcd6085ed5e8135da.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "kakinada",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "HI I AM UR SWAATI PROVIDING HOT VIDEO CALL AND REAL MEET AVAILABLE MEET ME ONCE I AM STAYING WITH MY FRNDS NO BROKER OR AGENT CALL ME DIRECTLY",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

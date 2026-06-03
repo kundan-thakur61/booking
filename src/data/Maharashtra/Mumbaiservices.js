@@ -2,7 +2,7 @@
   {
     id: "mumbai-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Am Shreya truly genuine independent call girl direct meet independent escorts service available",
     image: "https://i.pinimg.com/originals/3e/64/c7/3e64c70f738ba0396872bf63f4ddd8a7.jpg",
     images: [
       "https://i.pinimg.com/originals/96/80/e8/9680e8c0b01e12066787cbb724f8c430.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "mumbai",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "It's a safe and genuine service available in Bangalore all types of services available including hotel and home service available direct meet also available no broker involved with me try and enjoy your day with me",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "mumbai-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in mumbai.",
+    description: "📌DIRECT PAYMENT *(NO ADVANCE)* 📍A-Z SERVICE ON DEMAND GOOD QUALITY BEAUTY FOR FULLY💫 SATISFACTION",
     image: "https://i.pinimg.com/originals/3f/ed/46/3fed469b105303548023551bf995a5b9.jpg",
     images: [
       "https://i.pinimg.com/originals/b8/d9/35/b8d9357ff22dcbff9df6ec6374ddf975.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "mumbai",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "No Advance Payment And No Booking Charge And No Extra Charge Hand To Hand Payment To Meet Hotel 🛏️ Or Home Service All Types Service Including All Pune Available 24/7Hours ‎ ‎All Pune:- ( VIMAN NAGAR , HINJEWADI , KHARADI , KOREGAON PARK , BANER ,…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "mumbai-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "I’m seeking trust woman, well minded",
     image: "https://i.pinimg.com/originals/90/99/6d/90996d52da9479c1051b14a1f2c29a8a.jpg",
     images: [
       "https://i.pinimg.com/originals/c8/d8/4d/c8d84d975e15086a5f9c22978030c141.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "mumbai",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "mumbai-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "IM PRIYA INDEPENDENT ✅ CALL GIRL, STAYING ALONE IN BANGALORE CONTACT ME FOR SERVICE LOW PRICE",
     image: "https://i.pinimg.com/originals/87/5b/22/875b22ba5d5fbd0665a695193bf4aa05.jpg",
     images: [
       "https://i.pinimg.com/originals/f4/70/65/f47065f02cd271aabcd39755caf85238.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "mumbai",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Dear Customers Are you looking call girl service in mysore but unable to find out best geniune, don't worry I'm here for you to full fill all requirements you just connect with me through whatsapp and get service anytime anywhere in BANGALORE",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "mumbai-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "GENUINE SERVICE AVAILABLE DIRECT HAND TO HAND CASH PAYMENT NO ADVANCE PAYMENT NO EXTRA CHARGES",
     image: "https://i.pinimg.com/originals/22/a8/d4/22a8d4e95d5b0d78b71c113e1bd0672f.jpg",
     images: [
       "https://i.pinimg.com/originals/fe/d6/16/fed616771551a5257b156be0e0bf9f1e.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "mumbai",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Direct Meeting Direct Payment Before Service Cash or UPI. ▪♨️ No Booking Charges or No Online Advance Payment Service Details :- ▪♨️ Full Open Nude Sex Without any Dess With 100% Satisfaction. ▪♨️ BlowJob Oral Sex Pussy Licking Boobs Sucking69 Style Sucking Hand Job. ▪♨️ Romance Erotic Body Touching and Kissing Including Liplock Deep Kiss French…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "mumbai-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in mumbai.",
+    description: "Hyderabad ✅ 24x7 AFFORDABLE CHEAPEST RATE SAFE CALL GIRL SERVICE AVAILABLE OUTCALL AVAILABLE",
     image: "https://i.pinimg.com/originals/44/99/4c/44994cb120e6c6b8768e2009d3fb20e0.jpg",
     images: [
       "https://i.pinimg.com/originals/a7/3c/97/a73c97bd4c22bb016c4f9da556add1ca.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "mumbai",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

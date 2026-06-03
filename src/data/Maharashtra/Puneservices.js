@@ -2,7 +2,7 @@
   {
     id: "pune-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "PREMIUM CALL GIRLS 👙 Enjoy Romantic Girlfriend Experience 🍑 Oral-Fun 💦100% Sexual Pleasure 🎯 At Luxurious Place",
     image: "https://i.pinimg.com/originals/79/32/4c/79324cfd27896122a6313501760de683.jpg",
     images: [
       "https://i.pinimg.com/originals/9c/ad/a0/9cada0b2aca76ed4e9c97695376cfcb6.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "pune",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hi, I Am Ananya Sharma, High-Society Call-Girls At Spa-Center in Lajpat Nagar, Full Sexual Satisfaction, Special Offers Only High-Society Guest, Enjoy A Romantic and Sensual Experience At Luxurious Spa-Center in Lajpat Nagar, This Is Top-Class…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "pune-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in pune.",
+    description: "Demo 50/-Full 💝nude hi Anjali 🤗video call without clothes demo charge 50💦",
     image: "https://i.pinimg.com/originals/4c/46/0e/4c460e8921ddd5a50c09bb8061213738.jpg",
     images: [
       "https://i.pinimg.com/originals/9d/f5/7b/9df57b12e16ea2bc787a64873a064704.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "pune",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Demo full nude video call service,💯🥰🥰💕full enjoy full satisfaction ful",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "pune-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "IM PRIYA INDEPENDENT ✅ CALL GIRL, STAYING ALONE IN BANGALORE CONTACT ME FOR SERVICE LOW PRICE",
     image: "https://i.pinimg.com/originals/33/59/01/335901b1c26c14c0f6bd86af16fdd308.jpg",
     images: [
       "https://i.pinimg.com/originals/57/09/b8/5709b8a67cbf7b8596833a7dc6cb784b.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "pune",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "About me Dear Customers Are you looking call girl service in mysore but unable to find out best geniune, don't worry I'm here for you to full fill all requirements you just connect with me through whatsapp and get service anytime anywhere in…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "pune-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💦only demo 50 pay full nude with finger video call service genuine service provide 💦💦",
     image: "https://i.pinimg.com/originals/11/87/a7/1187a75c701899c66ce9d0aefdccb5ba.jpg",
     images: [
       "https://i.pinimg.com/originals/3a/1a/2c/3a1a2cefe8d6208a7202b3fed87fddb3.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "pune",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Full sexy , 🥰nude, open live video call service👄👄 available at low 😘😘prices Top service😻😻 ver💋eautiful and sexy 💄💄girls available here 🥰😍🥰 Come fast Demo 50/- only ◼️◾▪️💞hey jyoti Bangalore hot girl genius Full Nude video sex service💞 new join only…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "pune-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "💋IM NISHA INDEPENDENT ✅ CALL GIRL, STAYING ALONE IN BANGALORE CONTACT ME FOR SERVICE LOW PRICE",
     image: "https://i.pinimg.com/originals/c2/cb/57/c2cb5775991384f775b7820c55e9e415.jpg",
     images: [
       "https://i.pinimg.com/originals/8b/ae/87/8bae878556edc1d42b513e2ca0096a93.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "pune",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Dear Customers Are you looking call girl service in mysore but unable to find out best geniune, don't worry I'm here for you to full fill all requirements you just connect with me through whatsapp and get service anytime anywhere in BANGALORE",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "pune-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in pune.",
+    description: "💞❤️IM SEEMA YDV 💯 CASH PAYMENT NO AGENT NO BROKER 💋✅💵💵💸💸💞 INDIVIDUAL GIRL 💦 OUTCALL HOME HOTEL FULLY SATISFY U UNLIMITED WAY 💞💞 IM READY TO FULLY SATI",
     image: "https://i.pinimg.com/originals/df/16/fc/df16fcba6cc056ee48bb01f021ad778b.jpg",
     images: [
       "https://i.pinimg.com/originals/f2/d5/c3/f2d5c337d8a9e587e5f83c3d06bfcf7f.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "pune",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "💞❤️IM SEEMA YDV 💯 CASH PAYMENT NO AGENT NO BROKER 💋✅💵💵💸💸💞 INDIVIDUAL GIRL 💦 OUTCALL HOME HOTEL FULLY SATISFY U UNLIMITED WAY 💞💞 IM READY TO FULLY SATI",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

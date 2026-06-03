@@ -2,7 +2,7 @@
   {
     id: "puri-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "No broker Remember no time for free For booking what's app Aradhana",
     image: "https://i.pinimg.com/originals/11/69/a0/1169a01dee3dad9c1f0b6a3b2b4fd455.jpg",
     images: [
       "https://i.pinimg.com/originals/47/e9/15/47e915330994f8cd79bd2f21cdc2cc65.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "puri",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Independent Independent house wife for nude video chat 30 mins: 5000/ 20 mins: 3000/ 10 mins: 2500/ Remember no time for free demo ifyou don't trust don't message After payment done Aradhana will inform me I will then start with my session For…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "puri-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in puri.",
+    description: "Anjali Sharma NO💸 ADVANCE NEW MODEL 💋SEXY TRUSTED COLLAGE CALL GIRL IN PUNE 🤞",
     image: "https://i.pinimg.com/originals/40/00/09/400009abf33f8f7c4f54fe208357c36c.jpg",
     images: [
       "https://i.pinimg.com/originals/cf/72/8b/cf728b2063f397b98669b8d2f92128bf.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "puri",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "NO ADVANCE DIRECT CASH PAYMENT IN HAND FULL SAFE AND SECURE HOTEL AND HOME SERVICE AVAILABLE WE GURANTEE 100% SATISFACTION IN LOWEST PRICE ( Incall & outcall ) service 24*7 hrs available here.. Location :- Koregaon park Viman Nagar Hadapsar kharadi…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "puri-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "I am independent girl💖 no advance hand to hand payment ❌",
     image: "https://i.pinimg.com/originals/b3/51/b5/b351b589de8a6959efbbb9947e0774b6.jpg",
     images: [
       "https://i.pinimg.com/originals/d1/22/a2/d122a269d9de22a37577da9d6e4271d0.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "puri",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hotel service No advance❌hand to hand payment and home service 300₹ advance payment available 💖❤️only genuine person contact me 🙏 I give full and all types of services with no any restriction...i give you full satisfaction in service 😍 All ,2,3,4,5 ✨…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "puri-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Anjali Sharma NO💸 ADVANCE NEW MODEL 💋SEXY TRUSTED COLLAGE CALL GIRL IN PUNE 🤞",
     image: "https://i.pinimg.com/originals/ca/fc/46/cafc46fdb3861b689726801d9fb7f07f.jpg",
     images: [
       "https://i.pinimg.com/originals/f5/75/c0/f575c05e6c3685481903fc3bf05806d4.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "puri",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "NO ADVANCE DIRECT CASH PAYMENT IN HAND FULL SAFE AND SECURE HOTEL AND HOME SERVICE AVAILABLE WE GURANTEE 100% SATISFACTION IN LOWEST PRICE ( Incall & outcall ) service 24*7 hrs available here.. Location :- Koregaon park Viman Nagar Hadapsar kharadi…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "puri-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "I am A Big Slut so Come and Fuck me harder in all positions.",
     image: "https://i.pinimg.com/originals/e8/64/0c/e8640c010fc8ae06f34f491d669c6dce.jpg",
     images: [
       "https://i.pinimg.com/originals/8a/23/78/8a23789fde6dd8d95ece3310e82cff21.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "puri",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Telgram id:- prayatna0606 I have too hot figure with sexy boobs so trust me you will just feel so good inside me as Summers have started and i can understand how horny you are and instead of maturabation you can use that sperm to fuck me harder and make me scream your name. I am young 26 years Hot and Sexy girl ,I am here for some work and i also…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "puri-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in puri.",
+    description: "A007 Rs 1000 (Counter) - Full Nude🩱Body Massage💗B2B Body massage Spa with BJ🍌 - Madeenaguda / Kukatpally /Miyapur / Hafeezpet",
     image: "https://i.pinimg.com/originals/ed/ed/7c/eded7cd6a7b2ecac72f39e1e92de95a1.jpg",
     images: [
       "https://i.pinimg.com/originals/ab/d0/37/abd037a08726498705b0490d4d287f1b.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "puri",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Madeenaguda Beauty Spa Massage starting form 1000/- Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

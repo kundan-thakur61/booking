@@ -2,7 +2,7 @@
   {
     id: "rohini-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hii sir l me Neetu independent only out call service",
     image: "https://i.pinimg.com/originals/b9/d3/9d/b9d39de692be8d6878a8bb03f9891a76.jpg",
     images: [
       "https://i.pinimg.com/originals/b9/d3/e1/b9d3e1d7cb17837dd9e5731144ad89e6.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "rohini",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hii sir l me Neetu independent genuine location BTM layout but only out call available short time 7k 2 short 3 hours full night 12k 4 short and full service please no time pass",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "rohini-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in rohini.",
+    description: "Call me old age women big boob's fitness available",
     image: "https://i.pinimg.com/originals/ba/14/47/ba1447d1beb161a4eb1718094f5d5a53.jpg",
     images: [
       "https://i.pinimg.com/originals/ba/29/51/ba2951e6959b97a013a8f29e7977ab3f.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "rohini",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Call me old age women big boob's fitness available whatsapp no.",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "rohini-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "💫Live video call service 🎥 full open 💦 video call service Geniuen 🖤call girl fingering and voice call 📞Demo charges 100.5min♻️💐 Full enjoy fingerling",
     image: "https://i.pinimg.com/originals/ba/37/5f/ba375fd8cc439464aaf9be8d72e51df8.jpg",
     images: [
       "https://i.pinimg.com/originals/ba/4d/5f/ba4d5fcb6e774306de70017b6945ff65.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "rohini",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "💫Live video call service 🎥 full open 💦 video call service Geniuen 🖤call girl fingering and voice call 📞Demo charges 100.5min♻️💐 Full enjoy fingerling and voice sex 💞",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "rohini-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hy i am kannada girl paid video call",
     image: "https://i.pinimg.com/originals/ba/78/5c/ba785c7b0f70a14fd8e52ef31b7ce7e3.jpg",
     images: [
       "https://i.pinimg.com/originals/ba/78/c3/ba78c3f37e335696e49a8a941e4af36d.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "rohini",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Yes I am kannada girl paid video call sarves",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "rohini-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "All' Delhi available 1 hour 2000 2 hour 3000 Full nyt 6000",
     image: "https://i.pinimg.com/originals/ba/c2/2c/bac22c8a393e9ff9dc41fd3162d83056.jpg",
     images: [
       "https://i.pinimg.com/originals/ba/c3/b6/bac3b6780b4745687ecef6ef0daa134f.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "rohini",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "HELLO GENTLEMAN CALL & WHATSAPP ONLY GENUINE PERSON GENUINE REAL MEET DOOR-STEP SERVICE AVAILABLE CALL OR WHATSAP ME NOW 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗔𝗹𝗹 𝗛𝗢𝗧𝗘𝗟𝗦 𝗜𝗡 GUARANTEE FULL SATISFACTION & IN CASE OF ANY UNHAPPY EXPERIENCE, WE WOULD REFUND YOUR FEES, WITHOUT ANY QUESTIONS ASKED.FEEL FREE TO CALL US FEMALE SERVICE PROVIDER HOURS OPENS... ▀ 𝐈𝐍𝐃𝐄𝐏𝐄𝐍𝐃𝐄𝐍𝐓 CALL 𝐆𝐈𝐑𝐋…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "rohini-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in rohini.",
+    description: "THE ZEN SPA OFFERS THAILAND STYLE SOAPY MASSAGE BY 2 GIRL & NURO TANTRIC B2B OIL MASSAGE BY HOT GIRLS",
     image: "https://i.pinimg.com/originals/ba/ee/f1/baeef170f9c9022f5695f47cb678c293.jpg",
     images: [
       "https://i.pinimg.com/originals/bb/10/63/bb106341b833795abca9f8f3c6a85b5e.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "rohini",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Welcome to \"THE ZEN SPA\" Body Massage in Bangalore ,If you are looking over for a Best Body Massage Center in Bangalore? Spa provides you with the world standard body massage. Contact us - 953-555-4703 experience the Best Body Massage in Bangalore.…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

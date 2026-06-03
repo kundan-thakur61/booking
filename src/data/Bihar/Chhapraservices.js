@@ -2,7 +2,7 @@
   {
     id: "chhapra-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Playboy",
     image: "https://i.pinimg.com/originals/7d/a9/58/7da958dd84de1a8f8bde0dd0e65954e5.jpg",
     images: [
       "https://i.pinimg.com/originals/7d/ba/d4/7dbad4232b45c29177240154461f95ad.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "chhapra",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "WhatsApp only women and girls",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "chhapra-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in chhapra.",
+    description: "🌻FRND WITH BENEFITS🌻 IM INDIPENDENT SINGLE GIRL",
     image: "https://i.pinimg.com/originals/7d/f9/1e/7df91e9537904339b6fe4021aa317d46.jpg",
     images: [
       "https://i.pinimg.com/originals/7e/07/56/7e0756a8f026052b0c79475a6ee5d45f.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "chhapra",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "im single indipendent girl looking frnd With benefits long term ❤️ I'm kannada hindi english ok working from home so I'm bored 🥱 so any one interested msg me",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "chhapra-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "MyselF Radhika Really independent Call Girls Meet Dairectly No Agents it's a trusted Service",
     image: "https://i.pinimg.com/originals/7e/90/f0/7e90f09cf6fd63baa5f3da23706f8918.jpg",
     images: [
       "https://i.pinimg.com/originals/7e/93/dd/7e93dd00de5a44d1eaf7b7e8c96ac1d7.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "chhapra",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hi myself Radhika Really Kannada independent College Girl Meet Dairectly No Agents it's a genuine service In call out call and doorstep services available Time passars please stay away",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "chhapra-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "93720 - 27981 DIRECT CASH PAYMENT NO ADVANCE INDEPENDENT HOT GIRLS, BHABHIS & RUSSIANS",
     image: "https://i.pinimg.com/originals/7e/a7/e2/7ea7e2cdb391ade2fe921765783f6ae7.jpg",
     images: [
       "https://i.pinimg.com/originals/7e/b8/1a/7eb81a949bafd1091dd1e53dc20d736c.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "chhapra",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Greetings all, the name is MEETA JAIN and I’m a truly stunning and elegant 23-year-old independent call girl. I'm going to become the woman who'll be able to make you cum like never before, dear. I have such a beautiful and natural figure that you…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "chhapra-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "NO ADVANCE DIRECT CASH PAYMENT CALL-GIRL 24hr available hotel in home apartment",
     image: "https://i.pinimg.com/originals/7e/c2/a5/7ec2a5dc9ebe186e2fb13b3d7a04a1cf.jpg",
     images: [
       "https://i.pinimg.com/originals/7e/c8/7d/7ec87db478aa4a073d972ae80e341e21.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "chhapra",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "HAND TO HAND CASH PAYMENT HIGH PROFILE GIRLS hotel and home AVAILABLE 24/7 ALL TYPE GIRL. 🌟✨CALL &WHATSAPP = ONLY GENU⁵IPERSONNE DON'T TIME WASTE GENUINE PERSON ENJOY 100% Cus bytomers Satisfaction Guarantee // 100 % Vip Profiles Top Grade Service…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "chhapra-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in chhapra.",
+    description: "Only 99/-Full 💝Nude 🤗Video Call Without Clothes Sex Fingerings Service ❣️✨",
     image: "https://i.pinimg.com/originals/7f/41/e4/7f41e4e603bcb845c600e7c147cb835e.jpg",
     images: [
       "https://i.pinimg.com/originals/7f/47/b3/7f47b35c3b487b2d8f000fe191fe4beb.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "chhapra",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "😇BIG BOOBS AND SPICY PUSY😇 💋Nude Dancing 💋Fingering with 2,3 fingers 💋Hot voice chat in service time ❣️MAKE YOUR MOOD HAPPY AND TAKE UR PENIS IN MOUTH ON VIDEO COME FAST AND Enjoyed 😘 👉FULL OPEN WITHOUT CLOTH VIDEO CALL 🌺 GIRLFRIEND FEELING 🌺 SUCKING…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

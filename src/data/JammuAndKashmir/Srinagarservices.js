@@ -2,7 +2,7 @@
   {
     id: "srinagar-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "HAND TO HAND CASH PAYMENT NO ADVANCE NO EXTRA PAYMENT ME 💖",
     image: "https://i.pinimg.com/originals/f7/1c/ee/f71ceefd146e211a5ee6dc5019887f04.jpg",
     images: [
       "https://i.pinimg.com/originals/f7/1d/cc/f71dcc208ca62fa99df94346516133a1.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "srinagar",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "srinagar-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in srinagar.",
+    description: "Mumbai VIP genuine high profile college girls genuine payment hand to hand in 24 hours call me",
     image: "https://i.pinimg.com/originals/f7/4e/20/f74e209c5fe86b72b78a10dac7b1f2c1.jpg",
     images: [
       "https://i.pinimg.com/originals/f7/69/d7/f769d76f885817e1706e1b31e5bf3099.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "srinagar",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "100%genune escorts service no advance AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "srinagar-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hey myself sneha I'm independent girl call me now for real meet genuine sarvice available 24/7 hours all over bangalore",
     image: "https://i.pinimg.com/originals/f7/c5/e9/f7c5e9f17526ebe82f9f6d4e996b1598.jpg",
     images: [
       "https://i.pinimg.com/originals/f7/d1/7b/f7d17bda44c9f8935d5faf1b101449c2.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "srinagar",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hi everyone I'm sneha indipendent call girl from Bangalore I provide real meet genuine services in all over bangalore Call me now for real meet genuine services in all over bangalore 24/7",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "srinagar-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "93720 - 27981 ONLY CASH PAYMENT NO ADVANCE NO BOOKING AMOUNT INDEPENDENT EDUCATED INDIAN RUSSIAN GIRLS",
     image: "https://i.pinimg.com/originals/f8/24/84/f82484529a00915b8931ea4e3edf4726.jpg",
     images: [
       "https://i.pinimg.com/originals/f8/32/9a/f8329ab3b3c47c9f1336affba792bd9a.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "srinagar",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Greetings all, the name is REKHA JOSHI and I’m a truly stunning and elegant 23-year-old independent call girl. I'm going to become the woman who'll be able to make you cum like never before, dear. I have such a beautiful and natural figure that you…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "srinagar-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Anjali Sharma NO💸 ADVANCE NEW MODEL 💋SEXY TRUSTED COLLAGE CALL GIRL IN PUNE 🤞",
     image: "https://i.pinimg.com/originals/f8/a9/b9/f8a9b9ee364d6130cd94a4611a0434b6.jpg",
     images: [
       "https://i.pinimg.com/originals/f8/ab/5b/f8ab5b16ac38c95856f970b75a17c9c1.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "srinagar",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "NO ADVANCE DIRECT CASH PAYMENT IN HAND FULL SAFE AND SECURE HOTEL AND HOME SERVICE AVAILABLE WE GURANTEE 100% SATISFACTION IN LOWEST PRICE ( Incall & outcall ) service 24*7 hrs available here.. Location :- Koregaon park Viman Nagar Hadapsar kharadi…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "srinagar-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in srinagar.",
+    description: "Hi,im swati providing u the best massage in punjabi bagh,new delhi only",
     image: "https://i.pinimg.com/originals/f8/bb/b0/f8bbb0fa1eafae74fb8371a15be997e8.jpg",
     images: [
       "https://i.pinimg.com/originals/f8/c6/94/f8c694179d85bd7f5722930dcfb4b4f1.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "srinagar",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "We are providing you the best massage in punjabi bagh new delhi only new delhi only Nuru massage Kerala massage Deep tissue massage Turkish massage Jaccuzi massage Erotic massage",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

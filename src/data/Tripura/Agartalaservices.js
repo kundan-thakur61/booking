@@ -2,7 +2,7 @@
   {
     id: "agartala-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "💗💯✅ OUTCALLL SERVICE AVAILABLE ALL CASH PAYMENT. CAMSHOW AVAILABLE ALSO💦",
     image: "https://i.pinimg.com/originals/51/1e/4c/511e4ca2209c1e0a86ba0c545c6c7c10.jpg",
     images: [
       "https://i.pinimg.com/originals/f4/30/59/f430596a1ba7c2df4bec48584edab626.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "agartala",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hello gentlemen. I'm available now for real meet. If you have your own place i want some advance for ok dear. Hotel -all cash. Shot with protection bj without protection all type kissing. Full service without any restriction",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "agartala-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in agartala.",
+    description: "I m kannada hudgi geninu vc available with real face and voice",
     image: "https://i.pinimg.com/originals/ab/6b/e9/ab6be986d2f8c6c531c17dfd565cbd75.jpg",
     images: [
       "https://i.pinimg.com/originals/0a/ad/e1/0aade14c28fe61cd37816964f14c7e76.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "agartala",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "I m kannada hudgi geninu vc available with real face and voice",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "agartala-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Elite Class Hot Sexy Independent Escorts",
     image: "https://i.pinimg.com/originals/89/6d/67/896d67c2c7c7469ce4050dc8c89f43bc.jpg",
     images: [
       "https://i.pinimg.com/originals/53/8c/03/538c034a066276d9ed054b0acc5b7e00.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "agartala",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Call And WhatsApp Me ☺️ I am open to meet and please at your place as well as in hotel. Need to book hotel room.",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "agartala-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hi i am SANDHYA INDEPENDENT staying girl in Bangalore,",
     image: "https://i.pinimg.com/originals/f8/ee/e7/f8eee74c04f04b2964969545cf72b9bf.jpg",
     images: [
       "https://i.pinimg.com/originals/e8/64/0c/e8640c010fc8ae06f34f491d669c6dce.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "agartala",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi i am SANDHYA INDEPENDENT staying girl in Bangalore, I am staying single in pg. I will give a good Enjoyment in your bed.",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "agartala-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Demo 50/-Full 💝nude hi Anjali 🤗video call without clothes demo charge 50💦",
     image: "https://i.pinimg.com/originals/54/05/cb/5405cb2f8965172318501f4f06ff27ad.jpg",
     images: [
       "https://i.pinimg.com/originals/c9/29/80/c92980185b80193523e626f777de1021.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "agartala",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Demo full nude video call service,💯🥰🥰💕full enjoy full satisfaction ful",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "agartala-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in agartala.",
+    description: "only 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     image: "https://i.pinimg.com/originals/55/aa/d1/55aad144f068fde7ab0daab3ee30e889.jpg",
     images: [
       "https://i.pinimg.com/originals/dc/78/fa/dc78fa21cf56dafa3c85c45e12f85968.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "agartala",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Demo 50/- only ◼️◾▪️💞hey I'm Radhika Bangalore hot girl genius Full Nude video sex service💞 new joinonly 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

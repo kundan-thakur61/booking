@@ -2,7 +2,7 @@
   {
     id: "samastipur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "699/-FULL NUDE 💦👅🫦 SANDWICH B2B MASSAGE WITH HOT GIRLS",
     image: "https://i.pinimg.com/originals/98/de/f0/98def09925df232993d90ab7fb592395.jpg",
     images: [
       "https://i.pinimg.com/originals/99/0d/f7/990df73b6e138350f5aca1e77be62668.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "samastipur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "OUR SPCL SERVICES: SEXY GIRLS ONLY AROMATHERAPY, SPA, HAPPY ENDING MASSAGE, NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE B0OB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS contact sweety Affordable Rate, 100 %…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "samastipur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in samastipur.",
+    description: "RNBW Rs 1000 (Counter) - Full Nude🩱Body Massage💗B2B Body massage Spa with BJ🍌 - Madeenaguda / Kukatpally /Miyapur / Hafeezpet",
     image: "https://i.pinimg.com/originals/99/70/a5/9970a5c06be4ba0f550f11438c72d42d.jpg",
     images: [
       "https://i.pinimg.com/originals/99/d3/39/99d339d159d7e4fc62ce178176c3f79d.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "samastipur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Madeenaguda Beauty Spa Massage starting form 1000/- Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "samastipur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Live nude video call with audio call sex chat services available",
     image: "https://i.pinimg.com/originals/9a/27/ab/9a27ab09c91344f0333b6890fe03c1b0.jpg",
     images: [
       "https://i.pinimg.com/originals/9a/29/37/9a29379608a89fe3172e77da4fa3351f.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "samastipur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Online live phone sex video call with audio call services available",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "samastipur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "today full discount Independent college student and house wife hand to hand payment HYDERABAD",
     image: "https://i.pinimg.com/originals/9a/71/c7/9a71c784b5071a2a0d2d4602be2d2a9e.jpg",
     images: [
       "https://i.pinimg.com/originals/9a/92/85/9a9285d3f1da0e5ae9e11a194e5c8ad1.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "samastipur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "new new profile avl I have Many collection of Independent girls and house wife They are goodlooking and ready to do anything for money For any information and booking please feel free and call me directly",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "samastipur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Independent college student and house wife hand to hand payment GENUINE SERVICE hyderabad",
     image: "https://i.pinimg.com/originals/9a/a7/d9/9aa7d9b67eeea021cdac4308b144b7cd.jpg",
     images: [
       "https://i.pinimg.com/originals/9a/ad/00/9aad009334db4126d4ea1094827c4ffb.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "samastipur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "I have Many collection of Independent girls and house wife They are goodlooking and ready to do anything for money For any information and booking please feel free and call me directly",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "samastipur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in samastipur.",
+    description: "Ghaziabad Today low price 🏩 Best Independent ✔️ HIGH profile call girl available",
     image: "https://i.pinimg.com/originals/9a/c9/2a/9ac92a024b753b5743bac74b9ee9e6d5.jpg",
     images: [
       "https://i.pinimg.com/originals/9a/ca/1e/9aca1e15e4867c20fe7aa2a7efec0c88.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "samastipur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "🔆 Genuine Price Fully Clean Hotels I Have All LOCATION Availability. 🤗 Safe & Secure Services Affordable Rate 💯% Satisfaction, Unlimited Enjoyment. Any Time All area's availability 💃 All Girl's and Housewife's Hygienic Medically Fit and Fresh Full…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

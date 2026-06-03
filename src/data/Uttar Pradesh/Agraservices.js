@@ -2,7 +2,7 @@
   {
     id: "agra-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "💖SONYA💖 independent Girl Staying Alone in Flat Just Visit Once",
     image: "https://i.pinimg.com/originals/0f/4e/0e/0f4e0e9b4e7def3021dc28438347fc75.jpg",
     images: [
       "https://i.pinimg.com/originals/94/e1/d9/94e1d93e3edda96b36674db104bdc9ef.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "agra",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hello Guys Am SONYA💝 🌟🌟Hotel service available 24 hour 💐 All over Hotel outcall service and incall with regular price guarantee satisfaction genuine service",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "agra-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in agra.",
+    description: "Myself chhoti singh and Genuine independent Call Girls Meet Dairectl No Advance Dairect Hand Cash it's a Genuine",
     image: "https://i.pinimg.com/originals/f5/36/3e/f5363e97ec4997eb412b9eb7e279d3e4.jpg",
     images: [
       "https://i.pinimg.com/originals/90/58/d9/9058d9e839061559e967b64c80cfd609.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "agra",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hi Myself chhoti Really genuine independent Call Girls Meet Dairectl No Agents it's a paid relationship with my bed I will provide u all types of services like bj lipkiss anaul services In call out call hotel home and doorstep services available",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "agra-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
     image: "https://i.pinimg.com/originals/28/0e/e1/280ee130248db6d6bb1ffd45adef3a5d.jpg",
     images: [
       "https://i.pinimg.com/originals/cd/1f/77/cd1f773faee2333820950794739fb63a.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "agra",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE WITH SHOWER BATH MASSAGE • FULL NUDE MASSAGE WITH SHOWER BATH…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "agra-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "GENUINE 77954 INDEPENDENT 44304ESCORT LTR HAND CASH PAYMENT TRULY",
     image: "https://i.pinimg.com/originals/dd/b0/1f/ddb01ff88b0e6ca9e611c7563042a72a.jpg",
     images: [
       "https://i.pinimg.com/originals/b5/74/3f/b5743f5a0e25d879581cfffd60e6ff81.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "agra",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Direct Meeting Direct Payment Before Service Cash or UPI. ▪♨️ No Booking Charges or No Online Advance Payment Service Details :- ▪♨️ Full Open Nude Sex Without any Dess With 100% Satisfaction. ▪♨️ BlowJob Oral Sex Pussy Licking Boobs Sucking69 Style…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "agra-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "MY SELF SWETA CALL GIRL & BODY-TO-BODY MASSAGE SPA SERVICES OUTCALL AND INCALL",
     image: "https://i.pinimg.com/originals/05/0d/8b/050d8b16a00e2d8208162711c385c8fb.jpg",
     images: [
       "https://i.pinimg.com/originals/1c/f4/0e/1cf40eae7a0fda0a575f77991659d524.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "agra",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "EROTIC MASSAGE •BLOWJOB👅 FULL NUDE • NURU👅💦ERVICE SHOWER 👅👅👅 GIRLFRIEND EXPERIENCE💏❤️DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANGIRLFRIEND EXPERIENCE💏💥 LICKING💥HAND JOB ❤️DEEP SUCKING WITHOUT CONDOM 💥 CUM ON FACE 💥 NUDE DANCE 💥 BOOBS RUBBING💥…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "agra-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in agra.",
+    description: "Independent college girl Ramya no Broker direct hand cash payment",
     image: "https://i.pinimg.com/originals/c8/d8/4d/c8d84d975e15086a5f9c22978030c141.jpg",
     images: [
       "https://i.pinimg.com/originals/4e/b4/76/4eb4768b6096bad84cc08733a974ceca.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "agra",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Ramya... Call & WhatsApp Now Hand to hand cash only direct girl no Agent No Broker High class independent girls models House wife air hostess, college girls call center girls,who are not only good looking but also very mannered.incall _out Call…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

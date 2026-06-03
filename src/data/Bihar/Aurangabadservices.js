@@ -2,7 +2,7 @@
   {
     id: "aurangabad-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "💋IM NISHA INDEPENDENT ✅ CALL GIRL, STAYING ALONE IN BANGALORE CONTACT ME FOR SERVICE LOW PRICE",
     image: "https://i.pinimg.com/originals/6d/91/e9/6d91e9cf37af278393e5ae876dad0b76.jpg",
     images: [
       "https://i.pinimg.com/originals/6d/9b/1f/6d9b1f736ed9d1ed1d818e816e5006cc.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "aurangabad",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Dear Customers Are you looking call girl service in mysore but unable to find out best geniune, don't worry I'm here for you to full fill all requirements you just connect with me through whatsapp and get service anytime anywhere in BANGALORE",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "aurangabad-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in aurangabad.",
+    description: "Myself aleena vedio call and real meet sex avbl",
     image: "https://i.pinimg.com/originals/6d/bf/33/6dbf33daca8946cd1ae86e625fa6b32b.jpg",
     images: [
       "https://i.pinimg.com/originals/6d/cd/2f/6dcd2fd07b36a32382e2e6425a926915.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "aurangabad",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Myself muslim girl aleena My whatsapp number",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "aurangabad-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hot Oil Erotic Massage With Hot Girls",
     image: "https://i.pinimg.com/originals/6e/36/1f/6e361fb33421aca7fd8fcde0d9614d4b.jpg",
     images: [
       "https://i.pinimg.com/originals/6e/6f/42/6e6f42901a095bfa1f78cc056f873fa2.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "aurangabad",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "This is Ruth, Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with (2)girls with pressure XTRA SERVICES AVAILABLE: ****SPECIAL SERVICE ALSO…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "aurangabad-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Luxury Female Massage Service | Relaxing & Professional Experience",
     image: "https://i.pinimg.com/originals/6e/bd/37/6ebd37c06e327c64ca2b116e471df7cf.jpg",
     images: [
       "https://i.pinimg.com/originals/6e/be/9e/6ebe9e458a2106513541b78c588dcc54.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "aurangabad",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Whether you need to unwind after a busy day or simply enjoy some personal relaxation time, I am here to help you feel refreshed and rejuvenated.",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "aurangabad-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Rs 1100 (Counter) - *Full Nude🩱Body Massage💗B2B Body massage Spa with BJ🍌 - Manikonda / Nanakramguda / Gachibowli / Shaikpet / Narsingi",
     image: "https://i.pinimg.com/originals/6e/eb/de/6eebded33ce3830be53462dc4eb19f1e.jpg",
     images: [
       "https://i.pinimg.com/originals/6f/1a/30/6f1a309fa53d3d277d3df0610ee5a3ef.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "aurangabad",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Manikonda Hot Massage Spa Massage starting form 1000/- Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "aurangabad-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in aurangabad.",
+    description: "Hi,im swati providing u the best massage in punjabi bagh,new delhi.once you avail our service u wont go any where in future,new delhi only",
     image: "https://i.pinimg.com/originals/6f/49/e7/6f49e79ccce638953303e71ef69e07a9.jpg",
     images: [
       "https://i.pinimg.com/originals/6f/59/c0/6f59c0eecea90ad89d8042cc3b2defc6.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "aurangabad",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "We are providing you the best massage in punjabi bagh,club road Nuru massage Kerala massage Deep tissue massage Turkish massage Jaccuzi massage New delhi only,new delhi only",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

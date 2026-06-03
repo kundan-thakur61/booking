@@ -2,7 +2,7 @@
   {
     id: "jodhpur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "____Genuine Vip Independent Escort Service In Bangalore Available For Doorstep And Hotel Service ____",
     image: "https://i.pinimg.com/originals/42/40/78/42407826900ee2c688ab0d36f5442da0.jpg",
     images: [
       "https://i.pinimg.com/originals/65/1f/0a/651f0ad220d033a0ac288d8620929a14.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "jodhpur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Call or What`s App Me __97420 Manu 25924__ For More Details-Bangalore Genuine Independent Escort Service Available For Doorstep And Hotel Service ... \"NO Cheating NO Misbehave\" ...... This Ads Is Only For Those Clients Who Are Looking For Genuine And…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "jodhpur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in jodhpur.",
+    description: "𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 DIRECT🌿💞 PAYMENT CALL GIRLS PREMIUM ESCORT INDIAN TOP MODELS PROFILE",
     image: "https://i.pinimg.com/originals/7a/88/54/7a885433208e9e813b67fdfbc6d2d6fd.jpg",
     images: [
       "https://i.pinimg.com/originals/89/05/17/890517ea87a6de7525ce10bd527061f4.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "jodhpur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "About me Hello, Sir. I am at your service. I offer my services on a cash-payment basis and will ensure your complete satisfaction. I am confident that you will be pleased with my services. Please refrain from messaging me merely to pass the time; for…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "jodhpur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGI",
     image: "https://i.pinimg.com/originals/03/3f/f7/033ff74d983c3fda1f374ad79cd261f9.jpg",
     images: [
       "https://i.pinimg.com/originals/2f/f6/87/2ff6879ff556806cb7a1ac7bfa6749bc.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "jodhpur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "jodhpur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "🚨 सावधान दल्लों से सावधान रहे:- Avoid scammer, हिजड़ा,sixerman ,fake profile and agent here.",
     image: "https://i.pinimg.com/originals/39/81/16/398116efe360bb9f56940df754fd4adc.jpg",
     images: [
       "https://i.pinimg.com/originals/cc/9d/6f/cc9d6fe30d8de8e93286d421efd279c2.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "jodhpur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Nude live 🔴 𝗗𝗘𝗠𝗢 confirmation with voice available here,i needed genuine person only message me .. 🔴 𝗗𝗘𝗠𝗢 Livecallgirl (nude demo call once per user lifetime 🤙) 💋Full service with face and voice 💋Livecall ~ now ✅ 🆕 I'm Girl independent and self…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "jodhpur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "BENGALURU ESCORT HY I AM INDEPENDENT COLLEGE GIRLS CAM SESSION AND SECURE SERVICE I NEED MONEY GENUINE SERVICE FULL SATISFACTION 24/7 AVAILABLE",
     image: "https://i.pinimg.com/originals/42/61/ce/4261ce2cbd064b30277bd581e7bb4926.jpg",
     images: [
       "https://i.pinimg.com/originals/b1/bc/84/b1bc84621936b4b791d4b44999b848fc.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "jodhpur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Cam session Full nude with face Out call and incall Hotel ya home Blojob Kissing Lipstick Without condom Anal sex Oral sex BDSM",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "jodhpur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in jodhpur.",
+    description: "only 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     image: "https://i.pinimg.com/originals/5a/11/b5/5a11b55fbc3ee69652b71ce018462bd7.jpg",
     images: [
       "https://i.pinimg.com/originals/98/37/7d/98377d66252081799c0fac9fefbb2184.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "jodhpur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Demo 50/- only ◼️◾▪️💞hey I'm Radhika Bangalore hot girl genius Full Nude video sex service💞 new joinonly 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

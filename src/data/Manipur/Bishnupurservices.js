@@ -2,7 +2,7 @@
   {
     id: "bishnupur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "🔥 Exotic African Beauty in Hyderabad – Private & Discreet Meetups 💋",
     image: "https://i.pinimg.com/originals/1e/63/83/1e638347444071fbd81fd80161a94463.jpg",
     images: [
       "https://i.pinimg.com/originals/d6/5b/9c/d65b9cc8ab7bdb68b11410ea1fe4493f.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "bishnupur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hi, I’m Lily Bea, a beautiful 24-year-old African lady based near. Paramount Hills, IAS Colony, Toli Chowki, Hyderabad. Curvy, confident, playful, and passionate, I enjoy creating unforgettable moments with respectful and open-minded gentlemen.…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "bishnupur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in bishnupur.",
+    description: "Hye i am kannada hudgi nishu geninune video call service available language Kannada English hindi",
     image: "https://i.pinimg.com/originals/87/8f/f5/878ff5a8b81bc8ace3b2a70e4302f996.jpg",
     images: [
       "https://i.pinimg.com/originals/a6/8a/9e/a68a9e530c9344a363f267638df52fef.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "bishnupur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "It's paid geninune call service and it's only online service",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "bishnupur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Only 99/-Full 💝Nude 🤗Video Call Without Clothes Sex Fingerings Service ❣️✨",
     image: "https://i.pinimg.com/originals/71/6a/97/716a97b14443ee87cc51d9ecee4732e4.jpg",
     images: [
       "https://i.pinimg.com/originals/d8/3c/17/d83c176133a3a7adff0573641bbc84a9.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "bishnupur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "😇BIG BOOBS AND SPICY PUSY😇 💋Nude Dancing 💋Fingering with 2,3 fingers 💋Hot voice chat in service time ❣️MAKE YOUR MOOD HAPPY AND TAKE UR PENIS IN MOUTH ON VIDEO COME FAST AND Enjoyed 😘 👉FULL OPEN WITHOUT CLOTH VIDEO CALL 🌺 GIRLFRIEND FEELING 🌺 SUCKING…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "bishnupur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "3 mint video 95 pay nude 👈Genuine girl Video⚡call service full🍌🌹full satisfy open boobs rubbing fingerings come water of pussy💃🇮🇳Full open video call",
     image: "https://i.pinimg.com/originals/8a/e7/1a/8ae71a631a6797fd00d73ba41c6a16d1.jpg",
     images: [
       "https://i.pinimg.com/originals/29/5b/97/295b97ab98c357f6c16d279e90fce152.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "bishnupur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "3 mint video 95 pay nude 👈Genuine girl Video⚡call service full🍌🌹full satisfy open boobs rubbing fingerings come water of pussy💃🇮🇳Full open video call service available⚡🇮🇳",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "bishnupur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Royal genuine service available best good service hotel and home ☺️",
     image: "https://i.pinimg.com/originals/58/bc/d7/58bcd7618cbf10962233ff79a4b88a1f.jpg",
     images: [
       "https://i.pinimg.com/originals/87/5b/22/875b22ba5d5fbd0665a695193bf4aa05.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "bishnupur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hello lover my name is Rani and I am a hot 23 _ years old in the privacy of company our best girlfriend if you want to enjoy the most exquisite sex i am the woman for you I m convinced that you will be I am best good service love to my dear Who loves…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "bishnupur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in bishnupur.",
+    description: "Hi I'm Nisha independent girl meet direct My flat",
     image: "https://i.pinimg.com/originals/ab/56/58/ab565885daf87aceb0565e7e4f9d7cda.jpg",
     images: [
       "https://i.pinimg.com/originals/4c/74/98/4c7498c62458e4446eb7fa3869b90983.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "bishnupur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Direct meet I'm independent call-girl-in alone... I'll really give u good enjoyment and Excellent service on my bed.... I'm basically from south girl.. i can speak kannada and English.. I'm in some financial problems that's why this way... but I'll…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

@@ -2,7 +2,7 @@
   {
     id: "chandigarh-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hello I am beby singh the genuine service available so please ☺️😍",
     image: "https://i.pinimg.com/originals/a6/9b/b6/a69bb6f8b7f76b6ef0eee6e0e51100a8.jpg",
     images: [
       "https://i.pinimg.com/originals/a6/c8/38/a6c8384b022b621b26541d2d3f4c05f0.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "chandigarh",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hello my name is beby singh the best girlfriend experience and best service in the world massage and full service 😍💯💕",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "chandigarh-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in chandigarh.",
+    description: "NO ANY ADVANCE PAYMENT ANAL, DOGGY STYLE, 69 POSITION, LIP TO LIP KISS, B2B MASSAGE, WITH OUT CONDOM BLOJOB, HAPPY ENDING",
     image: "https://i.pinimg.com/originals/a6/ea/a8/a6eaa8e3265823c36e86f7119125603d.jpg",
     images: [
       "https://i.pinimg.com/originals/a6/f5/51/a6f551c50cbb135e9e9c9c79698b7f24.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "chandigarh",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "V★I★P Genuine High Profile Model's Available - ALL OVER PUNE Hotel & Home Service ( Day / Night ) Call Girls Ready for All Your Wishes and Needs Call Girls In PUNE...! This is the Most Trusted Paid Service With 100% Safisfaction Guaranteed Pakka…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "chandigarh-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "🔥VIP GENUINE ESCORT SERVICE, NO NEED ANY ADVANCE, ONLY HAND TO HAND PAYMENT 🔥",
     image: "https://i.pinimg.com/originals/a7/1c/ec/a71cec9a1d245eaaf0b8949ff7f9e116.jpg",
     images: [
       "https://i.pinimg.com/originals/a7/36/3a/a7363a801ef5136bf3a26ef3502f1b5d.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "chandigarh",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "💕 NO NEED ANY ADVANCE PAYMENT 💕 💕 Only for cash payment hand to hand 💕 💖 100% GENUINE AND SECURE SERVICE CENTRE 💖 👋 HELLO GENTLEMAN 🕺🕺🕺 VIP GENUINE & SECURE SERVICE AVAILABLE HERE 🕺🕺🕺 🫂 FULL FRIENDLY 🫂 FULL COOPERATIVE 🫂 100% SATISFACTION 🫂 LIKE…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "chandigarh-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
     image: "https://i.pinimg.com/originals/a7/5c/63/a75c630c07a92a89184483065a3c0d6e.jpg",
     images: [
       "https://i.pinimg.com/originals/a7/6b/36/a76b363fdbed775882dedbf7d2d14592.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "chandigarh",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "chandigarh-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "DIRECT HAND TO HAND CASH PAYMENT NO ADVANCE PAYMENT NO EXTRA CHARGES GENUINE SERVICE AVAILABLE",
     image: "https://i.pinimg.com/originals/a7/78/45/a778455f460afb73c4f1eca22a217d58.jpg",
     images: [
       "https://i.pinimg.com/originals/a7/7a/2b/a77a2bb9aca6a90714b439e28193b806.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "chandigarh",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Direct Meeting Direct Payment Before Service Cash or UPI. ▪♨️ No Booking Charges or No Online Advance Payment Service Details :- ▪♨️ Full Open Nude Sex Without any Dess With 100% Satisfaction. ▪♨️ BlowJob Oral Sex Pussy Licking Boobs Sucking69 Style…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "chandigarh-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in chandigarh.",
+    description: "💦 3 min 75 /Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge",
     image: "https://i.pinimg.com/originals/a7/d0/4c/a7d04c1c7d64f5e0e373596c4d7bf9cd.jpg",
     images: [
       "https://i.pinimg.com/originals/a7/eb/72/a7eb72f1ffac3707fa601338077c235f.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "chandigarh",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "💦 3 min 75 /Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge and make ur mood happy👩‍❤️‍👨 40min 299 ❤ full nude service call service ❤ phone call sex ❤ sex chat ❤ sex education ❤ maximum…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

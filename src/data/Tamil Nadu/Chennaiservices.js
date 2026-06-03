@@ -2,7 +2,7 @@
   {
     id: "chennai-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "only 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     image: "https://i.pinimg.com/originals/e8/4c/ed/e84ced060104075294039c7155578308.jpg",
     images: [
       "https://i.pinimg.com/originals/4b/80/c1/4b80c14d596b296268bf85e4b7ac4e1d.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "chennai",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Demo 50/- only ◼️◾▪️💞hey I'm Radhika Bangalore hot girl genius Full Nude video sex service💞 new joinonly 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "chennai-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in chennai.",
+    description: "Independent college student and house wife hand to hand payment GENUINE SERVICE hyderabad",
     image: "https://i.pinimg.com/originals/35/95/b9/3595b9d33b489cba1f39f166f05292d9.jpg",
     images: [
       "https://i.pinimg.com/originals/f3/03/64/f3036442086dc767607058b4fe8321ef.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "chennai",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "I have Many collection of Independent girls and house wife They are goodlooking and ready to do anything for money For any information and booking please feel free and call me directly",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "chennai-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Full open video call in just 50 demo charge with voice with enjoy full enjoy hot girl ❤️❤️💘💕 50 demo charge 🥵 💦",
     image: "https://i.pinimg.com/originals/1d/03/38/1d0338fdd079184913473bd42404ea39.jpg",
     images: [
       "https://i.pinimg.com/originals/d1/a5/ea/d1a5eac7d07c2f717081a176ae4f5732.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "chennai",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Demo 50/- only ◼️◾▪️💞hey I'm Anjali Bangalore hot girl genius Full Nude video sex service💞 new joinonly 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "chennai-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Bangalore. 💯% SAFE AND SECURE TODAY LOW PRICE HIGH PROFILE COLLAGE GIRL'S AVAILABLE",
     image: "https://i.pinimg.com/originals/c6/b1/df/c6b1df87db664506a19417a520d2d6f9.jpg",
     images: [
       "https://i.pinimg.com/originals/14/c7/14/14c71480860cfc3d087b284e09bcb7d7.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "chennai",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "chennai-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "🔥VIP GENUINE ESCORT SERVICE, NO NEED ANY ADVANCE, ONLY HAND TO HAND PAYMENT 🔥",
     image: "https://i.pinimg.com/originals/b4/ff/1e/b4ff1e8ea337518645ef57cbfeec0630.jpg",
     images: [
       "https://i.pinimg.com/originals/c1/f3/7c/c1f37c5e5b633a151fb4d3e88f7b5048.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "chennai",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "💕 NO NEED ANY ADVANCE PAYMENT 💕 💕 Only for cash payment hand to hand 💕 💖 100% GENUINE AND SECURE SERVICE CENTRE 💖 👋 HELLO GENTLEMAN 🕺🕺🕺 VIP GENUINE & SECURE SERVICE AVAILABLE HERE 🕺🕺🕺 🫂 FULL FRIENDLY 🫂 FULL COOPERATIVE 🫂 100% SATISFACTION 🫂 LIKE…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "chennai-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in chennai.",
+    description: "QUEEN MASSAGE.NURU NUDE THAI HAPPY ENDING SPA FUL BODY B2B BJ FEMALE*",
     image: "https://i.pinimg.com/originals/a7/6b/36/a76b363fdbed775882dedbf7d2d14592.jpg",
     images: [
       "https://i.pinimg.com/originals/46/d5/81/46d58167e6c1b578fad7dafcef835c1d.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "chennai",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "QUEEN Spa Massage services in Bangalore:- Call Us Ms.Sneha. 96111 - 85789 (Or ) Whatsapp Silver package :- Full Nude Massage magical touching massage body to body rubbing with Girl romance and kissing and hugging and happy ending sir Duration :-1hr…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

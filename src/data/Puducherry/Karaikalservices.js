@@ -2,7 +2,7 @@
   {
     id: "karaikal-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "₹599 ADVANCE BOOKING CONFIRMATION AMOUNT... BOOKING CONFIRMATION WITHOUT BOOKING NOT 🚫 POSSIBLE BOOKING AMOUNT INQLUDING IN SERVICE CHARGE* 1 HOUR",
     image: "https://i.pinimg.com/originals/f2/d5/c3/f2d5c337d8a9e587e5f83c3d06bfcf7f.jpg",
     images: [
       "https://i.pinimg.com/originals/7e/a7/e2/7ea7e2cdb391ade2fe921765783f6ae7.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "karaikal",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "𝐈𝐍𝐃𝐄𝐏𝐄𝐍𝐃𝐄𝐍𝐓 CALL 𝐆𝐈𝐑𝐋 𝐕𝐈𝐏 𝐄𝐒𝐂𝐎𝐑𝐓 SERVICE ✅ ❣️ ⭐➡️HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAF",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "karaikal-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in karaikal.",
+    description: "Telugu vacha live nude video call service",
     image: "https://i.pinimg.com/originals/14/49/84/14498426bfbdc6299bd6af6111652e98.jpg",
     images: [
       "https://i.pinimg.com/originals/c0/60/40/c060409e1fce420f2d7a064d1003faaa.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "karaikal",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hi guys I am providing live nude video call service sex chat with Pic's telugu language boobs playing pusy fingaring shower 🚿 show bathing full enjoyment full satisfaction genuine service no extra charges only fixed price",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "karaikal-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
     image: "https://i.pinimg.com/originals/4b/8b/06/4b8b066fe99607ae26f00cc537831f52.jpg",
     images: [
       "https://i.pinimg.com/originals/de/e8/7d/dee87d931018241a8109eb0bc6a252aa.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "karaikal",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE WITH SHOWER BATH MASSAGE • FULL NUDE MASSAGE WITH SHOWER BATH…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "karaikal-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hand to hand payment geniune service call me",
     image: "https://i.pinimg.com/originals/46/c3/4d/46c34d7dc8348983240db21967ad9526.jpg",
     images: [
       "https://i.pinimg.com/originals/35/17/cf/3517cf91f8ea6c413bce1bd7eb3588ae.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "karaikal",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "100% satisfaction guaranteed ✓profiles top grade service Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service Call…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "karaikal-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "💦 3 min 75 /Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge",
     image: "https://i.pinimg.com/originals/93/f4/4e/93f44e19b17c9768d31f28351ed774f8.jpg",
     images: [
       "https://i.pinimg.com/originals/a3/9c/46/a39c463258b8f4ccb2fc36ef63335b40.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "karaikal",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "💦 3 min 75 /Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge and make ur mood happy👩‍❤️‍👨 40min 299 ❤ full nude service call service ❤ phone call sex ❤ sex chat ❤ sex education ❤ maximum…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "karaikal-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in karaikal.",
+    description: "No broker Remember no time for free For booking what's app Aradhana",
     image: "https://i.pinimg.com/originals/4c/de/ed/4cdeed97d6fefe78207f0749f0711845.jpg",
     images: [
       "https://i.pinimg.com/originals/54/63/c8/5463c8b8c2582991b0132e3d859853c3.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "karaikal",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Independent Independent house wife for nude video chat 30 mins: 5000/ 20 mins: 3000/ 10 mins: 2500/ Remember no time for free demo ifyou don't trust don't message After payment done Aradhana will inform me I will then start with my session For…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

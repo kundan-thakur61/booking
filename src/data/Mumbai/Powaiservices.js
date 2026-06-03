@@ -2,7 +2,7 @@
   {
     id: "powai-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Genuine bhabhi full service video call service complete final service",
     image: "https://i.pinimg.com/originals/c3/4d/de/c34dde09ede91f37e3dfcdf4d418e12e.jpg",
     images: [
       "https://i.pinimg.com/originals/27/bc/18/27bc18ad683237597f0026612972a40e.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "powai",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hot full live show big boobs finger show video call service chat chat audio sex demo sex",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "powai-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in powai.",
+    description: "My name is Ruhi Patel i am independent college girl no broker ❌ no agency ill provide the without registration 👍",
     image: "https://i.pinimg.com/originals/43/74/cb/4374cb5b426b5b57abe355dccbc5fa82.jpg",
     images: [
       "https://i.pinimg.com/originals/e9/27/66/e927663e4eb012e62f5e57ed111395c6.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "powai",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Dear Customers Are You Looking Call Girl Service In Bangalore,But Unable To Find Geniune Best One! Don't Worry,I'm Here To Full Fill Your All Requirment, My Name is Soniya I'M a Independent Call Girl and I Will Provide The Service Without Any Restriction without any Stupid Condition,You Just Connect With Me Through Whatsapp Or Teligram And Get…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "powai-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "IM PRIYA INDEPENDENT ✅ CALL GIRL, STAYING ALONE IN BANGALORE CONTACT ME FOR SERVICE LOW PRICE",
     image: "https://i.pinimg.com/originals/b6/5e/7d/b65e7d212f1c80c404d3af589814162b.jpg",
     images: [
       "https://i.pinimg.com/originals/e8/d3/87/e8d387ce5ea68ebf3c0b96f4d3bcb14c.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "powai",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Dear Customers Are you looking call girl service in mysore but unable to find out best geniune, don't worry I'm here for you to full fill all requirements you just connect with me through whatsapp and get service anytime anywhere in BANGALORE",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "powai-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Marathi Meera aho video call sex service",
     image: "https://i.pinimg.com/originals/07/6d/7e/076d7e4e7661a39c380596b2c0dc0efc.jpg",
     images: [
       "https://i.pinimg.com/originals/ed/78/9f/ed789f1f0cf7fefd87a8c2556796d436.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "powai",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi service available No free confirmation or demo or nude pics Genuine service available only",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "powai-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "TANI HERE TO MAKE YOUR DAY AND FORGETTABLE CONTACT ME FOR MORE DETAILS AND INFORMATION",
     image: "https://i.pinimg.com/originals/30/aa/f9/30aaf95a72a85274db17d4f53cfe5541.jpg",
     images: [
       "https://i.pinimg.com/originals/5b/c6/de/5bc6de71324fbe9a64905cf0150a6789.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "powai",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Contact me for more information I am waiting for your message and calls",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "powai-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in powai.",
+    description: "Hey everyone my self pallavi Singh online service available",
     image: "https://i.pinimg.com/originals/24/0c/7b/240c7b6abb3b564fcb6f34b0c30f7a75.jpg",
     images: [
       "https://i.pinimg.com/originals/ae/1b/5d/ae1b5d8d8745347d123299ccf8febed6.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "powai",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hey everyone my self pallavi Singh online service available",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

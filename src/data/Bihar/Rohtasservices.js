@@ -2,7 +2,7 @@
   {
     id: "rohtas-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "I AM KAVYA I SPEAK *ALL SOUTH INDIAN LANGAGUES // INDEPENDENT",
     image: "https://i.pinimg.com/originals/95/1c/d4/951cd4855ad720dee7d95573f160b0e1.jpg",
     images: [
       "https://i.pinimg.com/originals/95/21/61/9521610a42ea23c65dd28454c580809a.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "rohtas",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "B2B AND NURU ALSO I DO I am a South Indian independent spa therapist with professional experience in various massage therapies and wellness treatments. I provide quality service with a focus on client comfort, relaxation, and professionalism.…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "rohtas-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in rohtas.",
+    description: "only 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     image: "https://i.pinimg.com/originals/95/8c/e8/958ce87b1d8b6c4470a02209b1de2ec5.jpg",
     images: [
       "https://i.pinimg.com/originals/95/8e/e5/958ee5c69d2637ddaf13451bec9f6a26.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "rohtas",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Demo 50/- only ◼️◾▪️💞hey I'm Radhika Bangalore hot girl genius Full Nude video sex service💞 new joinonly 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "rohtas-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "💋IM NISHA INDEPENDENT ✅ CALL GIRL, STAYING ALONE IN BANGALORE CONTACT ME FOR SERVICE LOW PRICE",
     image: "https://i.pinimg.com/originals/95/ec/31/95ec31bea83dd62e303e71c30692e95d.jpg",
     images: [
       "https://i.pinimg.com/originals/96/10/dc/9610dc2af4cd647fdc6744608026f014.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "rohtas",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Dear Customers Are you looking call girl service in mysore but unable to find out best geniune, don't worry I'm here for you to full fill all requirements you just connect with me through whatsapp and get service anytime anywhere in BANGALORE",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "rohtas-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "BOOBS🩷 SUCKING 🫦💦 FULL NUDE NURU MASSAGE WITH HAPPYENDING",
     image: "https://i.pinimg.com/originals/96/49/df/9649df48d88a1bc7a7fbedce6b272e39.jpg",
     images: [
       "https://i.pinimg.com/originals/96/56/e8/9656e841286333e085db7f1c25df2e4e.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "rohtas",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "OUR SPCL SERVICES: SEXY GIRLS ONLY AROMATHERAPY, SPA, HAPPY ENDING MASSAGE, NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE B0OB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS contact sweety Affordable Rate, 100 %…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "rohtas-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "College 💓girls face to face payment no advance 24*7 service all over Chandigarh mohali kharar",
     image: "https://i.pinimg.com/originals/96/7a/15/967a158288bb870ee005ed53680e0b84.jpg",
     images: [
       "https://i.pinimg.com/originals/96/7f/9b/967f9b18d681b8879df640f8d717e924.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "rohtas",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "We believe in customer satisfaction call or whats app for more enquiries Safe and secure service",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "rohtas-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in rohtas.",
+    description: "HEY I AM ARPITA NO ADVANCE FULL HAND TO HAND CASH PAYMENT IN HOTEL AND HOME",
     image: "https://i.pinimg.com/originals/96/97/bb/9697bbf0a7597093527520d617cc0650.jpg",
     images: [
       "https://i.pinimg.com/originals/96/b0/78/96b078092f98aa481f2e81512a583986.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "rohtas",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "HEY I AM ARPITA NO ADVANCE FULL HAND TO HAND CASH PAYMENT IN HOTEL AND HOME",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

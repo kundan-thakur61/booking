@@ -2,7 +2,7 @@
   {
     id: "bhojpur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Myself Soniya Reall and Genuine independent Call Girls Meet Dairectly No Advance Dairect Hand Cash it's a Genuine",
     image: "https://i.pinimg.com/originals/78/6c/fa/786cfa7083a167a73268164c690425b1.jpg",
     images: [
       "https://i.pinimg.com/originals/78/81/a5/7881a5c03fa2bb8e7410a42a1965f9e7.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "bhojpur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hi Myself Soniya Really genuine independent Call Girls Meet Dairectly No Agents it's a paid relationship with my bed I will provide u all types of services like bj lipkiss anaul services In call out call hotel home and doorstep services available",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "bhojpur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in bhojpur.",
+    description: "SS SPA",
     image: "https://i.pinimg.com/originals/78/f5/a2/78f5a20c7aca6dfc56cb71aed959d0be.jpg",
     images: [
       "https://i.pinimg.com/originals/78/fa/32/78fa32be8928fd793cf8e8020a500b48.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "bhojpur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Best erotic massage and tantric massage nice heaven relaxation",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "bhojpur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct",
     image: "https://i.pinimg.com/originals/79/2d/cd/792dcd17720a5266948341557b0ac13c.jpg",
     images: [
       "https://i.pinimg.com/originals/79/32/4c/79324cfd27896122a6313501760de683.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "bhojpur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "No extra charge genuine people came here time pass direct block genuine people came here 24 HOUR",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "bhojpur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "MY SELF SWETA CALL GIRL & BODY-TO-BODY MASSAGE SPA SERVICES OUTCALL AND INCALL",
     image: "https://i.pinimg.com/originals/79/55/b5/7955b55ac2cc43257fdb11fc9cf4e2de.jpg",
     images: [
       "https://i.pinimg.com/originals/79/d3/80/79d380119db81da97b96bfc71f0573dc.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "bhojpur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "EROTIC MASSAGE •BLOWJOB👅 FULL NUDE • NURU👅💦ERVICE SHOWER 👅👅👅 GIRLFRIEND EXPERIENCE💏❤️DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANGIRLFRIEND EXPERIENCE💏💥 LICKING💥HAND JOB ❤️DEEP SUCKING WITHOUT CONDOM 💥 CUM ON FACE 💥 NUDE DANCE 💥 BOOBS RUBBING💥…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "bhojpur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "HAND call me CASH PAYMENT ONLY GENUINE SERVICE ANAL SEX MASSAGE",
     image: "https://i.pinimg.com/originals/79/d5/d8/79d5d8aa40d43a02ed8f52884ba43993.jpg",
     images: [
       "https://i.pinimg.com/originals/79/d7/e6/79d7e65ee00cb40803d85ce4c864dea7.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "bhojpur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "// CALL // ME NOW HAND CASH ALL BANGALORE NEW PROFILE CALL GIRLS HOT BHABHI",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "bhojpur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in bhojpur.",
+    description: "Hi ,im swati providing you the best massage service in rani bagh,new delhi only.once you avail our service you wont go anywhere in future",
     image: "https://i.pinimg.com/originals/7a/47/4e/7a474e92a1d6928557ee42d9fc368fe6.jpg",
     images: [
       "https://i.pinimg.com/originals/7a/59/53/7a5953507f76cfae033703c6f039f6a6.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "bhojpur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hi,im swati providing you the best massage service in rani bagh,pitampura new delhi only. in rani bagh new delhi where you can relax yourself with highly trained therapist. NURU MASSAGE KERALA MASSAGE DEEP TISSUE MASSAGE AYURVEDIC THERAPY B2B MASSAGE HOT OIL MASSAGE",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

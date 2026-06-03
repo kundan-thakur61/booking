@@ -2,7 +2,7 @@
   {
     id: "saran-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Full open video call ☎️ chat 💬 service 💘 open nude video call demo charge 70 only without clothes demo70",
     image: "https://i.pinimg.com/originals/9a/d7/70/9ad77006a8918adb61386c97d7e94927.jpg",
     images: [
       "https://i.pinimg.com/originals/9a/e9/2a/9ae92a14f5ecdf63f8035fc3ac2b7fe9.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "saran",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Demo 70/- only ◼️◾▪️💞hey I'm Radhika Bangalore hot girl genius Full Nude video sex service💞 new joinonly 70/-Full 💝nude 🤗video call without clothes demo charge 70",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "saran-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in saran.",
+    description: "Slim juicy body shape AFRICAN Hot Juicy Body Available.. Horny Hot Wet Fat Tight Pussy Girl .Fucking Meet Now ..fuck as you want ready..",
     image: "https://i.pinimg.com/originals/9b/90/13/9b901353f652760ddf15b0c60b0c1da5.jpg",
     images: [
       "https://i.pinimg.com/originals/9b/9f/07/9b9f07c4e5067afefb734c0217f2726f.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "saran",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "MY NAME Is Joy Are you looking for some good time? Want to relax and have fun? You are in here the right place.☺️ I’M VERY CLEAN, SPORTY and HEALTHY NARROW WAIST , WIDE HIPS🍑 And SILKY SMOOTH SKIN ☺️ ——————————————————————— I am a very easy going…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "saran-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "FULL NUDE VIDEO CALL SERVICE 💥 SUDHA 🥀 WITH VOICE VIDEO CALL SERVICE🎥 SEXTING 💬 PHONE 🥀SEX 📞📽️𝗩𝗜𝗗𝗘𝗢 𝗖𝗔𝗟𝗟🎀DEMO Charge 99/- ONLY",
     image: "https://i.pinimg.com/originals/9b/c0/07/9bc00797d313fb3acd7a65f19f367278.jpg",
     images: [
       "https://i.pinimg.com/originals/9b/d1/51/9bd151c9da98a8b4a97db88c8e2c0524.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "saran",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "FULL NUDE VIDEO CALL SERVICE 💥 SUDHA 🥀 WITH VOICE VIDEO CALL SERVICE🎥 SEXTING 💬 PHONE 🥀SEX 📞📽️𝗩𝗜𝗗𝗘𝗢 𝗖𝗔𝗟𝗟🎀DEMO Charge 99/- ONLY💋 CALL FULL NUDE VIDEO CALL SERVICE NAME . MAMTA AGE 24 😇BIG BOOBS AND SPICY PUSY😇 💋Nude Dancing 💋Fingering with 2,3 fingers…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "saran-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Kajal full open video call with voice service available",
     image: "https://i.pinimg.com/originals/9b/e0/d2/9be0d2ee89c07e9be8ace66211e53b98.jpg",
     images: [
       "https://i.pinimg.com/originals/9b/e4/9c/9be49c0a2d7b2c8932498f1893c0b957.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "saran",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "💋💋 About me Hey kajal, ❤I am kajal.❤ I am an independent call girl (College Student ) , ❤offering now My deep Nude Video Call service, ❤ Sex 💋chat with Nude pics and many more as per your interest❤:- 👆 Will offer on Nude video call",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "saran-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Call Girls For One Night outcall Short time incall at",
     image: "https://i.pinimg.com/originals/9c/2f/a9/9c2fa9deae0759b2fa72ace8f1ed7161.jpg",
     images: [
       "https://i.pinimg.com/originals/9c/60/05/9c60050fdd321ff318b4c7526bc3481e.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "saran",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Delhi NCR Booking For One Night Stayeng At Home Hotel Booking Hi-class college girls horny wife availabel any time",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "saran-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in saran.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct block",
     image: "https://i.pinimg.com/originals/9c/d0/f6/9cd0f6074e73c1911af1c14b2d1a2eeb.jpg",
     images: [
       "https://i.pinimg.com/originals/9c/d2/8c/9cd28cc3f91e80939baa54473aef7e20.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "saran",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Live video call service available no meet only genuine people came here no extra charge",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

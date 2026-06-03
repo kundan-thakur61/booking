@@ -2,7 +2,7 @@
   {
     id: "ajmer-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Nikita 👄👙NO ADVANCE DIRECT PAY TO GIRL INDEPENDENT GIRLS AVAILABLE",
     image: "https://i.pinimg.com/originals/96/64/fa/9664faf79aa331d5d46b5c7df031e268.jpg",
     images: [
       "https://i.pinimg.com/originals/f7/10/d4/f710d46a74d34d76b30b54d87f554667.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "ajmer",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "DIRECT PAY TO GIRL NO ADVANCE INDEPENDENT GIRLS AVAILABLE full service available and same girl available",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "ajmer-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in ajmer.",
+    description: "My Self Valeria from Russia Now available in Hyderabad 24×7 For Fun enjoy beautiful night",
     image: "https://i.pinimg.com/originals/b3/ff/39/b3ff396737ea25d62de9e5e8ba9e0d26.jpg",
     images: [
       "https://i.pinimg.com/originals/34/12/27/3412279ca5214c7df8fe473281f0fcb2.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "ajmer",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "My Self Valeria I'm available in ●Hyderabad now 24×7 ■I giving A To Z service I here for Fun and giving my fetish ●service Like Desire come true service whatever you want ● In call services ● Out call service ●Hotel Room Service ●Farm house party ●Goa Manali simla Nepal kashmir everywhere You can Go with me Just like Girlfriend ●3some Also…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "ajmer-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "I’m seeking trust woman, well minded",
     image: "https://i.pinimg.com/originals/05/06/2a/05062a9300334f7f9461e2c4d67ed32f.jpg",
     images: [
       "https://i.pinimg.com/originals/92/e4/3d/92e43daeb0c2a0470088ef69364a8e46.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "ajmer",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "ajmer-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "I am A Big Slut so Come and Fuck me harder in all positions.",
     image: "https://i.pinimg.com/originals/cd/83/bc/cd83bc3bdebc1e67528eb02667a75df1.jpg",
     images: [
       "https://i.pinimg.com/originals/52/63/0a/52630ac1ccbe8cd1df152709078c69b1.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "ajmer",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Telgram id:- prayatna0606 I have too hot figure with sexy boobs so trust me you will just feel so good inside me as Summers have started and i can understand how horny you are and instead of maturabation you can use that sperm to fuck me harder and make me scream your name. I am young 26 years Hot and Sexy girl ,I am here for some work and i also…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "ajmer-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "INDIPENDENT💸 𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 PAYMENT HAND TO HAND FULL SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE 24X7 AVAILABLE",
     image: "https://i.pinimg.com/originals/f6/7a/5e/f67a5ed14c15cee3992829277d07e352.jpg",
     images: [
       "https://i.pinimg.com/originals/01/0c/a0/010ca08618efb4110f1bbb126095fd94.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "ajmer",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "INDIPENDENT💸 𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 PAYMENT HAND TO HAND FULL SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE 24X7 AVAILABLE college girl model VIP available full service",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "ajmer-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in ajmer.",
+    description: "BIG BOOBS HOUSEWIFE 👉 Nude B2B Massage 😘 Happy Ending 🍑 Enjoy Sandwich Massage 💦 Oral-Fun 💯% Hygienic Place Available",
     image: "https://i.pinimg.com/originals/1d/49/88/1d4988bfef5355d8f7c7e7d0273bda88.jpg",
     images: [
       "https://i.pinimg.com/originals/f1/b4/89/f1b4897b337ad68cb89feafa3d9ea685.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "ajmer",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hello Friends, I Am Priya Oberoi and My College Friend Diksha Rawat Enjoy Hot Escorts At Spa-Center (Delhi Call-Girls), Top Class Escorts Service In Delhi, Meet Sexy n Hot Indian Call-Girls At Luxurious Place In Lajpat Nagar, Affordable Prices 100%…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

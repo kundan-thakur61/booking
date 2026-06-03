@@ -2,7 +2,7 @@
   {
     id: "jalandhar-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "FULL NUDE BTB ORAL BJ WITH HAPPY ENDING",
     image: "https://i.pinimg.com/originals/05/01/d0/0501d00208d3c18c67dde1e5339dbb3d.jpg",
     images: [
       "https://i.pinimg.com/originals/90/58/d9/9058d9e839061559e967b64c80cfd609.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "jalandhar",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Please freely contact roja regarding all massage and extra services",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "jalandhar-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in jalandhar.",
+    description: "AFTER SERVICE PAYMENT TRUSTED CHEAPEST RATE 24 HOURS AVAILABLE ALL OVER MUMBAI",
     image: "https://i.pinimg.com/originals/83/5e/a0/835ea02a30469fdb5fde0a0f04cea3ef.jpg",
     images: [
       "https://i.pinimg.com/originals/1f/ee/c2/1feec2ec87a42f81835b9953d24c3647.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "jalandhar",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Mumbai escorts services beautiful and Reasonable best services 24 Available In :- 24 hotel ya home cash 3*5*7*Star Hotel home services In.In call & out call... Name :- Shilpa Sharma Age :- 21yrs Height :- 5ft 3in (without heels) Measurements :-…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "jalandhar-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
     image: "https://i.pinimg.com/originals/b5/5a/6b/b55a6bee123290b141ce1dc29c8b21ab.jpg",
     images: [
       "https://i.pinimg.com/originals/c7/ee/b7/c7eeb7627d3388755ad2d3e0cb0e250d.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "jalandhar",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "jalandhar-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💯NO ADVANCE ONLY CASH PAYMENT AFTER THE MEET✅ HIGH CLASS PRIMIUM VVIP ESCORTS SERVICE IN BANGALORE",
     image: "https://i.pinimg.com/originals/3b/3f/f2/3b3ff25ced4be443ce251c4d6330b28a.jpg",
     images: [
       "https://i.pinimg.com/originals/a1/f2/d8/a1f2d89c008f9bc5fe9ba4f34252cc50.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "jalandhar",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Bangalore)✅ONLY CASH PAYMENT ⭐100% GENUINE SAME PROFILE HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100%…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "jalandhar-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "NO ADVANCE PAYMENT ANAL, 69 POSITION, LIP TO LIP KISS, B2B MASSAGE, WITH OUT CONDOM BLOJOB, MOUTH DISCHARGE, HAPPY ENDING",
     image: "https://i.pinimg.com/originals/ef/c9/6b/efc96b255c5e9007520531687bbe187a.jpg",
     images: [
       "https://i.pinimg.com/originals/f8/b8/80/f8b88049c70eacc1bf690b22b189f846.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "jalandhar",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "jalandhar-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in jalandhar.",
+    description: "NEW ARRIVAL JUICY BOOBS AFRICAN SEXY GIRL SARAH READY TO MEET NOW",
     image: "https://i.pinimg.com/originals/19/78/62/197862e2ecd0bb7c98950ca18c90c681.jpg",
     images: [
       "https://i.pinimg.com/originals/03/55/e2/0355e207522d9e7f79d6ee2f2e731f26.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "jalandhar",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hi guys, am new arrival Sarah from sector 43 in gurgaon City New and amazing 24 age year old independent Girl from Africa . As you can see in the photos, I radiate eroticism and sensuality from every pore of my body. For the perfect companion, come…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

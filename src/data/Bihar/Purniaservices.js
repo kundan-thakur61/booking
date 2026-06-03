@@ -2,7 +2,7 @@
   {
     id: "purnia-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "hy guys genuine phone chat voice chat talk contact my watsApp number",
     image: "https://i.pinimg.com/originals/93/98/bc/9398bc31d72f27a8e2cbff16eaea6a70.jpg",
     images: [
       "https://i.pinimg.com/originals/93/a0/57/93a057df3bb1b70b1eb18fac59fe7a7e.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "purnia",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hy guys sexy girl all time available content me my watsApp number",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "purnia-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in purnia.",
+    description: "Hi I saw your ad on skkoka only 50 full open video call service",
     image: "https://i.pinimg.com/originals/94/02/f9/9402f91f38830b4c983a31645894d500.jpg",
     images: [
       "https://i.pinimg.com/originals/94/20/ab/9420abc1cf38473805054c4fc64847c1.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "purnia",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "👉🏼Full open video call service with. 👉🏼. voice full enjoy 👉🏼No time pass",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "purnia-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "💖PRIYA💖 independent Girl Staying Alone in Flat Just Visit Once",
     image: "https://i.pinimg.com/originals/94/36/03/9436038d462d6d9c44a907031718cd22.jpg",
     images: [
       "https://i.pinimg.com/originals/94/64/8c/94648c122aee84f4399d8269e5421e10.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "purnia",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hello Guys Am PRIYA💝 🌟🌟Hotel service available 24 hour 💐 All over Hotel outcall service and incall with regular price guarantee satisfaction genuine service",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "purnia-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Ghaziabad Today low price 🏩 Best Independent ✔️ HIGH profile call girl available",
     image: "https://i.pinimg.com/originals/94/75/a6/9475a6c3d2e26f2b40883a6a13166805.jpg",
     images: [
       "https://i.pinimg.com/originals/94/7e/4c/947e4cb91c54c1f9401c55449c1075ff.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "purnia",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "🔆 Genuine Price Fully Clean Hotels I Have All LOCATION Availability. 🤗 Safe & Secure Services Affordable Rate 💯% Satisfaction, Unlimited Enjoyment. Any Time All area's availability 💃 All Girl's and Housewife's Hygienic Medically Fit and Fresh Full…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "purnia-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "📌DIRECT PAYMENT *(NO ADVANCE)* 📍A-Z SERVICE ON DEMAND GOOD QUALITY BEAUTY FOR FULLY💫 SATISFACTION",
     image: "https://i.pinimg.com/originals/94/90/d0/9490d09ebe21d93f62624ad72b2d6bd9.jpg",
     images: [
       "https://i.pinimg.com/originals/94/9b/40/949b409cf5c315d7f17cda4bd9b16713.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "purnia",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "No Advance Payment And No Booking Charge And No Extra Charge Hand To Hand Payment To Meet Hotel 🛏️ Or Home Service All Types Service Including All Pune Available 24/7Hours ‎ ‎All Pune:- ( VIMAN NAGAR , HINJEWADI , KHARADI , KOREGAON PARK , BANER ,…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "purnia-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in purnia.",
+    description: "💫 Professional top of Faridabad😈 Massage also available 💆🏻‍♂️💆🏻‍♀️",
     image: "https://i.pinimg.com/originals/94/d0/5f/94d05ffa6db4823988f1be5e9a9819eb.jpg",
     images: [
       "https://i.pinimg.com/originals/94/d6/ea/94d6eaf454ccbe2f6f119ee0856ae07f.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "purnia",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hi I'm Anmol I have been in this service for the last 2 years and have a good client base and have a great experience as a massager with happy ending. Bhabhi couple and bottoms are most welcome. No advance required just book a cab or rapido from my…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

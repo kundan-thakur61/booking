@@ -2,7 +2,7 @@
   {
     id: "eluru-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "ONLY 👉99 💦 Full GENIUNE 🌴🌴 LIVE CALL SERVICE✅✅ FULL SAFE SEQUE 💞💞 NO EXTRA FULL SAFTy CALL ME🤙🌹",
     image: "https://i.pinimg.com/originals/11/87/a7/1187a75c701899c66ce9d0aefdccb5ba.jpg",
     images: [
       "https://i.pinimg.com/originals/11/8b/25/118b258cbcedbd1c1e67d810740f4b98.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "eluru",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "ONLY 👉99 💦 Full GENIUNE 🌴🌴 LIVE CALL SERVICE✅✅ FULL SAFE SEQUE 💞💞 NO EXTRA FULL SAFTy CALL ME🤙🌹",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "eluru-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in eluru.",
+    description: "FULL NUDE BTB ORAL BJ WITH HAPPY ENDING",
     image: "https://i.pinimg.com/originals/12/08/31/120831bdd0c4189c1b3d3a082b1d6cdb.jpg",
     images: [
       "https://i.pinimg.com/originals/12/38/fb/1238fb5eb19aadcd671d015d4efa28ce.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "eluru",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Please freely contact roja regarding all massage and extra services",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "eluru-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "4✨5✨ HAND TO HAND CASH PAYMENT WITH FULL SEXUAL SERVICES 24/7 AVAILABLE 💵 NO ADVANCE",
     image: "https://i.pinimg.com/originals/12/6c/e6/126ce61b16f3bea614326088d0f7ead7.jpg",
     images: [
       "https://i.pinimg.com/originals/12/7e/88/127e88c6a55d0e702f0c96401d1c71ee.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "eluru",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "💵 HAND TO HAND CASH PAYMENT 100% ALL BANGALORE 🏬 SERVICE AVAILABLE *100% Real service provider *Body to body massage sexual service *Lip to lip 💋 kissing *Xx. Full open available No advance hand to hand cash payment massage with sexual service…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "eluru-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💋💋100% real girl💃💃 provided phone sex sarvice with voice and fhingring full satisfaction💦💦 no extra charge",
     image: "https://i.pinimg.com/originals/12/89/49/128949b598f6d52b838303a59c70fa4f.jpg",
     images: [
       "https://i.pinimg.com/originals/12/8c/0f/128c0fd28a971c3bcb032ca27ca3723a.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "eluru",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "💋💋100% real girl💃💃 provided phone sex sarvice with voice and fhingring full satisfaction💦💦 no extra charge",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "eluru-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "💥BOOK ₹ 2K SHORT ₹ 7k NIGHT 99998 call 58187 PAYMENT GIRL HAND YOUR FLAT HOTEL HOME ✅ IN CALL FREE ROOM 🆗 OUT CALL YOUR PLACE REAL WHATSAPP",
     image: "https://i.pinimg.com/originals/12/bc/41/12bc41ca2ac7e45add1320bb49e1e524.jpg",
     images: [
       "https://i.pinimg.com/originals/12/f5/2c/12f52c4de3662b536c3d9810cb0a2ad2.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "eluru",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "CALL GIRLS IN DELHI:- 99998 call 58187❤️𝗛𝗔𝗡𝗗 𝗧𝗢 𝗛𝗔𝗡𝗗 𝗖𝗔𝗦𝗛 𝗣𝗔𝗬𝗠𝗘𝗡𝗧 𝗡𝗢 𝗔𝗗𝗩𝗔𝗡𝗖𝗘 𝗡𝗢 𝗘𝗫𝗧𝗥𝗔 𝗖𝗛𝗔𝗥𝗚𝗘❤️ DELHI 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗣𝗥𝗢𝗩𝗜𝗗𝗘𝗥 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝟮𝟰/𝟳 ALL OVER DELHI NCR SHREY 𝐁𝐨𝐨𝐤 𝐧𝐨𝐰 V★I★P Genuine High Profile Model's Available - ALL DELHI NCR Hotel &…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "eluru-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in eluru.",
+    description: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
     image: "https://i.pinimg.com/originals/13/94/64/13946478a843abd148077c0e33efbd26.jpg",
     images: [
       "https://i.pinimg.com/originals/13/b4/78/13b478eec4aca12cf719fafcbf6fcbdd.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "eluru",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main goal is your pleasure and relaxation. I’m a really accommodating and discreet woman, you can feel…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

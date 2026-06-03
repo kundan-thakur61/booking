@@ -2,7 +2,7 @@
   {
     id: "tadepallegudem-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Rs 1000 (HyderNgr) - Full Nude🩱Body Massage in Kukatpally JNTU HyderNagar💗KPHB B2B Body massage Spa with BJ🍌 - Kukatpally / JNTU / HyderNagar",
     image: "https://i.pinimg.com/originals/31/67/52/3167528113dd0457b552a66a54d5f978.jpg",
     images: [
       "https://i.pinimg.com/originals/31/7f/24/317f24d25924deb8bceab811f6a9601d.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "tadepallegudem",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Kukatpally Massage Spa Massage starting form 1000/- HyderNagar Massage Spa Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "tadepallegudem-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in tadepallegudem.",
+    description: "Hi i am SANDHYA INDEPENDENT staying girl in Bangalore,",
     image: "https://i.pinimg.com/originals/32/01/cb/3201cbe9ef3d79b6d3d37e4f29843edb.jpg",
     images: [
       "https://i.pinimg.com/originals/32/1c/cc/321ccc6e6253e37ffc9acb40d349a3d8.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "tadepallegudem",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hi i am SANDHYA INDEPENDENT staying girl in Bangalore, I am staying single in pg. I will give a good Enjoyment in your bed.",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "tadepallegudem-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "ROYAL SPA OFFERS- THANTIC-EROTIC- THAILAND MASSAGE WITH EXTRA AVAILABLE HERE",
     image: "https://i.pinimg.com/originals/32/2f/3c/322f3ce245a2099e978fbff96b32082c.jpg",
     images: [
       "https://i.pinimg.com/originals/32/67/a7/3267a7414c7352695ce1c98a111e061d.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "tadepallegudem",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "CALL US MS.SANJANA WHATSAPP 98453 - 56597 ENJOY HOT GIRLS ROYAL-SPA -NO EXTRA TIPS - ENJOY BEAUTIFUL YOUNG NUDE GIRLS. PROVIDE SUPER CLASSIC MASSAGE IN A HYGIENIC WAY FOR YOUR BODY AND MIND SATISFACTIONS BY TRAINED FEMALE THERAPISTS........ FULL BODY…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "tadepallegudem-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Rs 1000 (HyderNgr) - Full Nude🩱Body Massage in Kukatpally JNTU HyderNagar💗KPHB B2B Body massage Spa with BJ🍌 - Kukatpally / JNTU / HyderNagar",
     image: "https://i.pinimg.com/originals/32/ab/22/32ab22cd72774f4bf11313015a7bb9ab.jpg",
     images: [
       "https://i.pinimg.com/originals/32/f0/bd/32f0bd0de2da7111a99d8dbd9858ec09.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "tadepallegudem",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Kukatpally Massage Spa Massage starting form 1000/- HyderNagar Massage Spa Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "tadepallegudem-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "₹599 ADVANCE BOOKING CONFIRMATION AMOUNT... BOOKING CONFIRMATION WITHOUT BOOKING NOT 🚫 POSSIBLE BOOKING AMOUNT INQLUDING IN SERVICE CHARGE* 1 HOUR",
     image: "https://i.pinimg.com/originals/33/18/f6/3318f68d281a27e8341be0c7e6f7a20f.jpg",
     images: [
       "https://i.pinimg.com/originals/33/1d/c7/331dc72f8c5cc2c5fdd0f94805a24009.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "tadepallegudem",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "𝐈𝐍𝐃𝐄𝐏𝐄𝐍𝐃𝐄𝐍𝐓 CALL 𝐆𝐈𝐑𝐋 𝐕𝐈𝐏 𝐄𝐒𝐂𝐎𝐑𝐓 SERVICE ✅ ❣️ ⭐➡️HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAF",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "tadepallegudem-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in tadepallegudem.",
+    description: "Full open nude video call 🤙 sarvice 💋 only genuine sarvice 💋",
     image: "https://i.pinimg.com/originals/33/59/01/335901b1c26c14c0f6bd86af16fdd308.jpg",
     images: [
       "https://i.pinimg.com/originals/33/6b/e1/336be140e6616aff663ae08dce403150.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "tadepallegudem",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Full open nude video call 🤙 sarvice 💋 only genuine sarvice 💋",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

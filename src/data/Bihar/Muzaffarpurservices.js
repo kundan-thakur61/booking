@@ -2,7 +2,7 @@
   {
     id: "muzaffarpur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "HYY I AM INDU INDEPENDENT GIRL VVIP SERVICE AVAILABLE CASH PAYMENT GENUINE PROFILE HOT SEXY MODEL 24HRS",
     image: "https://i.pinimg.com/originals/8e/b9/ce/8eb9ce58f7bfa3c86990e467666da6b5.jpg",
     images: [
       "https://i.pinimg.com/originals/8e/ca/b2/8ecab247c267cb6813df2d8f62bb2619.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "muzaffarpur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "HELLO I AM INDU WHATSAPP ONLY GENUINE PERSON GENUINE REAL MEET DOOR-STEP SERVICE AVAILABLE WHATSAP ME NOW 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗔𝗹𝗹 𝗛𝗢𝗧𝗘𝗟𝗦 𝗜𝗡 GUARANTEE FULL SATISFACTION & IN CASE OF ANY UNHAPPY EXPERIENCE, WE WOULD REFUND YOUR FEES, WITHOUT ANY QUESTIONS…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "muzaffarpur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in muzaffarpur.",
+    description: "💦 3 min 75 /Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge",
     image: "https://i.pinimg.com/originals/8e/e1/d1/8ee1d11e99509bcc8cce503f0589515b.jpg",
     images: [
       "https://i.pinimg.com/originals/8e/e6/4a/8ee64a564f1f6dea1a0127af5ce74e63.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "muzaffarpur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "💦 3 min 75 /Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge and make ur mood happy👩‍❤️‍👨 40min 299 ❤ full nude service call service ❤ phone call sex ❤ sex chat ❤ sex education ❤ maximum…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "muzaffarpur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "ONLY HAND TO HAND PAYMENT ONLY GENUINE PERSON COME !!",
     image: "https://i.pinimg.com/originals/8f/09/f4/8f09f4c839ad8c7cf7b0fc42c850c92c.jpg",
     images: [
       "https://i.pinimg.com/originals/8f/21/9d/8f219d48afb93d4bea7363814af11143.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "muzaffarpur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "NO ADVANCE ONLY CASH PAYMENT 💸💸 ____FULL HAND TO HAND HIGH PROFILE GIRLS 100% GENUINE 24 HOURS AVAILABLE",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "muzaffarpur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL SERVICE WITHOUT CONDOM 100% SECURE ALL OVER BANGLORE CITY",
     image: "https://i.pinimg.com/originals/8f/48/98/8f4898b7aadd53cc7c1d55ea05678456.jpg",
     images: [
       "https://i.pinimg.com/originals/8f/52/66/8f52668d510c380a0c5bd607b054b00e.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "muzaffarpur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "me 💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "muzaffarpur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "💦JANVI FULL NUDE WITH VOICE VIDEO CALL SERVICE 🎥 SEXTING 💌 PHONE 🥀SEX📞NO FREE DEMO.",
     image: "https://i.pinimg.com/originals/8f/87/e0/8f87e0a8641a1b16a7dc754a862f8425.jpg",
     images: [
       "https://i.pinimg.com/originals/8f/b4/14/8fb41463762a4a073793e68f2e39d4fc.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "muzaffarpur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "as Video call Girl 💋 full Nude Video call As you like as your mood. Its my guarantee that you will fill like real meet. with maximum satisfaction. 💯💯💯💯♀️special specifications♂️💯💯💯 ❤ full nude video call service ❤ phone call sex ❤ sex chat ❤ sex…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "muzaffarpur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in muzaffarpur.",
+    description: "Independent girl",
     image: "https://i.pinimg.com/originals/8f/d5/cf/8fd5cfb670b0475ed6b239c5fc2391ba.jpg",
     images: [
       "https://i.pinimg.com/originals/8f/e4/49/8fe449e41928cfda20ecf9da60d7fa79.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "muzaffarpur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "First pay 100 rs for talking if you take serious it lo be adjusted in the price else it will be a compensation for timepass No timepass Specifically nothing is free No free confirmation",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

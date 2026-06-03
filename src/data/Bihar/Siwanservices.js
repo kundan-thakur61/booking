@@ -2,7 +2,7 @@
   {
     id: "siwan-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hey myself sneha I'm independent girl call me now for real meet genuine sarvice available 24/7 hours all over bangalore",
     image: "https://i.pinimg.com/originals/a1/93/7c/a1937c1051644c6f4b8f24e3d86007fa.jpg",
     images: [
       "https://i.pinimg.com/originals/a1/b0/70/a1b07079d143e8b40ae069c4e01adc2b.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "siwan",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hi everyone I'm sneha indipendent call girl from Bangalore I provide real meet genuine services in all over bangalore Call me now for real meet genuine services in all over bangalore 24/7",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "siwan-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in siwan.",
+    description: "Bangalore Live Video Call Service 💦📱 Full Open 🔥 Genuine 💯 Demo Available 💸 Fast Response 📞 Banni Bega 😉",
     image: "https://i.pinimg.com/originals/a1/f2/d8/a1f2d89c008f9bc5fe9ba4f34252cc50.jpg",
     images: [
       "https://i.pinimg.com/originals/a2/0e/2a/a20e2a83bff7805c0ae90bf520dca4e8.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "siwan",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Bangalore Live Video Call Service 💦📱 Full Open 🔥 Genuine 💯 Demo Available 💸 Fast Response 📞 Banni Bega 😉",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "siwan-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "NO ADVANCE ONLY HAND CASH PAYMENT ANAL ORALS KISSING BLUJUB 24 HOURS AVAILABLE SERVICE IN HYDERABAD GENIUNE HOT GIRLS UNLIMITED SHOT FULL SERVICE",
     image: "https://i.pinimg.com/originals/a2/22/f1/a222f1063bed8dafae4421edba70dd12.jpg",
     images: [
       "https://i.pinimg.com/originals/a2/3f/0a/a23f0adb62a03bf5f7f7b146154b85da.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "siwan",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "No NEED ANY ADVANCE HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR bbs96 COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential and no information is provided to any one at any cost. ★ EXCLUSIVE PROFILes…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "siwan-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hey myself sneha I'm independent girl call me now for real meet genuine sarvice available 24/7 hours all over bangalore",
     image: "https://i.pinimg.com/originals/a2/4f/3a/a24f3a97f32ce1a5d66b07475a346e37.jpg",
     images: [
       "https://i.pinimg.com/originals/a2/5e/5f/a25e5ff63ce1d59eff7d8efba46dfbf9.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "siwan",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi everyone I'm sneha indipendent call girl from Bangalore I provide real meet genuine services in all over bangalore Call me now for real meet genuine services in all over bangalore 24/7",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "siwan-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "ONLY💦 100 💨 I,M GENUINE COLLEGE GIRLS Full CALL SERVICE FULL SAFE AND SATISFIED CALL SERVICE REAL",
     image: "https://i.pinimg.com/originals/a2/97/ad/a297adb66abd0297768dc954025b34e6.jpg",
     images: [
       "https://i.pinimg.com/originals/a2/aa/75/a2aa75728ffa0829335a3ea6bff8738f.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "siwan",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "ONLY💦 100 💨 I,M GENUINE COLLEGE GIRLS Full CALL SERVICE FULL SAFE AND SATISFIED CALL SERVICE REAL",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "siwan-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in siwan.",
+    description: "Hii I am Neetu independent genuine location BTM Layout but only out call available and full service please no time pass",
     image: "https://i.pinimg.com/originals/a3/25/43/a3254381b8fe501172731e395cad60b0.jpg",
     images: [
       "https://i.pinimg.com/originals/a3/76/55/a376552a74f9af860000a67530f65d3b.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "siwan",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hii I am Neetu independent genuine location BTM Layout but only out call available short time 7k 2 short 3 hours full night 12k 4 short and full service please no time pass",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

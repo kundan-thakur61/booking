@@ -2,7 +2,7 @@
   {
     id: "dehradun-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct",
     image: "https://i.pinimg.com/originals/94/85/b9/9485b97699b1cadc0560eb673cf10eb2.jpg",
     images: [
       "https://i.pinimg.com/originals/ce/11/ca/ce11ca3da96edb3079556dc7166f630e.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "dehradun",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "No extra charge genuine people came here time pass direct block genuine people came here 24 HOUR",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "dehradun-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in dehradun.",
+    description: "All night available Radhika cam service",
     image: "https://i.pinimg.com/originals/5a/6f/64/5a6f64d142418bf345a516cf8a89c76b.jpg",
     images: [
       "https://i.pinimg.com/originals/7e/90/f0/7e90f09cf6fd63baa5f3da23706f8918.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "dehradun",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "PAYTM/GPAY/PHONEPE AVAILABLE IF YOU DON't TRUST DONT MESSAGE ME After payment send screenshot otherwise your payment is not valid Timepassers will directly get blocked Anytime my sex online available Live vc Nude pic Lesbian show Nude bath Ass show…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "dehradun-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "NO ADVANCE REQUIRED SAFE & CONFIDENTIAL ONE OF THE ONLY BEST TRUSTWORTHY FEMALES FULL CO-OPERATIVE VERIFIED GENUINE STAFF 1OO% SATISFICATION GUARANTEE",
     image: "https://i.pinimg.com/originals/c3/dc/18/c3dc180350290e62f360cdd559b89934.jpg",
     images: [
       "https://i.pinimg.com/originals/cc/bf/ae/ccbfae3ca15d4b62fcf717979d6e6e9b.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "dehradun",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "WE BELIEVE IN CUSTOMER SATISFACTION AND BUILDING LONG-TERM RELATIONSHIPS WITH OUR CLIENTS. EVERY PROFILE IS CAREFULLY SELECTED TO ENSURE A SMOOTH, RESPECTFUL, AND MEMORABLE EXPERIENCE TAILORED TO YOUR PREFERENCES. BEST AND HOT SELECTED PROFILES :- -…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "dehradun-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "INCALL and OUTCALL service available i am INDEPENDENT girl no agent no broker",
     image: "https://i.pinimg.com/originals/fd/f6/62/fdf662f6c78c9d54db61227993b1f82f.jpg",
     images: [
       "https://i.pinimg.com/originals/58/11/39/581139798bbfcd9cb9adc3cf2d510e68.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "dehradun",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hello dear i am simran independent girl staying banglore.i have independent flat staying alone only if anybody wants service incall service then message me. Genuine service only available no any advance payment hand to hand payment.",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "dehradun-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 PAYMENT SECURE 100% SATISFACTION CALL ROY FOR GENUINE",
     image: "https://i.pinimg.com/originals/56/10/a6/5610a6ffa699c2cadd50e5a8e7b97066.jpg",
     images: [
       "https://i.pinimg.com/originals/69/20/ec/6920ecc04979c02338be8b6712a2f389.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "dehradun",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "NO ADVANCE PAYMENT HAND TO HAND 100% GENUINE SERVICE VIP PROFILE COLLEGE GIRLS HOUSE WIFE HOTEL AND HOME SERVICE AVAILABLE",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "dehradun-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in dehradun.",
+    description: "Massage Services For Females Only At Home By Individual Trained Therapist With 100% Privacy & Maintain Hygiene",
     image: "https://i.pinimg.com/originals/27/4f/35/274f35b42e23d937c78a887a6a8fa7f9.jpg",
     images: [
       "https://i.pinimg.com/originals/47/48/8f/47488f81032a59c3629befd8c905165f.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "dehradun",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "I am Individual and Trained Massage Therapist. 🌸Balance ​yourself Between work, family, and daily life, it’s easy to put self-care on the back burner. 1.DEEP TISSUE MASSAGE 2.THAI MASSAGE 3.SWEDISH MASSAGE 4.TRIGGER POINT MASSAGE 5.HEAD & NECK…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

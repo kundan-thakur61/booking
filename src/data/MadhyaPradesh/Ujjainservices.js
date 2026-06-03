@@ -2,7 +2,7 @@
   {
     id: "ujjain-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hy i am independent girl CAM session and real meet available 100% genuine escorts service all type service 24/7 AVAILABLE",
     image: "https://i.pinimg.com/originals/0f/d4/68/0fd4683015bc5ad5d07766a289b3b2b4.jpg",
     images: [
       "https://i.pinimg.com/originals/26/9b/41/269b41dc921ccba74f3c45561dc329b5.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "ujjain",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Out call and incall Hotel ya home Blojob Kissing Full open body to body massage Oral sex BDSM No time pass only genuine MSG me CAM session avelable Full nude with face and full satisfaction Genuine service",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "ujjain-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in ujjain.",
+    description: "I m Rani indipendent n genuine service giving here❤️",
     image: "https://i.pinimg.com/originals/4d/b2/e8/4db2e88f8b649c0863937ec30d8f88b4.jpg",
     images: [
       "https://i.pinimg.com/originals/d2/4c/c6/d24cc60585101f2524e87e5e9035499c.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "ujjain",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "All' service without any restriction n indipendent no middle person directly n self service no restriction in service",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "ujjain-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "pune 🌈NO ADVANCE ✅DIRECT CASH PAYMENT IN HAND GENUINE SERVICE IN PUNE SAFE AND SECURE",
     image: "https://i.pinimg.com/originals/23/b3/45/23b345b51284b15cdf7eac71c07058fc.jpg",
     images: [
       "https://i.pinimg.com/originals/4e/29/0c/4e290c7f09f106f00655356b509bb5cd.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "ujjain",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "NO ADVANCE DIRECT CASH PAYMENT IN HAND FULL SAFE AND SECURE WE GURANTEE 100% SATISFACTION IN LOWEST PRICE ( Incall & outcall ) service 24*7 hrs available here.. Location :- Koregaon park Viman Nagar Hadapsar kharadi Wagholi Hinjewadi Kalyani Nagar…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "ujjain-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💯NO ADVANCE ONLY CASH PAYMENT AFTER THE MEET✅ HIGH CLASS PRIMIUM VVIP ESCORTS SERVICE IN BANGALORE",
     image: "https://i.pinimg.com/originals/e7/49/64/e74964d841743c41a92de00a5feeced7.jpg",
     images: [
       "https://i.pinimg.com/originals/9c/d0/f6/9cd0f6074e73c1911af1c14b2d1a2eeb.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "ujjain",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Bangalore)✅ONLY CASH PAYMENT ⭐100% GENUINE SAME PROFILE HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100%…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "ujjain-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Myself aleena vedio call and real meet sex avbl",
     image: "https://i.pinimg.com/videos/thumbnails/originals/52/76/1b/52761b1d5d149b04524376efbe207135.0000000.jpg",
     images: [
       "https://i.pinimg.com/originals/e1/59/97/e159972db01b4d3805712cd5f2edb27c.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "ujjain",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Myself muslim girl aleena My whatsapp number",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "ujjain-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in ujjain.",
+    description: "Full open video call in just 70 demo charge with voice with enjoy full enjoy hot girl ❤️❤️💘💕 70 demo charge 🥵 💦",
     image: "https://i.pinimg.com/originals/4a/8e/fc/4a8efce9b9c4c260497558edd1eee7c5.jpg",
     images: [
       "https://i.pinimg.com/originals/c0/9e/c9/c09ec94b86361d5748394daf22ed3dc5.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "ujjain",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Demo 70/- only ◼️◾▪️💞hey I'm Radhika Bangalore hot girl genius Full Nude video sex service💞 new joinonly 70/-Full 💝nude 🤗video call without clothes demo charge 70",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

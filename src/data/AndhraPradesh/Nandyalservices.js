@@ -2,7 +2,7 @@
   {
     id: "nandyal-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hye I'm Monika Bengaluru Paid Video Call Service Message for Booking",
     image: "https://i.pinimg.com/originals/23/d7/91/23d7911ecfadd9b89fc8f9c518edac47.jpg",
     images: [
       "https://i.pinimg.com/originals/23/e3/87/23e387e955d431acfdb6b1f57f4486d7.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "nandyal",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "📹 Paid Video Call Service Looking for a private one-to-one video call session? ✅ Personal video calls ✅ Flexible timing ✅ Fast response ✅ Easy booking process ✅ Professional and respectful interaction Available by appointment only. For pricing,…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "nandyal-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in nandyal.",
+    description: "🔥 HOT CURVY AFRICAN BABE AVAILABLE IN HINJAWADI 🔥",
     image: "https://i.pinimg.com/originals/24/11/1e/24111ed76699766148b4a3f430b6a0ff.jpg",
     images: [
       "https://i.pinimg.com/originals/24/59/12/245912941bdd2efed9fbe82885573c7f.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "nandyal",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hey handsome 😘 I’m Tinah — your sexy, clean, and passionate African beauty staying near Shriram Chowk, Lakshmi Chowk, Hinjawadi Pune. Thick curves, soft skin, juicy lips, and a playful vibe ready to make your time unforgettable 💋 If you’re looking…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "nandyal-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "LOW RATE (VIDHI CALL GIRLS) ESCORT FULL HARD FUCK WITH NAUGHTY IF YOU WANT TO FUCK MY PINK PUSSY WITH BIG BOOBS A",
     image: "https://i.pinimg.com/originals/24/92/d4/2492d4a56c030207f0a777a834e41b6d.jpg",
     images: [
       "https://i.pinimg.com/originals/24/98/4c/24984c883c9a73e23101853269ecc5f0.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "nandyal",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "LOVELY HOTTY 👅💏 HI MODELS COLLEGE GIRLS👅💋 HI PROFILE VERY NAUGHTY💦📞👙 💥ANAL SEX💥 BDSM💥 POSE💥LIP KISS💥 DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANCE💥 BOOBS RUBBING💥 LICKING💥HAND JOB 💏GIRLFRIEND EXPERIENCE💏 EROTIC MASSAGE💥 💥 SEX IN DIFFERENT…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "nandyal-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Am Shreya truly genuine independent call girl direct meet independent escorts service available",
     image: "https://i.pinimg.com/originals/24/f6/6b/24f66b4b665c681d224492051e22a11e.jpg",
     images: [
       "https://i.pinimg.com/originals/25/0e/e2/250ee27e26a5f213f573c9a165f20a71.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "nandyal",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "It's a safe and genuine service available in Bangalore all types of services available including hotel and home service available direct meet also available no broker involved with me try and enjoy your day with me",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "nandyal-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hanisha Wants to have fun tonight",
     image: "https://i.pinimg.com/originals/25/22/eb/2522eb8fabc97a1efd79c9bea952afe6.jpg",
     images: [
       "https://i.pinimg.com/originals/25/24/6f/25246f28526ee187a1c7fdd7d866f253.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "nandyal",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "AM Hanisha 😻✨ I LIVES IN :- Bangalore kammanahalli 📍 My juicy ass and sweet boobs Needs your attention .. Come see me and allow me to Make you a happy guy .... PING ME UP HERE 😚 I enjoy cow-girl position and riding on top, probably Sitting on a chair…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "nandyal-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in nandyal.",
+    description: "HAND TO HAND CASH PAYMENT NO ADVANCE NO EXTRA CHARGES ME 💜",
     image: "https://i.pinimg.com/originals/25/45/86/254586edf2a33658ee46fc4a839abf0c.jpg",
     images: [
       "https://i.pinimg.com/originals/25/4e/a9/254ea928fe98b66317a388c3fb49273b.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "nandyal",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hey guys my self puja from Bangalore near by kormangla independent meet and cam show provide if you interested with my profile come my WhatsApp or telegram let's fun i hope enjoy with me For meeting Short time 8k Full night 12k For cam 15 minutes 1k…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

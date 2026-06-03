@@ -2,7 +2,7 @@
   {
     id: "sitamarhi-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "My Self Divya Singh from Mumbai Now available in Hyderabad 24×7 For Fun enjoy beautiful night",
     image: "https://i.pinimg.com/originals/9f/9c/85/9f9c85d5bc9be21ced1e69a652c7eba4.jpg",
     images: [
       "https://i.pinimg.com/originals/9f/c6/35/9fc63591a6c5fa401f0882938dddf0d7.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "sitamarhi",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "My Self Lara I'm available in ●Hyderabad now 24×7 ■I giving A To Z service I here for Fun and giving my fetish ●service Like Desire come true service whatever you want ● In call services ● Out call service ●Hotel Room Service ●Farm house party ●Goa Manali simla Nepal kashmir everywhere You can Go with me Just like Girlfriend ●3some Also available…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "sitamarhi-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in sitamarhi.",
+    description: "jis bhi ladki y bhabhi y aunty ko hard sex krna passand ho wahi msg kare but meri bhi condition ha mujhe high sex timing k he sath karta hu 15/20 mini",
     image: "https://i.pinimg.com/originals/a0/5f/ba/a05fba8d5c37b36d28da307e7a22ae03.jpg",
     images: [
       "https://i.pinimg.com/originals/a0/76/ec/a076ecc8a6ffa978115c54b82c05f1dd.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "sitamarhi",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "jis bhi ladki y bhabhi y aunty ko hard sex krna passand ho wahi msg kare but meri bhi condition ha mujhe high sex timing k he sath karta hu 15/20 minits wli mujhse contact na kare please jiski timing high ho wahi msg kare only delhi",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "sitamarhi-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "9958O VIP 18831 Delhi 24/7 top best low price call girls sex service available 100% safe and secure",
     image: "https://i.pinimg.com/originals/a0/9e/d0/a09ed03b75190c8b185d3bed51488714.jpg",
     images: [
       "https://i.pinimg.com/originals/a0/c0/2e/a0c02ed0baff56b563cd706813c15389.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "sitamarhi",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "𝗖𝗔𝗟𝗟 𝗚𝗜𝗥𝗟𝗦 𝗜𝗡 𝗗𝗘𝗟𝗛𝗜 ✔️99580 VIP 18831 ✔️ 𝗗𝗲𝗹𝗵𝗶 𝗖𝗮𝗹𝗹 𝗚𝗶𝗿𝗹𝘀 𝗘𝘀𝗰𝗼𝗿𝘁𝘀 𝗣𝗿𝗼𝘃𝗶𝗱𝗲𝗿 𝟮𝟰𝘅𝟳 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗗𝗲𝗹𝗵𝗶 𝗖𝗮𝗹𝗹 𝗚𝗶𝗿𝗹𝘀- 𝙑★𝙄★𝙋 𝙂𝙚𝙣𝙪𝙞𝙣𝙚 𝙃𝙞𝙜𝙝 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙈𝙤𝙙𝙚𝙡'𝙨 𝘼𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 - 𝘿𝙚𝙡𝙝𝙞 𝙉𝙘𝙧, 𝙉𝙤𝙞𝙙𝙖 𝙂𝙪𝙧𝙜𝙖𝙤𝙣 𝙃𝙤𝙩𝙚𝙡 & 𝙃𝙤𝙢𝙚 𝙎𝙚𝙧𝙫𝙞𝙘𝙚 ( 𝘿𝙖𝙮 / 𝙉𝙞𝙜𝙝𝙩 ) 𝘾𝙖𝙡𝙡 𝙂𝙞𝙧𝙡𝙨 𝙍𝙚𝙖𝙙𝙮 𝙛𝙤𝙧 𝘼𝙡𝙡 𝙔𝙤𝙪𝙧…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "sitamarhi-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Ghaziabad Today low price 🏩 Best Independent ✔️ HIGH profile call girl available",
     image: "https://i.pinimg.com/originals/a0/de/21/a0de2148893c0aa84f0740a9171304a3.jpg",
     images: [
       "https://i.pinimg.com/originals/a1/05/f1/a105f1cf51c0c7f8a515aec42276f2bc.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "sitamarhi",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "🔆 Genuine Price Fully Clean Hotels I Have All LOCATION Availability. 🤗 Safe & Secure Services Affordable Rate 💯% Satisfaction, Unlimited Enjoyment. Any Time All area's availability 💃 All Girl's and Housewife's Hygienic Medically Fit and Fresh Full…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "sitamarhi-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hye i am Kannada hudgi nishu geninune video call service available",
     image: "https://i.pinimg.com/originals/a1/56/cb/a156cb9c09e6181646fb3551fd6ed0cc.jpg",
     images: [
       "https://i.pinimg.com/originals/a1/65/00/a16500b54750010b58ac240bc5882964.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "sitamarhi",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "It's paid geninune call service and it's only online service",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "sitamarhi-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in sitamarhi.",
+    description: "DEMO 99 💦 FULL NUDE VIDEO CALL SERVICE 💦 KOMAL 💦 WITH VOICE VIDEO CALL SERVICE🎥 SEXTING 💬 PHONE 💦SEX AVAILABLE NOW",
     image: "https://i.pinimg.com/originals/a1/86/0f/a1860fc9c79727a86ea16098035542fb.jpg",
     images: [
       "https://i.pinimg.com/originals/a1/90/ad/a190ad6e67c8c3b3272a2b49ef483e7d.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "sitamarhi",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "me 📽️𝗩𝗜𝗗𝗘𝗢 𝗖𝗔𝗟𝗟🎀DEMO Charge 99/- ONLY💋 CALL FULL NUDE VIDEO CALL SERVICE NAME Simran AGE 26 😇BIG BOOBS AND SPICY PUSY😇 💋Fingering with 2, fingers 💋Hot voice call and sex chat in service time 👉FULL OPEN WITHOUT CLOTH VIDEO CALL 🌺 GIRLFRIEND FEELING 🌺…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

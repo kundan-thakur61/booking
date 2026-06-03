@@ -2,7 +2,7 @@
   {
     id: "bhilai-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct",
     image: "https://i.pinimg.com/originals/a7/fd/0d/a7fd0d2bca6779ed38d03b39876ccd11.jpg",
     images: [
       "https://i.pinimg.com/originals/a8/26/74/a8267423e1d7b8462f14a31ac915daf2.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "bhilai",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "No extra charge genuine people came here time pass direct block genuine people came here 24 HOUR",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "bhilai-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in bhilai.",
+    description: "Rs 1100 (Counter) - *Full Nude🩱Body Massage💗B2B Body massage Spa with BJ🍌 - Manikonda / Nanakramguda / Gachibowli / Shaikpet / Narsingi",
     image: "https://i.pinimg.com/originals/a8/a6/28/a8a628f0cebc351790c653131b8fc3c0.jpg",
     images: [
       "https://i.pinimg.com/originals/a8/bd/6b/a8bd6bebbef18133d4de3209f89a7149.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "bhilai",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Manikonda Hot Massage Spa Massage starting form 1000/- Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "bhilai-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Available_Tonight",
     image: "https://i.pinimg.com/originals/a9/08/c2/a908c21c9028139ec4e0fd89342aa571.jpg",
     images: [
       "https://i.pinimg.com/originals/a9/15/bf/a915bfe3fefa6bbe00661434e0f604cb.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "bhilai",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hello guys! I'm young , sweet and full of irresistible charm - with a beautiful face, a phenomenal figure and a sensual style that's sure to captivate you. My friendly, playful nature makes every moment with me unforgettable........",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "bhilai-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Siya full open video call service with voice full satisfaction",
     image: "https://i.pinimg.com/originals/a9/1b/9f/a91b9f7d5430522b6e6fa55e999b6277.jpg",
     images: [
       "https://i.pinimg.com/originals/a9/40/7d/a9407d9a3a4bdd96c5f0e574be7338b1.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "bhilai",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "💋💋 About me Hey Priya, ❤I am Priya.❤ I am an independent call girl (College Student ) , ❤offering now My deep Nude Video Call service, ❤ Sex 💋chat with Nude pics and many more as per your interest❤:- 👆 Will offer on Nude video call",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "bhilai-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
     image: "https://i.pinimg.com/originals/a9/5d/32/a95d321eac04c4add3ac4bc6cb6aa176.jpg",
     images: [
       "https://i.pinimg.com/originals/a9/62/1b/a9621b127ead7d294478ca34716f4d8b.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "bhilai",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "bhilai-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in bhilai.",
+    description: "HOUSE WIFE YA GRIL KA DIRECT NUMBER MILEGA CHAIYE TO FAST MESSAGE KARO",
     image: "https://i.pinimg.com/originals/a9/8e/9a/a98e9a3e0b5b40388008f2caddf616a4.jpg",
     images: [
       "https://i.pinimg.com/originals/a9/f1/7a/a9f17ab8cebfc082c126cc6abc4bd4dd.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "bhilai",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "PUNE ME HOUSE WIFE KA 1 NUMBER 380 RS KA HAI CHAIYE TO FAST MESSAGE KARO",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

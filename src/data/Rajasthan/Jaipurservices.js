@@ -2,7 +2,7 @@
   {
     id: "jaipur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "ALL PUNE PREMIUM ESCORT NEW YOUNG COLLEGE GIRLS FULL SERVICE CALL GIRL IN PUNE",
     image: "https://i.pinimg.com/originals/a6/95/cf/a695cf13b28240fd47996ad23fe77b75.jpg",
     images: [
       "https://i.pinimg.com/originals/35/17/cf/3517cf91f8ea6c413bce1bd7eb3588ae.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "jaipur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "All Over Pune Hotel And Home Service Available Safe And Secure Full Satisfaction Customer:- Note:- Viman Nagar Koregaon Park Chandan Nagar Lohegaon Kalyani Nagar Kharadi And Hinjewadi Wakad Pimpri Chinchwad Katraj Service Available In ! Note full…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "jaipur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in jaipur.",
+    description: "Full open nude video call 🤙 sarvice 💋 only genuine sarvice 💋",
     image: "https://i.pinimg.com/originals/7d/6c/61/7d6c6157c3bb71a08e642e347e25eb89.jpg",
     images: [
       "https://i.pinimg.com/originals/0a/ab/bd/0aabbd867453366533d394b555fc4fe0.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "jaipur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Full open nude video call 🤙 sarvice 💋 only genuine sarvice 💋",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "jaipur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "NO ADVANCE PAYMENT ANAL, 69 POSITION, LIP TO LIP KISS, B2B MASSAGE, WITH OUT CONDOM BLOJOB, MOUTH DISCHARGE, HAPPY ENDING",
     image: "https://i.pinimg.com/originals/61/ff/3e/61ff3ed635162e1a7bf9b90b678e4978.jpg",
     images: [
       "https://i.pinimg.com/originals/2a/e9/95/2ae9950abd875328044a79b6facc50e9.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "jaipur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "jaipur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "LIVE VIDEO CALL FULL NUDE OPEN BIG BOBBS AUDIO CALL SEXY CHAT ROLL PLAY",
     image: "https://i.pinimg.com/originals/4f/f4/92/4ff4929acfbfd0847723302698b9ca1d.jpg",
     images: [
       "https://i.pinimg.com/originals/80/8e/2a/808e2ab2f5d6ba3736e11a69a8f1cfe9.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "jaipur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi.. I am Preeti... Call girl service full nude fingering Video call Sexx chat Roll Play Nude pics No time",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "jaipur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hot full nude video call live show sexy video call service",
     image: "https://i.pinimg.com/originals/ce/0e/b7/ce0eb76411c105abea099885d48b4cd5.jpg",
     images: [
       "https://i.pinimg.com/originals/4f/16/b5/4f16b599fe6e266c498bca08564c3caf.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "jaipur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Gentle big boobs live show video call service sex chat audio sexy demo",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "jaipur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in jaipur.",
+    description: "Full open nude video call 🤙 sarvice 💋 only genuine sarvice 💋",
     image: "https://i.pinimg.com/originals/81/69/b6/8169b6e3967de2204ce7ae2898d04e4b.jpg",
     images: [
       "https://i.pinimg.com/originals/2b/96/ca/2b96cad60601b9f52bf30d82cdf9622b.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "jaipur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Full open nude video call 🤙 sarvice 💋 only genuine sarvice 💋",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

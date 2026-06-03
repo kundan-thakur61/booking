@@ -2,7 +2,7 @@
   {
     id: "bokaro-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "PREMIUM CALL GIRLS 👙 Enjoy Romantic Girlfriend Experience 🍑 Oral-Fun 💦100% Sexual Pleasure 🎯 At Luxurious Place",
     image: "https://i.pinimg.com/originals/f9/eb/ed/f9ebed4475678d4813c58e4cb915a64a.jpg",
     images: [
       "https://i.pinimg.com/originals/f9/ee/5c/f9ee5c0cb98d2382b1f68920fcb6a6c4.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "bokaro",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hi, I Am Ananya Sharma, High-Society Call-Girls At Spa-Center in Lajpat Nagar, Full Sexual Satisfaction, Special Offers Only High-Society Guest, Enjoy A Romantic and Sensual Experience At Luxurious Spa-Center in Lajpat Nagar, This Is Top-Class…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "bokaro-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in bokaro.",
+    description: "SOUTH🍑🍆 AND NORTH🍑🍆 AND NORTH EAST COLLAGE GIRLS💦LOW PRICE 💥👅💦 B2B & NURU 💥👅👅💦*HAPPY ENDING👅💦 👅💦ROMANCE👅💦BODY TO BODY MASSAGE👅💦FULL NUDE MASSAGE👅💦)GI",
     image: "https://i.pinimg.com/originals/fa/11/0a/fa110a850bd3df7b4d0f705c6af33d8e.jpg",
     images: [
       "https://i.pinimg.com/originals/fa/1c/b6/fa1cb64776a6e3973287f3d825cbb199.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "bokaro",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "WHATS APP ME 96111-94827EROTIC MASSAGE •BLOWJOB👅 FULL NUDE • NURU👅💦ERVICE SHOWER 👅👅👅 GIRLFRIEND EXPERIENCE💏❤️DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANGIRLFRIEND EXPERIENCE💏💥 LICKING💥HAND JOB ❤️DEEP SUCKING WITHOUT CONDOM 💥 CUM ON FACE 💥 NUDE…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "bokaro-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "today full discount Independent college student and house wife hand to hand payment HYDERABAD",
     image: "https://i.pinimg.com/originals/fa/5a/e1/fa5ae1641c370523adab3aab6c02c106.jpg",
     images: [
       "https://i.pinimg.com/originals/fa/64/16/fa641641ca2365892fe7e74e475c93be.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "bokaro",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "new new profile avl I have Many collection of Independent girls and house wife They are goodlooking and ready to do anything for money For any information and booking please feel free and call me directly",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "bokaro-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hii guys my name is ruhi singh 24/7 available kormangla near 10km distence city provided service with massage",
     image: "https://i.pinimg.com/originals/fa/7f/e9/fa7fe95131526d092a875daf07a3ee9c.jpg",
     images: [
       "https://i.pinimg.com/originals/fa/9a/20/fa9a203fbfec3c5437728dc18df0d240.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "bokaro",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hii guys my name is ruhi singh 24/7 available kormangla near 10km distence city provided service with massage Price details/1 session/15k 2 session 25k Cum show price details 5 min 3k 10 min 5k Full nude fingaring 🖕() Boobs press Service details 🙂…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "bokaro-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "I m kannada hudgi geninu vc available with real face and voice",
     image: "https://i.pinimg.com/originals/fb/01/91/fb0191c39bcd3ede45d8cbc1760ae8fa.jpg",
     images: [
       "https://i.pinimg.com/originals/fb/22/60/fb22601ffdb1df81222d445394cc9bea.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "bokaro",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "I m kannada hudgi geninu vc available with real face and voice",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "bokaro-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in bokaro.",
+    description: "PREMIUM CALL GIRLS 👙 Enjoy Romantic Girlfriend Experience 🍑 Oral-Fun 💦100% Sexual Pleasure 🎯 At Luxurious Place",
     image: "https://i.pinimg.com/originals/fb/74/03/fb7403918823f4ef14aadf11fb27e528.jpg",
     images: [
       "https://i.pinimg.com/originals/fb/7f/03/fb7f033e5fdeb0e62a05dc019ce0e5ac.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "bokaro",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hi, I Am Ananya Sharma, High-Society Call-Girls At Spa-Center in Lajpat Nagar, Full Sexual Satisfaction, Special Offers Only High-Society Guest, Enjoy A Romantic and Sensual Experience At Luxurious Spa-Center in Lajpat Nagar, This Is Top-Class…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

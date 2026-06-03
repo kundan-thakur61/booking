@@ -2,7 +2,7 @@
   {
     id: "kota-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "HEY I AM ARPITA NO ADVANCE FULL HAND TO HAND CASH PAYMENT IN HOTEL AND HOME",
     image: "https://i.pinimg.com/originals/e4/d4/a2/e4d4a250c2f65fd127692d3638160e01.jpg",
     images: [
       "https://i.pinimg.com/originals/e0/7d/a7/e07da772e251c2e7b02c7ca1b47284d9.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "kota",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "HEY I AM ARPITA NO ADVANCE FULL HAND TO HAND CASH PAYMENT IN HOTEL AND HOME",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "kota-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in kota.",
+    description: "Telugu Independent Woman, milky boobs, service available.",
     image: "https://i.pinimg.com/originals/e4/78/f5/e478f5ec09e8fe1fb6e5c696e0c5c9a5.jpg",
     images: [
       "https://i.pinimg.com/originals/d9/62/eb/d962ebbc1472076d05f6e3f2e4029f1b.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "kota",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Telugu Independent Woman, milky boobs, service available only outcall. WhatsApp for further details.",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "kota-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "HAND TO HAND CASH PAYMENT HOT SLIM MODAL PRETTY GIRL Want To Fuck You Anytime... She Will Treat You Like Her Little Girlfriend In Bed",
     image: "https://i.pinimg.com/originals/59/91/32/5991320f6229f1d7d4781b7c37b071f1.jpg",
     images: [
       "https://i.pinimg.com/originals/d7/09/fe/d709fe71358e20173e24f98d4f0cdb88.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "kota",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "I am independent call girl living alone looking honest and genuine guys for fun and enjoyment. I am available for both incall and outcall services at low charges. So, without any hesitation pick your cell phone and book me for shot and night services. I am really very active in bed, I like work hard at it and above all leave my lovers very…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "kota-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k fu",
     image: "https://i.pinimg.com/originals/8c/34/c0/8c34c0d38256190c25f41342a725df85.jpg",
     images: [
       "https://i.pinimg.com/originals/db/a1/a6/dba1a6552f102f9f94e932551dfdd52b.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "kota",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k full night unlimited shots with condom without condom front or back both said A TO Z service available…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "kota-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "SEXY ROUND BOOBS AFRICAN SWEET CURVY GIRL 🔥 MINAH 🔥 READY TO SATISFY YOUR SEXUAL 💦FANTASIES IN BED.......WhatsApp Her for more fun details.",
     image: "https://i.pinimg.com/originals/c7/c7/24/c7c724d124b3b4fac7b82f49c81699e0.jpg",
     images: [
       "https://i.pinimg.com/originals/d0/e6/f1/d0e6f11fd9e7bae38c2bb2878e3bc5f8.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "kota",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "I am Minah a new sexy round boobs Africa sweet curvy girl living in Hinjewadi, Pune. So if you are lonely and looking for a kinky and horny date .. i want to be the one for you .. :-) :-) I really enjoy the following: * Blowjobs without Condoms * Ass Licking * Pussy Licking * Fingering and Rubbing my Wet Clitoris * Face Sitting * Doggy Style *…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "kota-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in kota.",
+    description: "INDIPENDENT💸 𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 PAYMENT HAND TO HAND FULL SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE 24X7 AVAILABLE",
     image: "https://i.pinimg.com/originals/b2/e9/d5/b2e9d58948b38ae5634ebfb6abc65ae3.jpg",
     images: [
       "https://i.pinimg.com/originals/b6/d0/bd/b6d0bd3b908542e56f3cd09c250dc15b.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "kota",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "No advance direct Cash payments genuine service provide 24hr available hotel in home apartment out call in call available",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

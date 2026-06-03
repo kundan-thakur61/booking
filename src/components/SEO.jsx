@@ -158,9 +158,7 @@ const SEO = ({
         return null;
       })}
       
-      {/* Web Core Vitals: Resource hints for performance */}
-      <link rel="preconnect" href="https://fonts.googleapis.com" />
-      <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+      {/* Web Core Vitals: Resource hints for performance (no Google Fonts preconnect) */}
       <link rel="dns-prefetch" href="//www.google-analytics.com" />
       <link rel="dns-prefetch" href="//www.googletagmanager.com" />
 

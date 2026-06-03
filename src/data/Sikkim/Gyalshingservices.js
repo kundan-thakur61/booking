@@ -2,7 +2,7 @@
   {
     id: "gyalshing-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "I am sonam Genuine independent Call girl contact me for service 24/7 hours in mumbai",
     image: "https://i.pinimg.com/originals/53/8c/03/538c034a066276d9ed054b0acc5b7e00.jpg",
     images: [
       "https://i.pinimg.com/originals/ad/90/9c/ad909c66ccf3219104fc09dbf7b60271.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "gyalshing",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "hi everyone I'm sonam indipendent call girl from mumbai I provide real meet genuine services in all over mumbai Call me now for real meet genuine services in all over mumbai 24/7 Outcall incall available with complete satisfaction without any restriction call us now",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "gyalshing-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in gyalshing.",
+    description: "SOUTH🍑🍆 AND NORTH🍑🍆 AND NORTH EAST COLLAGE GIRLS💦LOW PRICE 💥👅💦 B2B & NURU 💥👅👅💦*HAPPY ENDING👅💦 👅💦ROMANCE👅💦BODY TO BODY MASSAGE👅💦FULL NUDE MASSAGE👅💦SPA",
     image: "https://i.pinimg.com/originals/ea/6e/7e/ea6e7e3c6c3be9b6738165687f35263f.jpg",
     images: [
       "https://i.pinimg.com/originals/31/02/25/31022575c6a98b455768034ca8d23250.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "gyalshing",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "WHATS APP ME 96111-94827EROTIC MASSAGE •BLOWJOB👅 FULL NUDE • NURU👅💦ERVICE SHOWER 👅👅👅 GIRLFRIEND EXPERIENCE💏❤️DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANGIRLFRIEND EXPERIENCE💏💥 LICKING💥HAND JOB ❤️DEEP SUCKING WITHOUT CONDOM 💥 CUM ON FACE 💥 NUDE DANCE 💥 BOOBS RUBBING💥 LICKING💥 HAND JOB ❤️EROTIC MASSAGE • BLOWJOB👅 • • FULL NUDE • NURU •💦 ❤️DEEP…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "gyalshing-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "💫Live video call service 🎥 full open 💦 video call service Geniuen 🖤call girl fingering and voice call 📞Demo charges 100.5min♻️💐 Full enjoy fingerling",
     image: "https://i.pinimg.com/originals/e8/d9/f5/e8d9f5a203932021a95b616317ac91da.jpg",
     images: [
       "https://i.pinimg.com/originals/f7/7c/e9/f77ce9c1593f4134afda6de49abb63db.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "gyalshing",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "💫Live video call service 🎥 full open 💦 video call service Geniuen 🖤call girl fingering and voice call 📞Demo charges 100.5min♻️💐 Full enjoy fingerling and voice sex 💞",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "gyalshing-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💖PRIYA💖 independent Girl Staying Alone in Flat Just Visit Once",
     image: "https://i.pinimg.com/originals/0d/72/79/0d7279c56d3fce4afbc3bdc47c16fbf0.jpg",
     images: [
       "https://i.pinimg.com/originals/24/92/d4/2492d4a56c030207f0a777a834e41b6d.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "gyalshing",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hello Guys Am PRIYA💝 🌟🌟Hotel service available 24 hour 💐 All over Hotel outcall service and incall with regular price guarantee satisfaction genuine service",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "gyalshing-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "IM PRIYA INDEPENDENT ✅ CALL GIRL, STAYING ALONE IN BANGALORE CONTACT ME FOR SERVICE LOW PRICE",
     image: "https://i.pinimg.com/originals/ba/78/5c/ba785c7b0f70a14fd8e52ef31b7ce7e3.jpg",
     images: [
       "https://i.pinimg.com/originals/df/bf/b7/dfbfb7db424e2ddc661d6eb71429541a.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "gyalshing",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "About me Dear Customers Are you looking call girl service in mysore but unable to find out best geniune, don't worry I'm here for you to full fill all requirements you just connect with me through whatsapp and get service anytime anywhere in…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "gyalshing-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in gyalshing.",
+    description: "💥BOOK ₹ 2K SHORT ₹ 7k NIGHT 99998 call 58187 PAYMENT GIRL HAND YOUR FLAT HOTEL HOME ✅ IN CALL FREE ROOM 🆗 OUT CALL YOUR PLACE REAL WHATSAPP",
     image: "https://i.pinimg.com/originals/2e/d6/ac/2ed6ac18a0ea09a000910988df9d0e8a.jpg",
     images: [
       "https://i.pinimg.com/originals/af/c9/2e/afc92ed7c196c7cb29b528c26f77681a.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "gyalshing",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "CALL GIRLS IN DELHI:- 99998 call 58187❤️𝗛𝗔𝗡𝗗 𝗧𝗢 𝗛𝗔𝗡𝗗 𝗖𝗔𝗦𝗛 𝗣𝗔𝗬𝗠𝗘𝗡𝗧 𝗡𝗢 𝗔𝗗𝗩𝗔𝗡𝗖𝗘 𝗡𝗢 𝗘𝗫𝗧𝗥𝗔 𝗖𝗛𝗔𝗥𝗚𝗘❤️ DELHI 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗣𝗥𝗢𝗩𝗜𝗗𝗘𝗥 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝟮𝟰/𝟳 ALL OVER DELHI NCR SHREY 𝐁𝐨𝐨𝐤 𝐧𝐨𝐰 V★I★P Genuine High Profile Model's Available - ALL DELHI NCR Hotel &…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

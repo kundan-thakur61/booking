@@ -2,7 +2,7 @@
   {
     id: "rajahmundry-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hye I'm Monika Bengaluru Paid Video Call Service Message for Booking",
     image: "https://i.pinimg.com/originals/2d/fd/e1/2dfde10b27ff0b5db7c13018752ae5d1.jpg",
     images: [
       "https://i.pinimg.com/originals/2e/3b/b7/2e3bb713b6d1223afc73d3f47154c408.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "rajahmundry",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "📹 Paid Video Call Service Looking for a private one-to-one video call session? ✅ Personal video calls ✅ Flexible timing ✅ Fast response ✅ Easy booking process ✅ Professional and respectful interaction Available by appointment only. For pricing,…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "rajahmundry-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in rajahmundry.",
+    description: "CALL ME PRIYANKA ROY AND TRUSTED SERVICE AVAILABLE IN OUR CITY ALL TIME ANAL ORALS SUCKING BELOW JOB AND EDUCATED GIRL AVAILABLE",
     image: "https://i.pinimg.com/originals/2e/b3/37/2eb337739a6a50e9888097d31450beca.jpg",
     images: [
       "https://i.pinimg.com/originals/2e/d6/ac/2ed6ac18a0ea09a000910988df9d0e8a.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "rajahmundry",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "rajahmundry-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "MyselF Radhika Really independent Call Girls Meet Dairectly No Agents it's a trusted Service",
     image: "https://i.pinimg.com/originals/2e/e5/61/2ee56176bf1d60178bf68629f0fadae6.jpg",
     images: [
       "https://i.pinimg.com/originals/2f/05/97/2f05975d7eccd3ce41bb2878801c4c63.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "rajahmundry",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hi myself Radhika Really Kannada independent College Girl Meet Dairectly No Agents it's a genuine service In call out call and doorstep services available Time passars please stay away",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "rajahmundry-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hi I'm ananya with place at Madhapur Hyderabad",
     image: "https://i.pinimg.com/originals/2f/2c/dc/2f2cdce265fc5c62e5ff711b722a92b9.jpg",
     images: [
       "https://i.pinimg.com/originals/2f/38/c4/2f38c4432cda1cbd9b06ad5ac18bd07f.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "rajahmundry",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi I'm ananya with place at Madhapur Hyderabad all services available I'm slim fit I do everything I'm good at bj",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "rajahmundry-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "INCALL and OUTCALL service available i am INDEPENDENT girl no agent no broker",
     image: "https://i.pinimg.com/originals/2f/50/ad/2f50add72bd68ff49cc7d63482d1330b.jpg",
     images: [
       "https://i.pinimg.com/originals/2f/63/4a/2f634ac3e44559cc9db406084a5b53c2.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "rajahmundry",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hello dear i am simran independent girl staying banglore.i have independent flat staying alone only if anybody wants service incall service then message me. Genuine service only available no any advance payment hand to hand payment.",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "rajahmundry-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in rajahmundry.",
+    description: "Hot bhabhi full finger video call service big boobs live show",
     image: "https://i.pinimg.com/originals/2f/7a/46/2f7a46cd61fa926f2dac54decc26caee.jpg",
     images: [
       "https://i.pinimg.com/originals/2f/8f/c1/2f8fc1e434c28928bd99e941cfe8f2b4.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "rajahmundry",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Genuine bhabhi live show video call service sex chat voice call sex sex demo phone sex big boobs",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

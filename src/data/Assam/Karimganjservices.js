@@ -2,7 +2,7 @@
   {
     id: "karimganj-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "jis bhi ladki y bhabhi y aunty ko hard sex krna passand ho wahi msg kare but meri bhi condition ha mujhe high sex timing k he sath karta hu 15/20 mini",
     image: "https://i.pinimg.com/originals/5e/f7/ea/5ef7ea8c688d7b77a870f4ff635d6b77.jpg",
     images: [
       "https://i.pinimg.com/originals/5e/fe/49/5efe49af58c589cced42571b738fa68b.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "karimganj",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "jis bhi ladki y bhabhi y aunty ko hard sex krna passand ho wahi msg kare but meri bhi condition ha mujhe high sex timing k he sath karta hu 15/20 minits wli mujhse contact na kare please jiski timing high ho wahi msg kare only delhi",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "karimganj-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in karimganj.",
+    description: "FULL NUDE VIDEO CALL SERVICE 💥 SUDHA 🥀 WITH VOICE VIDEO CALL SERVICE🎥 SEXTING 💬 PHONE 🥀SEX 📞📽️𝗩𝗜𝗗𝗘𝗢 𝗖𝗔𝗟𝗟🎀DEMO Charge 99/- ONLY",
     image: "https://i.pinimg.com/originals/5f/d1/ec/5fd1ecde70439045706e59dd81501bc9.jpg",
     images: [
       "https://i.pinimg.com/originals/5f/f3/f4/5ff3f45c10d510083efdb97aed795d2a.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "karimganj",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "FULL NUDE VIDEO CALL SERVICE 💥 SUDHA 🥀 WITH VOICE VIDEO CALL SERVICE🎥 SEXTING 💬 PHONE 🥀SEX 📞📽️𝗩𝗜𝗗𝗘𝗢 𝗖𝗔𝗟𝗟🎀DEMO Charge 99/- ONLY💋 CALL FULL NUDE VIDEO CALL SERVICE NAME . MAMTA AGE 24 😇BIG BOOBS AND SPICY PUSY😇 💋Nude Dancing 💋Fingering with 2,3 fingers…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "karimganj-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Rs 1100 (Counter) - *Full Nude🩱Body Massage💗B2B Body massage Spa with BJ🍌 - Manikonda / Nanakramguda / Gachibowli / Shaikpet / Narsingi",
     image: "https://i.pinimg.com/originals/60/18/0d/60180d60d081c04742846eb94bc2c612.jpg",
     images: [
       "https://i.pinimg.com/originals/60/1f/c2/601fc2462f4892ec80315ed1b55f1ed3.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "karimganj",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Manikonda Hot Massage Spa Massage starting form 1000/- Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "karimganj-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 DIRECT🌿💞 PAYMENT CALL GIRLS PREMIUM ESCORT INDIAN TOP MODELS PROFILE",
     image: "https://i.pinimg.com/originals/60/41/95/604195dfbf7650547f2696e8e4a28345.jpg",
     images: [
       "https://i.pinimg.com/originals/60/42/0c/60420ce40282a8cd7f954f103331b6c2.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "karimganj",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "About me Hello, Sir. I am at your service. I offer my services on a cash-payment basis and will ensure your complete satisfaction. I am confident that you will be pleased with my services. Please refrain from messaging me merely to pass the time; for…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "karimganj-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Delhi independent call girl available",
     image: "https://i.pinimg.com/originals/60/a6/8d/60a68d03e1fbeed00a5b042d9006ce76.jpg",
     images: [
       "https://i.pinimg.com/originals/60/d5/1d/60d51d9ceefe48d64e5b23430a8aa9fa.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "karimganj",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Delhi independent vio call girls available",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "karimganj-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in karimganj.",
+    description: "HAND TO HAND CASH PAYMENT NO ADVANCE NO EXTRA CHARGES ME 💜",
     image: "https://i.pinimg.com/originals/60/ed/ab/60edabd59f8f486ab43b5d90f7db18cc.jpg",
     images: [
       "https://i.pinimg.com/originals/60/f9/21/60f9218d651f3930a42d4905a4b6fc05.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "karimganj",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hey guys my self puja from Bangalore near by kormangla independent meet and cam show provide if you interested with my profile come my WhatsApp or telegram let's fun i hope enjoy with me For meeting Short time 8k Full night 12k For cam 15 minutes 1k…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

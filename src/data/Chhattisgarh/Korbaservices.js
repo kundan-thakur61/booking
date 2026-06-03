@@ -2,7 +2,7 @@
   {
     id: "korba-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "I am independent girl💖 no advance hand to hand payment ❌",
     image: "https://i.pinimg.com/originals/ae/0d/8d/ae0d8dffbd14a6e40145007e5b5b29ad.jpg",
     images: [
       "https://i.pinimg.com/originals/ae/1b/5d/ae1b5d8d8745347d123299ccf8febed6.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "korba",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hotel service No advance❌hand to hand payment and home service 300₹ advance payment available 💖❤️only genuine person contact me 🙏 I give full and all types of services with no any restriction...i give you full satisfaction in service 😍 All ,2,3,4,5 ✨…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "korba-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in korba.",
+    description: "Call girl in delhi full enjoy in delhi night 6000 hour charg is 2000",
     image: "https://i.pinimg.com/originals/ae/3e/56/ae3e562c0a24bf8aef307bb0ab2a7cd3.jpg",
     images: [
       "https://i.pinimg.com/originals/ae/3e/ae/ae3eaed3c2f679945f31da2aa35cb4c3.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "korba",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Call me and msg me full enjoy and fulking sukking and annal full enjoy night charg is 6000 full day charg is 5000",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "korba-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Bangalore video call service full nude with voice",
     image: "https://i.pinimg.com/originals/ae/9e/bf/ae9ebff244c5e94ae4060ecf0c2aef13.jpg",
     images: [
       "https://i.pinimg.com/originals/ae/9e/c9/ae9ec9a0c3df1f32c4b22310f50444e8.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "korba",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Boobs rubbing and fingring regular customer banane ki full guarantee",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "korba-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "TANI HERE TO MAKE YOUR DAY AND FORGETTABLE CONTACT ME FOR MORE DETAILS AND INFORMATION",
     image: "https://i.pinimg.com/originals/ae/aa/ba/aeaaba5ed92727b63a91cac08983007e.jpg",
     images: [
       "https://i.pinimg.com/originals/ae/b7/fb/aeb7fbdb5cf4596a5c8a8dc27129b2a5.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "korba",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Contact me for more information I am waiting for your message and calls",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "korba-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "only 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     image: "https://i.pinimg.com/originals/ae/dd/ba/aeddba90c447a0a686b70ca8b9a4854d.jpg",
     images: [
       "https://i.pinimg.com/originals/ae/de/a6/aedea623ad4589be37f1bbc98e0a0fac.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "korba",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Demo 50/- only ◼️◾▪️💞hey I'm Radhika Bangalore hot girl genius Full Nude video sex service💞 new joinonly 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "korba-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in korba.",
+    description: "Hot bhabhi full finger video call service big boobs live show",
     image: "https://i.pinimg.com/originals/af/03/d3/af03d3f15b023749323fdca2b0f088d6.jpg",
     images: [
       "https://i.pinimg.com/originals/af/09/b3/af09b3093f7351e776fac14f3fd19017.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "korba",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Genuine bhabhi live show video call service sex chat voice call sex sex demo phone sex big boobs",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

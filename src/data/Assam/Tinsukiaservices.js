@@ -2,7 +2,7 @@
   {
     id: "tinsukia-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "ONLY HAND TO HAND PAYMENT ONLY GENUINE PERSON COME !!",
     image: "https://i.pinimg.com/originals/67/94/c5/6794c5df2af59a00e08975dc6b59845d.jpg",
     images: [
       "https://i.pinimg.com/originals/67/d1/ee/67d1ee1e5935acf0bd5e02e006538e18.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "tinsukia",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "NO ADVANCE ONLY CASH PAYMENT 💸💸 ____FULL HAND TO HAND HIGH PROFILE GIRLS 100% GENUINE 24 HOURS AVAILABLE",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "tinsukia-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in tinsukia.",
+    description: "Telugu independent girl in hyderabad all types of genuine service istha",
     image: "https://i.pinimg.com/originals/68/0c/bb/680cbb934a4a9ea9b7e83183d400c768.jpg",
     images: [
       "https://i.pinimg.com/originals/68/0d/68/680d68ffa7caa6561574c1624a160f7c.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "tinsukia",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Nenu me Telugu ammayi miku kavalisina anni genuine service istha Nenu full hot and sexy ga untha Nenu miku full romantic service Istha Video call service are available Sex chat with sexy' pics service All types of genuine service are available Please…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "tinsukia-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "💦only demo 50 pay full nude with finger video call service genuine service provide 💦💦",
     image: "https://i.pinimg.com/originals/68/5d/d7/685dd7373b626a0f0aa5d795a265d797.jpg",
     images: [
       "https://i.pinimg.com/originals/68/76/9c/68769c1d57abd137b362baa2848c7b95.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "tinsukia",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Full sexy , 🥰nude, open live video call service👄👄 available at low 😘😘prices Top service😻😻 ver💋eautiful and sexy 💄💄girls available here 🥰😍🥰 Come fast Demo 50/- only ◼️◾▪️💞hey jyoti Bangalore hot girl genius Full Nude video sex service💞 new join only…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "tinsukia-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Kannada Hot Aunty Sexy' Video Call Service Full Nude All Audio Chat Phone Sex",
     image: "https://i.pinimg.com/originals/68/ba/88/68ba88217f14641a2c1b3b465839221a.jpg",
     images: [
       "https://i.pinimg.com/originals/68/db/dc/68dbdc4e219255db4db9978feb1a345f.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "tinsukia",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Kannada Hot Aunty Sexy' Video Call Service Full Nude All Audio Chat Phone Sex only genuine person message me on WhatsApp",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "tinsukia-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Independent escort girl",
     image: "https://i.pinimg.com/originals/69/00/4c/69004cd40c5ae31ca5967633b6fbde9e.jpg",
     images: [
       "https://i.pinimg.com/originals/69/08/cd/6908cd8dc1b11736f827f9e0c187d1fb.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "tinsukia",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hi my self abidiel D'Souza independent escort service provide all sexsual pleasure and massage services At lowest price all over mumbai",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "tinsukia-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in tinsukia.",
+    description: "💫Live video call service 🎥 full open 💦 video call service Geniuen 🖤call girl fingering and voice call 📞Demo charges 100.5min♻️💐 Full enjoy fingerling",
     image: "https://i.pinimg.com/originals/69/79/21/697921221b23c1b71e206e18a895444e.jpg",
     images: [
       "https://i.pinimg.com/originals/69/7d/c2/697dc2b1a0605833755df3970a557647.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "tinsukia",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "💫Live video call service 🎥 full open 💦 video call service Geniuen 🖤call girl fingering and voice call 📞Demo charges 100.5min♻️💐 Full enjoy fingerling and voice sex 💞",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

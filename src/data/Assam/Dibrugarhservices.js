@@ -2,7 +2,7 @@
   {
     id: "dibrugarh-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "🚨 सावधान दल्लों से सावधान रहे:- Avoid scammer, हिजड़ा,sixerman ,fake profile and agent here.",
     image: "https://i.pinimg.com/originals/52/b3/20/52b320840d3c0faf4813c0343156dea5.jpg",
     images: [
       "https://i.pinimg.com/originals/52/d3/c6/52d3c645578f49124d964ab026a79534.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "dibrugarh",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Nude live 🔴 𝗗𝗘𝗠𝗢 confirmation with voice available here,i needed genuine person only message me .. 🔴 𝗗𝗘𝗠𝗢 Livecallgirl (nude demo call once per user lifetime 🤙) 💋Full service with face and voice 💋Livecall ~ now ✅ 🆕 I'm Girl independent and self…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "dibrugarh-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in dibrugarh.",
+    description: "Telugu independent girl in hyderabad all types of genuine service istha",
     image: "https://i.pinimg.com/originals/53/19/7c/53197c79cb00ae2db3012bbd76a339e5.jpg",
     images: [
       "https://i.pinimg.com/originals/53/4a/f1/534af1a51b3113ac05259838dce21463.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "dibrugarh",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Nenu me Telugu ammayi miku kavalisina anni genuine service istha Nenu full hot and sexy ga untha Nenu miku full romantic service Istha Video call service are available Sex chat with sexy' pics service All types of genuine service are available Please…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "dibrugarh-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "GENUINE SERVICE AVAILABLE DIRECT HAND TO HAND CASH PAYMENT NO ADVANCE PAYMENT NO EXTRA CHARGES",
     image: "https://i.pinimg.com/originals/53/7a/55/537a55acdca957f2922120245fc66c1e.jpg",
     images: [
       "https://i.pinimg.com/originals/53/83/46/5383468e4ee06bbaefbbde03dbbbbd1c.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "dibrugarh",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Direct Meeting Direct Payment Before Service Cash or UPI. ▪♨️ No Booking Charges or No Online Advance Payment Service Details :- ▪♨️ Full Open Nude Sex Without any Dess With 100% Satisfaction. ▪♨️ BlowJob Oral Sex Pussy Licking Boobs Sucking69 Style Sucking Hand Job. ▪♨️ Romance Erotic Body Touching and Kissing Including Liplock Deep Kiss French…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "dibrugarh-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "FULL BODY TO BODY MASSAGE AND FULL SEXUAL SERVICE INCALL & OUTCALL AVAILABLE ENJOY B2B NUDE SEX SPA SHOWER BATH BY SEXY GIRLS ONLY AROMATHERAPY SPA H",
     image: "https://i.pinimg.com/originals/53/8c/03/538c034a066276d9ed054b0acc5b7e00.jpg",
     images: [
       "https://i.pinimg.com/originals/53/90/0e/53900e695e2459679e9308cad14b23c9.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "dibrugarh",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "FULL B2B MASSAGE AND FULL SEXUAL SERVICE INCALL & OUTCALL AVAILABLE ENJOY B2B NUDE SEX/ SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE BOOB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS OF MUMBAI Call/ WhatsApp Ankita (Incall/Outcall Cash…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "dibrugarh-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "MY SELF SWETA CALL GIRL & BODY-TO-BODY MASSAGE SPA SERVICES OUTCALL AND INCALL",
     image: "https://i.pinimg.com/originals/53/ca/45/53ca452dd10563ddd050199c763b338a.jpg",
     images: [
       "https://i.pinimg.com/originals/53/fa/68/53fa683aec54435afb75a1ac6d069123.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "dibrugarh",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "EROTIC MASSAGE •BLOWJOB👅 FULL NUDE • NURU👅💦ERVICE SHOWER 👅👅👅 GIRLFRIEND EXPERIENCE💏❤️DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANGIRLFRIEND EXPERIENCE💏💥 LICKING💥HAND JOB ❤️DEEP SUCKING WITHOUT CONDOM 💥 CUM ON FACE 💥 NUDE DANCE 💥 BOOBS RUBBING💥 LICKING💥 HAND JOB ❤️EROTIC MASSAGE • BLOWJOB👅 • • FULL NUDE • NURU •💦 ❤️DEEP SUCKING WITHOUT CONDOM💥…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "dibrugarh-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in dibrugarh.",
+    description: "💋💋100% real girl💃💃 provided phone sex sarvice with voice and fhingring full satisfaction💦💦 no extra charge",
     image: "https://i.pinimg.com/originals/54/05/cb/5405cb2f8965172318501f4f06ff27ad.jpg",
     images: [
       "https://i.pinimg.com/originals/54/26/cc/5426cce7f874041b8acac8335992ef79.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "dibrugarh",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "💋💋100% real girl💃💃 provided phone sex sarvice with voice and fhingring full satisfaction💦💦 no extra charge",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

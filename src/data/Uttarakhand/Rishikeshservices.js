@@ -2,7 +2,7 @@
   {
     id: "rishikesh-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Independent girl",
     image: "https://i.pinimg.com/originals/cc/f2/98/ccf298c1131e844b75ae65a2040141a3.jpg",
     images: [
       "https://i.pinimg.com/originals/21/6d/cc/216dccd3bb97c58f51841880784c42c2.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "rishikesh",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "First pay 100 rs for talking if you take serious it lo be adjusted in the price else it will be a compensation for timepass No timepass Specifically nothing is free No free confirmation",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "rishikesh-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in rishikesh.",
+    description: "NO ADVANCE PAYMENT HAND TO HAND 100% GENUINE SERVICE VIP PROFILE COLLEGE GIRLS",
     image: "https://i.pinimg.com/originals/2f/95/23/2f952368f1577facf930ded7ed32766d.jpg",
     images: [
       "https://i.pinimg.com/originals/a3/c0/1d/a3c01d1b9de491bca361e297c8997675.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "rishikesh",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "FULL B2B MASSAGE AND FULL SEXUAL SERVICE INCALL & OUTCALL AVAILABLE ENJOY B2B NUDE SEX/ SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE BOOB SUCKING,…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "rishikesh-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hye i am kannada hudgi nishu geninune video call service available language Kannada English hindi",
     image: "https://i.pinimg.com/originals/d5/e5/91/d5e591b0dd72086c367a36adfcc8cdb7.jpg",
     images: [
       "https://i.pinimg.com/originals/0d/64/be/0d64be9f50f0b65a6463b809c4f81a78.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "rishikesh",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "It's paid geninune call service and it's only online service",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "rishikesh-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Big boobs live show full finger video full service line sex show genuine",
     image: "https://i.pinimg.com/originals/a2/0e/2a/a20e2a83bff7805c0ae90bf520dca4e8.jpg",
     images: [
       "https://i.pinimg.com/originals/aa/f4/4c/aaf44ce5a22df5a67aba6bdab077ed79.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "rishikesh",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hot full live show big boobs finger show video call service chat chat audio sex demo sex",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "rishikesh-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hy I am kannada hudgi nishu geninune video call service available",
     image: "https://i.pinimg.com/originals/b5/6c/d0/b56cd0718d4bac3c281fc3fd2c21e6d9.jpg",
     images: [
       "https://i.pinimg.com/originals/4b/9c/02/4b9c028e9064a9b7439010caec40a11a.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "rishikesh",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "It's only online service and it's paid vc available",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "rishikesh-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in rishikesh.",
+    description: "Video call and voice call service available 💜🥵full open and face confirm free 🥵low price",
     image: "https://i.pinimg.com/originals/bc/48/7a/bc487a2008219e259658ad19244670d7.jpg",
     images: [
       "https://i.pinimg.com/originals/e0/b9/06/e0b9061e00f235ce3f3c920aac3857a9.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "rishikesh",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Video call and voice call service available 💜🥵full open and face confirm free 🥵low price",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

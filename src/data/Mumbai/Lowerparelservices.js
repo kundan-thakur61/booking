@@ -2,7 +2,7 @@
   {
     id: "lowerparel-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Riya malhotra vip call girl escort service Andheri Mira Bhayandar thane Panvel Navi Mumbai cst all over Mumbai avl",
     image: "https://i.pinimg.com/originals/bb/ba/90/bbba90ebb53d750d45839ef689cdd0fe.jpg",
     images: [
       "https://i.pinimg.com/originals/65/e2/ab/65e2abf0e254ef7dd2e18abcc984358f.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "lowerparel",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "independent collage 9l9l6l7l8l2l7l3l8l4l Going girls . ● –",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "lowerparel-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in lowerparel.",
+    description: "GENUINE GIRL REAL MEET 100% GENUINE ESCORT CASH PAYMENT TO GIRL VIP COLLAGE GIRL HOT MODALS AVAILABLE IN",
     image: "https://i.pinimg.com/originals/19/d2/bd/19d2bd151b557b45a5b9301b563b4d9f.jpg",
     images: [
       "https://i.pinimg.com/originals/08/93/f3/0893f356b1ee064d01651604c941946d.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "lowerparel",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "About me 1. DSL (Dick Sucking Lips) 2. DT (Dining at the Toes English Spanking) 3. Doggie (Sex style from behind) 4. Duo Sandwich (Sex with two escorts/girls; Threesome with the client) 5. S-GFE (Special Girl Friend Experience) 6. HJ (Hand Job) 7.…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "lowerparel-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "No broker Remember no time for free For booking what's app Aradhana",
     image: "https://i.pinimg.com/originals/9d/50/b3/9d50b3f645c129bfe9b21843426ae4d0.jpg",
     images: [
       "https://i.pinimg.com/originals/ff/a4/5d/ffa45dde08771142525f87a82293f81a.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "lowerparel",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Independent Independent house wife for nude video chat 30 mins: 5000/ 20 mins: 3000/ 10 mins: 2500/ Remember no time for free demo ifyou don't trust don't message After payment done Aradhana will inform me I will then start with my session For…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "lowerparel-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hiiii i am aditya😎experience and expert massager I now all type of massges for more details call me😊🔥",
     image: "https://i.pinimg.com/originals/4b/8b/06/4b8b066fe99607ae26f00cc537831f52.jpg",
     images: [
       "https://i.pinimg.com/originals/74/4f/07/744f07aca44c714e3bc4c347f2335e93.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "lowerparel",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Adiiii 24 years | Erotic Massages | MUMBAI i am aditya experience and expert massager I now all type of massges for more details call me I have over 5 years of experience as Massage therapists. I am available in Main areas in Mumbai . I visit to…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "lowerparel-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hy i am kannada girl paid video call sarves",
     image: "https://i.pinimg.com/originals/3f/c0/2b/3fc02b1d7a315c490b729b6b8bb598fd.jpg",
     images: [
       "https://i.pinimg.com/originals/52/63/0a/52630ac1ccbe8cd1df152709078c69b1.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "lowerparel",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Yes I am kannada girl paid video call sarves",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "lowerparel-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in lowerparel.",
+    description: "Bangalore aunty Room sex videos genuine genuine Hot girl body video sex chat with room sex audio call and with voice service railway real sex and mass",
     image: "https://i.pinimg.com/originals/85/9a/a2/859aa24c6f2d429ebe4d0b6fb076cc56.jpg",
     images: [
       "https://i.pinimg.com/originals/b4/ff/1e/b4ff1e8ea337518645ef57cbfeec0630.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "lowerparel",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Bangalore aunty Room sex videos genuine genuine Hot girl body video sex chat with room sex audio call and with voice service railway real sex and massage service",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

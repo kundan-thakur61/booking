@@ -2,7 +2,7 @@
   {
     id: "patiala-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Mumbai LOW RATE (VIDHI CALL GIRLS) ESCORT FULL HARD FUCK WITH NAUGHTY IF YOU WANT TO FUCK MY PINK PUSSY WITH BIG BOOBS A",
     image: "https://i.pinimg.com/originals/97/0d/95/970d953d865c1b73ec85c550918ce24c.jpg",
     images: [
       "https://i.pinimg.com/originals/4f/16/b5/4f16b599fe6e266c498bca08564c3caf.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "patiala",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "LOVELY HOTTY 👅💏 HI MODELS COLLEGE GIRLS👅💋 HI PROFILE VERY NAUGHTY💦📞👙 💥ANAL SEX💥 BDSM💥 POSE💥LIP KISS💥 DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANCE💥 BOOBS RUBBING💥 LICKING💥HAND JOB 💏GIRLFRIEND EXPERIENCE💏 EROTIC MASSAGE💥 💥 SEX IN DIFFERENT…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "patiala-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in patiala.",
+    description: "ANDHERI ) NEAR AIRPORT 🆑 24/7 HIGH PROFILE AND AFFORDABLE RATE SAFE CALL GIRL SERVICE OUTCALL INCALL AVAILABLE",
     image: "https://i.pinimg.com/originals/d0/ba/bf/d0babfe342b7fb8df4c01e49b2ed2887.jpg",
     images: [
       "https://i.pinimg.com/originals/8d/7b/cb/8d7bcb1aaec9cea9ffbc13fa839fc150.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "patiala",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "100%genune escorts service no advance AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential and no information is provided to any one at any cost. ★ EXCLUSIVE PROFILes Are Safe and Consensual…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "patiala-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Live video call sex service available Full nude open showing Video sex Phone sex service available",
     image: "https://i.pinimg.com/originals/0e/71/74/0e71740cc87abd519947b133afd3aa6c.jpg",
     images: [
       "https://i.pinimg.com/originals/4e/b4/76/4eb4768b6096bad84cc08733a974ceca.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "patiala",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hy I am banglore hudgi nishu geninune video call service available",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "patiala-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "I'm so hot and sexy indipendent women (100 1 minutes demo)",
     image: "https://i.pinimg.com/originals/9e/ba/9b/9eba9b4fd44f4ae9cc284e6e4c7c759c.jpg",
     images: [
       "https://i.pinimg.com/originals/53/8c/03/538c034a066276d9ed054b0acc5b7e00.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "patiala",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hello everyone I am geniune honest indipendent sexy woman Full open nude cam show available only 1000 no extra charges",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "patiala-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "💦 3 min 99 /Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge",
     image: "https://i.pinimg.com/originals/9b/e0/d2/9be0d2ee89c07e9be8ace66211e53b98.jpg",
     images: [
       "https://i.pinimg.com/originals/92/a4/4a/92a44a02b6cc931ebe3c5a11cb9fc0e0.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "patiala",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "💦 3 min 99/Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge and make ur mood happy👩‍❤️‍👨 40min 299 ❤ full nude service call service ❤ phone call sex ❤ sex chat ❤ sex education ❤ maximum…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "patiala-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in patiala.",
+    description: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
     image: "https://i.pinimg.com/originals/be/5f/d0/be5fd02cbba60a3a5719f973a81e74b7.jpg",
     images: [
       "https://i.pinimg.com/originals/c7/cc/3e/c7cc3e46affb9f723d82234d2ff921e7.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "patiala",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

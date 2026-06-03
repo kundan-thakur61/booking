@@ -2,7 +2,7 @@
   {
     id: "dharmanagar-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "All night available Radhika cam service",
     image: "https://i.pinimg.com/originals/5a/6d/fe/5a6dfe6dbd10b58631170f88fa0638b7.jpg",
     images: [
       "https://i.pinimg.com/originals/c7/cc/3e/c7cc3e46affb9f723d82234d2ff921e7.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "dharmanagar",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "PAYTM/GPAY/PHONEPE AVAILABLE IF YOU DON't TRUST DONT MESSAGE ME After payment send screenshot otherwise your payment is not valid Timepassers will directly get blocked Anytime my sex online available Live vc Nude pic Lesbian show Nude bath Ass show…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "dharmanagar-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in dharmanagar.",
+    description: "Low budget video chat sex service available video call sexting, phone sex in India",
     image: "https://i.pinimg.com/originals/76/a8/f1/76a8f1713b477668025662b904d31947.jpg",
     images: [
       "https://i.pinimg.com/originals/b4/6b/7d/b46b7dccbbd63ec39fa97ae4ad2a5d91.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "dharmanagar",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "I am beautiful girl I am available for video call, sexting or phone sex call me on whatsApp",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "dharmanagar-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "TANI HERE TO MAKE YOUR DAY UNFORGETTABLE MESSAGE ME ON WHATSAPP AND TELEGRAM FOR MORE DETAILS AND INFORMATION",
     image: "https://i.pinimg.com/originals/0b/fa/62/0bfa6208827a5a7ca64c31b40d10ad9a.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/f7/58/97/f7589786d8d28677a0893806431b31a1.0000000.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "dharmanagar",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Message me on telegram and WhatsApp for more details I am waiting for your message",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "dharmanagar-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Independent college girl Ramya no Broker direct hand cash payment",
     image: "https://i.pinimg.com/originals/1d/03/38/1d0338fdd079184913473bd42404ea39.jpg",
     images: [
       "https://i.pinimg.com/originals/30/b6/1f/30b61f686b2de32b57f69ca7963e8dc1.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "dharmanagar",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Ramya... Call & WhatsApp Now Hand to hand cash only direct girl no Agent No Broker High class independent girls models House wife air hostess, college girls call center girls,who are not only good looking but also very mannered.incall _out Call…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "dharmanagar-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "👑LUXURIOUS MODEL👙AIRHOSTESS HOT SEXY🥻CLG GIRL READY HOUSEWIFE♦️PUNE BEST🌍ESCORT AVAILABLE🏪",
     image: "https://i.pinimg.com/originals/3e/e9/20/3ee9205deb66932e4eadd4349b988605.jpg",
     images: [
       "https://i.pinimg.com/originals/f1/11/72/f11172562ff9fe5b8b0872680d650a87.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "dharmanagar",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "GOOD QUALITY EDUCATED PROFILE HOTEL SERVICE AT VERY LOW 100% SAFE AND ORIGINAL. 100%⭐⭐⭐ SATISFIED GUARANTEED (age-19 to 35) College girls , party girls and also house wife’s⭐⭐⭐⭐⭐ Our Service Available In Home AND STAR HOTELS , In call Out call Service.24 hrs⭐⭐⭐⭐⭐ * Models⭐⭐⭐⭐⭐ * Call Center Working Girls/Women * Hi Tech Co. Girls/Women⭐⭐⭐⭐⭐ * House…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "dharmanagar-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in dharmanagar.",
+    description: "INDIPENDENT💸 𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 PAYMENT HAND TO HAND FULL SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE 24X7 AVAILABLE",
     image: "https://i.pinimg.com/originals/b1/09/69/b109691c436f38e97885923a8d0191d5.jpg",
     images: [
       "https://i.pinimg.com/originals/3a/97/a5/3a97a5217dd3cc6cfe5c56354031f40e.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "dharmanagar",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "INDIPENDENT💸 𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 PAYMENT HAND TO HAND FULL SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE 24X7 AVAILABLE college girl model VIP available full service",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

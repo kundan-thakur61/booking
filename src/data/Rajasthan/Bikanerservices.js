@@ -2,7 +2,7 @@
   {
     id: "bikaner-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
     image: "https://i.pinimg.com/originals/57/ab/39/57ab39614ffe9a065ce96a2bfa7b1f5b.jpg",
     images: [
       "https://i.pinimg.com/originals/23/d7/91/23d7911ecfadd9b89fc8f9c518edac47.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "bikaner",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "bikaner-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in bikaner.",
+    description: "TANI HERE TO MAKE YOUR DAY AND FORGETTABLE MESSAGE ME ON WHATSAPP AND TELEGRAM FOR MORE DETAILS",
     image: "https://i.pinimg.com/originals/4c/86/16/4c8616b62484f500dd57d1046bf0fb82.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/4f/04/eb/4f04ebcbbd86bf1a88365b368e845eef.0000000.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "bikaner",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Message me on telegram and WhatsApp for more details I'm waiting for your message",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "bikaner-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "TANI HERE TO MAKE YOUR DAY AND FORGETTABLE MESSAGE ME YOUR TELEGRAM AT WHATSAPP FOR MORE DETAILS I'M WAITING FOR YOUR MESSAGE",
     image: "https://i.pinimg.com/originals/cc/ac/a3/ccaca3e4174e3f397c9f367927eb5226.jpg",
     images: [
       "https://i.pinimg.com/originals/44/aa/80/44aa80e5b864264a9341a28118eb365b.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "bikaner",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Message me on telegram at WhatsApp I am waiting for your message",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "bikaner-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hii I am Neetu independent genuine location BTM Layout but only out call available and full service please no time pass",
     image: "https://i.pinimg.com/originals/e5/37/c6/e537c6da80807f0bef19e0e232cd0e38.jpg",
     images: [
       "https://i.pinimg.com/originals/03/79/b1/0379b1cb232bff62678730079807901a.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "bikaner",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hii I Neetu independent genuine location BTM Layout but only out call available short time 7k 2 short 3 hours full night 12k 4 short and full service please no time pass",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "bikaner-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "LOW RATE (VIDHI CALL GIRLS) ESCORT FULL HARD FUCK WITH NAUGHTY IF YOU WANT TO FUCK MY PINK PUSSY WITH BIG BOOBS A",
     image: "https://i.pinimg.com/originals/44/9d/b3/449db326105a79cd7973133655bec08f.jpg",
     images: [
       "https://i.pinimg.com/originals/20/15/fb/2015fb6e0d2e23746a44a45aa7b46004.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "bikaner",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "LOVELY HOTTY 👅💏 HI MODELS COLLEGE GIRLS👅💋 HI PROFILE VERY NAUGHTY💦📞👙 💥ANAL SEX💥 BDSM💥 POSE💥LIP KISS💥 DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANCE💥 BOOBS RUBBING💥 LICKING💥HAND JOB 💏GIRLFRIEND EXPERIENCE💏 EROTIC MASSAGE💥 💥 SEX IN DIFFERENT…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "bikaner-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in bikaner.",
+    description: "Myself Rani I provide nude live video call service if you want kindly let me know",
     image: "https://i.pinimg.com/originals/96/56/e8/9656e841286333e085db7f1c25df2e4e.jpg",
     images: [
       "https://i.pinimg.com/originals/7b/df/48/7bdf482b9686d624806fe2416db63fb5.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "bikaner",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Myself Rani I provide nude live video call service if you want kindly let me know",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

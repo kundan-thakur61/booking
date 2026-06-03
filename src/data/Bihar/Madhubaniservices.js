@@ -2,7 +2,7 @@
   {
     id: "madhubani-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "I m Rani indipendent n genuine service giving here❤️",
     image: "https://i.pinimg.com/originals/8b/61/40/8b6140cf0c922e820d8bd8170215c6e3.jpg",
     images: [
       "https://i.pinimg.com/originals/8b/7b/c8/8b7bc8f440afa650930d7a2f74f62bc8.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "madhubani",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "All' service without any restriction n indipendent no middle person directly n self service no restriction in service",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "madhubani-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in madhubani.",
+    description: "HAND TO HAND CASH PAYMENT NO ADVANCE NO EXTRA PAYMENT ME 💖",
     image: "https://i.pinimg.com/originals/8b/c4/9a/8bc49a4ab8341a799a1d9f676333898a.jpg",
     images: [
       "https://i.pinimg.com/originals/8b/cc/19/8bcc19578d7c05882799d489193ef6cc.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "madhubani",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "FULLY SAFE AND SECURE HIGH PROFILE AFFORDABLE ESCORT SERVICE AVAILABLE IN ALL AREA'S , FULLY TRUSTED AND GENIUNE WIRK , HOTEL ALSO INCLUDING, OUTCALL INCALL BOTH AVAILABLE IN SAME PRICE FULLY COPERATIVE AND SATISFIED SERVICE U GET , AVAILABLE NOW…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "madhubani-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "ALL PUNE PREMIUM ESCORT NEW YOUNG COLLEGE GIRLS FULL SERVICE CALL GIRL IN PUNE",
     image: "https://i.pinimg.com/originals/8b/f2/76/8bf276ab3e652e705633cbf5d5b5e266.jpg",
     images: [
       "https://i.pinimg.com/originals/8b/fe/63/8bfe6371956146f0fbb8ac2220e2c3fc.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "madhubani",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "All Over Pune Hotel And Home Service Available Safe And Secure Full Satisfaction Customer:- Note:- Viman Nagar Koregaon Park Chandan Nagar Lohegaon Kalyani Nagar Kharadi And Hinjewadi Wakad Pimpri Chinchwad Katraj Service Available In ! Note full…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "madhubani-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "PREMIUM CALL GIRLS 👙 Enjoy Romantic Girlfriend Experience 🍑 Oral-Fun 💦100% Sexual Pleasure 🎯 At Luxurious Place",
     image: "https://i.pinimg.com/originals/8c/15/b3/8c15b3e1fe5213df130eb6824a15d942.jpg",
     images: [
       "https://i.pinimg.com/originals/8c/34/c0/8c34c0d38256190c25f41342a725df85.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "madhubani",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi, I Am Ananya Sharma, High-Society Call-Girls At Spa-Center in Lajpat Nagar, Full Sexual Satisfaction, Special Offers Only High-Society Guest, Enjoy A Romantic and Sensual Experience At Luxurious Spa-Center in Lajpat Nagar, This Is Top-Class…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "madhubani-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "IM PRIYA INDEPENDENT ✅ CALL GIRL, STAYING ALONE IN BANGALORE CONTACT ME FOR SERVICE LOW PRICE",
     image: "https://i.pinimg.com/originals/8c/4e/bb/8c4ebbff967c8738b9d6dc7e0b715543.jpg",
     images: [
       "https://i.pinimg.com/originals/8c/70/a0/8c70a0e2136331d86954b167f92351c7.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "madhubani",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Dear Customers Are you looking call girl service in mysore but unable to find out best geniune, don't worry I'm here for you to full fill all requirements you just connect with me through whatsapp and get service anytime anywhere in BANGALORE",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "madhubani-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in madhubani.",
+    description: "📌DIRECT PAYMENT *(NO ADVANCE)* 📍A-Z SERVICE ON DEMAND GOOD QUALITY BEAUTY FOR FULLY💫 SATISFACTION",
     image: "https://i.pinimg.com/originals/8c/ab/03/8cab03f5d69d71c4c5dc986f66325288.jpg",
     images: [
       "https://i.pinimg.com/originals/8c/ae/42/8cae42e4143d3d832843a2e7847a54c6.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "madhubani",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "No Advance Payment And No Booking Charge And No Extra Charge Hand To Hand Payment To Meet Hotel 🛏️ Or Home Service All Types Service Including All Pune Available 24/7Hours ‎ ‎All Pune:- ( VIMAN NAGAR , HINJEWADI , KHARADI , KOREGAON PARK , BANER ,…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

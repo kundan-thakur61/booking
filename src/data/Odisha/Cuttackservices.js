@@ -2,7 +2,7 @@
   {
     id: "cuttack-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "♥️OPEN VIDEO CALL SERVICE AND AUDIO CALL SERVICE AND SEX CHAT AVAILABLE ♥️",
     image: "https://i.pinimg.com/originals/47/cd/97/47cd97435f18f0ddab9ab6710862d98d.jpg",
     images: [
       "https://i.pinimg.com/originals/8c/eb/6d/8ceb6d5c9cc16c7caa517b07bff2f7fa.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "cuttack",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "NUDE VIDEO CALL SERVICE AND AUDIO CALL SERVICE AND SEX CHAT AVAILABLE ♥️",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "cuttack-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in cuttack.",
+    description: "ONLY HAND TO HAND PAYMENT ONLY GENUINE PERSON COME !!",
     image: "https://i.pinimg.com/originals/97/12/de/9712dea795d9d816dcea80d280a003d0.jpg",
     images: [
       "https://i.pinimg.com/originals/b0/fd/37/b0fd37c08969832fc8c1fba3dcbd4beb.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "cuttack",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "NO ADVANCE ONLY CASH PAYMENT 💸💸 ____FULL HAND TO HAND HIGH PROFILE GIRLS 100% GENUINE 24 HOURS AVAILABLE",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "cuttack-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hii I am Neetu independent genuine location BTM Layout but only out call available and full service please no time pass",
     image: "https://i.pinimg.com/originals/a8/a6/28/a8a628f0cebc351790c653131b8fc3c0.jpg",
     images: [
       "https://i.pinimg.com/originals/3e/4a/a5/3e4aa5af455ec280aadd357dd5f4acd7.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "cuttack",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hii I am Neetu independent genuine location BTM Layout but only out call available short time 7k 2 short 3 hours full night 12k 4 short and full service please no time pass",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "cuttack-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Happy Ending massage spa Manikonda B2B full romance Nude ❤️Girls selection available walk-in, Call or whatsapp me now",
     image: "https://i.pinimg.com/originals/31/02/25/31022575c6a98b455768034ca8d23250.jpg",
     images: [
       "https://i.pinimg.com/originals/ba/37/5f/ba375fd8cc439464aaf9be8d72e51df8.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "cuttack",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hello guys Welcome to our spa and today you gets very hot girls 😍Normal massage 🤪Aroma Massage 😛Deep Tissue Massage 😗😂Body polish massage 🥳Thai Massage 🤣Head massage 🤩Foot massage 😘Oil massage 👅Gel massage 👄Cream massage Extras available ❣️Topless massage 🥰Full nude massage 💋Body to body rubbing massage 🤩Romance 💓Magical touchings 💙Happy ending…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "cuttack-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Ladies providing online services, phone sex, voice call, video call. As well real massage services",
     image: "https://i.pinimg.com/originals/e1/86/3b/e1863be8140652c403779a92c3eacd41.jpg",
     images: [
       "https://i.pinimg.com/originals/09/03/b3/0903b34d3e58774dcea943ba9a8dde8c.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "cuttack",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hello Ladies.. feeling so Horny n wet? Myself Sridhar, I provide online services like Phone sex Voice call Video call For free. And door step massage services. Ladies feeling hot, horny and naughty now. Ladies call immediately Regards Sridhar",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "cuttack-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in cuttack.",
+    description: "💫Only cash payment ✨High profile ✨college girl VIP model top model✨ independent✨ girl available service all types service 💫",
     image: "https://i.pinimg.com/originals/58/11/39/581139798bbfcd9cb9adc3cf2d510e68.jpg",
     images: [
       "https://i.pinimg.com/originals/8e/de/e1/8edee1e66846c83180ad91731b152884.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "cuttack",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "V★I★P Genuine High Profile Model's Available - ALL OVER PUNE Hotel & Home Service ( Day / Night ) Call Girls Ready for All Your Wishes and Needs Call Girls In PUNE...! This is the Most Trusted Paid Service With 100% Safisfaction Guaranteed Pakka…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

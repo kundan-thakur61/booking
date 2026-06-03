@@ -2,7 +2,7 @@
   {
     id: "nainital-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "I m kannada hudgi jaya genuine vc available with real face and talk",
     image: "https://i.pinimg.com/originals/ef/c9/6b/efc96b255c5e9007520531687bbe187a.jpg",
     images: [
       "https://i.pinimg.com/originals/76/42/07/764207525e2fab7eb629cc397406ba0d.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "nainital",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "I m kannada hudgi jaya paid genuine vc available with real face and talk",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "nainital-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in nainital.",
+    description: "This is dolly",
     image: "https://i.pinimg.com/originals/72/90/56/729056134b9ac6969a7850a3d8e35ffb.jpg",
     images: [
       "https://i.pinimg.com/originals/d9/f5/1b/d9f51bc5f6697be60719fcb1f64ad053.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "nainital",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hey this is housewife here with safe place and good cooperation in bed",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "nainital-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Big boobse 🍌♨️ All type girl 🥵🥵 hot video call sarvice geaune raat 🍓🍓 demo call 5min 10 min real girl for same girl no time pass voice call confirm on",
     image: "https://i.pinimg.com/originals/6d/9d/4b/6d9d4b04b4cd0b0fdc98791986cf979b.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/52/76/1b/52761b1d5d149b04524376efbe207135.0000000.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "nainital",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hot bhabhi nude video call full open service available full enjoy low price night girl online service no time pass genuine customer genuine service availa Nude video call audio call WhatsApp sex chat Demo pay without clothes only massage me Stripping…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "nainital-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "FULL NUDE BTB ORAL BJ WITH HAPPY ENDING",
     image: "https://i.pinimg.com/originals/1c/3f/35/1c3f355c10e00ae12e6ac32081158cd7.jpg",
     images: [
       "https://i.pinimg.com/originals/84/14/bd/8414bdd657bcbe0861ccfdf35db9d1b2.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "nainital",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Please freely contact roja regarding all massage and extra services",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "nainital-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "TANI HERE TO MAKE YOUR DAY UNFORGETTABLE MESSAGE ME ON TELEGRAM FOR MORE DETAILS",
     image: "https://i.pinimg.com/originals/ec/d4/f8/ecd4f8d175a2f425f52447bd470a786c.jpg",
     images: [
       "https://i.pinimg.com/originals/4e/c3/bf/4ec3bf0e9fb5693b56390bc82e6c3a4b.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "nainital",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Message me on telegram and call me for more details I am waiting for your message and call",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "nainital-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in nainital.",
+    description: "Hii ladies /Girls/widow/auntys and mummy's any one needed perfact massage partner for relax your body and mind then connect me.",
     image: "https://i.pinimg.com/originals/52/b2/01/52b20155e9acfdeb66d4c87bcc53bd21.jpg",
     images: [
       "https://i.pinimg.com/originals/e5/37/c6/e537c6da80807f0bef19e0e232cd0e38.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "nainital",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hii ladies /Girls/widow/auntys and mummy's any one needed perfact massage partner for relax your body and mind then connect me. Any one needed genuine massage then connect time passer will be directly block and i provide extra services also with full…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

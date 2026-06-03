@@ -2,7 +2,7 @@
   {
     id: "tezpur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k fu",
     image: "https://i.pinimg.com/originals/65/9f/11/659f110c8709ba4a94926b065df54a15.jpg",
     images: [
       "https://i.pinimg.com/originals/65/b4/32/65b432ae01836fa4c6a1c545bd4c8e3d.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "tezpur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k full night unlimited shots with condom without condom front or back both said A TO Z service available…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "tezpur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in tezpur.",
+    description: "today full discount Independent college student and house wife hand to hand payment HYDERABAD",
     image: "https://i.pinimg.com/originals/65/e2/ab/65e2abf0e254ef7dd2e18abcc984358f.jpg",
     images: [
       "https://i.pinimg.com/originals/65/f5/80/65f5803b99b4a12b7eda593efcecafcf.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "tezpur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "new new profile avl I have Many collection of Independent girls and house wife They are goodlooking and ready to do anything for money For any information and booking please feel free and call me directly",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "tezpur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Ahmedabad ✅ 24x7 AFFORDABLE CHEAPEST RATE SAFE CALL GIRL SERVICE AVAILABLE OUTCALL AVAILABLE",
     image: "https://i.pinimg.com/originals/66/29/7d/66297def980d928a98facaf322ff8de8.jpg",
     images: [
       "https://i.pinimg.com/originals/66/82/87/668287ad71bb99c55d37441d936b3e11.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "tezpur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "tezpur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hello I am beby singh the genuine service available so please ☺️😍",
     image: "https://i.pinimg.com/originals/66/93/e0/6693e0259346bd4e97a9fe8fd50c93bb.jpg",
     images: [
       "https://i.pinimg.com/originals/66/94/67/66946703b01b3d54ef9b05000f1dce6a.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "tezpur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hello my name is beby singh the best girlfriend experience and best service in the world massage and full service 😍💯💕",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "tezpur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hi,im swati providing you the best massage service in rani bagh new delhi onlyonce you avail our service you wont go anywhere in future",
     image: "https://i.pinimg.com/originals/66/ba/d3/66bad34b6b803f17783511f737c9a40e.jpg",
     images: [
       "https://i.pinimg.com/originals/66/c6/fc/66c6fc76eeb4bfe700f6e49e5b756e9e.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "tezpur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hi,im swati providing you the best massage service in rani bagh new delhi only.you can relax your self in our centre with trained therapist with various massage and services NURU MASSAGE KERALA MASSAGE DEEP TISSUE MASSAGE B2B MASSAGE HOT OIL MASSAGE",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "tezpur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in tezpur.",
+    description: "Independent girl Ramya no Broker direct hand cash payment out call service",
     image: "https://i.pinimg.com/originals/67/1b/cf/671bcf18c339c0699029321ef7ae765e.jpg",
     images: [
       "https://i.pinimg.com/originals/67/20/f5/6720f5cba26bb29cf47aebb0027f0a34.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "tezpur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Ramya... Call & WhatsApp Now Hand to hand cash only direct girl no Agent No Broker High class independent girls models House wife air hostess, college girls call center girls,who are not only good looking but also very mannered.incall _out Call…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

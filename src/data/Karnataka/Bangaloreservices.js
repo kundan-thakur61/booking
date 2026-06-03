@@ -2,7 +2,7 @@
   {
     id: "bangalore-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "💦💦100% FULL 📸 NUDE OPEN CALL 🌾 SEX VOICE FINGER 💕WITH BOOBS ENJOY 🤝🤝 FEELING",
     image: "https://i.pinimg.com/videos/thumbnails/originals/ff/8c/d2/ff8cd228bfa76456668f846c44cf62ae.0000000.jpg",
     images: [
       "https://i.pinimg.com/originals/8e/de/e1/8edee1e66846c83180ad91731b152884.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "bangalore",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "My Self Punam - Live call service Age-20 I am independent college girl👩‍🏫 working as Real call Girl 💋 full Nude Service call As you like as your mood. Its my guarantee that you will fill like real meet. with maximum satisfaction. 💯💯💯💯♀️special…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "bangalore-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in bangalore.",
+    description: "GENUINE GIRL REAL MEET 100% GENUINE ESCORT CASH PAYMENT TO GIRL VIP COLLAGE GIRL HOT MODALS AVAILABLE IN",
     image: "https://i.pinimg.com/originals/29/91/9e/29919e3e0678bfa29ce020b7d11d284b.jpg",
     images: [
       "https://i.pinimg.com/originals/1b/d7/5b/1bd75bf6da7d269eee2db04bd334f44b.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "bangalore",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "About me 1. DSL (Dick Sucking Lips) 2. DT (Dining at the Toes English Spanking) 3. Doggie (Sex style from behind) 4. Duo Sandwich (Sex with two escorts/girls; Threesome with the client) 5. S-GFE (Special Girl Friend Experience) 6. HJ (Hand Job) 7.…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "bangalore-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Big boobs live show full finger video full service line sex show genuine",
     image: "https://i.pinimg.com/originals/dc/c0/87/dcc0872342c57842a31c5a4a5ad54dee.jpg",
     images: [
       "https://i.pinimg.com/originals/6f/1a/30/6f1a309fa53d3d277d3df0610ee5a3ef.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "bangalore",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hot full live show big boobs finger show video call service chat chat audio sex demo sex",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "bangalore-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hot bhabhi full finger video call service big boobs live show",
     image: "https://i.pinimg.com/originals/33/59/01/335901b1c26c14c0f6bd86af16fdd308.jpg",
     images: [
       "https://i.pinimg.com/originals/12/82/8f/12828fdc9fb1a41e81b3571d81632bd0.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "bangalore",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Genuine bhabhi live show video call service sex chat voice call sex sex demo phone sex big boobs",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "bangalore-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "✍🏻 Directly Meeting Bangalore Electronic City In Call Out Call Avl🤙🏻Nude Video Call 100 5 minutes Vc Full Open Body Show figure and voice ka sath",
     image: "https://i.pinimg.com/originals/06/43/56/064356c6d1f374d4905eb89cf152dc9f.jpg",
     images: [
       "https://i.pinimg.com/originals/00/00/18/0000182f253209d39c76b40f39fbfca1.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "bangalore",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "My name is masuma from electronic City",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "bangalore-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in bangalore.",
+    description: "699/-FULL NUDE 🩷PINK PUSSY LICKING 🫦💦 NURU MASSAGE WITH HAPPYENDING",
     image: "https://i.pinimg.com/originals/e4/78/f5/e478f5ec09e8fe1fb6e5c696e0c5c9a5.jpg",
     images: [
       "https://i.pinimg.com/originals/ce/c3/2e/cec32e35c1b4b0eaf42842a039eb09da.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "bangalore",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "OUR SPCL SERVICES: SEXY GIRLS ONLY AROMATHERAPY, SPA, HAPPY ENDING MASSAGE, NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE B0OB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS contact sweety Affordable Rate, 100 %…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

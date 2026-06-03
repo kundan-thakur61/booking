@@ -2,7 +2,7 @@
   {
     id: "kargil-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "I m kannada hudgi geninu vc available with genioune vc face voice",
     image: "https://i.pinimg.com/videos/thumbnails/originals/99/1c/f0/991cf0d7d84327057943c7333defab09.0000000.jpg",
     images: [
       "https://i.pinimg.com/originals/96/dd/1a/96dd1abbb8f5de694391238ea3b5a34f.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "kargil",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "I m kannada hudgi geninu vc available with real face and voice",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "kargil-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in kargil.",
+    description: "SOUTH🍑🍆 AND NORTH🍑🍆 AND NORTH EAST COLLAGE GIRLS💦LOW PRICE 💥👅💦 B2B & NURU 💥👅👅💦*HAPPY ENDING👅💦 👅💦ROMANCE👅💦BODY TO BODY MASSAGE👅💦FULL NUDE MASSAGE👅💦SPA",
     image: "https://i.pinimg.com/originals/46/86/0a/46860a6baa8c0e3643e1af82d7afac73.jpg",
     images: [
       "https://i.pinimg.com/originals/4c/ed/9f/4ced9f5c1331462db90ef495ae2975fb.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "kargil",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "WHATS APP ME 96111-94827EROTIC MASSAGE •BLOWJOB👅 FULL NUDE • NURU👅💦ERVICE SHOWER 👅👅👅 GIRLFRIEND EXPERIENCE💏❤️DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANGIRLFRIEND EXPERIENCE💏💥 LICKING💥HAND JOB ❤️DEEP SUCKING WITHOUT CONDOM 💥 CUM ON FACE 💥 NUDE DANCE 💥 BOOBS RUBBING💥 LICKING💥 HAND JOB ❤️EROTIC MASSAGE • BLOWJOB👅 • • FULL NUDE • NURU •💦 ❤️DEEP…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "kargil-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Karol bagh 24/7 AFFORDABLE HIGH PROFILE SAFE CALL GIRL SERVICE IN&OUTCALL AVAILABLE",
     image: "https://i.pinimg.com/originals/43/98/60/43986047ece8406c9b8d3e400360171d.jpg",
     images: [
       "https://i.pinimg.com/originals/3a/0a/7e/3a0a7e743546d94cfe7d114f2ee7b6aa.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "kargil",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Genuine Escorts Service Call and telegram WhatsApp ( Any Time ) 24/7 Hours Service Available Day and Night Call/WhatsApp:- same number Call and WhatsApp I will Reply Immediately 24/7 Hours Service Available....... 🔆 Genuine Price Fully Clean Hotels I…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "kargil-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "I'M pooja INDIPENDENT CALL GIRL CALL ME NOW FOR REAL MEET GENUINE SERVICE IN ALL OVER BANGALORE 24/7",
     image: "https://i.pinimg.com/originals/ae/7d/68/ae7d6888804209e99691ed54fe01b7c6.jpg",
     images: [
       "https://i.pinimg.com/originals/80/da/cf/80dacf834a7ec543f85929268625d625.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "kargil",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi everyone I'm Pooja indipendent call girl from Bangalore I provide real meet genuine services in all over Bangalore Call me now for real meet genuine services in all over Bangalore 24/",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "kargil-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
     image: "https://i.pinimg.com/originals/4f/93/d4/4f93d43976aecdd9a73191b1d45e4234.jpg",
     images: [
       "https://i.pinimg.com/originals/22/86/87/228687f45ee8319723b8d01cbae35f74.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "kargil",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "kargil-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in kargil.",
+    description: "Myself Soniya Reall and Genuine independent Call Girls Meet Dairectly No Advance Dairect Hand Cash it's a Genuine",
     image: "https://i.pinimg.com/originals/8b/cc/19/8bcc19578d7c05882799d489193ef6cc.jpg",
     images: [
       "https://i.pinimg.com/originals/29/93/9d/29939dc4cb5de506a0a13c3cbfc0b91f.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "kargil",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hi Myself Soniya Really genuine independent Call Girls Meet Dairectly No Agents it's a paid relationship with my bed I will provide u all types of services like bj lipkiss anaul services In call out call hotel home and doorstep services available",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

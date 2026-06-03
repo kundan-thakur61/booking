@@ -2,7 +2,7 @@
   {
     id: "warangal-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "DEMO 99 💦 FULL NUDE VIDEO CALL SERVICE 💦 KOMAL 💦 WITH VOICE VIDEO CALL SERVICE🎥 SEXTING 💬 PHONE 💦SEX AVAILABLE NOW",
     image: "https://i.pinimg.com/originals/20/3c/7f/203c7fb72c01c003e06c7ae28ad9f7b7.jpg",
     images: [
       "https://i.pinimg.com/originals/88/bf/7b/88bf7b1ff229ab99ba3956a4457e31e8.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "warangal",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "me 📽️𝗩𝗜𝗗𝗘𝗢 𝗖𝗔𝗟𝗟🎀DEMO Charge 99/- ONLY💋 CALL FULL NUDE VIDEO CALL SERVICE NAME Simran AGE 26 😇BIG BOOBS AND SPICY PUSY😇 💋Fingering with 2, fingers 💋Hot voice call and sex chat in service time 👉FULL OPEN WITHOUT CLOTH VIDEO CALL 🌺 GIRLFRIEND FEELING 🌺…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "warangal-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in warangal.",
+    description: "Offer for couples. Single please stay away",
     image: "https://i.pinimg.com/originals/7f/52/94/7f52948abe19160da814d97de24f8651.jpg",
     images: [
       "https://i.pinimg.com/originals/a6/13/57/a61357a613116bc975329ecb20814892.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "warangal",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hello couples and single females, I am Rajeev, age 35 years from Delhi, visiting Bengaluru from 4th June 2026 to 6th June and will stay at Holiday inn yeshwantpur. If you want to explore the special naughty things along with your partner then your…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "warangal-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "👑LUXURIOUS MODEL👙AIRHOSTESS HOT SEXY🥻CLG GIRL READY HOUSEWIFE♦️PUNE BEST🌍ESCORT AVAILABLE🏪",
     image: "https://i.pinimg.com/originals/18/93/76/189376bc7ea32090ce8bfb6f310e25c7.jpg",
     images: [
       "https://i.pinimg.com/originals/97/70/de/9770de9a9b94ade5a3adb825d73a000e.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "warangal",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "GOOD QUALITY EDUCATED PROFILE HOTEL SERVICE AT VERY LOW 100% SAFE AND ORIGINAL. 100%⭐⭐⭐ SATISFIED GUARANTEED (age-19 to 35) College girls , party girls and also house wife’s⭐⭐⭐⭐⭐ Our Service Available In Home AND STAR HOTELS , In call Out call Service.24 hrs⭐⭐⭐⭐⭐ * Models⭐⭐⭐⭐⭐ * Call Center Working Girls/Women * Hi Tech Co. Girls/Women⭐⭐⭐⭐⭐ * House…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "warangal-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💦 3 min 99 /Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge",
     image: "https://i.pinimg.com/originals/3a/30/58/3a305870266a13bf700c345cc74d7167.jpg",
     images: [
       "https://i.pinimg.com/originals/bb/99/06/bb99069163b1436ade5da2d7c2073caf.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "warangal",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "💦 3 min 99/Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge and make ur mood happy👩‍❤️‍👨 40min 299 ❤ full nude service call service ❤ phone call sex ❤ sex chat ❤ sex education ❤ maximum…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "warangal-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "only 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     image: "https://i.pinimg.com/originals/ab/7a/99/ab7a9983c23a20f4b8b8409328c9603b.jpg",
     images: [
       "https://i.pinimg.com/originals/c0/1a/5d/c01a5d2d972f0eec6869a48fa3e0e952.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "warangal",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Demo 50/- only ◼️◾▪️💞hey I'm Radhika Bangalore hot girl genius Full Nude video sex service💞 new joinonly 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "warangal-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in warangal.",
+    description: "GENUINE SERVICE AVAILABLE DIRECT HAND TO HAND CASH PAYMENT NO ADVANCE PAYMENT NO EXTRA CHARGES",
     image: "https://i.pinimg.com/originals/8e/f3/a1/8ef3a1c7b65f12b4705e7d31db32ed7e.jpg",
     images: [
       "https://i.pinimg.com/originals/2a/21/9e/2a219e87e338af059a5ca1abfe50a386.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "warangal",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Direct Meeting Direct Payment Before Service Cash or UPI. ▪♨️ No Booking Charges or No Online Advance Payment Service Details :- ▪♨️ Full Open Nude Sex Without any Dess With 100% Satisfaction. ▪♨️ BlowJob Oral Sex Pussy Licking Boobs Sucking69 Style…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

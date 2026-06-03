@@ -2,7 +2,7 @@
   {
     id: "andamanIslands-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "ALL PUNE PREMIUM ESCORT NEW YOUNG COLLEGE GIRLS FULL SERVICE CALL GIRL IN PUNE",
     image: "https://i.pinimg.com/originals/00/00/18/0000182f253209d39c76b40f39fbfca1.jpg",
     images: [
       "https://i.pinimg.com/originals/00/32/b6/0032b697e08e3c2428158295e81b4ec9.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "andamanIslands",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "All Over Pune Hotel And Home Service Available Safe And Secure Full Satisfaction Customer:- Note:- Viman Nagar Koregaon Park Chandan Nagar Lohegaon Kalyani Nagar Kharadi And Hinjewadi Wakad Pimpri Chinchwad Katraj Service Available In ! Note full…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "andamanIslands-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in andamanIslands.",
+    description: "HAND TO HAND CASH PAYMENT NO ADVANCE NO EXTRA PAYMENT ME",
     image: "https://i.pinimg.com/originals/00/89/d6/0089d62085eb15150066002c9b0a0632.jpg",
     images: [
       "https://i.pinimg.com/originals/00/8f/f9/008ff93cb19eee38e8290b813c0fd94e.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "andamanIslands",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "I'm independent call girl And I am a girl from a poor family, I am sure that I will satisfy you, my height is 166 cm and my weight is 50 kgs, I am a very hot guy, I hope you will like me.",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "andamanIslands-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hot oil erotic massage",
     image: "https://i.pinimg.com/originals/00/d7/2c/00d72ca4fc246fbcb6e9cc2e476364cc.jpg",
     images: [
       "https://i.pinimg.com/originals/00/fa/b0/00fab046c07e27e4cd077289cacc758d.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "andamanIslands",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "This is Ruth, Today special Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with (2)girls with pressure XTRA SERVICES AVAILABLE: ****SPECIAL SERVICE ALSO…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "andamanIslands-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hii guys my name is ruhi singh 24/7 available kormangla near 10km distence city provided service with massage",
     image: "https://i.pinimg.com/originals/01/0c/a0/010ca08618efb4110f1bbb126095fd94.jpg",
     images: [
       "https://i.pinimg.com/originals/01/18/b1/0118b1bff8488b7347165a5aaa697d9d.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "andamanIslands",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hii guys my name is ruhi singh 24/7 available kormangla near 10km distence city provided service with massage Price details/1 session/15k 2 session 25k Cum show price details 5 min 3k 10 min 5k Full nude fingaring 🖕() Boobs press Service details 🙂…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "andamanIslands-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "INDIPENDENT💸 𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 PAYMENT HAND TO HAND FULL SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE 24X7 AVAILABLE",
     image: "https://i.pinimg.com/originals/01/4b/34/014b346f054ec91a24bc84ed829e09f5.jpg",
     images: [
       "https://i.pinimg.com/originals/01/7d/0b/017d0bf7986957e93927156bcd2865ae.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "andamanIslands",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "No advance direct Cash payments genuine service provide 24hr available hotel in home apartment out call in call available",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "andamanIslands-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in andamanIslands.",
+    description: "I LIKE BIG DIC**K(I have 36 size BOOBS n big pussy) –",
     image: "https://i.pinimg.com/originals/01/b6/d0/01b6d01383c6d540f3cd4f41c033aba9.jpg",
     images: [
       "https://i.pinimg.com/originals/01/d4/ca/01d4ca0d2d59f16a4203f9704bfaafca.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "andamanIslands",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Looking for some fun with guy in and out of the bedroom.. I want to ride your face and if you are good I'll ride your cock.. I'm Laila, 28, love to do fun.. Tell me how fun you are want.. call or missed call-",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

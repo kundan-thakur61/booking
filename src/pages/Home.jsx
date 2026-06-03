@@ -166,8 +166,6 @@ const Home = () => {
           { href: '/delhi', as: 'document' }
         ]}
         dnsPrefetchDomains={[
-          'https://fonts.googleapis.com',
-          'https://fonts.gstatic.com',
           'https://www.google-analytics.com',
           'https://www.googletagmanager.com'
         ]}

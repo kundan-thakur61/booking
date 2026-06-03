@@ -2,7 +2,7 @@
   {
     id: "shimla-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "LOW COST BODY MASSAGE OR BODY SCRUB DOOR TO DOOR SERVICE AVAILABLE ( MUMBAI)",
     image: "https://i.pinimg.com/originals/ed/3d/9a/ed3d9a5db5202c98886c977b2eaca3d4.jpg",
     images: [
       "https://i.pinimg.com/originals/ed/44/92/ed449280c53b468b731da9ad70680c48.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "shimla",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "VISHAL ( MUMBAI) body massager & FUN DOOR TO DOOR SERVICE Location -- Mumbai Age 35 6 year professional experience 1_ Offer all types of massage which are also follows. PUSSY & , UNDERARM HAIR REMOVAL Nude massage Deep tissue massage Reflexology…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "shimla-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in shimla.",
+    description: "Full open video call with voice ☎️ nude sex chat open clothes in video call ❤️🫠🫠",
     image: "https://i.pinimg.com/originals/ed/93/d9/ed93d9e1bd9f37f57655c6f8043dff3d.jpg",
     images: [
       "https://i.pinimg.com/originals/ed/a3/18/eda318be37711c347feb7dc1c18a2ee0.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "shimla",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Demo 70/- only ◼️◾▪️💞hey I'm Radhika Bangalore hot girl genius Full Nude video sex service💞 new joinonly 70/-Full 💝nude 🤗video call without clothes demo charge 70",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "shimla-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "💞❤️IM SEEMA YDV 💯 CASH PAYMENT NO AGENT NO BROKER 💋✅💵💵💸💸💞 INDIVIDUAL GIRL 💦 OUTCALL HOME HOTEL FULLY SATISFY U UNLIMITED WAY 💞💞 IM READY TO FULLY SATI",
     image: "https://i.pinimg.com/originals/ed/ed/7c/eded7cd6a7b2ecac72f39e1e92de95a1.jpg",
     images: [
       "https://i.pinimg.com/originals/ee/02/ff/ee02ff2b44a9d2810372412976a41984.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "shimla",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "💞❤️IM SEEMA YDV 💯 CASH PAYMENT NO AGENT NO BROKER 💋✅💵💵💸💸💞 INDIVIDUAL GIRL 💦 OUTCALL HOME HOTEL FULLY SATISFY U UNLIMITED WAY 💞💞 IM READY TO FULLY SATI",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "shimla-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Body massage only female Want to get pussy massaged? Contact us.",
     image: "https://i.pinimg.com/originals/ee/58/53/ee58538d0f940410db30574e9f94e730.jpg",
     images: [
       "https://i.pinimg.com/originals/ee/b2/36/eeb236c0b6c37e6ea5a96dfc71481216.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "shimla",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Sex massage body massage I suck the pussy and massage it with gentle chatting.",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "shimla-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "💗💯✅ OUTCALLL SERVICE AVAILABLE ALL CASH PAYMENT. CAMSHOW AVAILABLE ALSO💦",
     image: "https://i.pinimg.com/originals/ee/e4/4f/eee44f2f41137e36e4d5df0b2f0b7456.jpg",
     images: [
       "https://i.pinimg.com/originals/ee/fe/3c/eefe3cc5534afd6b36daffeadcafb44a.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "shimla",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hello gentlemen. I'm available now for real meet. If you have your own place i want some advance for ok dear. Hotel -all cash. Shot with protection bj without protection all type kissing. Full service without any restriction",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "shimla-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in shimla.",
+    description: "💦JANVI FULL NUDE WITH VOICE VIDEO CALL SERVICE 🎥 SEXTING 💌 PHONE 🥀SEX📞NO FREE DEMO.",
     image: "https://i.pinimg.com/originals/ef/33/92/ef3392351344d54a1049e68ab95c0e33.jpg",
     images: [
       "https://i.pinimg.com/originals/ef/46/88/ef4688a5817012d50d52681cdddb154f.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "shimla",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "as Video call Girl 💋 full Nude Video call As you like as your mood. Its my guarantee that you will fill like real meet. with maximum satisfaction. 💯💯💯💯♀️special specifications♂️💯💯💯 ❤ full nude video call service ❤ phone call sex ❤ sex chat ❤ sex…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

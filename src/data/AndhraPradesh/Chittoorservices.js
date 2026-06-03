@@ -2,7 +2,7 @@
   {
     id: "chittoor-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Delhi Puja Sharma 24/7 top best low price call girls sex service available 100% safe and secure",
     image: "https://i.pinimg.com/originals/0e/75/8d/0e758d273a8073dec13467d32081cf53.jpg",
     images: [
       "https://i.pinimg.com/originals/0e/7c/53/0e7c535226c044cf40653ebc1353b880.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "chittoor",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "chittoor-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in chittoor.",
+    description: "🥀HII RIYA INDEPENDENT CALL GIRL NO BROKEN DIRECTL MEAT GENUINE WORK 🥀",
     image: "https://i.pinimg.com/originals/0e/8b/12/0e8b1292fe078148c7dfcbf1d91be3d1.jpg",
     images: [
       "https://i.pinimg.com/originals/0e/99/e7/0e99e74c0a072da04816ccdb281b75ba.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "chittoor",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Independent call girl no advance payment hand to hand payment hotel service all over =visit Bangalore Vip service Genuine work directly meet 🥀",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "chittoor-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "💦only demo 50 pay full nude with finger video call service genuine service provide 💦💦",
     image: "https://i.pinimg.com/originals/0e/af/c7/0eafc70940efac102c2d029f3b180a3b.jpg",
     images: [
       "https://i.pinimg.com/originals/0e/c3/93/0ec393af7f13359a986cd9d143d7396e.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "chittoor",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Full sexy , 🥰nude, open live video call service👄👄 available at low 😘😘prices Top service😻😻 ver💋eautiful and sexy 💄💄girls available here 🥰😍🥰 Come fast Demo 50/- only ◼️◾▪️💞hey jyoti Bangalore hot girl genius Full Nude video sex service💞 new join only…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "chittoor-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "2000 unlimited short door setp high profile genuine call girl service available",
     image: "https://i.pinimg.com/originals/0e/de/09/0ede0933ed0058b27d49b3c73aed7b4a.jpg",
     images: [
       "https://i.pinimg.com/originals/0e/ea/91/0eea910ac1dfaa14792d2846dfeb7071.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "chittoor",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "chittoor-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "FULL BODY TO BODY MASSAGE AND FULL SEXUAL SERVICE INCALL & OUTCALL AVAILABLE ENJOY B2B NUDE SEX SPA SHOWER BATH BY SEXY GIRLS ONLY AROMATHERAPY SPA H",
     image: "https://i.pinimg.com/originals/0f/4a/7d/0f4a7deb9990dbfefb2daa4385c5e1d2.jpg",
     images: [
       "https://i.pinimg.com/originals/0f/4c/1e/0f4c1e2b2ea87607fbc9bb8cca9d280d.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "chittoor",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "FULL B2B MASSAGE AND FULL SEXUAL SERVICE INCALL & OUTCALL AVAILABLE ENJOY B2B NUDE SEX/ SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE BOOB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS OF MUMBAI Call/ WhatsApp Ankita (Incall/Outcall Cash…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "chittoor-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in chittoor.",
+    description: "CASH PAYMENT GENUINE PERSON ONLY FULL SERVICE ALL HOTEL HOME SERVICES AVAILABLE 24 7HRS",
     image: "https://i.pinimg.com/originals/0f/7a/cc/0f7accf84630477864379b87ce7233cb.jpg",
     images: [
       "https://i.pinimg.com/originals/0f/92/0e/0f920e1bd20944e17cfc7ff03a35e8c5.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "chittoor",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "1 Hur 500 🌺 2 Hur 1000 🌹 3 Hur 2000 🥀Full night 3000🌹 college girl1 Hur 500 🌺 2 Hur 1000 🌹 3 Hur 2000 🥀Full night 3000🌹 college girl1 Hur 500 🌺 2 Hur 1000 🌹 3 Hur 2000 🥀Full night 3000🌹 college girl1 Hur 500 🌺 2 Hur 1000 🌹 3 Hur 2000 🥀Full night…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

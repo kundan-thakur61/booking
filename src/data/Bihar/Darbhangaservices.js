@@ -2,7 +2,7 @@
   {
     id: "darbhanga-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Colombiana en bombay por unos días",
     image: "https://i.pinimg.com/originals/7f/59/32/7f593292b33fe16b0f6709836df0e1af.jpg",
     images: [
       "https://i.pinimg.com/originals/7f/6d/c4/7f6dc4d787cec643e4d0a009fd5fa266.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "darbhanga",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Colombiana Colombia Colombia Colombia Colombia",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "darbhanga-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in darbhanga.",
+    description: "FULL B2B MASSAGE AND FULL SEXUAL SERVICE INCALL & OUTCALL AVAILABLE ENJOY B2B NUDE SEX SPA SHOWER BATH BY SEXY GARLS ONLY AROMATHERAPY SPA HAPPY ENDIN",
     image: "https://i.pinimg.com/originals/80/a6/ac/80a6ac86af11f0e0c71122a600b083c1.jpg",
     images: [
       "https://i.pinimg.com/originals/80/d4/86/80d4865ca063e143c0609845916e436f.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "darbhanga",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "FULL B2B MASSAGE AND FULL SEXUAL SERVICE INCALL & OUTCALL AVAILABLE ENJOY B2B NUDE SEX/ SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE BOOB SUCKING,…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "darbhanga-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "699/-FULL NUDE 🩷PINK PUSSY LICKING 🫦💦 NURU MASSAGE WITH HAPPYENDING",
     image: "https://i.pinimg.com/originals/80/ef/50/80ef5088a9b153bef8034c293ffaa608.jpg",
     images: [
       "https://i.pinimg.com/originals/80/f7/5e/80f75e4298bbc88ddeeb8f98bc6c4515.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "darbhanga",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "OUR SPCL SERVICES: SEXY GIRLS ONLY AROMATHERAPY, SPA, HAPPY ENDING MASSAGE, NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE B0OB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS contact sweety Affordable Rate, 100 %…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "darbhanga-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "FULL B2B MASSAGE AND FULL SEXUAL SERVICE INCALL & OUTCALL AVAILABLE ENJOY B2B NUDE SEX SPA SHOWER BATH BY SEXY GARLS ONLY AROMATHERAPY SPA HAPPY ENDIN",
     image: "https://i.pinimg.com/originals/81/23/7e/81237ec093078b54f920bc651a375065.jpg",
     images: [
       "https://i.pinimg.com/originals/81/67/16/816716daa4970628483c60a6fb4bf3d0.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "darbhanga",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "FULL B2B MASSAGE AND FULL SEXUAL SERVICE INCALL & OUTCALL AVAILABLE ENJOY B2B NUDE SEX/ SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE BOOB SUCKING,…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "darbhanga-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Only girls and bhabhi",
     image: "https://i.pinimg.com/originals/81/77/69/81776923bebd170a962d14fb9ce0c39f.jpg",
     images: [
       "https://i.pinimg.com/originals/81/7d/53/817d53aa86c635d3e73eadd53aa1c59d.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "darbhanga",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Best massge and no aedvans payment only case",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "darbhanga-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in darbhanga.",
+    description: "Call Girls For One Night outcall Short time incall at",
     image: "https://i.pinimg.com/originals/81/a8/6d/81a86dbb6f772e0d46a01cfa93b6c608.jpg",
     images: [
       "https://i.pinimg.com/originals/81/b0/8b/81b08b9e9719a381555dd382c04791c2.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "darbhanga",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Delhi NCR Booking For One Night Stayeng At Home Hotel Booking Hi-class college girls horny wife availabel any time",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

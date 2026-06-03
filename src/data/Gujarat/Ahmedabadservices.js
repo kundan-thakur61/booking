@@ -2,7 +2,7 @@
   {
     id: "ahmedabad-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "GENUINE SERVICE AVAILABLE DIRECT HAND TO HAND CASH PAYMENT NO ADVANCE PAYMENT NO EXTRA CHARGES",
     image: "https://i.pinimg.com/originals/ca/4e/e6/ca4ee6a5d452a674858a0e43fb22cc8e.jpg",
     images: [
       "https://i.pinimg.com/originals/ca/71/89/ca71891e837e4ad510fda60c26f5db60.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "ahmedabad",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Direct Meeting Direct Payment Before Service Cash or UPI. ▪♨️ No Booking Charges or No Online Advance Payment Service Details :- ▪♨️ Full Open Nude Sex Without any Dess With 100% Satisfaction. ▪♨️ BlowJob Oral Sex Pussy Licking Boobs Sucking69 Style Sucking Hand Job. ▪♨️ Romance Erotic Body Touching and Kissing Including Liplock Deep Kiss French…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "ahmedabad-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in ahmedabad.",
+    description: "🥦FACE TO FACE PAYMENT 💸 GENUINE GIRL'S GENUINE WORK LOW/HIGH PROFILE💫 AVAILABLE.... 24×7",
     image: "https://i.pinimg.com/originals/ca/cc/de/caccdee9447a15a7cf9279611f185d68.jpg",
     images: [
       "https://i.pinimg.com/originals/ca/ef/10/caef103fac49e423c95d40b422902734.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "ahmedabad",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "💐💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "ahmedabad-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Telugu independent girl in hyderabad all types of genuine service istha",
     image: "https://i.pinimg.com/originals/cb/16/c2/cb16c251afee2d14df04e207d989cc67.jpg",
     images: [
       "https://i.pinimg.com/originals/cb/53/c1/cb53c1c09f5c47419086fb2c444ae062.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "ahmedabad",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Nenu me Telugu ammayi miku kavalisina anni genuine service istha Nenu full hot and sexy ga untha Nenu miku full romantic service Istha Video call service are available Sex chat with sexy' pics service All types of genuine service are available Please…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "ahmedabad-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "TANI HERE TO MAKE YOUR DAY AND FORGETTABLE CONTACT ME FOR MORE DETAILS AND INFORMATION",
     image: "https://i.pinimg.com/originals/cb/63/f9/cb63f9090024e2af43471ec86da385da.jpg",
     images: [
       "https://i.pinimg.com/originals/cb/6a/fd/cb6afdd78882e10ea1ddcdc001e8f334.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "ahmedabad",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Contact me for more information I am waiting for your message and calls",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "ahmedabad-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "TANI HERE TO MAKE YOUR DAY AND FORGETTABLE MESSAGE ME ON WHATSAPP AND TELEGRAM FOR MORE DETAILS",
     image: "https://i.pinimg.com/originals/cb/73/b3/cb73b3a9fc2b9fa94b2d4dc33c68fc4f.jpg",
     images: [
       "https://i.pinimg.com/originals/cb/7a/d1/cb7ad1e28c5e431ba1d04d852ba2e55e.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "ahmedabad",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Message me on telegram and WhatsApp for more details I'm waiting for your message",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "ahmedabad-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in ahmedabad.",
+    description: "HYE I AM INDEPENDENT COLLEGE GIRLS CAM SESSION AND SECURE SERVICE GENUINE SERVICE 24/7 AVAILABLE",
     image: "https://i.pinimg.com/originals/cb/8f/5a/cb8f5a78dc87488497288f21476c0bdd.jpg",
     images: [
       "https://i.pinimg.com/originals/cb/a8/d0/cba8d0a924a3d68db82392ca4afd887b.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "ahmedabad",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "No time pass Only genuine MSG me Hotel ya home Blojob kissing Lipstick kissing Anal alao BDSM",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

@@ -2,7 +2,7 @@
   {
     id: "roorkee-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "💖PRIYA💖 independent Girl Staying Alone in Flat Just Visit Once",
     image: "https://i.pinimg.com/originals/1b/5b/a0/1b5ba0a8aaa241f0d5042e6b57d95ed8.jpg",
     images: [
       "https://i.pinimg.com/originals/63/cb/06/63cb060d5db7fa4648424353e0ff1fd5.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "roorkee",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hello Guys Am PRIYA💝 🌟🌟Hotel service available 24 hour 💐 All over Hotel outcall service and incall with regular price guarantee satisfaction genuine service",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "roorkee-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in roorkee.",
+    description: "Am Shreya truly genuine independent call girl direct meet independent escorts service available",
     image: "https://i.pinimg.com/originals/5a/86/43/5a8643a83fce7d9a24e4a16fdcd08b40.jpg",
     images: [
       "https://i.pinimg.com/originals/48/33/9f/48339f6fccb4897303453b4a122c4959.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "roorkee",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "It's a safe and genuine service available in Bangalore all types of services available including hotel and home service available direct meet also available no broker involved with me try and enjoy your day with me",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "roorkee-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "PREMIUM CALL GIRLS 👙 Enjoy Romantic Girlfriend Experience 🍑 Oral-Fun 💦100% Sexual Pleasure 🎯 At Luxurious Place",
     image: "https://i.pinimg.com/originals/b9/d1/53/b9d153d06255ea8f4a4bc4a5e4c00805.jpg",
     images: [
       "https://i.pinimg.com/originals/0b/7c/2f/0b7c2f37c9c21fd278f1975113ffae7b.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "roorkee",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hi, I Am Ananya Sharma, High-Society Call-Girls At Spa-Center in Lajpat Nagar, Full Sexual Satisfaction, Special Offers Only High-Society Guest, Enjoy A Romantic and Sensual Experience At Luxurious Spa-Center in Lajpat Nagar, This Is Top-Class…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "roorkee-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Independent sex girl Radha No Broker direct hand cash payment",
     image: "https://i.pinimg.com/originals/1d/7b/e4/1d7be4af718302f79c9fd92a035db5e4.jpg",
     images: [
       "https://i.pinimg.com/originals/e2/cb/97/e2cb97e4a9c8d25708caa14f9ebb112b.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "roorkee",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Radha... Call & WhatsApp Now Hand to hand cash only direct girl no Agent No Broker High class independent girls models House wife air hostess, college girls call center girls,who are not only good looking but also very mannered.incall _out Call…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "roorkee-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center,,M",
     image: "https://i.pinimg.com/originals/1b/77/e9/1b77e94821a2bfc943465e90f1a2dd47.jpg",
     images: [
       "https://i.pinimg.com/originals/d6/ca/1c/d6ca1cf49fae61edd82f45c342c3c0f3.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "roorkee",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hey, I Am Ms.Vaishnavi , 82965 - 39457 The Luxurious Spa and Massage Center In BANGALORE Full Body Massage For VIP Guest, All Royal-Class Facility Available with Shower Bath and More, Relex Yourself In This Summer with Relaxing Body Massage and Spa…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "roorkee-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in roorkee.",
+    description: "Independence meet up 24/7",
     image: "https://i.pinimg.com/originals/df/87/44/df8744a11e6b7df3f1d3c35680b7c7e9.jpg",
     images: [
       "https://i.pinimg.com/originals/90/9a/4f/909a4f0e56728722ec311ccd85d2a403.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "roorkee",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hi dear friend my is ruhi singh from Bangalore near by kormangla independent meet and cam show provide if you interested with my profile come my WhatsApp or telegram let's fun i hope enjoy with me For meeting Short time 8k Full night 12k For cam 15…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

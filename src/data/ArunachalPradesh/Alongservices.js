@@ -2,7 +2,7 @@
   {
     id: "along-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "💞❤️IM SEEMA YDV 💯 CASH PAYMENT NO AGENT NO BROKER 💋✅💵💵💸💸💞 INDIVIDUAL GIRL 💦 OUTCALL HOME HOTEL FULLY SATISFY U UNLIMITED WAY 💞💞 IM READY TO FULLY SATI",
     image: "https://i.pinimg.com/originals/3f/6a/0a/3f6a0ae67b6ea1989d1e1014f9168cd8.jpg",
     images: [
       "https://i.pinimg.com/originals/3f/b7/49/3fb7497d3cc5a1a4af681c54be50e6b5.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "along",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "💞❤️IM SEEMA YDV 💯 CASH PAYMENT NO AGENT NO BROKER 💋✅💵💵💸💸💞 INDIVIDUAL GIRL 💦 OUTCALL HOME HOTEL FULLY SATISFY U UNLIMITED WAY 💞💞 IM READY TO FULLY SATI",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "along-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in along.",
+    description: "Rs 1100 (Counter) - *Full Nude🩱Body Massage💗B2B Body massage Spa with BJ🍌 - Manikonda / Nanakramguda / Gachibowli / Shaikpet / Narsingi",
     image: "https://i.pinimg.com/originals/3f/d5/04/3fd50400b33a3eaa88253ebf866394d5.jpg",
     images: [
       "https://i.pinimg.com/originals/3f/e2/b7/3fe2b72303202bc6c75ae5274e647fe9.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "along",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Manikonda Hot Massage Spa Massage starting form 1000/- Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "along-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hy i am kannada girl paid video call sarves",
     image: "https://i.pinimg.com/originals/40/00/09/400009abf33f8f7c4f54fe208357c36c.jpg",
     images: [
       "https://i.pinimg.com/originals/40/14/7d/40147d10a2433dc3866f25a3571e236f.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "along",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Yes I am kannada girl paid video call sarves",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "along-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "3min demo full dirty open 😘😘 painfull fingering with voice service 🥰 100% GENIUS🥇 FULL NUDE💋VOICE FINGERIN",
     image: "https://i.pinimg.com/originals/40/23/05/40230581c48bf4b589cb1f0cbd7412fc.jpg",
     images: [
       "https://i.pinimg.com/originals/40/59/72/405972ab6f4c3fa5cf46c36497fa9130.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "along",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "✨🌟✨⭐ Genuine Escorts Service Call and WhatsApp ( Any Time ) 24/7 Hours Service Available Day and Night Call/WhatsApp:- same number Call and WhatsApp I will Reply Immediately 24/7 Hours Service Available....... 🔆 Genuine Price Fully Clean Hotels I…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "along-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hanisha Wants to have fun tonight",
     image: "https://i.pinimg.com/originals/40/68/d7/4068d75e2173ee0f5db0c503d7cce6e6.jpg",
     images: [
       "https://i.pinimg.com/originals/40/80/e2/4080e2307a451d766ad8a1d765b6a94f.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "along",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "AM Hanisha 😻✨ I LIVES IN :- Bangalore kammanahalli 📍 My juicy ass and sweet boobs Needs your attention .. Come see me and allow me to Make you a happy guy .... PING ME UP HERE 😚 I enjoy cow-girl position and riding on top, probably Sitting on a chair…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "along-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in along.",
+    description: "Radhika available all night for vc service",
     image: "https://i.pinimg.com/originals/40/86/40/408640af8150c184c5b2b00da77080d7.jpg",
     images: [
       "https://i.pinimg.com/originals/40/97/69/409769d1de8352d500570a48d2bd91fa.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "along",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "i am Radhika Available for alll service for cam sex available no meet",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

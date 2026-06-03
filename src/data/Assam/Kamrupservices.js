@@ -2,7 +2,7 @@
   {
     id: "kamrup-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "PREMIUM CALL GIRLS 👙 Enjoy Romantic Girlfriend Experience 🍑 Oral-Fun 💦100% Sexual Pleasure 🎯 At Luxurious Place",
     image: "https://i.pinimg.com/originals/5c/70/e9/5c70e9d51486baabed481bf70f8b23cb.jpg",
     images: [
       "https://i.pinimg.com/originals/5c/b7/26/5cb726bdea43301e634d395f53cd1ced.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "kamrup",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hi, I Am Ananya Sharma, High-Society Call-Girls At Spa-Center in Lajpat Nagar, Full Sexual Satisfaction, Special Offers Only High-Society Guest, Enjoy A Romantic and Sensual Experience At Luxurious Spa-Center in Lajpat Nagar, This Is Top-Class…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "kamrup-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in kamrup.",
+    description: "Genuine bhabhi full service video call service complete final service",
     image: "https://i.pinimg.com/originals/5d/11/12/5d11123f73b15b1af103f510f7ce99b7.jpg",
     images: [
       "https://i.pinimg.com/originals/5d/19/b3/5d19b37a74cb031a5be720b04202a8f3.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "kamrup",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hot full live show big boobs finger show video call service chat chat audio sex demo sex",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "kamrup-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Mumbai Puja Sharma 24/7 top best low price call girls sex service available 100% safe and secure",
     image: "https://i.pinimg.com/originals/5d/57/7f/5d577f0da52d5978b6329de4e9df777b.jpg",
     images: [
       "https://i.pinimg.com/originals/5d/8e/64/5d8e64319148dbf91b0fed8cdb7c6a83.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "kamrup",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "kamrup-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hot oil erotic massage",
     image: "https://i.pinimg.com/originals/5d/a2/4f/5da24f762795134cb08b7bca70e46fd2.jpg",
     images: [
       "https://i.pinimg.com/originals/5d/d0/52/5dd05261366bc14b18b48ec808567f0f.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "kamrup",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "This is Ruth, Today special Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with (2)girls with pressure XTRA SERVICES AVAILABLE: ****SPECIAL SERVICE ALSO…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "kamrup-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "👉♥️NO ADVANCE CALL GIRL'S IN MUMBAI WITHOUT CONDOM SERVICE AVAILABLE FOR FULL SAFE AND SECURE ❤️",
     image: "https://i.pinimg.com/originals/5e/28/e8/5e28e865757c112c8ed221920d554cbc.jpg",
     images: [
       "https://i.pinimg.com/originals/5e/3b/cb/5e3bcbdf9e704bc72cdef409f48ee4d4.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "kamrup",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Call me:- mahi Hotel and home service available 100% genuine service full satisfactionLocation:- Andheri, Sakinaka, Mora, Andheri airport, Chakala, Powai, Dadar, Bandra, Kurla, Chembur, Malad, Santacruz,Vile Parle, Mira Road, Goregaon, Kandivali,…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "kamrup-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in kamrup.",
+    description: "9958O VIP 18831 Delhi 24/7 top best low price call girls sex service available 100% safe and secure",
     image: "https://i.pinimg.com/originals/5e/9b/42/5e9b42eb0effdc4a64a4f9526375fc38.jpg",
     images: [
       "https://i.pinimg.com/originals/5e/c6/e1/5ec6e19f299aacae6cd379027022ce64.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "kamrup",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "𝗖𝗔𝗟𝗟 𝗚𝗜𝗥𝗟𝗦 𝗜𝗡 𝗗𝗘𝗟𝗛𝗜 ✔️99580 VIP 18831 ✔️ 𝗗𝗲𝗹𝗵𝗶 𝗖𝗮𝗹𝗹 𝗚𝗶𝗿𝗹𝘀 𝗘𝘀𝗰𝗼𝗿𝘁𝘀 𝗣𝗿𝗼𝘃𝗶𝗱𝗲𝗿 𝟮𝟰𝘅𝟳 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗗𝗲𝗹𝗵𝗶 𝗖𝗮𝗹𝗹 𝗚𝗶𝗿𝗹𝘀- 𝙑★𝙄★𝙋 𝙂𝙚𝙣𝙪𝙞𝙣𝙚 𝙃𝙞𝙜𝙝 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙈𝙤𝙙𝙚𝙡'𝙨 𝘼𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 - 𝘿𝙚𝙡𝙝𝙞 𝙉𝙘𝙧, 𝙉𝙤𝙞𝙙𝙖 𝙂𝙪𝙧𝙜𝙖𝙤𝙣 𝙃𝙤𝙩𝙚𝙡 & 𝙃𝙤𝙢𝙚 𝙎𝙚𝙧𝙫𝙞𝙘𝙚 ( 𝘿𝙖𝙮 / 𝙉𝙞𝙜𝙝𝙩 ) 𝘾𝙖𝙡𝙡 𝙂𝙞𝙧𝙡𝙨 𝙍𝙚𝙖𝙙𝙮 𝙛𝙤𝙧 𝘼𝙡𝙡 𝙔𝙤𝙪𝙧…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

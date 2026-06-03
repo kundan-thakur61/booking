@@ -2,7 +2,7 @@
   {
     id: "bilaspur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Only video call service 24 hours available full nude with face service confirmation only voice call",
     image: "https://i.pinimg.com/originals/aa/00/fe/aa00feda8b7ab17f4f156c10533fabb8.jpg",
     images: [
       "https://i.pinimg.com/originals/aa/04/7e/aa047e0db4fa08b0f2184ef27e305364.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "bilaspur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Only video call service 24 hours available full nude with face service confirmation only voice call",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "bilaspur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in bilaspur.",
+    description: "DEMO 99 💦 FULL NUDE VIDEO CALL SERVICE 💦 KOMAL 💦 WITH VOICE VIDEO CALL SERVICE🎥 SEXTING 💬 PHONE 💦SEX AVAILABLE NOW",
     image: "https://i.pinimg.com/originals/aa/54/78/aa5478f963bc48883de6cdce995edda8.jpg",
     images: [
       "https://i.pinimg.com/originals/aa/59/e0/aa59e0e5b108ffc0a1c98ed7bcc6f42e.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "bilaspur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "me 📽️𝗩𝗜𝗗𝗘𝗢 𝗖𝗔𝗟𝗟🎀DEMO Charge 99/- ONLY💋 CALL FULL NUDE VIDEO CALL SERVICE NAME Simran AGE 26 😇BIG BOOBS AND SPICY PUSY😇 💋Fingering with 2, fingers 💋Hot voice call and sex chat in service time 👉FULL OPEN WITHOUT CLOTH VIDEO CALL 🌺 GIRLFRIEND FEELING 🌺…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "bilaspur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
     image: "https://i.pinimg.com/originals/aa/f4/4c/aaf44ce5a22df5a67aba6bdab077ed79.jpg",
     images: [
       "https://i.pinimg.com/originals/aa/fd/cb/aafdcbf468bada558d353094a37f6393.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "bilaspur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "LOCATION LOKHANDWALA MARKET ANDHERI WEST CALL ME MR SAPPY NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE 45MIN…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "bilaspur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "My Self Valeria from Russia Now available in Hyderabad 24×7 For Fun enjoy beautiful night",
     image: "https://i.pinimg.com/originals/ab/56/58/ab565885daf87aceb0565e7e4f9d7cda.jpg",
     images: [
       "https://i.pinimg.com/originals/ab/5a/23/ab5a234a0a5939ed8aefa44283f3a7bc.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "bilaspur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "My Self Valeria I'm available in ●Hyderabad now 24×7 ■I giving A To Z service I here for Fun and giving my fetish ●service Like Desire come true service whatever you want ● In call services ● Out call service ●Hotel Room Service ●Farm house party ●Goa Manali simla Nepal kashmir everywhere You can Go with me Just like Girlfriend ●3some Also…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "bilaspur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 PAYMENT SECURE 100% SATISFACTION CALL ROY FOR GENUINE",
     image: "https://i.pinimg.com/originals/ab/7a/99/ab7a9983c23a20f4b8b8409328c9603b.jpg",
     images: [
       "https://i.pinimg.com/originals/ab/88/b3/ab88b3d2660decace157936400025e23.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "bilaspur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "NO ADVANCE PAYMENT HAND TO HAND 100% GENUINE SERVICE VIP PROFILE COLLEGE GIRLS HOUSE WIFE HOTEL AND HOME SERVICE AVAILABLE IN HYDERABAD 24/7",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "bilaspur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in bilaspur.",
+    description: "Hy i am kannada girl paid video call sarves",
     image: "https://i.pinimg.com/originals/ab/c2/36/abc236dbe6525a19933ef05ad8a4db23.jpg",
     images: [
       "https://i.pinimg.com/originals/ab/d0/37/abd037a08726498705b0490d4d287f1b.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "bilaspur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Yes I am kannada girl paid video call sarves",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

@@ -27,7 +27,7 @@ const securityConfig = {
       'style-src': [
         "'self'", 
         "'unsafe-inline'", // Needed for Tailwind CSS
-        "https://fonts.googleapis.com"
+        // no external font providers
       ],
       'img-src': [
         "'self'", 
@@ -37,8 +37,7 @@ const securityConfig = {
       ],
       'font-src': [
         "'self'", 
-        "https://fonts.gstatic.com",
-        "https://fonts.googleapis.com"
+        // fonts served from self or CDN (no Google Fonts)
       ],
       'connect-src': [
         "'self'",

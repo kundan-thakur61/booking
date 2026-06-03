@@ -2,7 +2,7 @@
   {
     id: "mangalore-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "My Self Lara from USA now available in Hyderabad 24×7 For Fun enjoy beautiful night",
     image: "https://i.pinimg.com/originals/f6/14/93/f61493efc14e37c190ea765dce88e9f0.jpg",
     images: [
       "https://i.pinimg.com/originals/e9/da/f6/e9daf6e73e560e933300a773da87dd24.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "mangalore",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "My Self Lara I'm available in ●Hyderabad now 24×7 ■I giving A To Z service I here for Fun and giving my fetish ●service Like Desire come true service whatever you want ● In call services ● Out call service ●Hotel Room Service ●Farm house party ●Goa Manali simla Nepal kashmir everywhere You can Go with me Just like Girlfriend ●3some Also available…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "mangalore-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in mangalore.",
+    description: "I'm so hot and sexy indipendent women (100 1 minutes demo)",
     image: "https://i.pinimg.com/originals/6f/cb/09/6fcb09757f2068b40ed75ecad891807a.jpg",
     images: [
       "https://i.pinimg.com/originals/05/76/17/057617d87845887f6fa779eb36b52fee.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "mangalore",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hello everyone I am geniune honest indipendent sexy woman Full open nude cam show available only 1000 no extra charges",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "mangalore-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hy I am kannada hudgi nimi geninune video call service available",
     image: "https://i.pinimg.com/originals/1d/4a/bd/1d4abd8bea7f08f1d6ad538fdc8f435a.jpg",
     images: [
       "https://i.pinimg.com/originals/9a/d7/70/9ad77006a8918adb61386c97d7e94927.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "mangalore",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "It's only online service and it's paid vc available",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "mangalore-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Demo 50/-Full 💝nude hi Anjali 🤗video call without clothes demo charge 50💦",
     image: "https://i.pinimg.com/originals/4c/5f/c4/4c5fc49ae2d052defb7ebf6a2c04e408.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/8d/e3/db/8de3dbd2b07615034cfca76ff5c6c7fc.0000000.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "mangalore",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Demo full nude video call service,💯🥰🥰💕full enjoy full Demo 50/-Full 💝nude hi Anjali 🤗video call without clothes demo charge 50💦 ful Bangalore Live Video Call Service 💦📱 Full Open 🔥 Genuine 💯 Demo Available 💸 Fast Response 📞 Banni Bega 😉",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "mangalore-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "✅NO ADVANCE & ONLY 3000 AIRPORT MUMBAI HIGH' PROFILE COLLEGE GIRLS AVAILABLE FULL HAND CASH PAYMENT 💯 GENUINE SERVICE",
     image: "https://i.pinimg.com/originals/2f/2c/dc/2f2cdce265fc5c62e5ff711b722a92b9.jpg",
     images: [
       "https://i.pinimg.com/originals/08/9f/8d/089f8ddc22f99e4762d1600acca5f295.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "mangalore",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "💚💚ONLY CASH PAYMENTS Cash ON HOTEL BEST CALL GIRL SERVICE JUST CALL ME AND BOOK NOW #ONLY CASH PAYMENT ALL HOTEL# CASH ON HAND GIRL % 1/ #REAL PHOTO AND REAL GIRLS AVAILABLE .TRUST ME SIR REAL PHOTO REAL GIRLS GENUINE GIRLS AVAILABLE# 2/#SERVICE…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "mangalore-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in mangalore.",
+    description: "HYY I AM INDU CAM OR MEET 24 HRS AVAILABLE IN FULL BODY MASSAGE SUCKING KISSING INCLUDING SERVICE AVAILABLE.",
     image: "https://i.pinimg.com/originals/76/fd/8d/76fd8d12c6a290a933f0522e708c6428.jpg",
     images: [
       "https://i.pinimg.com/originals/59/31/b7/5931b78a5e9a287ce114167ba6f2a9a9.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "mangalore",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hy i am indu cam or meet 24hrs available full body massage erotic massage sucking kissing blowjob including oral sex analsex all over Bangalore.",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

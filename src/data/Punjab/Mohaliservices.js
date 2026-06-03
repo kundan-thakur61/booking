@@ -2,7 +2,7 @@
   {
     id: "mohali-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 PAYMENT SECURE 100% SATISFACTION CALL ROY FOR GENUINE",
     image: "https://i.pinimg.com/originals/05/25/1b/05251bdd8069d7c64e01dbc205f8a57c.jpg",
     images: [
       "https://i.pinimg.com/originals/89/40/36/8940362e2780d1b7dd0e610585ac8750.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "mohali",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "About me NO ADVANCE PAYMENT HAND TO HAND 100% GENUINE SERVICE VIP PROFILE COLLEGE GIRLS HOUSE WIFE HOTEL AND HOME SERVICE AVAILABLE HOTEL",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "mohali-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in mohali.",
+    description: "Doorstep Mumbai ❤️ professional independent kavya best call girl service 24",
     image: "https://i.pinimg.com/originals/2d/f3/27/2df32796f66c71b560f7fbe606455ce0.jpg",
     images: [
       "https://i.pinimg.com/originals/09/4f/2a/094f2a721791a3ebb66279f74d2ca60f.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "mohali",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Kavya escort* ❤️GENUINE REAL MEET **Call WhatsApp* DOOR-STEP SERVICE AVAILABLE CALL OR WHATSAP ME NOW 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗔𝗹𝗹 𝗛𝗢𝗧𝗘𝗟𝗦 𝗜𝗡 𝗔𝗡𝗗 𝗢𝗬𝗢 𝗥𝗢𝗢𝗠.. GUARANTEE FULL SATISFACTION & IN CASE OF ANY UNHAPPY EXPERIENCE, WE WOULD REFUND YOUR FEES, WITHOUT ANY…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "mohali-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "NO ANY ADVANCE PAYMENT HAND TO HAND PAYMENT ANAL,LIP TO LIP KISS, PUSHY LIKS,BLOJOB WITH OUT CONDOM, DOGGY STYLE,69 POSSITION A TO Z COMPLETE SERVICE.",
     image: "https://i.pinimg.com/originals/4b/94/85/4b9485679c9c4a7f8632c6f8610a7794.jpg",
     images: [
       "https://i.pinimg.com/originals/d9/2d/fe/d92dfe021d2fc896d3d31efdb849e10a.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "mohali",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "NO ADVANCE PAYMENT GENUINE SERVICE FULL B2B TO BODY MASSAGE WITH UNLIMITED SHOT 24 HOURS AVAILABLE HOME AND HOTEL SERVICE. ✈️ HOTEL & HOME SEX 100% REAL SERVICE.✅ No advance here, Payment after service Andheri, Thane,Daisher, Chembur and other place…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "mohali-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hy i am kannada girl paid video call",
     image: "https://i.pinimg.com/originals/0f/4a/7d/0f4a7deb9990dbfefb2daa4385c5e1d2.jpg",
     images: [
       "https://i.pinimg.com/originals/7f/0a/4d/7f0a4d03db8d9d67eedf7e645cb3e39b.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "mohali",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hy i am kannada girl paid video call sarves",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "mohali-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hi i am SANDHYA INDEPENDENT staying girl in Bangalore,",
     image: "https://i.pinimg.com/originals/a1/56/cb/a156cb9c09e6181646fb3551fd6ed0cc.jpg",
     images: [
       "https://i.pinimg.com/originals/0e/8a/f6/0e8af652e9fbddacfd99d98af05b7021.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "mohali",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hi i am SANDHYA INDEPENDENT staying girl in Bangalore, I am staying single in pg. I will give a good Enjoyment in your bed.",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "mohali-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in mohali.",
+    description: "MyselF Radhika Really independent Call Girls Meet Dairectly No Agents it's a trusted Service",
     image: "https://i.pinimg.com/originals/c3/aa/98/c3aa9808cd1332cad235dd3b21345fa3.jpg",
     images: [
       "https://i.pinimg.com/originals/da/4d/28/da4d287549c831f4f6f7b3799ae21d22.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "mohali",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hi myself Radhika Really Kannada independent College Girl Meet Dairectly No Agents it's a genuine service In call out call and doorstep services available Time passars please stay away",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

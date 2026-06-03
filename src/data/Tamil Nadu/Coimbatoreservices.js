@@ -2,7 +2,7 @@
   {
     id: "coimbatore-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "NO ADVANCE PAYMENT HAND TO HAND 100% GENUINE SERVICE VIP PROFILE COLLEGE GIRLS",
     image: "https://i.pinimg.com/originals/b9/b2/10/b9b210418ab89104c14a4d16e3c2aea8.jpg",
     images: [
       "https://i.pinimg.com/originals/84/b0/8d/84b08dd53fcce5f0af017d6436334731.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "coimbatore",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "FULL B2B MASSAGE AND FULL SEXUAL SERVICE INCALL & OUTCALL AVAILABLE ENJOY B2B NUDE SEX/ SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE BOOB SUCKING,…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "coimbatore-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in coimbatore.",
+    description: "NO ADVANCE FULL CASH 💸✅PAYMENT NEW GENUINE TRUSTED PROFILE ESCORT SERVICE CALL GIRL IN 📍 PUNE",
     image: "https://i.pinimg.com/originals/ce/0e/b7/ce0eb76411c105abea099885d48b4cd5.jpg",
     images: [
       "https://i.pinimg.com/originals/6a/7e/86/6a7e86e4e0a73f96a80849d2fd63783e.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "coimbatore",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "GENUINE SAFE AND SECURE CALL GIRL SERVICE AVAILABLE FULL ENJOY About me AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential and no information is provided to any one at any cost. ★ EXCLUSIVE…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "coimbatore-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "MyselF Radhika Really independent Call Girls Meet Dairectly No Agents it's a trusted Service",
     image: "https://i.pinimg.com/originals/4f/51/e7/4f51e7c15b825fdd1d821b7bbf7d7f2c.jpg",
     images: [
       "https://i.pinimg.com/originals/58/11/39/581139798bbfcd9cb9adc3cf2d510e68.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "coimbatore",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hi myself Radhika Really Kannada independent College Girl Meet Dairectly No Agents it's a genuine service In call out call and doorstep services available Time passars please stay away",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "coimbatore-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hi AM SNEHA independent collage girl my own house...",
     image: "https://i.pinimg.com/originals/9a/ad/00/9aad009334db4126d4ea1094827c4ffb.jpg",
     images: [
       "https://i.pinimg.com/originals/94/7e/4c/947e4cb91c54c1f9401c55449c1075ff.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "coimbatore",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi AM..SNEHA.. Independent girl no broker Direct cash payment No restrictions service All round service available No broker (direct meeting only) Due to some.!. poverty problem Out call sarvice available.. My . whatsapp numbar....",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "coimbatore-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Independent college girl Ramya no Broker direct hand cash payment",
     image: "https://i.pinimg.com/originals/77/2a/e4/772ae462ef10c18a8b5de44ed7b2e601.jpg",
     images: [
       "https://i.pinimg.com/originals/f8/fc/69/f8fc69dddf4a2040cc618b5c4bc59ded.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "coimbatore",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Ramya... Call & WhatsApp Now Hand to hand cash only direct girl no Agent No Broker High class independent girls models House wife air hostess, college girls call center girls,who are not only good looking but also very mannered.incall _out Call…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "coimbatore-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in coimbatore.",
+    description: "only 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     image: "https://i.pinimg.com/originals/ea/1e/4b/ea1e4b04bc78bc0fb4f52256cb6473ac.jpg",
     images: [
       "https://i.pinimg.com/originals/d9/33/b9/d933b9bff19cfb509c882513bbff72ce.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "coimbatore",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Demo 50/- only ◼️◾▪️💞hey I'm Radhika Bangalore hot girl genius Full Nude video sex service💞 new joinonly 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

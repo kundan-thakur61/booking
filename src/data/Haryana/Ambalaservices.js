@@ -2,7 +2,7 @@
   {
     id: "ambala-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "My Self Divya Singh from Mumbai Now available in Hyderabad 24×7 For Fun enjoy beautiful night",
     image: "https://i.pinimg.com/originals/d3/f9/f9/d3f9f9425a49d912e4d85cf1cf1414e5.jpg",
     images: [
       "https://i.pinimg.com/originals/d3/fa/7f/d3fa7f5ddc18dd32200f3bdd23fbe4bf.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "ambala",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "My Self Lara I'm available in ●Hyderabad now 24×7 ■I giving A To Z service I here for Fun and giving my fetish ●service Like Desire come true service whatever you want ● In call services ● Out call service ●Hotel Room Service ●Farm house party ●Goa Manali simla Nepal kashmir everywhere You can Go with me Just like Girlfriend ●3some Also available…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "ambala-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in ambala.",
+    description: "RADHA 85rs /Full💕 Open Nude Video Call Service Sakshi tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge and make ur mood hap",
     image: "https://i.pinimg.com/originals/d4/ab/09/d4ab092308b7a8a186153191e802a082.jpg",
     images: [
       "https://i.pinimg.com/originals/d4/c2/f8/d4c2f8fa4427be73d404f7b089c83dd9.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "ambala",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "RADHA 85rs /Full💕 Open Nude Video Call Service Sakshi tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge and make ur mood hap",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "ambala-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "BODY MASSAGE N PUSSY LICKER ONLY FOR LADIES WOMENS",
     image: "https://i.pinimg.com/originals/d4/e7/69/d4e769d95199674ce1909856094f385e.jpg",
     images: [
       "https://i.pinimg.com/originals/d4/f6/28/d4f628f28f1af94418e7598d8eb200a6.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "ambala",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Note : Satisfaction Guaranteed",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "ambala-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "ROYAL SPA OFFERS- THANTIC-EROTIC- THAILAND MASSAGE WITH EXTRA AVAILABLE HERE",
     image: "https://i.pinimg.com/originals/d5/1c/ef/d51cef8c810921c113a6d892a009a753.jpg",
     images: [
       "https://i.pinimg.com/originals/d5/1e/7d/d51e7d6c3ad0a3e1f5b838781759254e.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "ambala",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "CALL US MS.SANJANA WHATSAPP 98453 - 56597 ENJOY HOT GIRLS ROYAL-SPA -NO EXTRA TIPS - ENJOY BEAUTIFUL YOUNG NUDE GIRLS. PROVIDE SUPER CLASSIC MASSAGE IN A HYGIENIC WAY FOR YOUR BODY AND MIND SATISFACTIONS BY TRAINED FEMALE THERAPISTS........ FULL BODY…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "ambala-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Anjali Sharma NO💸 ADVANCE NEW MODEL 💋SEXY TRUSTED COLLAGE CALL GIRL IN PUNE 🤞",
     image: "https://i.pinimg.com/originals/d5/4d/92/d54d92ecc8645e2e793c8882be313307.jpg",
     images: [
       "https://i.pinimg.com/originals/d5/5b/95/d55b95c9499bb137b323facd61a96937.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "ambala",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "NO ADVANCE DIRECT CASH PAYMENT IN HAND FULL SAFE AND SECURE HOTEL AND HOME SERVICE AVAILABLE WE GURANTEE 100% SATISFACTION IN LOWEST PRICE ( Incall & outcall ) service 24*7 hrs available here.. Location :- Koregaon park Viman Nagar Hadapsar kharadi…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "ambala-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in ambala.",
+    description: "MY SELF SWETA CALL GIRL & BODY-TO-BODY MASSAGE SPA SERVICES OUTCALL AND INCALL",
     image: "https://i.pinimg.com/originals/d5/cf/20/d5cf2087abcf1de5e43465b8e2dbb963.jpg",
     images: [
       "https://i.pinimg.com/originals/d5/cf/72/d5cf72c178c61138742564f6eed85aa9.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "ambala",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "EROTIC MASSAGE •BLOWJOB👅 FULL NUDE • NURU👅💦ERVICE SHOWER 👅👅👅 GIRLFRIEND EXPERIENCE💏❤️DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANGIRLFRIEND EXPERIENCE💏💥 LICKING💥HAND JOB ❤️DEEP SUCKING WITHOUT CONDOM 💥 CUM ON FACE 💥 NUDE DANCE 💥 BOOBS RUBBING💥 LICKING💥 HAND JOB ❤️EROTIC MASSAGE • BLOWJOB👅 • • FULL NUDE • NURU •💦 ❤️DEEP SUCKING WITHOUT CONDOM💥…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

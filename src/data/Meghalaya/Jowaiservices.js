@@ -2,7 +2,7 @@
   {
     id: "jowai-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hii I am Neetu independent genuine location BTM Layout but only out call available and full service please no time pass",
     image: "https://i.pinimg.com/originals/bb/1a/50/bb1a50b0f24c51b2498ddf4cd1583069.jpg",
     images: [
       "https://i.pinimg.com/originals/26/6f/14/266f14a2bbcf7ae3d11ad6293f0cda62.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "jowai",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hii I Neetu independent genuine location BTM Layout but only out call available short time 7k 2 short 3 hours full night 12k 4 short and full service please no time pass",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "jowai-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in jowai.",
+    description: "Hii I am Neetu independent genuine location BTM Layout but only out call available and full service please no time pass",
     image: "https://i.pinimg.com/originals/95/21/61/9521610a42ea23c65dd28454c580809a.jpg",
     images: [
       "https://i.pinimg.com/originals/8b/94/c6/8b94c68372ddb9f9704d8d0818db66f6.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "jowai",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hii I Neetu independent genuine location BTM Layout but only out call available short time 7k 2 short 3 hours full night 12k 4 short and full service please no time pass",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "jowai-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "GENUINE 77954 INDEPENDENT 44304DOOR STEP HOME SERVICE LTR",
     image: "https://i.pinimg.com/originals/44/99/4c/44994cb120e6c6b8768e2009d3fb20e0.jpg",
     images: [
       "https://i.pinimg.com/originals/d6/ca/1c/d6ca1cf49fae61edd82f45c342c3c0f3.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "jowai",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "NO ADVANCE GENUINE INDEPENDENT ESCORT LTR HAND CASH PAYMENT TRULY Door step home service available ltr escort girlfriend experience service available..",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "jowai-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "GENUINE 77954 INDEPENDENT 44304ESCORT LTR HAND CASH PAYMENT TRULY",
     image: "https://i.pinimg.com/originals/4b/48/c6/4b48c64c6abea83246aa829acbf95bc3.jpg",
     images: [
       "https://i.pinimg.com/originals/e4/f8/3f/e4f83f90b482a502f76f193c7ef47857.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "jowai",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Direct Meeting Direct Payment Before Service Cash or UPI. ▪♨️ No Booking Charges or No Online Advance Payment Service Details :- ▪♨️ Full Open Nude Sex Without any Dess With 100% Satisfaction. ▪♨️ BlowJob Oral Sex Pussy Licking Boobs Sucking69 Style…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "jowai-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "GENUINE 77954 INDEPENDENT 44304DOOR STEP HOME SERVICE LTR",
     image: "https://i.pinimg.com/originals/46/2c/c8/462cc870e4f39d4196e340c03e8aea2a.jpg",
     images: [
       "https://i.pinimg.com/originals/39/77/da/3977da8d0aa474247a333df6ed03c803.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "jowai",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "NO ADVANCE GENUINE INDEPENDENT ESCORT LTR HAND CASH PAYMENT TRULY Door step home service available ltr escort girlfriend experience service available..",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "jowai-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in jowai.",
+    description: "I LIKE BIG DIC**K(I have 36 size BOOBS n big pussy) –",
     image: "https://i.pinimg.com/originals/85/41/4c/85414c8af22497993cbe86acc189f5da.jpg",
     images: [
       "https://i.pinimg.com/originals/0d/e1/f7/0de1f7d369ba93126825e889d5aa5ef8.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "jowai",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Looking for some fun with guy in and out of the bedroom.. I want to ride your face and if you are good I'll ride your cock.. I'm Laila, 28, love to do fun.. Tell me how fun you are want.. call or missed call-",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

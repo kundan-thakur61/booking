@@ -2,7 +2,7 @@
   {
     id: "deoghar-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "NO ANY ADVANCE PAYMENT HAND TO HAND PAYMENT ANAL,LIP TO LIP KISS, PUSHY LIKS,BLOJOB WITH OUT CONDOM, DOGGY STYLE,69 POSSITION A TO Z COMPLETE SERVICE.",
     image: "https://i.pinimg.com/originals/fb/99/b7/fb99b71069aa3ad9bd529237e6ee2994.jpg",
     images: [
       "https://i.pinimg.com/originals/fb/cb/7b/fbcb7bf2f978ff7eaa9185945f3ae50e.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "deoghar",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "NO ADVANCE PAYMENT GENUINE SERVICE FULL B2B TO BODY MASSAGE WITH UNLIMITED SHOT 24 HOURS AVAILABLE HOME AND HOTEL SERVICE. ✈️ HOTEL & HOME SEX 100% REAL SERVICE.✅ No advance here, Payment after service Andheri, Thane,Daisher, Chembur and other place…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "deoghar-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in deoghar.",
+    description: "Low budget housewife available",
     image: "https://i.pinimg.com/originals/fb/f3/13/fbf31343f0970e8472a71c109d8d906d.jpg",
     images: [
       "https://i.pinimg.com/originals/fc/34/03/fc3403ad1f5d34c2b896a1c7d52bd8d1.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "deoghar",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Call girl's in Dilsukhnagar escort service in lb nagar best female escorts service in bn reddy low budget housewife available in Nagole",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "deoghar-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Happy Ending massage spa Manikonda B2B full romance Nude ❤️Girls selection available walk-in, Call or whatsapp me now",
     image: "https://i.pinimg.com/originals/fc/c0/01/fcc001a1911fe9ce0e0a96300f3134fb.jpg",
     images: [
       "https://i.pinimg.com/originals/fc/c0/7a/fcc07aeb19298f46342c5888d646886a.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "deoghar",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hello guys Welcome to our spa and today you gets very hot girls 😍Normal massage 🤪Aroma Massage 😛Deep Tissue Massage 😗😂Body polish massage 🥳Thai Massage 🤣Head massage 🤩Foot massage 😘Oil massage 👅Gel massage 👄Cream massage Extras available ❣️Topless massage 🥰Full nude massage 💋Body to body rubbing massage 🤩Romance 💓Magical touchings 💙Happy ending…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "deoghar-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hey myself sneha I'm independent girl call me now for real meet genuine sarvice available 24/7 hours all over bangalore",
     image: "https://i.pinimg.com/originals/fc/df/de/fcdfdea1dc6607c801475afb3a63127e.jpg",
     images: [
       "https://i.pinimg.com/originals/fc/eb/56/fceb56f06487b6b3cd2a55759bc73a90.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "deoghar",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi everyone I'm sneha indipendent call girl from Bangalore I provide real meet genuine services in all over bangalore Call me now for real meet genuine services in all over bangalore 24/7",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "deoghar-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "699/-FULL NUDE 💦👅🫦 SANDWICH B2B MASSAGE WITH HOT GIRLS",
     image: "https://i.pinimg.com/originals/fc/f8/a4/fcf8a42632f62b14d1a526d8bd9de37d.jpg",
     images: [
       "https://i.pinimg.com/originals/fd/05/21/fd0521f63b308e5197d2a1fa080702f6.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "deoghar",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "OUR SPCL SERVICES: SEXY GIRLS ONLY AROMATHERAPY, SPA, HAPPY ENDING MASSAGE, NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE B0OB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS contact sweety Affordable Rate, 100 %…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "deoghar-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in deoghar.",
+    description: "Mumbai VIP genuine high profile college girls genuine payment hand to hand in 24 hours call me",
     image: "https://i.pinimg.com/originals/fd/39/27/fd3927291e77f4bbf20a9b3bac4bd604.jpg",
     images: [
       "https://i.pinimg.com/originals/fd/4c/55/fd4c55872757eefb03231f97d6879358.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "deoghar",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "100%genune escorts service no advance AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

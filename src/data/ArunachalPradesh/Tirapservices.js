@@ -2,7 +2,7 @@
   {
     id: "tirap-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hii I am Neetu independent genuine location BTM Layout but only out call available and full service please no time pass",
     image: "https://i.pinimg.com/originals/4a/e6/d6/4ae6d6c27cf08fe0102ce16e02926db8.jpg",
     images: [
       "https://i.pinimg.com/originals/4b/24/84/4b24844fbeac1003f90ccf35849de295.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "tirap",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hii I am Neetu independent genuine location BTM Layout but only out call available short time 7k 2 short 3 hours full night 12k 4 short and full service please no time pass",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "tirap-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in tirap.",
+    description: "This is dolly",
     image: "https://i.pinimg.com/originals/4b/8b/06/4b8b066fe99607ae26f00cc537831f52.jpg",
     images: [
       "https://i.pinimg.com/originals/4b/8c/8f/4b8c8fd0e54ccb9cce407279b8312fa0.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "tirap",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "This is dolly here housewife with safe place and good cooperation in bed",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "tirap-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "HEY I AM ARPITA NO ADVANCE FULL HAND TO HAND CASH PAYMENT IN HOTEL AND HOME",
     image: "https://i.pinimg.com/originals/4b/a7/03/4ba7034f892528823837a7399cbd8ee3.jpg",
     images: [
       "https://i.pinimg.com/originals/4b/ce/1a/4bce1ae0e6e810c4cfba477f0731b2cc.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "tirap",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "HEY I AM ARPITA NO ADVANCE FULL HAND TO HAND CASH PAYMENT IN HOTEL AND HOME",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "tirap-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "SOUTH🍑🍆 AND NORTH🍑🍆 AND NORTH EAST COLLAGE GIRLS💦LOW PRICE 💥👅💦 B2B & NURU 💥👅👅💦*HAPPY ENDING👅💦 👅💦ROMANCE👅💦BODY TO BODY MASSAGE👅💦FULL NUDE MASSAGE👅💦)GI",
     image: "https://i.pinimg.com/originals/4c/07/bf/4c07bfd2852cb269ff8479a8320677bf.jpg",
     images: [
       "https://i.pinimg.com/originals/4c/0d/37/4c0d37f00fe8c7f501f31236f4fc8265.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "tirap",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "WHATS APP ME 96111-94827EROTIC MASSAGE •BLOWJOB👅 FULL NUDE • NURU👅💦ERVICE SHOWER 👅👅👅 GIRLFRIEND EXPERIENCE💏❤️DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANGIRLFRIEND EXPERIENCE💏💥 LICKING💥HAND JOB ❤️DEEP SUCKING WITHOUT CONDOM 💥 CUM ON FACE 💥 NUDE…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "tirap-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "I’m seeking trust woman, well minded",
     image: "https://i.pinimg.com/originals/4c/29/47/4c29477a68aabbda3ba73c90c82b4b10.jpg",
     images: [
       "https://i.pinimg.com/originals/4c/2b/9b/4c2b9b00b05cea02f94105e5c14065bd.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "tirap",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "tirap-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in tirap.",
+    description: "BODY MASSAGE N PUSSY LICKER ONLY FOR LADIES WOMENS",
     image: "https://i.pinimg.com/originals/4c/46/0e/4c460e8921ddd5a50c09bb8061213738.jpg",
     images: [
       "https://i.pinimg.com/originals/4c/50/5e/4c505ee5b189d92affcc4b7b3bf34d4a.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "tirap",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Note : Satisfaction Guaranteed",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

@@ -2,7 +2,7 @@
   {
     id: "rajnandgaon-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Independent girl Ramya no Broker direct hand cash payment out call service",
     image: "https://i.pinimg.com/originals/b1/69/7a/b1697a7046e4d1932aa1ce9072f98c7a.jpg",
     images: [
       "https://i.pinimg.com/originals/b1/8e/29/b18e29ef502dd14205d2307faa4d724d.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "rajnandgaon",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Ramya... Call & WhatsApp Now Hand to hand cash only direct girl no Agent No Broker High class independent girls models House wife air hostess, college girls call center girls,who are not only good looking but also very mannered.incall _out Call…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "rajnandgaon-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in rajnandgaon.",
+    description: "BANGALORE 💯% SAFE AND SECURE TODAY LOW PRICE HIGH PROFILE COLLAGE GIRL'S AVAILABLE",
     image: "https://i.pinimg.com/originals/b2/05/82/b20582b516d74b79d59398903a53d704.jpg",
     images: [
       "https://i.pinimg.com/originals/b2/35/d7/b235d78f4ae1d5b7ffb3a59fbdaca63d.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "rajnandgaon",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "About me 100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "rajnandgaon-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "NO ADVANCE CASH PAYMENT FULL SERVICE ALL KOLKATA HOME AND HOTEL SERVICE",
     image: "https://i.pinimg.com/originals/b2/bc/8d/b2bc8dbfcfc6feed43b496dd9ea27931.jpg",
     images: [
       "https://i.pinimg.com/originals/b2/bd/d9/b2bdd942e17c39095794758bdd8db721.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "rajnandgaon",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "CALL AND OUT-CALL FACILITY HOTEL AND HOME SERVICE AVAILABLE affordable Rate satisfaction NOTE:- ALL OUR GIRLS ARE MEDICALLY TESTED PERIODICALLY JUST TO ENSURE SAFE AND SECURE RELATIONSHIP WITH. BEST CALL GIRL ESCORT SERVICE IN/OUT CALL LOW-COST CALL…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "rajnandgaon-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hii sir l me Neetu independent only out call service",
     image: "https://i.pinimg.com/originals/b2/de/bd/b2debd468d024757b3d9d55e3eb827e5.jpg",
     images: [
       "https://i.pinimg.com/originals/b2/e1/cf/b2e1cfd9bac368de46490cede4cddd97.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "rajnandgaon",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hii sir l me Neetu independent genuine location BTM layout but only out call available short time 7k 2 short 3 hours full night 12k 4 short and full service please no time pass",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "rajnandgaon-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "GENUINE SERVICE AVAILABLE DIRECT HAND TO HAND CASH PAYMENT NO ADVANCE PAYMENT NO EXTRA CHARGES",
     image: "https://i.pinimg.com/originals/b3/00/f6/b300f6cce480cc24824beec7c8138723.jpg",
     images: [
       "https://i.pinimg.com/originals/b3/08/8e/b3088e5483107e02be3c5053483d1c22.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "rajnandgaon",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Direct Meeting Direct Payment Before Service Cash or UPI. ▪♨️ No Booking Charges or No Online Advance Payment Service Details :- ▪♨️ Full Open Nude Sex Without any Dess With 100% Satisfaction. ▪♨️ BlowJob Oral Sex Pussy Licking Boobs Sucking69 Style Sucking Hand Job. ▪♨️ Romance Erotic Body Touching and Kissing Including Liplock Deep Kiss French…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "rajnandgaon-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in rajnandgaon.",
+    description: "Hii I am Neetu independent genuine location BTM Layout but only out call available and full service please no time pass",
     image: "https://i.pinimg.com/originals/b3/7b/a1/b37ba1fe8f35b843521f704add347a19.jpg",
     images: [
       "https://i.pinimg.com/originals/b3/7c/07/b37c07e2bd45cfa6eca1ca0b1cade985.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "rajnandgaon",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hii I am Neetu independent genuine location BTM Layout but only out call available short time 7k 2 short 3 hours full night 12k 4 short and full service please no time pass",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

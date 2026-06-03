@@ -2,7 +2,7 @@
   {
     id: "kollam-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "💃HIGH CLASS COLLEGE HOSTEL GIRLS INDEPENDENT OR HOTEL STAY AVAILABLE VERRY REASONABLE PRICE CONTACT PLEASE💃",
     image: "https://i.pinimg.com/originals/c9/a6/d2/c9a6d26cbbbbad31ceae125b751f0c42.jpg",
     images: [
       "https://i.pinimg.com/originals/bd/75/a4/bd75a4ad687959bbab1ad3c23c45a0a5.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "kollam",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Escorts Service In Delhi- 8796- 155 -250📌𝐚𝐧𝐝 𝐊𝐢𝐬𝐬𝐢𝐧𝐠, 𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠 𝐋𝐢𝐩𝐥𝐨𝐜𝐤, 𝐃𝐞𝐞𝐩 𝐊𝐢𝐬𝐬, 𝐅𝐫𝐞𝐧𝐜𝐡 𝐊𝐢𝐬𝐬 100% satisfaction guaranteed",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "kollam-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in kollam.",
+    description: "Hello I am beby singh the genuine service available so please ☺️😍",
     image: "https://i.pinimg.com/originals/91/53/b0/9153b052360ad63cbce7005dc6bedf11.jpg",
     images: [
       "https://i.pinimg.com/originals/57/c4/88/57c4880838ddf38706a1781ab8375e13.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "kollam",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hello my name is beby singh the best girlfriend experience and best service in the world massage and full service 😍💯💕",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "kollam-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "✅INDEPENDENT CALL GIRL REAL MEET GENUINE SERVICE AVAILABLE",
     image: "https://i.pinimg.com/originals/4f/cd/64/4fcd641926603a617766aa45408e371e.jpg",
     images: [
       "https://i.pinimg.com/originals/da/00/12/da00123a8d7c4cdb12f241b66658a338.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "kollam",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "About me ❤️ hii gentalman My self Aliya Sharma I am independent girl I am college student I am very hot girl Please text me genuine person 💯💯 Real meet service available 24/7💯💯 I am available now for real meet service all over Bangalore 24/7💯💯",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "kollam-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "4✨5✨ HAND TO HAND CASH PAYMENT WITH FULL SEXUAL SERVICES 24/7 AVAILABLE 💵 NO ADVANCE",
     image: "https://i.pinimg.com/originals/56/72/fc/5672fc0ea7fb962f7b6e97de10989f54.jpg",
     images: [
       "https://i.pinimg.com/originals/88/5c/39/885c396eee4c56101ba6275330bc9a18.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "kollam",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "💵 HAND TO HAND CASH PAYMENT 100% ALL BANGALORE 🏬 SERVICE AVAILABLE *100% Real service provider *Body to body massage sexual service *Lip to lip 💋 kissing *Xx. Full open available No advance hand to hand cash payment massage with sexual service…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "kollam-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "No Advance 🆑 x AFFORDABLE CHEAPEST RATE SAFE CALL GIRL SERVICE OUTCALL AVAILABLE",
     image: "https://i.pinimg.com/originals/d5/5b/95/d55b95c9499bb137b323facd61a96937.jpg",
     images: [
       "https://i.pinimg.com/originals/1c/9e/d1/1c9ed1765ad5722d12f184f3d37c6278.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "kollam",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "No Advance 🆑 x AFFORDABLE CHEAPEST RATE SAFE CALL GIRL SERVICE OUTCALL AVAILABLE",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "kollam-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in kollam.",
+    description: "MYSELF BHAVNA BEST VIP INDEPENDENT CALL GIRL FULL SATISFACTION CORPORATE SERVICE PROVIDE HAND CASH",
     image: "https://i.pinimg.com/originals/09/78/05/0978053ec29918c1febbb1a9183922fd.jpg",
     images: [
       "https://i.pinimg.com/originals/f8/b8/80/f8b88049c70eacc1bf690b22b189f846.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "kollam",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

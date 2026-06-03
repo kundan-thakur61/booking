@@ -2,7 +2,7 @@
   {
     id: "gopalganj-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "ONLY💦 100 💨 I,M GENUINE COLLEGE GIRLS Full CALL SERVICE FULL SAFE AND SATISFIED CALL SERVICE REAL",
     image: "https://i.pinimg.com/originals/84/61/dd/8461ddff1d09272961c57c177f712aa5.jpg",
     images: [
       "https://i.pinimg.com/originals/84/6e/1c/846e1c88f3929d680af4a947039c301e.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "gopalganj",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "ONLY💦 100 💨 I,M GENUINE COLLEGE GIRLS Full CALL SERVICE FULL SAFE AND SATISFIED CALL SERVICE REAL",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "gopalganj-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in gopalganj.",
+    description: "TANI HERE TO MAKE YOUR DAY UNFORGETTABLE MESSAGE ME ON TELEGRAM FOR MORE DETAILS",
     image: "https://i.pinimg.com/originals/84/ff/0f/84ff0f6a94a27918a08e551e492d0f64.jpg",
     images: [
       "https://i.pinimg.com/originals/85/09/cd/8509cd5d0557599eafbb5b0b5574fadf.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "gopalganj",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Message me on telegram and call me for more details I am waiting for your message and call",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "gopalganj-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Ladies providing online services, phone sex, voice call, video call. As well real massage services",
     image: "https://i.pinimg.com/originals/85/32/c7/8532c7e2c1cb2b079ef1ca69c43be6c3.jpg",
     images: [
       "https://i.pinimg.com/originals/85/37/48/853748ce0dafffd3c083e010b7b18781.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "gopalganj",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hello Ladies.. feeling so Horny n wet? Myself Sridhar, I provide online services like Phone sex Voice call Video call For free. And door step massage services. Ladies feeling hot, horny and naughty now. Ladies call immediately Regards Sridhar",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "gopalganj-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "hi how are you",
     image: "https://i.pinimg.com/originals/85/41/4c/85414c8af22497993cbe86acc189f5da.jpg",
     images: [
       "https://i.pinimg.com/originals/85/64/50/85645012b4ee804d7609599ad4dd896b.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "gopalganj",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Full open video call in just 50 demo charge with voice with enjoy full enjoy hot girl ❤️❤️💘💕 50 demo charge 🥵 💦",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "gopalganj-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Full open video call ☎️ chat 💬 service 💘 open nude video call demo charge 70 only without clothes demo70",
     image: "https://i.pinimg.com/originals/85/6a/68/856a689a84a533cbae16a7e61db6f9a7.jpg",
     images: [
       "https://i.pinimg.com/originals/85/6c/1c/856c1c4ce6c39f7751228d03e188f5a6.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "gopalganj",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Demo 70/- only ◼️◾▪️💞hey I'm Radhika Bangalore hot girl genius Full Nude video sex service💞 new joinonly 70/-Full 💝nude 🤗video call without clothes demo charge 70",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "gopalganj-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in gopalganj.",
+    description: "TANI HERE TO MAKE YOUR DAY AND FORGETTABLE MESSAGE ME ON WHATSAPP AND TELEGRAM FOR MORE DETAILS",
     image: "https://i.pinimg.com/originals/85/9a/a2/859aa24c6f2d429ebe4d0b6fb076cc56.jpg",
     images: [
       "https://i.pinimg.com/originals/85/b6/4f/85b64f4939b07567e664a6294c41f92c.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "gopalganj",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Message me on telegram and WhatsApp for more details I'm waiting for your message",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

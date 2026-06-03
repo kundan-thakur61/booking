@@ -2,7 +2,7 @@
   {
     id: "chirala-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Mrs Mini(Housewife) here ,Real sex service Available",
     image: "https://i.pinimg.com/originals/0c/f2/ab/0cf2abed6241265b5f6dbdc0ae0ad687.jpg",
     images: [
       "https://i.pinimg.com/originals/0d/17/e3/0d17e34262cd674b3b1dc9438416c4a3.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "chirala",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hello Dear Myself Mrs Mini(Housewife) here, And I am living here from 2 year Best Sex Service with Full Satisfaction I am giving Real sex Service at Very Low Charges (sex,foreplay,blowjob) Charges 2000/- 2hr(2shots with place + Ac included) booking…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "chirala-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in chirala.",
+    description: "Happy Ending massage spa Manikonda B2B full romance Nude ❤️Girls selection available walk-in, Call or whatsapp me now",
     image: "https://i.pinimg.com/originals/0d/64/be/0d64be9f50f0b65a6463b809c4f81a78.jpg",
     images: [
       "https://i.pinimg.com/originals/0d/66/3c/0d663c55c29f14f2d0516d37e29cc4e9.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "chirala",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hello guys Welcome to our spa and today you gets very hot girls 😍Normal massage 🤪Aroma Massage 😛Deep Tissue Massage 😗😂Body polish massage 🥳Thai Massage 🤣Head massage 🤩Foot massage 😘Oil massage 👅Gel massage 👄Cream massage Extras available ❣️Topless massage 🥰Full nude massage 💋Body to body rubbing massage 🤩Romance 💓Magical touchings 💙Happy ending…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "chirala-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "today full discount Independent college student and house wife hand to hand payment HYDERABAD",
     image: "https://i.pinimg.com/originals/0d/8a/10/0d8a102393d6aa08902b695b6bf6c76e.jpg",
     images: [
       "https://i.pinimg.com/originals/0d/9d/b6/0d9db6ed0708423f2d4eff556c410f1e.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "chirala",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "new new profile avl I have Many collection of Independent girls and house wife They are goodlooking and ready to do anything for money For any information and booking please feel free and call me directly",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "chirala-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "ONLY 99 PROVIDE💋 LIVE FULL OPEN NUDE💦 VIDEO CALL 💦BOOBS PRESSING 💋SERVICE 100%GENUINE SAFE AND SEQURE",
     image: "https://i.pinimg.com/originals/0d/b7/c3/0db7c390c6aa6357a4ae7d7a90bf4cfb.jpg",
     images: [
       "https://i.pinimg.com/originals/0d/d9/8a/0dd98a84d1d70f42d8f7c4525c22df22.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "chirala",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "ONLY 99 PROVIDE💋 LIVE FULL OPEN NUDE💦 VIDEO CALL 💦BOOBS PRESSING 💋SERVICE 100%GENUINE SAFE AND SEQURE",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "chirala-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Rs 1000 (HyderNgr) - Full Nude🩱Body Massage in Kukatpally JNTU HyderNagar💗KPHB B2B Body massage Spa with BJ🍌 - Kukatpally / JNTU / HyderNagar",
     image: "https://i.pinimg.com/originals/0d/ef/5f/0def5f847c4fd61dc1fac9bbd10c136a.jpg",
     images: [
       "https://i.pinimg.com/originals/0e/1e/f9/0e1ef9be15fe6ddbf9c67d81af107686.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "chirala",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Kukatpally Massage Spa Massage starting form 1000/- HyderNagar Massage Spa Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "chirala-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in chirala.",
+    description: "Big boobs live show full finger video full service line sex show genuine",
     image: "https://i.pinimg.com/originals/0e/41/d7/0e41d70deca594ee79612673d12ecaf3.jpg",
     images: [
       "https://i.pinimg.com/originals/0e/6d/c5/0e6dc56bb2f89947ec0ad916e26c4db6.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "chirala",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hot full live show big boobs finger show video call service chat chat audio sex demo sex",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

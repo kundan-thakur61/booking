@@ -2,7 +2,7 @@
   {
     id: "hyderabad-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct",
     image: "https://i.pinimg.com/originals/4c/ff/c6/4cffc6bd35a900cd18861df434e1197a.jpg",
     images: [
       "https://i.pinimg.com/originals/85/b6/4f/85b64f4939b07567e664a6294c41f92c.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "hyderabad",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "No extra charge genuine people came here time pass direct block genuine people came here 24 HOUR",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "hyderabad-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in hyderabad.",
+    description: "Genuine independent 77954 door step 44304 HAND CASH PAYMENT TRULY...",
     image: "https://i.pinimg.com/originals/43/ca/4d/43ca4dc666c3f4a9c0c2b99f67853b42.jpg",
     images: [
       "https://i.pinimg.com/originals/c7/28/d9/c728d902b8ebf3d375258e928133e2fa.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "hyderabad",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hi cal me or whatsapp me out call door step home service available ltr escort girlfriend experience service available BY HAND CASH PAYMENT TRULY..",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "hyderabad-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hii I am Neetu independent genuine location BTM Layout but only out call available and full service please no time pass",
     image: "https://i.pinimg.com/originals/b1/69/7a/b1697a7046e4d1932aa1ce9072f98c7a.jpg",
     images: [
       "https://i.pinimg.com/originals/61/50/f0/6150f0e7ebc3d2a297b308d209c78973.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "hyderabad",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hii I am Neetu independent genuine location BTM Layout but only out call me available short time 7k 2 short 3 hours full night 12k 4 short and full service please no time pass",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "hyderabad-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💖PRIYA💖 independent Girl Staying Alone in Flat Just Visit Once",
     image: "https://i.pinimg.com/originals/7d/6e/8b/7d6e8b2eccaf7e33cccbb2cc919da94c.jpg",
     images: [
       "https://i.pinimg.com/originals/c2/4e/4b/c24e4b0044e0e251aec1a64de3055bab.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "hyderabad",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hello Guys Am PRIYA💝 🌟🌟Hotel service available 24 hour 💐 All over Hotel outcall service and incall with regular price guarantee satisfaction genuine service",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "hyderabad-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Delhi independent call girl available",
     image: "https://i.pinimg.com/originals/55/f6/72/55f67231d48e551953c2a9273e9f310c.jpg",
     images: [
       "https://i.pinimg.com/originals/94/75/a6/9475a6c3d2e26f2b40883a6a13166805.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "hyderabad",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Delhi independent vio call girls available",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "hyderabad-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in hyderabad.",
+    description: "Big boobs live show full finger video full service line sex show genuine",
     image: "https://i.pinimg.com/originals/fe/76/56/fe7656bae5e37e5f2eaf13c97384779b.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/e1/52/a9/e152a9629b737a1088a9cc303637351a.0000000.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "hyderabad",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hot full live show big boobs finger show video call service chat chat audio sex demo sex",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

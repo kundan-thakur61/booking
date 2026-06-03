@@ -2,7 +2,7 @@
   {
     id: "puducherry-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Radhika available all night for vc service",
     image: "https://i.pinimg.com/originals/48/db/87/48db87a36698968d79918485cf158c98.jpg",
     images: [
       "https://i.pinimg.com/originals/ae/0d/8d/ae0d8dffbd14a6e40145007e5b5b29ad.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "puducherry",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "i am Radhika Available for alll service for cam sex available no meet",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "puducherry-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in puducherry.",
+    description: "Siya full open video call service with voice full satisfaction",
     image: "https://i.pinimg.com/originals/97/b0/eb/97b0eb2bba226dcbaf5cb5509f154e52.jpg",
     images: [
       "https://i.pinimg.com/originals/7a/c0/d7/7ac0d75ba42327c8468fa584f293b93a.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "puducherry",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "💋💋 About me Hey Priya, ❤I am Priya.❤ I am an independent call girl (College Student ) , ❤offering now My deep Nude Video Call service, ❤ Sex 💋chat with Nude pics and many more as per your interest❤:- 👆 Will offer on Nude video call",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "puducherry-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
     image: "https://i.pinimg.com/originals/95/47/77/954777637893f02d34253aea3492131d.jpg",
     images: [
       "https://i.pinimg.com/originals/f9/38/8a/f9388a524d525bfd2ccb3087fef4e02f.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "puducherry",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "puducherry-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hello dear I'm sexy girl beautiful pussy",
     image: "https://i.pinimg.com/originals/3e/e9/20/3ee9205deb66932e4eadd4349b988605.jpg",
     images: [
       "https://i.pinimg.com/originals/48/ff/26/48ff265814cec44bbfd50cb794ec8033.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "puducherry",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Direct meeting and vedio call sex my whatsapp number",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "puducherry-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Royal genuine service available best good service hotel and home ☺️",
     image: "https://i.pinimg.com/originals/ed/63/a3/ed63a3f9a2158fe7ab4cb2c3c2143b76.jpg",
     images: [
       "https://i.pinimg.com/originals/a7/7a/2b/a77a2bb9aca6a90714b439e28193b806.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "puducherry",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hello lover my name is Rani and I am a hot 23 _ years old in the privacy of company our best girlfriend if you want to enjoy the most exquisite sex i am the woman for you I m convinced that you will be I am best good service love to my dear Who loves…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "puducherry-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in puducherry.",
+    description: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k fu",
     image: "https://i.pinimg.com/originals/a4/24/04/a42404ae3c496a0336624fb78c02543b.jpg",
     images: [
       "https://i.pinimg.com/originals/63/c7/e1/63c7e1aa351cda06d34e0f882a62cdf9.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "puducherry",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k full night unlimited shots with condom without condom front or back both said A TO Z service available in my self Nude live video call service Sex chat and Sexy audio call spiking Contact me come and…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

@@ -2,7 +2,7 @@
   {
     id: "mokokchung-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Bangalore Live Video Call Service 💦📱 Full Open 🔥 Genuine 💯 Demo Available 💸 Fast Response 📞 Banni Bega 😉",
     image: "https://i.pinimg.com/originals/a8/cd/e5/a8cde5eef0ca98b217f61f7a2c009d9a.jpg",
     images: [
       "https://i.pinimg.com/originals/21/cd/8f/21cd8fe5270f04a4e7ebb8f48b8b94a3.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "mokokchung",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Bangalore Live Video Call Service 💦📱 Full Open 🔥 Genuine 💯 Demo Available 💸 Fast Response 📞 Banni Bega 😉",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "mokokchung-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in mokokchung.",
+    description: "Delhi 24/7 top best low price call girls sex service available 100% safe and secure",
     image: "https://i.pinimg.com/originals/c5/04/48/c504481fb4ab69ba1278ec058202af63.jpg",
     images: [
       "https://i.pinimg.com/originals/25/51/18/255118557a1c0199133e250849654ada.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "mokokchung",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "mokokchung-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "699/-❤️‍🔥💦♥️ HOT SHOWER B2B NURU BJ MASSAGE WITH HAPPYENDING",
     image: "https://i.pinimg.com/originals/d9/d5/53/d9d553879b2f2b873af7500b8c7fb86e.jpg",
     images: [
       "https://i.pinimg.com/originals/39/f7/9b/39f79b8971435f63cfd3c4340babca9b.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "mokokchung",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "OUR SPCL SERVICES: SEXY GIRLS ONLY AROMATHERAPY, SPA, HAPPY ENDING MASSAGE, NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE B0OB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS contact sweety Affordable Rate, 100 %…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "mokokchung-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hy I am independent college girl CAM session and real meet 100 % genuine girl 24/7 AVAILABLE",
     image: "https://i.pinimg.com/originals/cc/bf/ae/ccbfae3ca15d4b62fcf717979d6e6e9b.jpg",
     images: [
       "https://i.pinimg.com/originals/1c/e9/f6/1ce9f656d1b9598b2d778cef303efbdf.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "mokokchung",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hey guys my self puja from Bangalore near by kormangla independent meet and cam show provide if you interested with my profile come my WhatsApp or telegram let's fun i hope enjoy with me For meeting Short time 8k Full night 12k For cam 15 minutes 1k…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "mokokchung-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hi im swati providing you the best massage service in rohini,pitampura.new delhi once you avail our service you wont go anywhere in future",
     image: "https://i.pinimg.com/originals/a8/86/75/a88675660afa43bae6fdca57e1b4c919.jpg",
     images: [
       "https://i.pinimg.com/originals/0d/64/be/0d64be9f50f0b65a6463b809c4f81a78.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "mokokchung",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hi im swati providing you the best massage service in pitampura.new delhi only.once you avail our service i m sure you wont go any where in future.contact new delhi only. Nuru massage Kerela massage Deep tissue massage Ayurvedic massage Shower…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "mokokchung-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in mokokchung.",
+    description: "𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 PAYMENT SECURE 100% SATISFACTION CALL ROY FOR GENUINE",
     image: "https://i.pinimg.com/originals/e8/95/66/e895661cab8a77ed312168f2f579720d.jpg",
     images: [
       "https://i.pinimg.com/originals/9b/e0/d2/9be0d2ee89c07e9be8ace66211e53b98.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "mokokchung",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "About me NO ADVANCE PAYMENT HAND TO HAND 100% GENUINE SERVICE VIP PROFILE COLLEGE GIRLS HOUSE WIFE HOTEL AND HOME SERVICE AVAILABLE HOTEL",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

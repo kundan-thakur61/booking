@@ -2,7 +2,7 @@
   {
     id: "lajpatNagar-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hot aunty old age women big boobs fitness available",
     image: "https://i.pinimg.com/originals/b7/59/0a/b7590ade33771444fee04f4fe2788fa8.jpg",
     images: [
       "https://i.pinimg.com/originals/b7/5b/e2/b75be213be55882e0670bc735898b521.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "lajpatNagar",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hot aunty old age women big boobs fitness available whatsapp no.",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "lajpatNagar-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in lajpatNagar.",
+    description: "✅NO ADVANCE & ONLY 3000 AIRPORT MUMBAI HIGH' PROFILE COLLEGE GIRLS AVAILABLE FULL HAND CASH PAYMENT 💯 GENUINE SERVICE",
     image: "https://i.pinimg.com/originals/b7/87/95/b78795eae20ea1744472c6e0b4d02e75.jpg",
     images: [
       "https://i.pinimg.com/originals/b7/e2/b7/b7e2b72e9553d2c0682f39456b60b748.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "lajpatNagar",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "💚💚ONLY CASH PAYMENTS Cash ON HOTEL BEST CALL GIRL SERVICE JUST CALL ME AND BOOK NOW #ONLY CASH PAYMENT ALL HOTEL# CASH ON HAND GIRL % 1/ #REAL PHOTO AND REAL GIRLS AVAILABLE .TRUST ME SIR REAL PHOTO REAL GIRLS GENUINE GIRLS AVAILABLE# 2/#SERVICE…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "lajpatNagar-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Pune BODY OIL MASSAGE SERVICE DOOR STEP for Women only 100% secretaly",
     image: "https://i.pinimg.com/originals/b8/2f/be/b82fbeb575185414959dfdc589ef12f6.jpg",
     images: [
       "https://i.pinimg.com/originals/b8/3d/d9/b83dd9baf8aa1563a37dd247404cbdb8.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "lajpatNagar",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Pune BODY OIL MASSAGE SERVICE DOOR STEP for Women only 100% secretaly",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "lajpatNagar-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k fu",
     image: "https://i.pinimg.com/originals/b8/d9/35/b8d9357ff22dcbff9df6ec6374ddf975.jpg",
     images: [
       "https://i.pinimg.com/originals/b8/db/ea/b8dbea497129b41d743a40eb54558c08.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "lajpatNagar",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k full night unlimited shots with condom without condom front or back both said A TO Z service available in my self Nude live video call service Sex chat and Sexy audio call spiking Contact me come and…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "lajpatNagar-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hot bhabhi full finger video call service big boobs live show",
     image: "https://i.pinimg.com/originals/b8/f4/4d/b8f44d323752475ead78d666689b54e4.jpg",
     images: [
       "https://i.pinimg.com/originals/b9/16/50/b91650541b2163f8ad0dd76ad56cf2be.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "lajpatNagar",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Genuine bhabhi live show video call service sex chat voice call sex sex demo phone sex big boobs",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "lajpatNagar-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in lajpatNagar.",
+    description: "MyselF Radhika Really independent Call Girls Meet Dairectly No Agents it's a trusted Service",
     image: "https://i.pinimg.com/originals/b9/a0/99/b9a099d7101e029cffaf4699544ca397.jpg",
     images: [
       "https://i.pinimg.com/originals/b9/b2/10/b9b210418ab89104c14a4d16e3c2aea8.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "lajpatNagar",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hi myself Radhika Really Kannada independent College Girl Meet Dairectly No Agents it's a genuine service In call out call and doorstep services available Time passars please stay away",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

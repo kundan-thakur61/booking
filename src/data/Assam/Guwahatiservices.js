@@ -2,7 +2,7 @@
   {
     id: "guwahati-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hot Oil Erotic Massage With Hot Girls",
     image: "https://i.pinimg.com/originals/58/ac/37/58ac372b8a5942d47188335d90fb59c4.jpg",
     images: [
       "https://i.pinimg.com/originals/58/bc/d7/58bcd7618cbf10962233ff79a4b88a1f.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "guwahati",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "This is Ruth, Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with (2)girls with pressure XTRA SERVICES AVAILABLE: ****SPECIAL SERVICE ALSO…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "guwahati-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in guwahati.",
+    description: "💕😍Sexy'Girls💖💚Tight Boobs Full Nude💕😍 💙 Body To Body💚 Happy Ending massage 💕̈́♥️Happy ending💚💙💚Full nude touching💚 massage🌹💚Shower bath with girl💙💙Roma",
     image: "https://i.pinimg.com/originals/59/11/4f/59114f2b27bf1ac7c6cf2185bdb0f38a.jpg",
     images: [
       "https://i.pinimg.com/originals/59/30/25/5930255f06604dc648ff3d65aae62b03.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "guwahati",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "💕😍Sexy'Girls💖💚Tight Boobs Full Nude💕😍 💙 Body To Body💚 Happy Ending massage 💕̈́♥️Happy ending💚💙💚Full nude touching💚 massage🌹💚Shower bath with girl💙💙Romance in shower💙💙 Blowjob in shower💙💙💙 ANAL 💙PUSSY 💙 BLOWJOB💙 69 NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "guwahati-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "🥀HII RIYA INDEPENDENT CALL GIRL NO BROKEN DIRECTL MEAT GENUINE WORK 🥀",
     image: "https://i.pinimg.com/originals/59/55/fe/5955feea7bf4ba5fdf9bd6307d6cf38f.jpg",
     images: [
       "https://i.pinimg.com/originals/59/65/4b/59654bd9e9fe2761d0b08eb162723ae2.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "guwahati",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Independent call girl no advance payment hand to hand payment hotel service all over =visit Bangalore Vip service Genuine work directly meet 🥀",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "guwahati-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "2000 unlimited short door setp high profile genuine call girl service available",
     image: "https://i.pinimg.com/originals/59/91/32/5991320f6229f1d7d4781b7c37b071f1.jpg",
     images: [
       "https://i.pinimg.com/originals/59/93/00/5993006a76ba2fbb00d5184eb5a9ecca.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "guwahati",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "guwahati-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "🙏🏼No advance only 3000 unlimited shots coustomer satisfaction service ♥️",
     image: "https://i.pinimg.com/originals/59/ce/27/59ce273bdaf237b04fae94c134a28449.jpg",
     images: [
       "https://i.pinimg.com/originals/59/dd/01/59dd014b1152b9c949542db3b9430874.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "guwahati",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Call me:- Ritu Sharma Hotel and home service available 100% genuine service full satisfactionLocation:- Andheri, Sakinaka, Mora, Andheri airport, Chakala, Powai, Dadar, Bandra, Kurla, Chembur, Malad, Santacruz,Vile Parle, Mira Road, Goregaon,…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "guwahati-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in guwahati.",
+    description: "MyselF Radhika Really independent Call Girls Meet Dairectly No Agents it's a trusted Service",
     image: "https://i.pinimg.com/originals/5a/22/3a/5a223a093e10620f2f6867a446e60048.jpg",
     images: [
       "https://i.pinimg.com/originals/5a/3e/aa/5a3eaa6255a348e9ff8e0f6d9a320799.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "guwahati",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hi myself Radhika Really Kannada independent College Girl Meet Dairectly No Agents it's a genuine service In call out call and doorstep services available Time passars please stay away",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

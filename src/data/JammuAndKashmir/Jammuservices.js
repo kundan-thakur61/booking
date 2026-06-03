@@ -2,7 +2,7 @@
   {
     id: "jammu-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Karol bagh 24/7 AFFORDABLE HIGH PROFILE SAFE CALL GIRL SERVICE IN&OUTCALL AVAILABLE",
     image: "https://i.pinimg.com/originals/f5/03/c6/f503c6d1e4eec542f7e365339d6e621a.jpg",
     images: [
       "https://i.pinimg.com/originals/f5/21/77/f52177646da31d561d737687547ad121.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "jammu",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Genuine Escorts Service Call and telegram WhatsApp ( Any Time ) 24/7 Hours Service Available Day and Night Call/WhatsApp:- same number Call and WhatsApp I will Reply Immediately 24/7 Hours Service Available....... 🔆 Genuine Price Fully Clean Hotels I…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "jammu-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in jammu.",
+    description: "I have pink pussy and big boobs",
     image: "https://i.pinimg.com/originals/f5/75/c0/f575c05e6c3685481903fc3bf05806d4.jpg",
     images: [
       "https://i.pinimg.com/originals/f5/8a/91/f58a9198f2179538131c3e3aeeec2d99.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "jammu",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "I will give good service",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "jammu-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "SEXY ROUND BOOBS AFRICAN SWEET CURVY GIRL 🔥 MINAH 🔥 READY TO SATISFY YOUR SEXUAL 💦FANTASIES IN BED.......WhatsApp Her for more fun details.",
     image: "https://i.pinimg.com/originals/f6/14/93/f61493efc14e37c190ea765dce88e9f0.jpg",
     images: [
       "https://i.pinimg.com/originals/f6/7a/5e/f67a5ed14c15cee3992829277d07e352.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "jammu",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "I am Minah a new sexy round boobs Africa sweet curvy girl living in Hinjewadi, Pune. So if you are lonely and looking for a kinky and horny date .. i want to be the one for you .. :-) :-) I really enjoy the following: * Blowjobs without Condoms * Ass Licking * Pussy Licking * Fingering and Rubbing my Wet Clitoris * Face Sitting * Doggy Style *…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "jammu-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Night fun",
     image: "https://i.pinimg.com/originals/f6/84/6f/f6846fff225489c3e2f16e53b563f27a.jpg",
     images: [
       "https://i.pinimg.com/originals/f6/86/85/f6868555327e778993cd1bd820857622.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "jammu",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "I don't lie like others, straight talk, no nonsense, I don't have a wife, I want a night partner, if anyone wants to accompany me then all the details are confidential.",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "jammu-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Only 99/-Full 💝Nude 🤗Video Call Without Clothes Sex Fingerings Service ❣️✨",
     image: "https://i.pinimg.com/originals/f6/a6/b1/f6a6b1fe9a84434a889897930fc6559f.jpg",
     images: [
       "https://i.pinimg.com/originals/f6/a8/93/f6a893af00f221054b5e570c1765626e.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "jammu",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "😇BIG BOOBS AND SPICY PUSY😇 💋Nude Dancing 💋Fingering with 2,3 fingers 💋Hot voice chat in service time ❣️MAKE YOUR MOOD HAPPY AND TAKE UR PENIS IN MOUTH ON VIDEO COME FAST AND Enjoyed 😘 👉FULL OPEN WITHOUT CLOTH VIDEO CALL 🌺 GIRLFRIEND FEELING 🌺 SUCKING…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "jammu-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in jammu.",
+    description: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
     image: "https://i.pinimg.com/originals/f7/00/66/f700667dec225cc59b5ed9a97c4a0391.jpg",
     images: [
       "https://i.pinimg.com/originals/f7/0e/8e/f70e8e8bed8243e47dc90583ac230348.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "jammu",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main goal is your pleasure and relaxation. I’m a really accommodating and discreet woman, you can feel…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

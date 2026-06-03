@@ -2,7 +2,7 @@
   {
     id: "juhu-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Looking for a open minded female for chats and oral fun.",
     image: "https://i.pinimg.com/originals/a1/93/7c/a1937c1051644c6f4b8f24e3d86007fa.jpg",
     images: [
       "https://i.pinimg.com/originals/2d/fd/e1/2dfde10b27ff0b5db7c13018752ae5d1.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "juhu",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hello. This is alex 35 yrs old guy. Clean and maintained dick. Im looking for open minded college girls or ladies who love to play with my dick. Im ready to give gifts n much more as i love getting my dick sucked. If any one wants to get paid for…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "juhu-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in juhu.",
+    description: "HAND call me CASH PAYMENT ONLY GENUINE SERVICE ANAL SEX MASSAGE",
     image: "https://i.pinimg.com/originals/7a/ee/ec/7aeeec28d4958f347ea3675abc0d1173.jpg",
     images: [
       "https://i.pinimg.com/originals/5e/f7/ea/5ef7ea8c688d7b77a870f4ff635d6b77.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "juhu",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "// CALL // ME NOW HAND CASH ALL BANGALORE NEW PROFILE CALL GIRLS HOT BHABHI",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "juhu-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "THE ZEN SPA OFFERS THAILAND STYLE SOAPY MASSAGE BY 2 GIRL & NURO TANTRIC B2B OIL MASSAGE BY HOT GIRLS",
     image: "https://i.pinimg.com/originals/59/c3/2e/59c32e52049b7fdfbc790fee560862a7.jpg",
     images: [
       "https://i.pinimg.com/originals/a1/91/d1/a191d1ce43958a1c2c5029535b38865d.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "juhu",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Welcome to \"THE ZEN SPA\" Body Massage in Bangalore ,If you are looking over for a Best Body Massage Center in Bangalore? Spa provides you with the world standard body massage. Contact us - 953-555-4703 experience the Best Body Massage in Bangalore.…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "juhu-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Myself Rani I provide nude live video call service if you want kindly let me know",
     image: "https://i.pinimg.com/originals/ae/d2/a8/aed2a8d15304619e53098832b8e0b905.jpg",
     images: [
       "https://i.pinimg.com/originals/88/38/58/883858065599ad3500b0a2179cacadb4.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "juhu",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Myself Rani I provide nude live video call service if you want kindly let me know",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "juhu-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "PREMIUM CALL GIRLS 👙 Enjoy Romantic Girlfriend Experience 🍑 Oral-Fun 💦100% Sexual Pleasure 🎯 At Luxurious Place",
     image: "https://i.pinimg.com/originals/9a/ce/d2/9aced2814c3b1202a4c3c3a20088274c.jpg",
     images: [
       "https://i.pinimg.com/originals/99/38/a3/9938a3659deb06f14df8007c156d2208.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "juhu",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hi, I Am Ananya Sharma, High-Society Call-Girls At Spa-Center in Lajpat Nagar, Full Sexual Satisfaction, Special Offers Only High-Society Guest, Enjoy A Romantic and Sensual Experience At Luxurious Spa-Center in Lajpat Nagar, This Is Top-Class…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "juhu-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in juhu.",
+    description: "Intrested lady girls housewife are contact me for dating meeting and physically at full secret so contact me whatsapp",
     image: "https://i.pinimg.com/originals/76/34/35/7634358d9c3f3adcd25941abb707db80.jpg",
     images: [
       "https://i.pinimg.com/originals/62/89/ad/6289adcaf10e6946fc581a81246883ad.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "juhu",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hlw my self vicky Iam defence person Any intrested lady girls housewife are intrested for dating meeting and physically relationship so msg me fast aur hamari puri meeting puri tarah sa secret rahagi yah mai apko bharosha dilata hu 1baar biswas krka…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

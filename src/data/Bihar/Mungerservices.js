@@ -2,7 +2,7 @@
   {
     id: "munger-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hey myself sneha I'm independent girl call me now for real meet genuine sarvice available 24/7 hours all over bangalore",
     image: "https://i.pinimg.com/originals/8c/ea/1e/8cea1e1a34ae3d030166dd7e6217b6f1.jpg",
     images: [
       "https://i.pinimg.com/originals/8c/ea/dd/8ceadd1d6cdd664af08071518f424b2c.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "munger",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hi everyone I'm sneha indipendent call girl from Bangalore I provide real meet genuine services in all over bangalore Call me now for real meet genuine services in all over bangalore 24/7",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "munger-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in munger.",
+    description: "Body massage only female Want to get pussy massaged? Contact us.",
     image: "https://i.pinimg.com/originals/8d/19/8b/8d198bba5bd898033e6493fd9eb91284.jpg",
     images: [
       "https://i.pinimg.com/originals/8d/22/83/8d228356fd866413609169582e5de2fb.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "munger",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Sex massage body massage I suck the pussy and massage it with gentle chatting.",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "munger-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "House wife here suma 34yrs",
     image: "https://i.pinimg.com/originals/8d/54/6d/8d546d45388b68fa549c7db2a3fc0dd4.jpg",
     images: [
       "https://i.pinimg.com/originals/8d/61/af/8d61af5d92bfed21fdf707e8e9393bb6.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "munger",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Am genuine telugu house wife 34yrs From bennarghatta road I don't have place Only day time U need to pickup n drop or cab amount no cab bookings No pics strictly 5k 2hrs unlimited fun Only real genuine people contact Am very very average looks…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "munger-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "NO ADVANCE SAFE AND SECURE CALL GIRL SERVICE",
     image: "https://i.pinimg.com/originals/8d/87/bd/8d87bd3d2bb7f7a410970e8488ac896c.jpg",
     images: [
       "https://i.pinimg.com/originals/8d/e0/78/8de078963f55d9b95e56eb7f7a88a78a.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "munger",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "NO ADVANCE ONLY HAND CASH PAYMENT CALL GIRL SERVICE SAFE AND SECURE DIRECT MEET AFTER PAYMENT PAY ..",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "munger-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Lasya Massage And Spa Center",
     image: "https://i.pinimg.com/originals/8e/1b/ba/8e1bba7524cf0824feb5819968a4f4ab.jpg",
     images: [
       "https://i.pinimg.com/originals/8e/22/d2/8e22d201dcbdbaac8be98bbca07b3a57.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "munger",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "SEMI NUDE MASSAGE WHAT SHOWER BATHING MASSAGE ✨💋 FULL NUDE MASSAGE WITH SHOWER BATH MASSAGE 🛀 ****BLOWJAB WITH ROMANTIC FEELING****** 💃HAPPY ENDING WITH B2B MASSAGE ✨🌹 ✨OUR STAFF IS EXPERT IN HOT BIGG BOOBS SUCKING NURU MASSAGE ✨ ******SELECTION IS AVAILABLE SOUTH***** ♣️ NORMAL MASSAGE ♣️ 💃 AROMA MASSAGE 💃 ✨ DEEP TISSUE MASSAGE 💋 BODY MASSAGE 💋…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "munger-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in munger.",
+    description: "Only 100/- demo charge (No extra)😘",
     image: "https://i.pinimg.com/originals/8e/7e/b8/8e7eb8bd526e790a834989997dccbb30.jpg",
     images: [
       "https://i.pinimg.com/originals/8e/96/2e/8e962e6fe6e5db0a65ec67e45f6a4ba5.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "munger",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "I’m independent call girl available 24*7 for Nude and open video call service and also oral sex and dirty sex chat💦",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

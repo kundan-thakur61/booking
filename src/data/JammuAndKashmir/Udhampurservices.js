@@ -2,7 +2,7 @@
   {
     id: "udhampur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hii ladies /Girls/widow/auntys and mummy's any one needed perfact massage partner for relax your body and mind then connect me.",
     image: "https://i.pinimg.com/originals/f8/cf/b8/f8cfb808f9d893c4e2eea71b2fee64d1.jpg",
     images: [
       "https://i.pinimg.com/originals/f8/ee/e7/f8eee74c04f04b2964969545cf72b9bf.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "udhampur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hii ladies /Girls/widow/auntys and mummy's any one needed perfact massage partner for relax your body and mind then connect me. Any one needed genuine massage then connect time passer will be directly block and i provide extra services also with full…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "udhampur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in udhampur.",
+    description: "No Advance 🆑 x AFFORDABLE CHEAPEST RATE SAFE CALL GIRL SERVICE OUTCALL AVAILABLE",
     image: "https://i.pinimg.com/originals/f9/17/13/f917134cdf294147fb6a8f97cbc9ddfc.jpg",
     images: [
       "https://i.pinimg.com/originals/f9/18/94/f91894228c1cc8d4ecb1484f4bd9efb0.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "udhampur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "No Advance 🆑 x AFFORDABLE CHEAPEST RATE SAFE CALL GIRL SERVICE OUTCALL AVAILABLE",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "udhampur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
     image: "https://i.pinimg.com/originals/f9/3d/4d/f93d4ddb9feccc63ea59adf727af9b6a.jpg",
     images: [
       "https://i.pinimg.com/originals/f9/4c/ec/f94cec21df2f5d51dc678212794c91f0.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "udhampur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE WITH SHOWER BATH MASSAGE • FULL NUDE MASSAGE WITH SHOWER BATH…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "udhampur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Call Girls In Delhi Sexy Hot Normal To High Class Models Available In Delhi 9999O2O777 Indian Foreigners",
     image: "https://i.pinimg.com/originals/f9/7b/b5/f97bb5b8f9f3301ea5f71219e6f84fab.jpg",
     images: [
       "https://i.pinimg.com/originals/f9/86/b9/f986b996014f00140d00d04b0cfeb1bb.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "udhampur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Call Girls In Delhi Sexy Hot Normal To High Class Models Available In Delhi 9999O2O777 Indian Foreigners Call Girls In Delhi Sexy Hot Normal To High Class Models Available In Delhi 9999O2O777 Indian Foreigners Call Girls In Delhi Sexy Hot Normal To…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "udhampur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "✅Hot sexy 𝐆𝐈𝐑𝐋 high profile escort service and genuine service",
     image: "https://i.pinimg.com/originals/f9/8d/3f/f98d3fa49e2272e48130d9061a3fea39.jpg",
     images: [
       "https://i.pinimg.com/originals/f9/a0/0c/f9a00c09dfd93f0e230ee80af9d65268.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "udhampur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "About me 100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "udhampur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in udhampur.",
+    description: "2000 unlimited short door setp high profile genuine call girl service available",
     image: "https://i.pinimg.com/originals/f9/cf/3a/f9cf3adcffa5ba1a116a17f55e878068.jpg",
     images: [
       "https://i.pinimg.com/originals/f9/da/12/f9da12acd70ed5b0558ca9492161b2fa.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "udhampur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

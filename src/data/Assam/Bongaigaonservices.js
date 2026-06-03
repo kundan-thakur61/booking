@@ -2,7 +2,7 @@
   {
     id: "bongaigaon-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Mumbai LOW RATE (VIDHI CALL GIRLS) ESCORT FULL HARD FUCK WITH NAUGHTY IF YOU WANT TO FUCK MY PINK PUSSY WITH BIG BOOBS A",
     image: "https://i.pinimg.com/originals/4e/c3/bf/4ec3bf0e9fb5693b56390bc82e6c3a4b.jpg",
     images: [
       "https://i.pinimg.com/originals/4e/cb/9d/4ecb9d86a88e5f2551cd0ed5eaa10ba8.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "bongaigaon",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "LOVELY HOTTY 👅💏 HI MODELS COLLEGE GIRLS👅💋 HI PROFILE VERY NAUGHTY💦📞👙 💥ANAL SEX💥 BDSM💥 POSE💥LIP KISS💥 DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANCE💥 BOOBS RUBBING💥 LICKING💥HAND JOB 💏GIRLFRIEND EXPERIENCE💏 EROTIC MASSAGE💥 💥 SEX IN DIFFERENT…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "bongaigaon-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in bongaigaon.",
+    description: "I am A Big Slut so Come and Fuck me harder in all positions.",
     image: "https://i.pinimg.com/originals/4f/51/e7/4f51e7c15b825fdd1d821b7bbf7d7f2c.jpg",
     images: [
       "https://i.pinimg.com/originals/4f/6c/ec/4f6cecb120eedc62a6238f5ba01e2466.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "bongaigaon",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Telgram id:- prayatna0606 I have too hot figure with sexy boobs so trust me you will just feel so good inside me as Summers have started and i can understand how horny you are and instead of maturabation you can use that sperm to fuck me harder and make me scream your name. I am young 26 years Hot and Sexy girl ,I am here for some work and i also…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "bongaigaon-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Priyanka housewife available for online vc service",
     image: "https://i.pinimg.com/originals/4f/c4/03/4fc403a03b42beb89d718701987a2cda.jpg",
     images: [
       "https://i.pinimg.com/originals/4f/cd/64/4fcd641926603a617766aa45408e371e.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "bongaigaon",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hii dear i am sonia live video call nude show sarvice available whatsapp online",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "bongaigaon-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "HAND TO HAND CASE PAYMENT NO ADVANCE SAFE AND SECURE SERVICE",
     image: "https://i.pinimg.com/originals/4f/d6/e0/4fd6e0de30e85c33fe16d004ab4f6663.jpg",
     images: [
       "https://i.pinimg.com/originals/4f/e5/d8/4fe5d85bba23fc6b0003bad58e86e440.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "bongaigaon",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "PUNE FULL CASH PAY ✅ HAND TO HAND GIRL PAY GENUINE WORK HOTEL AND HOME PROVIDE 24 HR AVAILABLE",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "bongaigaon-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "❤️ KRITIKA INDEPENDENT CALL GIRL REAL MEET GENUINE SERVICE AVAILABLE 24/7💯💯",
     image: "https://i.pinimg.com/originals/4f/f5/be/4ff5be66a1db9535a57097d392714615.jpg",
     images: [
       "https://i.pinimg.com/originals/4f/fa/d9/4ffad9b9f5a07d101571590642fb0958.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "bongaigaon",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "❤️ hii gentalman My self kritika sinha I am independent girl I am college student I am hot girl Please text me genuine person 💯💯 Real meet service available 24/7💯💯 I am available now for real meet service all over banglore 24/7💯💯",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "bongaigaon-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in bongaigaon.",
+    description: "All delhi available ✨❣️ Full safe and secure Genuine CALL-GIRL Service incall and out call available",
     image: "https://i.pinimg.com/originals/50/15/c6/5015c60885c44b9660bd18c686186b34.jpg",
     images: [
       "https://i.pinimg.com/originals/50/1c/5e/501c5e5b2940596dd5469168506d3590.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "bongaigaon",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "FULL B2B MASSAGE AND FULL SEXUAL SERVICE INCALL & OUTCALL AVAILABLE ENJOY B2B NUDE SEX/ SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE BOOB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS OF MUMBAI Call/ WhatsApp Ankita (Incall/Outcall Cash…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

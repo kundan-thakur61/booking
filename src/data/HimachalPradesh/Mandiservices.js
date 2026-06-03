@@ -2,7 +2,7 @@
   {
     id: "mandi-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hii I am Neetu independent genuine location BTM Layout but only out call available and full service please no time pass",
     image: "https://i.pinimg.com/originals/ea/d2/ad/ead2ad9d77be7aa34eade8d1136888d9.jpg",
     images: [
       "https://i.pinimg.com/originals/ea/d8/a4/ead8a414190fdcd3cb6eefdda0b1a554.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "mandi",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hii I am Neetu independent genuine location BTM Layout but only out call available short time 7k 2 short 3 hours full night 12k 4 short and full service please no time pass",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "mandi-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in mandi.",
+    description: "Genuine independent 77954 door step 44304 HAND CASH PAYMENT TRULY...",
     image: "https://i.pinimg.com/originals/ea/f0/4a/eaf04a86be80a817dfc285ab0d59c6a2.jpg",
     images: [
       "https://i.pinimg.com/originals/eb/2a/e5/eb2ae5096f18009c10df093097e4301b.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "mandi",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hi cal me or whatsapp me out call door step home service available ltr escort girlfriend experience service available BY HAND CASH PAYMENT TRULY..",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "mandi-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hanisha Wants to have fun tonight",
     image: "https://i.pinimg.com/originals/eb/6f/1d/eb6f1dc24abb5e90b050c31ac131dd11.jpg",
     images: [
       "https://i.pinimg.com/originals/eb/8b/42/eb8b42057271cf6a7fcd4cd50c949840.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "mandi",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "AM Hanisha 😻✨ I LIVES IN :- Bangalore kammanahalli 📍 My juicy ass and sweet boobs Needs your attention .. Come see me and allow me to Make you a happy guy .... PING ME UP HERE 😚 I enjoy cow-girl position and riding on top, probably Sitting on a chair…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "mandi-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Bangalore video call service full nude with voice",
     image: "https://i.pinimg.com/originals/eb/b4/1a/ebb41a1e3e1ef7d192f43e5e30039fc5.jpg",
     images: [
       "https://i.pinimg.com/originals/eb/eb/6c/ebeb6c53eb58850b5c6e4dc4d29f8fd4.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "mandi",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Boobs rubbing and fingring regular customer banane ki full guarantee",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "mandi-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Genuine service ✅ Full Satisfied ✅Aunty number paid ✅ contact me",
     image: "https://i.pinimg.com/originals/ec/55/f3/ec55f34b75391f4c11138d40aa09bc11.jpg",
     images: [
       "https://i.pinimg.com/originals/ec/70/01/ec70019b5e0691b2afefd28bb9f90556.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "mandi",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "🥰Trusted video call sarvice 🥰 Full fingring with dirty voice nude show Full open Tamil girl Age 28 VIDEO CAAL CHARAGE Face demo SEX CHAT",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "mandi-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in mandi.",
+    description: "💋💋100% real girl💃💃 provided phone sex sarvice with voice and fhingring full satisfaction💦💦 no extra charge",
     image: "https://i.pinimg.com/originals/ec/c8/20/ecc82067f1dcc89ae2570ca1aca44a17.jpg",
     images: [
       "https://i.pinimg.com/originals/ec/d4/f8/ecd4f8d175a2f425f52447bd470a786c.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "mandi",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "💋💋100% real girl💃💃 provided phone sex sarvice with voice and fhingring full satisfaction💦💦 no extra charge",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

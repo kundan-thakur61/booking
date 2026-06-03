@@ -2,7 +2,7 @@
   {
     id: "vijayawada-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Low budget video chat sex service available video call sexting, phone sex in India",
     image: "https://i.pinimg.com/originals/38/69/cc/3869ccaf3757f96d2225d0bb9d9163bf.jpg",
     images: [
       "https://i.pinimg.com/originals/38/8b/b4/388bb4350be7a58446a17abaefc2c48a.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "vijayawada",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "I am beautiful girl I am available for video call, sexting or phone sex call me on whatsApp",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "vijayawada-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in vijayawada.",
+    description: "Hii am banglore 💗 Divya 💗 independent hot girl.kannada hudgi",
     image: "https://i.pinimg.com/originals/39/23/f7/3923f71147b3b02fa63ec947fc261c90.jpg",
     images: [
       "https://i.pinimg.com/originals/39/53/63/395363d677f242b4db4c2b853b4f59de.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "vijayawada",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hii am 💗 Divya 💗 independent college girl .. Out call and incall service available Due to some proverty problem dad was dead that's why am doing this work. Video call and audio call service also available. It's truly genuine service genuine person…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "vijayawada-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Call Girls In Delhi High Class Indian Models Russian Nepali All Types Girls Available In Delhi 9999O2O777",
     image: "https://i.pinimg.com/originals/39/6c/b4/396cb49f49a631091b7d36191e4b25a8.jpg",
     images: [
       "https://i.pinimg.com/originals/39/77/da/3977da8d0aa474247a333df6ed03c803.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "vijayawada",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Call Girls In Delhi High Class Indian Models Russian Nepali All Types Girls Available In Delhi 9999O2O777Call Girls In Delhi High Class Indian Models Russian Nepali All Types Girls Available In Delhi 9999O2O777Call Girls In Delhi High Class Indian…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "vijayawada-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Video call and voice call service available 💜🥵full open and face confirm free 🥵low price",
     image: "https://i.pinimg.com/originals/39/b8/56/39b856282cc121c6f20865e392ccdfd5.jpg",
     images: [
       "https://i.pinimg.com/originals/39/f2/f8/39f2f81f112351cc89cdb6ac7dd51063.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "vijayawada",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Video call and voice call service available 💜🥵full open and face confirm free 🥵low price",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "vijayawada-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "699/-❤️‍🔥SPCL💦♥️ HOT SHOWER B2B NURU MASSAGE WITH HAPPYENDING",
     image: "https://i.pinimg.com/originals/3a/0a/7e/3a0a7e743546d94cfe7d114f2ee7b6aa.jpg",
     images: [
       "https://i.pinimg.com/originals/3a/1a/2c/3a1a2cefe8d6208a7202b3fed87fddb3.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "vijayawada",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "OUR SPCL SERVICES: SEXY GIRLS ONLY AROMATHERAPY, SPA, HAPPY ENDING MASSAGE, NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE B0OB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS contact sweety Affordable Rate, 100 %…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "vijayawada-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in vijayawada.",
+    description: "I'm so hot and sexy indipendent women (100 1 minutes demo)",
     image: "https://i.pinimg.com/originals/3a/3c/ba/3a3cba1d56d2e63e905532c8c6904581.jpg",
     images: [
       "https://i.pinimg.com/originals/3a/78/15/3a781594dcb221457cddd5839ef0b543.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "vijayawada",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hello everyone I am geniune honest indipendent sexy woman Full open nude cam show available only 1000 no extra charges",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

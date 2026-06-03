@@ -2,7 +2,7 @@
   {
     id: "durg-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Rs 1000 (HyderNgr) - Full Nude🩱Body Massage in Kukatpally JNTU HyderNagar💗KPHB B2B Body massage Spa with BJ🍌 - Kukatpally / JNTU / HyderNagar",
     image: "https://i.pinimg.com/originals/ab/e4/45/abe4453fc0608b166a30e8daa2388c68.jpg",
     images: [
       "https://i.pinimg.com/originals/ac/0a/2c/ac0a2ce1c9a06075dc519a1e98596784.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "durg",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Kukatpally Massage Spa Massage starting form 1000/- HyderNagar Massage Spa Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "durg-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in durg.",
+    description: "💦 3 min 75 /Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge and make ur mood",
     image: "https://i.pinimg.com/originals/ac/bb/b2/acbbb269de325574d5381d4cb1aa0d0d.jpg",
     images: [
       "https://i.pinimg.com/originals/ac/c5/c1/acc5c171cf588c215cd633c4e60d44a6.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "durg",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "💦 3 min 75 /Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge and make ur mood happy👩‍❤️‍👨 40min 299 ❤ full nude service call service ❤ phone call sex ❤ sex chat ❤ sex education ❤ maximum…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "durg-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hi im swati providing you the best massage service in rohini,pitampura.new delhi once you avail our service you wont go anywhere in future",
     image: "https://i.pinimg.com/originals/ad/17/4f/ad174f8ec0fdbf70c316c070d00641e2.jpg",
     images: [
       "https://i.pinimg.com/originals/ad/18/c8/ad18c800caeac72d12d15c7f1234501f.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "durg",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hi im swati providing you the best massage service in pitampura.new delhi only.once you avail our service i m sure you wont go any where in future.contact new delhi only. Nuru massage Kerela massage Deep tissue massage Ayurvedic massage Shower…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "durg-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "🔥 RS 5OOO NIGHT -OR- DAY ❣️ NO ADVANCE DIRECT PAY IN YOUR ROOM SATISFACTION GUARANTEE 24x7 Independent Delhi Escorts - Call Girl Services",
     image: "https://i.pinimg.com/originals/ad/4a/4d/ad4a4da4ed97aa0ecb364cc95d0dff25.jpg",
     images: [
       "https://i.pinimg.com/originals/ad/5f/78/ad5f7816a2ca4b74fd7a4c0cc1fbe25e.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "durg",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "𝗖𝗔𝗟𝗟 𝗚𝗜𝗥𝗟𝗦 𝗜𝗡 𝗗𝗘𝗟𝗛𝗜 𝗥𝗔𝗦𝗛𝗠𝗜 ✔️ ✔️ 𝗗𝗲𝗹𝗵𝗶 𝗖𝗮𝗹𝗹 𝗚𝗶𝗿𝗹𝘀 𝗘𝘀𝗰𝗼𝗿𝘁𝘀 𝗣𝗿𝗼𝘃𝗶𝗱𝗲𝗿 𝟮𝟰𝘅𝟳 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗗𝗲𝗹𝗵𝗶 𝗖𝗮𝗹𝗹 𝗚𝗶𝗿𝗹𝘀- 𝙑★𝙄★𝙋 𝙂𝙚𝙣𝙪𝙞𝙣𝙚 𝙃𝙞𝙜𝙝 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙈𝙤𝙙𝙚𝙡'𝙨 𝘼𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 - 𝘿𝙚𝙡𝙝𝙞 𝙉𝙘𝙧, 𝙉𝙤𝙞𝙙𝙖 𝙂𝙪𝙧𝙜𝙖𝙤𝙣 𝙃𝙤𝙩𝙚𝙡 & 𝙃𝙤𝙢𝙚 𝙎𝙚𝙧𝙫𝙞𝙘𝙚 ( 𝘿𝙖𝙮 / 𝙉𝙞𝙜𝙝𝙩 ) 𝘾𝙖𝙡𝙡 𝙂𝙞𝙧𝙡𝙨 𝙍𝙚𝙖𝙙𝙮 𝙛𝙤𝙧 𝘼𝙡𝙡 𝙔𝙤𝙪𝙧 𝙒𝙞𝙨𝙝𝙚𝙨 𝙖𝙣𝙙…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "durg-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "hy guys genuine phone chat voice chat talk contact my watsApp number",
     image: "https://i.pinimg.com/originals/ad/7d/db/ad7ddb601e8704c3f9e1f43bfd50053e.jpg",
     images: [
       "https://i.pinimg.com/originals/ad/90/7f/ad907f560ca9aa11a44a6a29c12ea65a.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "durg",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hy guys sexy girl all time available content me my watsApp number",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "durg-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in durg.",
+    description: "💛//Call Riya Patel//💛 Cash Payment Call Me Genuine model inCall OutCall services available in all Mumbai Andheri",
     image: "https://i.pinimg.com/originals/ad/dc/01/addc01f42cca1ca5687e21031ef0bf14.jpg",
     images: [
       "https://i.pinimg.com/originals/ad/f5/db/adf5db86d3df7d2f19aaa4703123f081.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "durg",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "✅👉Call Ankita Sharma ✅ FULL CASH PAYMENT HAND TO HAND VIP MODEL IN MUMBAI ✅✅ MUMBAI ✅ ✅ HOT & SEXY MODELS // COLLEGE GIRLS Andheri bandra Khar colaba juhu Pawoi Chembur Santacruz Vashi Malad Bhiwandi Kalyan Dombivli Thane",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

@@ -2,7 +2,7 @@
   {
     id: "leh-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Siya full open video call service with voice full satisfaction",
     image: "https://i.pinimg.com/originals/85/6a/68/856a689a84a533cbae16a7e61db6f9a7.jpg",
     images: [
       "https://i.pinimg.com/originals/b0/fd/37/b0fd37c08969832fc8c1fba3dcbd4beb.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "leh",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "💋💋 About me Hey Priya, ❤I am Priya.❤ I am an independent call girl (College Student ) , ❤offering now My deep Nude Video Call service, ❤ Sex 💋chat with Nude pics and many more as per your interest❤:- 👆 Will offer on Nude video call",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "leh-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in leh.",
+    description: "Elite Class Hot Sexy Independent Escorts",
     image: "https://i.pinimg.com/originals/0b/97/b7/0b97b70fb6b5c6948a1804d54db77c8e.jpg",
     images: [
       "https://i.pinimg.com/originals/0c/42/dc/0c42dcd0f9c88e17bb2e10efe7ac4474.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "leh",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Call And WhatsApp Me ☺️ I am open to meet and please at your place as well as in hotel. Need to book hotel room.",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "leh-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "HAND TO HAND CASH PAYMENT NO ADVANCE NO EXTRA CHARGES ME 💜",
     image: "https://i.pinimg.com/originals/18/93/76/189376bc7ea32090ce8bfb6f310e25c7.jpg",
     images: [
       "https://i.pinimg.com/originals/61/50/f0/6150f0e7ebc3d2a297b308d209c78973.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "leh",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hey guys my self puja from Bangalore near by kormangla independent meet and cam show provide if you interested with my profile come my WhatsApp or telegram let's fun i hope enjoy with me For meeting Short time 8k Full night 12k For cam 15 minutes 1k…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "leh-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "I'm independent mature pure top massager for everyone one",
     image: "https://i.pinimg.com/originals/2f/38/c4/2f38c4432cda1cbd9b06ad5ac18bd07f.jpg",
     images: [
       "https://i.pinimg.com/originals/09/01/4d/09014db485d8ffed332d2b315629eaf4.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "leh",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hii my name is raj and I am 21 years old I am a professional massager Upper body Lower body Front body Back body Back pain point Leg muscle Leg muscle cramp And mainly full body These are all me in menu of my massages If you need more information…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "leh-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "ONLY HAND TO HAND PAYMENT ONLY GENUINE PERSON COME !!",
     image: "https://i.pinimg.com/originals/5e/dd/df/5edddf14a0324e2782262fb34e8738c3.jpg",
     images: [
       "https://i.pinimg.com/originals/24/92/d4/2492d4a56c030207f0a777a834e41b6d.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "leh",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "NO ADVANCE ONLY CASH PAYMENT 💸💸 ____FULL HAND TO HAND HIGH PROFILE GIRLS 100% GENUINE 24 HOURS AVAILABLE",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "leh-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in leh.",
+    description: "____Genuine Vip Independent Escort Service In Bangalore Available For Doorstep And Hotel Service ____",
     image: "https://i.pinimg.com/originals/b6/e4/10/b6e410330f59983e3a3ac78161db204f.jpg",
     images: [
       "https://i.pinimg.com/originals/3c/43/1f/3c431f6687b46100c755299e4faa7178.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "leh",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Call or What`s App Me __97420 Manu 25924__ For More Details-Bangalore Genuine Independent Escort Service Available For Doorstep And Hotel Service ... \"NO Cheating NO Misbehave\" ...... This Ads Is Only For Those Clients Who Are Looking For Genuine And…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

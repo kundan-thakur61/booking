@@ -2,7 +2,7 @@
   {
     id: "dimapur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "🥰FRND WITH BENEFITS ✅",
     image: "https://i.pinimg.com/originals/40/14/7d/40147d10a2433dc3866f25a3571e236f.jpg",
     images: [
       "https://i.pinimg.com/originals/be/98/23/be9823f636f3d6a70bb2d832760b837d.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "dimapur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "❤️hi I'm Shivani looking frnd with benefits daily chat and call and vc like enjoy........ I need long term",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "dimapur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in dimapur.",
+    description: "❤️ KRITIKA INDEPENDENT CALL GIRL REAL MEET GENUINE SERVICE AVAILABLE 24/7💯💯",
     image: "https://i.pinimg.com/originals/b1/b8/42/b1b84236b42e0ac50b962c6a98ffb524.jpg",
     images: [
       "https://i.pinimg.com/originals/a8/cd/e5/a8cde5eef0ca98b217f61f7a2c009d9a.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "dimapur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "❤️ hii gentalman My self kritika sinha I am independent girl I am college student I am hot girl Please text me genuine person 💯💯 Real meet service available 24/7💯💯 I am available now for real meet service all over banglore 24/7💯💯",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "dimapur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Happy Ending massage spa Manikonda B2B full romance Nude ❤️Girls selection available walk-in, Call or whatsapp me now",
     image: "https://i.pinimg.com/originals/b9/d3/9d/b9d39de692be8d6878a8bb03f9891a76.jpg",
     images: [
       "https://i.pinimg.com/originals/69/08/cd/6908cd8dc1b11736f827f9e0c187d1fb.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "dimapur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hello guys Welcome to our spa and today you gets very hot girls 😍Normal massage 🤪Aroma Massage 😛Deep Tissue Massage 😗😂Body polish massage 🥳Thai Massage 🤣Head massage 🤩Foot massage 😘Oil massage 👅Gel massage 👄Cream massage Extras available ❣️Topless massage 🥰Full nude massage 💋Body to body rubbing massage 🤩Romance 💓Magical touchings 💙Happy ending…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "dimapur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "♥️OPEN VIDEO CALL SERVICE AND AUDIO CALL SERVICE AND SEX CHAT AVAILABLE ♥️",
     image: "https://i.pinimg.com/originals/52/96/6c/52966c9236931f401dd5ffcb46aa8cb7.jpg",
     images: [
       "https://i.pinimg.com/originals/2e/d6/ac/2ed6ac18a0ea09a000910988df9d0e8a.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "dimapur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "NUDE VIDEO CALL SERVICE AND AUDIO CALL SERVICE AND SEX CHAT AVAILABLE ♥️",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "dimapur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Happy Ending massage spa Manikonda B2B full romance Nude ❤️Girls selection available walk-in, Call or whatsapp me now",
     image: "https://i.pinimg.com/originals/c7/3b/a6/c73ba6254d27a8d6014aae7c3a92e50a.jpg",
     images: [
       "https://i.pinimg.com/originals/14/65/ad/1465ad755ff66f607ed9386c82135f16.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "dimapur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hello guys Welcome to our spa and today you gets very hot girls 😍Normal massage 🤪Aroma Massage 😛Deep Tissue Massage 😗😂Body polish massage 🥳Thai Massage 🤣Head massage 🤩Foot massage 😘Oil massage 👅Gel massage 👄Cream massage Extras available ❣️Topless massage 🥰Full nude massage 💋Body to body rubbing massage 🤩Romance 💓Magical touchings 💙Happy ending…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "dimapur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in dimapur.",
+    description: "Lasya Massage And Spa Center",
     image: "https://i.pinimg.com/originals/b4/ba/f8/b4baf8cbd1986c9afe0311c68a47c480.jpg",
     images: [
       "https://i.pinimg.com/originals/43/0f/1d/430f1d94962335605e82272de50a8658.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "dimapur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "SEMI NUDE MASSAGE WHAT SHOWER BATHING MASSAGE ✨💋 FULL NUDE MASSAGE WITH SHOWER BATH MASSAGE 🛀 ****BLOWJAB WITH ROMANTIC FEELING****** 💃HAPPY ENDING WITH B2B MASSAGE ✨🌹 ✨OUR STAFF IS EXPERT IN HOT BIGG BOOBS SUCKING NURU MASSAGE ✨ ******SELECTION IS AVAILABLE SOUTH***** ♣️ NORMAL MASSAGE ♣️ 💃 AROMA MASSAGE 💃 ✨ DEEP TISSUE MASSAGE 💋 BODY MASSAGE 💋…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

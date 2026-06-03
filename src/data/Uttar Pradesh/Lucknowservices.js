@@ -2,7 +2,7 @@
   {
     id: "lucknow-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Independent sex girl Radha No Broker direct hand cash payment",
     image: "https://i.pinimg.com/originals/8e/b9/ce/8eb9ce58f7bfa3c86990e467666da6b5.jpg",
     images: [
       "https://i.pinimg.com/originals/42/f6/22/42f622b2a3b784187308c761c90cbbe1.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "lucknow",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Radha... Call & WhatsApp Now Hand to hand cash only direct girl no Agent No Broker High class independent girls models House wife air hostess, college girls call center girls,who are not only good looking but also very mannered.incall _out Call…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "lucknow-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in lucknow.",
+    description: "Anjali Sharma NO💸 ADVANCE NEW MODEL 💋SEXY TRUSTED COLLAGE CALL GIRL IN PUNE 🤞",
     image: "https://i.pinimg.com/originals/81/67/16/816716daa4970628483c60a6fb4bf3d0.jpg",
     images: [
       "https://i.pinimg.com/originals/70/09/bc/7009bc669d111a208b62f547b14c7c16.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "lucknow",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "NO ADVANCE DIRECT CASH PAYMENT IN HAND FULL SAFE AND SECURE HOTEL AND HOME SERVICE AVAILABLE WE GURANTEE 100% SATISFACTION IN LOWEST PRICE ( Incall & outcall ) service 24*7 hrs available here.. Location :- Koregaon park Viman Nagar Hadapsar kharadi…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "lucknow-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hye I'm Ritu independent girl",
     image: "https://i.pinimg.com/originals/53/19/7c/53197c79cb00ae2db3012bbd76a339e5.jpg",
     images: [
       "https://i.pinimg.com/originals/61/8d/a6/618da69a806774f601aa23a315dc4b3d.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "lucknow",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "No advance only cash payment only genuine person comes 🙏",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "lucknow-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Available_Tonight",
     image: "https://i.pinimg.com/originals/4f/fc/aa/4ffcaa93a0e98329144f67f87cd8f102.jpg",
     images: [
       "https://i.pinimg.com/originals/94/7e/4c/947e4cb91c54c1f9401c55449c1075ff.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "lucknow",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hello guys! I'm young , sweet and full of irresistible charm - with a beautiful face, a phenomenal figure and a sensual style that's sure to captivate you. My friendly, playful nature makes every moment with me unforgettable........",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "lucknow-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Bangalore aunty Room sex videos genuine genuine Hot girl body video sex chat with room sex audio call and with voice service railway real sex and mass",
     image: "https://i.pinimg.com/originals/a6/52/da/a652da06e963e0523d9a471d6949cadc.jpg",
     images: [
       "https://i.pinimg.com/originals/f3/8e/d6/f38ed6831bc4e1153d8b10325c1d1a3d.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "lucknow",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Bangalore aunty Room sex videos genuine genuine Hot girl body video sex chat with room sex audio call and with voice service railway real sex and massage service",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "lucknow-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in lucknow.",
+    description: "Hi,im anjali providing u the dynamic massage therapy in rohini and pitampura.new delhi only",
     image: "https://i.pinimg.com/originals/09/7f/43/097f43faa8c52d061eb620e79f7c5364.jpg",
     images: [
       "https://i.pinimg.com/originals/ed/78/9f/ed789f1f0cf7fefd87a8c2556796d436.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "lucknow",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hi,im anjali providing you the dynamic massage therapy in pitampuranew delhi only.once you take my massage service you wont go any where in future Nuru massage Kerala massage Deep tissue Oil and cream massage Aroma therapy",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

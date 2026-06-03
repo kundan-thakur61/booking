@@ -2,7 +2,7 @@
   {
     id: "baramulla-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k fu",
     image: "https://i.pinimg.com/originals/f3/17/43/f31743cce71c6d63e9e92c38ed0cd89e.jpg",
     images: [
       "https://i.pinimg.com/originals/f3/25/41/f325415dd999c4825b844fc61f51c30a.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "baramulla",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k full night unlimited shots with condom without condom front or back both said A TO Z service available in my self Nude live video call service Sex chat and Sexy audio call spiking Contact me come and…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "baramulla-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in baramulla.",
+    description: "✅INDEPENDENT CALL GIRL REAL MEET GENUINE SERVICE AVAILABLE",
     image: "https://i.pinimg.com/originals/f3/48/42/f34842fe45524f7dfa4fd7fc3f5ce4b4.jpg",
     images: [
       "https://i.pinimg.com/originals/f3/54/d9/f354d943a1c1c1fae59ca724193079b9.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "baramulla",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "About me ❤️ hii gentalman My self Aliya Sharma I am independent girl I am college student I am very hot girl Please text me genuine person 💯💯 Real meet service available 24/7💯💯 I am available now for real meet service all over Bangalore 24/7💯💯",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "baramulla-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hy i am independent girl CAM session and real meet available 100% genuine escorts service all type service 24/7 AVAILABLE",
     image: "https://i.pinimg.com/originals/f3/8d/77/f38d773fb20ed39d19479fab595df310.jpg",
     images: [
       "https://i.pinimg.com/originals/f3/8e/d6/f38ed6831bc4e1153d8b10325c1d1a3d.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "baramulla",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Out call and incall Hotel ya home Blojob Kissing Full open body to body massage Oral sex BDSM No time pass only genuine MSG me CAM session avelable Full nude with face and full satisfaction Genuine service",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "baramulla-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hi guys I am Neetu independent only out call available service",
     image: "https://i.pinimg.com/originals/f4/08/d2/f408d2abde46179e0e80c818f5606380.jpg",
     images: [
       "https://i.pinimg.com/originals/f4/30/59/f430596a1ba7c2df4bec48584edab626.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "baramulla",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hii sir l me Neetu independent but only out call available short time 7k 2 short 3 hours full night 12k 4 short and full service please no time pass",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "baramulla-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Big boobs live show full finger video full service line sex show genuine",
     image: "https://i.pinimg.com/originals/f4/70/65/f47065f02cd271aabcd39755caf85238.jpg",
     images: [
       "https://i.pinimg.com/originals/f4/a8/88/f4a888da38cc6f84b338a242b2e1567f.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "baramulla",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hot full live show big boobs finger show video call service chat chat audio sex demo sex",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "baramulla-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in baramulla.",
+    description: "𝙷𝚘𝚝 𝙸𝚗𝚍𝚘𝚗𝚎𝚜𝚒𝚊𝚗 𝚐𝚒𝚛𝚕 😘😘😘😘 in Bangalore",
     image: "https://i.pinimg.com/originals/f4/e8/3f/f4e83fc8655a6c3e1b5cadd939bf0021.jpg",
     images: [
       "https://i.pinimg.com/originals/f4/f0/94/f4f09456fa0923545073d43207a38021.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "baramulla",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "All service available and body massage also available",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

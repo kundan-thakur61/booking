@@ -2,7 +2,7 @@
   {
     id: "tirupati-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "💦 3 min 75 /Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge and make ur mood",
     image: "https://i.pinimg.com/originals/36/d3/e6/36d3e6c2c92a830647ec247ce84e2d7e.jpg",
     images: [
       "https://i.pinimg.com/originals/36/db/ff/36dbff945930c85381ea311b5d4b5978.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "tirupati",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "💦 3 min 75 /Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge and make ur mood happy👩‍❤️‍👨 40min 299 ❤ full nude service call service ❤ phone call sex ❤ sex chat ❤ sex education ❤ maximum…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "tirupati-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in tirupati.",
+    description: "TANI HERE TO MAKE YOUR DAY UNFORGETTABLE MESSAGE ME ON TELEGRAM FOR MORE DETAILS",
     image: "https://i.pinimg.com/originals/37/27/d2/3727d24f02befd40cdd3cb8142728454.jpg",
     images: [
       "https://i.pinimg.com/originals/37/33/a3/3733a37f014b3a17e3cd33b48f666366.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "tirupati",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Message me on telegram for more details I am waiting for your call and message",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "tirupati-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Independent sex girl Radha No Broker direct hand cash payment",
     image: "https://i.pinimg.com/originals/37/77/09/377709af74da3d2faf2e4aa50c5b9d66.jpg",
     images: [
       "https://i.pinimg.com/originals/37/c6/d5/37c6d5b34db9e17590eabbedd07cf02c.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "tirupati",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Radha... Call & WhatsApp Now Hand to hand cash only direct girl no Agent No Broker High class independent girls models House wife air hostess, college girls call center girls,who are not only good looking but also very mannered.incall _out Call…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "tirupati-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Call Girls In Delhi Sexy Hot Normal To High Class Models Available In Delhi 9999O2O777 Indian Foreigners",
     image: "https://i.pinimg.com/originals/37/f0/b5/37f0b54500470c484059c6bef6bcecbf.jpg",
     images: [
       "https://i.pinimg.com/originals/37/fd/66/37fd66bd24aea4296bb407c681b26658.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "tirupati",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Call Girls In Delhi Sexy Hot Normal To High Class Models Available In Delhi 9999O2O777 Indian Foreigners Call Girls In Delhi Sexy Hot Normal To High Class Models Available In Delhi 9999O2O777 Indian Foreigners Call Girls In Delhi Sexy Hot Normal To…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "tirupati-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Body Massage in Andheri",
     image: "https://i.pinimg.com/originals/38/37/f2/3837f27f4560094ed8db7a0f5ff1385a.jpg",
     images: [
       "https://i.pinimg.com/originals/38/39/8d/38398da6cd1f8925ac8e0e76a63b6641.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "tirupati",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Best Spa in Andheri. Body Massage Thai Massage etc",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "tirupati-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in tirupati.",
+    description: "ONLY 99 PROVIDE💋 LIVE FULL OPEN NUDE💦 VIDEO CALL 💦BOOBS PRESSING 💋SERVICE 100%GENUINE SAFE AND SEQURE",
     image: "https://i.pinimg.com/originals/38/52/29/385229b5b8ab7287e3030249f1eea7bb.jpg",
     images: [
       "https://i.pinimg.com/originals/38/53/b3/3853b377963fc458b4a7c11755d883f4.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "tirupati",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "ONLY 99 PROVIDE💋 LIVE FULL OPEN NUDE💦 VIDEO CALL 💦BOOBS PRESSING 💋SERVICE 100%GENUINE SAFE AND SEQURE",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

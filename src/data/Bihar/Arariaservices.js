@@ -2,7 +2,7 @@
   {
     id: "araria-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Massage service",
     image: "https://i.pinimg.com/originals/69/ce/73/69ce731a369b65659dde76b3099c05e1.jpg",
     images: [
       "https://i.pinimg.com/originals/69/f2/42/69f2426e6d89fc07baac46c27caa0bd7.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "araria",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hi ,I am genuinely providing massage service at door step at reasonable rate.only genuine people contact. Couples and single can contact only. No time pass.",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "araria-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in araria.",
+    description: "HYY I AM INDU INDEPENDENT GIRL VVIP SERVICE AVAILABLE CASH PAYMENT GENUINE PROFILE HOT SEXY MODEL 24HRS",
     image: "https://i.pinimg.com/originals/6a/6b/a7/6a6ba7f1a6c0241fbf88dfc6cc979e26.jpg",
     images: [
       "https://i.pinimg.com/originals/6a/7e/86/6a7e86e4e0a73f96a80849d2fd63783e.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "araria",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "HELLO I AM INDU WHATSAPP ONLY GENUINE PERSON GENUINE REAL MEET DOOR-STEP SERVICE AVAILABLE WHATSAP ME NOW 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗔𝗹𝗹 𝗛𝗢𝗧𝗘𝗟𝗦 𝗜𝗡 GUARANTEE FULL SATISFACTION & IN CASE OF ANY UNHAPPY EXPERIENCE, WE WOULD REFUND YOUR FEES, WITHOUT ANY QUESTIONS…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "araria-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Am Shreya truly genuine independent call girl direct meet independent escorts service available",
     image: "https://i.pinimg.com/originals/6a/c0/1d/6ac01d6160a3d4d0946f9dc0238559f2.jpg",
     images: [
       "https://i.pinimg.com/originals/6a/c3/86/6ac386c81a238291d69057319254d5df.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "araria",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "It's a safe and genuine service available in Bangalore all types of services available including hotel and home service available direct meet also available no broker involved with me try and enjoy your day with me",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "araria-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "I will provide best body massage",
     image: "https://i.pinimg.com/originals/6a/e8/db/6ae8db77501b553b4c99f932966db534.jpg",
     images: [
       "https://i.pinimg.com/originals/6b/03/2f/6b032f31baa47815091174876aaec253.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "araria",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi .siddhu 26 I'm professional body massager I will provide Oil and cream. Deep tissue. You will feel relaxed and relif from all body pains Stress relief free And get free from body pains",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "araria-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Genuine independent 77954 door step 44304 HAND CASH PAYMENT TRULY...",
     image: "https://i.pinimg.com/originals/6b/2c/b4/6b2cb4ca257bc95151cf0dd55131d8b1.jpg",
     images: [
       "https://i.pinimg.com/originals/6b/36/89/6b36897b2ff1e7ed7722dbe385a430fe.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "araria",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hi cal me or whatsapp me out call door step home service available ltr escort girlfriend experience service available BY HAND CASH PAYMENT TRULY..",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "araria-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in araria.",
+    description: "Nude video calling service full open full masti fingering also pussy",
     image: "https://i.pinimg.com/originals/6b/5c/20/6b5c203ecca37176596607f69abd497a.jpg",
     images: [
       "https://i.pinimg.com/originals/6b/5e/96/6b5e96760415a4c5d8cf933e44d1874d.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "araria",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hi👅👅 I am punam singh🍌🍌 I am 20👄👄 I like to sex videos call and nude service for You 💋 Full open boby video call service with voice and 👍 fingering 💞💋 Provide 💞 Note --contact only genuine people no niklugi time pass And only for paid service A…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

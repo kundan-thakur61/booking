@@ -2,7 +2,7 @@
   {
     id: "itanagar-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Ahmedabad ✅ 24x7 AFFORDABLE CHEAPEST RATE SAFE CALL GIRL SERVICE AVAILABLE OUTCALL AVAILABLE",
     image: "https://i.pinimg.com/originals/43/0f/1d/430f1d94962335605e82272de50a8658.jpg",
     images: [
       "https://i.pinimg.com/originals/43/16/79/4316794eaca6f4dd73df733970b0ab91.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "itanagar",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "itanagar-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in itanagar.",
+    description: "Hot curvy collage girls kissing body to body hard rubbing makes your day very special",
     image: "https://i.pinimg.com/originals/43/74/cb/4374cb5b426b5b57abe355dccbc5fa82.jpg",
     images: [
       "https://i.pinimg.com/originals/43/98/60/43986047ece8406c9b8d3e400360171d.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "itanagar",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with (2)girls with pressure XTRA SERVICES AVAILABLE: ******* **TOPLESS TOUCHING*** ***HAPPY ENDING***…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "itanagar-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "BENGALURU ESCORT HY I AM INDEPENDENT COLLEGE GIRLS CAM SESSION AND SECURE SERVICE I NEED MONEY GENUINE SERVICE FULL SATISFACTION 24/7 AVAILABLE",
     image: "https://i.pinimg.com/originals/44/0c/de/440cde335174bc520acbd59b9c391b44.jpg",
     images: [
       "https://i.pinimg.com/originals/44/29/ba/4429ba36b8694753e866128380982301.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "itanagar",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Cam session Full nude with face Out call and incall Hotel ya home Blojob Kissing Lipstick Without condom Anal sex Oral sex BDSM",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "itanagar-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Pune BODY OIL MASSAGE SERVICE DOOR STEP for Women only 100% secretaly",
     image: "https://i.pinimg.com/originals/44/5c/c1/445cc1f91adad3f8434c702463da2a39.jpg",
     images: [
       "https://i.pinimg.com/originals/44/88/f9/4488f92063626636f9533912026162f4.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "itanagar",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Pune BODY OIL MASSAGE SERVICE DOOR STEP for Women only 100% secretaly",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "itanagar-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "QUEEN MASSAGE.NURU NUDE THAI HAPPY ENDING SPA FUL BODY B2B BJ FEMALE*",
     image: "https://i.pinimg.com/originals/44/99/4c/44994cb120e6c6b8768e2009d3fb20e0.jpg",
     images: [
       "https://i.pinimg.com/originals/44/9d/b3/449db326105a79cd7973133655bec08f.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "itanagar",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "QUEEN Spa Massage services in Bangalore:- Call Us Ms.Sneha. 96111 - 85789 (Or ) Whatsapp Silver package :- Full Nude Massage magical touching massage body to body rubbing with Girl romance and kissing and hugging and happy ending sir Duration :-1hr…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "itanagar-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in itanagar.",
+    description: "SOUTH🍑🍆 AND NORTH🍑🍆 AND NORTH EAST COLLAGE GIRLS💦LOW PRICE 💥👅💦 B2B & NURU 💥👅👅💦*HAPPY ENDING👅💦 👅💦ROMANCE👅💦BODY TO BODY MASSAGE👅💦FULL NUDE MASSAGE👅💦SPA",
     image: "https://i.pinimg.com/originals/45/12/54/451254421060a1f3b20d1980ea99bb08.jpg",
     images: [
       "https://i.pinimg.com/originals/45/41/af/4541af477750e102c961f1bb6b873d5c.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "itanagar",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "WHATS APP ME 96111-94827EROTIC MASSAGE •BLOWJOB👅 FULL NUDE • NURU👅💦ERVICE SHOWER 👅👅👅 GIRLFRIEND EXPERIENCE💏❤️DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANGIRLFRIEND EXPERIENCE💏💥 LICKING💥HAND JOB ❤️DEEP SUCKING WITHOUT CONDOM 💥 CUM ON FACE 💥 NUDE DANCE 💥 BOOBS RUBBING💥 LICKING💥 HAND JOB ❤️EROTIC MASSAGE • BLOWJOB👅 • • FULL NUDE • NURU •💦 ❤️DEEP…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

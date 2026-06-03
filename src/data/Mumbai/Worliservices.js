@@ -2,7 +2,7 @@
   {
     id: "worli-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Sexy video call genuine girl proved",
     image: "https://i.pinimg.com/originals/44/0c/de/440cde335174bc520acbd59b9c391b44.jpg",
     images: [
       "https://i.pinimg.com/originals/61/8d/a6/618da69a806774f601aa23a315dc4b3d.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "worli",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hot sexy girl phone sex camsex sexting adult live video call genuine service in...",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "worli-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in worli.",
+    description: "Live video call sex service available Full nude open showing Video sex Phone sex service available",
     image: "https://i.pinimg.com/originals/49/8b/8b/498b8b6abcf74486ed33fa02c4518578.jpg",
     images: [
       "https://i.pinimg.com/originals/c2/d3/ea/c2d3ea50a8337856a2c0dde6d2282def.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "worli",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hy I am banglore hudgi nishu geninune video call service available",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "worli-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "INDIPENDENT💸 𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 PAYMENT HAND TO HAND FULL SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE 24X7 AVAILABLE",
     image: "https://i.pinimg.com/originals/30/65/63/3065637abc86ec1a4c823c646a1d537b.jpg",
     images: [
       "https://i.pinimg.com/originals/3f/6a/0a/3f6a0ae67b6ea1989d1e1014f9168cd8.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "worli",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "INDIPENDENT💸 𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 PAYMENT HAND TO HAND FULL SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE 24X7 AVAILABLE college girl model VIP available full service",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "worli-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hot oil erotic massage",
     image: "https://i.pinimg.com/originals/71/71/5e/71715eb6e066b7b939b8f2e49cd98e2d.jpg",
     images: [
       "https://i.pinimg.com/originals/71/1d/cd/711dcd26ea99acedc10cb1100cf37b91.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "worli",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "This is Ruth, Today special Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with (2)girls with pressure XTRA SERVICES AVAILABLE: ****SPECIAL SERVICE ALSO…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "worli-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Genuine bhabhi full service video call service complete final service",
     image: "https://i.pinimg.com/originals/63/c7/e1/63c7e1aa351cda06d34e0f882a62cdf9.jpg",
     images: [
       "https://i.pinimg.com/originals/2f/7a/46/2f7a46cd61fa926f2dac54decc26caee.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "worli",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hot full live show big boobs finger show video call service chat chat audio sex demo sex",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "worli-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in worli.",
+    description: "NO ADVANCE PAYMENT HAND TO HAND 100% GENUINE SERVICE VIP PROFILE COLLEGE GIRLS HOUSE WIFE HOTEL AND HOME SERVICE AVAILABLE IN PUNE 24/7",
     image: "https://i.pinimg.com/originals/8a/04/3b/8a043bb63bcae19c772b3bfef6affbf4.jpg",
     images: [
       "https://i.pinimg.com/originals/81/a8/6d/81a86dbb6f772e0d46a01cfa93b6c608.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "worli",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "No**Online Payment, no Fraud only direct hand to hand payment at the time of meeting--**************** ★ 100% Customers Satisfaction Guarantee // Profiles Top Grade Service // 100% Cooperative All round ★ HOT & SEXY MODELS // COLLEGE GIRLS //…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

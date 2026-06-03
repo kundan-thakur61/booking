@@ -2,7 +2,7 @@
   {
     id: "giridih-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hii am 💗Anusha💗 independent hot and sexy girl .kannada hudgi",
     image: "https://i.pinimg.com/originals/ff/a4/5d/ffa45dde08771142525f87a82293f81a.jpg",
     images: [
       "https://i.pinimg.com/originals/ff/ba/a9/ffbaa95a5b2f6dfbe707be4dd138c740.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "giridih",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hii am 💗 Anusha 💗 independent college girl .. Out call and incall service available Due to some proverty problem dad was dead that's why am doing this work. Video call and audio call service also available. It's truly genuine service genuine person…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "giridih-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in giridih.",
+    description: "NEW BEAUTIFUL AFRICAN SEXY CURVY ASS GIRL 🔥 BECKY 🔥 READY TO SATISFY YOUR SEXUAL 💦FANTASIES IN BED.......WhatsApp Her for more fun details.",
     image: "https://i.pinimg.com/videos/thumbnails/originals/06/04/ad/0604ad691b9c8c164f21aecaab8f3127.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/06/3e/97/063e97f3a99815ab1be9140019740f38.0000000.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "giridih",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "I am Becky a new beautiful Africa sexy curvy ass girl living in Hinjewadi, Pune. So if you are lonely and looking for a kinky and horny date .. i want to be the one for you .. :-) :-) I really enjoy the following: * Blowjobs without Condoms * Ass Licking * Pussy Licking * Fingering and Rubbing my Wet Clitoris * Face Sitting * Doggy Style * Outcall…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "giridih-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Happy Ending massage spa Manikonda B2B full romance Nude ❤️Girls selection available walk-in, Call or whatsapp me now",
     image: "https://i.pinimg.com/videos/thumbnails/originals/0d/28/24/0d282447e0ac43fd1bac6af3859be174.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/11/6c/1a/116c1a1b6ce88175a44f8252bb94f5a4.0000000.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "giridih",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hello guys Welcome to our spa and today you gets very hot girls 😍Normal massage 🤪Aroma Massage 😛Deep Tissue Massage 😗😂Body polish massage 🥳Thai Massage 🤣Head massage 🤩Foot massage 😘Oil massage 👅Gel massage 👄Cream massage Extras available ❣️Topless massage 🥰Full nude massage 💋Body to body rubbing massage 🤩Romance 💓Magical touchings 💙Happy ending…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "giridih-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "I am A Big Slut so Come and Fuck me harder in all positions.",
     image: "https://i.pinimg.com/videos/thumbnails/originals/15/c8/1f/15c81f15914c033425c20db42d9ec749.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/16/14/44/1614446f1c350842bbf6fd6ffdae6162.0000000.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "giridih",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Telgram id:- prayatna0606 I have too hot figure with sexy boobs so trust me you will just feel so good inside me as Summers have started and i can understand how horny you are and instead of maturabation you can use that sperm to fuck me harder and make me scream your name. I am young 26 years Hot and Sexy girl ,I am here for some work and i also…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "giridih-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Myself chhoti singh and Genuine independent Call Girls Meet Dairectl No Advance Dairect Hand Cash it's a Genuine",
     image: "https://i.pinimg.com/videos/thumbnails/originals/16/f9/8d/16f98d3658d9d16688aedbcf0a4a13f0.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/1c/43/29/1c432958197ff5cb01ee3b2270c6b286.0000000.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "giridih",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hi Myself chhoti Really genuine independent Call Girls Meet Dairectl No Agents it's a paid relationship with my bed I will provide u all types of services like bj lipkiss anaul services In call out call hotel home and doorstep services available",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "giridih-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in giridih.",
+    description: "I am A Big Slut so Come and Fuck me harder in all positions.",
     image: "https://i.pinimg.com/videos/thumbnails/originals/1d/e3/73/1de37342ebc48b9a258a5198c3050b97.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/20/be/d2/20bed20a65a3568f6f2715035912b236.0000000.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "giridih",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Telgram id:- prayatna0606 I have too hot figure with sexy boobs so trust me you will just feel so good inside me as Summers have started and i can understand how horny you are and instead of maturabation you can use that sperm to fuck me harder and make me scream your name. I am young 26 years Hot and Sexy girl ,I am here for some work and i also…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

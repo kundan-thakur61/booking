@@ -2,7 +2,7 @@
   {
     id: "hindupur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "💫✅NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL SERVICE WITHOUT CONDOM 100% SECURE ALL OVER PUNE CITY",
     image: "https://i.pinimg.com/originals/18/04/53/180453ee57aac2ea5c2519e2d1a27367.jpg",
     images: [
       "https://i.pinimg.com/originals/18/48/c0/1848c0bf97cc3e932fcd9a4aed3421f9.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "hindupur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "NO ADVANCE DIRECT CASH PAYMENT IN HAND FULL SAFE AND SECURE WE GURANTEE 100% SATISFACTION IN LOWEST PRICE ( Incall & outcall ) service 24*7 hrs available here.. Location :- Koregaon park Viman Nagar Hadapsar kharadi Wagholi Hinjewadi Kalyani Nagar…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "hindupur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in hindupur.",
+    description: "Independence meet up 24/7",
     image: "https://i.pinimg.com/originals/18/83/13/18831367104ceae8bb426d5288a00e1f.jpg",
     images: [
       "https://i.pinimg.com/originals/18/93/76/189376bc7ea32090ce8bfb6f310e25c7.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "hindupur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hi dear friend my is ruhi singh from Bangalore near by kormangla independent meet and cam show provide if you interested with my profile come my WhatsApp or telegram let's fun i hope enjoy with me For meeting Short time 8k Full night 12k For cam 15…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "hindupur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Priyanka housewife available for online vc service",
     image: "https://i.pinimg.com/originals/18/f9/47/18f947cf43997ff7c27b267d9f74f2b5.jpg",
     images: [
       "https://i.pinimg.com/originals/18/fe/01/18fe017fe599915d383efb8479b16957.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "hindupur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hii dear i am sonia live video call nude show sarvice available whatsapp online",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "hindupur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "AFTER SERVICE PAYMENT TRUSTED CHEAPEST RATE 24 HOURS AVAILABLE ALL OVER MUMBAI",
     image: "https://i.pinimg.com/originals/19/22/96/1922962a89352919de80faf49f3b8143.jpg",
     images: [
       "https://i.pinimg.com/originals/19/4b/b5/194bb53d34cbacf866e092ba941a8a69.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "hindupur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Mumbai escorts services beautiful and Reasonable best services 24 Available In :- 24 hotel ya home cash 3*5*7*Star Hotel home services In.In call & out call... Name :- Shilpa Sharma Age :- 21yrs Height :- 5ft 3in (without heels) Measurements :-…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "hindupur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Myself Soniya Reall and Genuine independent Call Girls Meet Dairectly No Advance Dairect Hand Cash it's a Genuine",
     image: "https://i.pinimg.com/originals/19/55/9b/19559bc099f46e3cd760b1b4fe70ba12.jpg",
     images: [
       "https://i.pinimg.com/originals/19/60/8a/19608af26969a032f65f0ba981df13fb.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "hindupur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hi Myself Soniya Really genuine independent Call Girls Meet Dairectly No Agents it's a paid relationship with my bed I will provide u all types of services like bj lipkiss anaul services In call out call hotel home and doorstep services available",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "hindupur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in hindupur.",
+    description: "💫Live video call service 🎥 full open 💦 video call service Geniuen 🖤call girl fingering and voice call 📞Demo charges 100.5min♻️💐 Full enjoy fingerling",
     image: "https://i.pinimg.com/originals/19/8c/f5/198cf5ba0d83c8e278860bce395487a4.jpg",
     images: [
       "https://i.pinimg.com/originals/19/a5/80/19a58008a126c41e7d61e9d03e2103ad.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "hindupur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "💫Live video call service 🎥 full open 💦 video call service Geniuen 🖤call girl fingering and voice call 📞Demo charges 100.5min♻️💐 Full enjoy fingerling and voice sex 💞",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

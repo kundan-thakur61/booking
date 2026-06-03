@@ -2,7 +2,7 @@
   {
     id: "panaji-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hi,im swati providing you the best massage service in rani bagh new delhi onlyonce you avail our service you wont go anywhere in future",
     image: "https://i.pinimg.com/originals/c4/2d/08/c42d08042c9d4a8e94d194c593efbc12.jpg",
     images: [
       "https://i.pinimg.com/originals/c4/45/91/c4459163457b69580e79b26c1560d5fc.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "panaji",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hi,im swati providing you the best massage service in rani bagh new delhi only.you can relax your self in our centre with trained therapist with various massage and services NURU MASSAGE KERALA MASSAGE DEEP TISSUE MASSAGE B2B MASSAGE HOT OIL MASSAGE",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "panaji-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in panaji.",
+    description: "Hii dear I'm suneha available to real meet",
     image: "https://i.pinimg.com/originals/c4/ad/90/c4ad90555b2df99f39efdd01a7e31ef2.jpg",
     images: [
       "https://i.pinimg.com/originals/c4/b8/e4/c4b8e4eb745ef6fc2049ea29fb9202d0.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "panaji",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hi dear I'm suneha available to direct meeting",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "panaji-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Independent college girl Ramya no Broker direct hand cash payment",
     image: "https://i.pinimg.com/originals/c5/2e/7d/c52e7dc416ddf8cf41819f050dcdf1c2.jpg",
     images: [
       "https://i.pinimg.com/originals/c5/7e/d8/c57ed865b1add092ac4e35181faa926f.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "panaji",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Ramya... Call & WhatsApp Now Hand to hand cash only direct girl no Agent No Broker High class independent girls models House wife air hostess, college girls call center girls,who are not only good looking but also very mannered.incall _out Call…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "panaji-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "🥀Real Meeting Bangalore Electronic City💋Vc Audio Call Sex Chat Sarvice 🤙🏻",
     image: "https://i.pinimg.com/originals/c5/a4/d1/c5a4d1f050afcdf74a128dccf55fcc34.jpg",
     images: [
       "https://i.pinimg.com/originals/c5/a9/3b/c5a93bedb9eefa0a3dd741beee91232e.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "panaji",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "99 5 minutes nude video call real meeting charge 1 hours 1500 in call out call available whatsapp message now",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "panaji-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Full body massage deeepa ❤️with service available b2b top less Full nude Massages available sucking licking boobs ❤️❤️❤️",
     image: "https://i.pinimg.com/originals/c5/c0/2a/c5c02ada626d567fa5dc40fdbd08e3a7.jpg",
     images: [
       "https://i.pinimg.com/originals/c5/c3/ce/c5c3ce582b8245bb01dfc20f03001e9d.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "panaji",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Full body massage service available Happy Ending Touching happy ending Top less Touching boobs happy ending Body to Body service Nude Body to Body Service Massages Deep tissue massage Swedish massage Balinese massage Olive oil massage Hot oil massage Open 11 am to 8.30 pm Call me now for appointment",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "panaji-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in panaji.",
+    description: "Hi I saw your ad on skkoka only 50 full open video call service",
     image: "https://i.pinimg.com/originals/c5/e6/cc/c5e6ccc17acdb0152969527ebb7f622e.jpg",
     images: [
       "https://i.pinimg.com/originals/c5/fe/fd/c5fefdf1bc24e2bc999ac2983b0f16af.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "panaji",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Full open video call service with voice",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

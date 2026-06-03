@@ -173,9 +173,7 @@ const EnhancedSEO = ({
         return null;
       })}
 
-      {/* Resource Hints for Core Web Vitals Optimization */}
-      <link rel="preconnect" href="https://fonts.googleapis.com" />
-      <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+      {/* Resource Hints for Core Web Vitals Optimization (no Google Fonts preconnect) */}
       <link rel="dns-prefetch" href="https://www.google-analytics.com" />
       <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
       <link rel="dns-prefetch" href="https://res.cloudinary.com" />

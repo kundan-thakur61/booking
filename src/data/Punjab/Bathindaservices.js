@@ -2,7 +2,7 @@
   {
     id: "bathinda-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "SEXY ROUND BOOBS AFRICAN SWEET CURVY GIRL 🔥 MINAH 🔥 READY TO SATISFY YOUR SEXUAL 💦FANTASIES IN BED.......WhatsApp Her for more fun details.",
     image: "https://i.pinimg.com/originals/fa/c0/4e/fac04e9ef3b006c08b2ed0a07b689909.jpg",
     images: [
       "https://i.pinimg.com/originals/d3/cf/95/d3cf95167e212127f11114d77f76173d.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "bathinda",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "I am Minah a new sexy round boobs Africa sweet curvy girl living in Hinjewadi, Pune. So if you are lonely and looking for a kinky and horny date .. i want to be the one for you .. :-) :-) I really enjoy the following: * Blowjobs without Condoms * Ass Licking * Pussy Licking * Fingering and Rubbing my Wet Clitoris * Face Sitting * Doggy Style *…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "bathinda-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in bathinda.",
+    description: "Hi ,im swati providing you the best massage service in rani bagh,new delhi only.once you avail our service you wont go anywhere in future",
     image: "https://i.pinimg.com/originals/b3/e5/7d/b3e57db18ba8c5d2748dab5e441b718a.jpg",
     images: [
       "https://i.pinimg.com/originals/e0/36/7c/e0367c8da5c4fcbed4d66c0766b80a3a.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "bathinda",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hi,im swati providing you the best massage service in rani bagh,pitampura new delhi only. in rani bagh new delhi where you can relax yourself with highly trained therapist. NURU MASSAGE KERALA MASSAGE DEEP TISSUE MASSAGE AYURVEDIC THERAPY B2B MASSAGE HOT OIL MASSAGE",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "bathinda-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Nuru oil b2b erotic sensual massage with happy ending only genuine call girl escort service andheri jw marriot hotel all five star hotel also availabl",
     image: "https://i.pinimg.com/videos/thumbnails/originals/a3/a9/9e/a3a99e1b850000d066cd1fa136c3ce72.0000000.jpg",
     images: [
       "https://i.pinimg.com/originals/7d/1a/cf/7d1acfe342f3953991e692ba547caadd.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "bathinda",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Call me:- muskan keshri Hotel and home service available 100% genuine service full satisfactionLocation:- Andheri, Sakinaka, Mora, Andheri airport, Chakala, Powai, Dadar, Bandra, Kurla, Chembur, Malad, Santacruz,Vile Parle, Mira Road, Goregaon,…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "bathinda-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Only video call service nude video call service nude video call",
     image: "https://i.pinimg.com/originals/8c/0e/e1/8c0ee176681ad3aa14a6800b6a6a9570.jpg",
     images: [
       "https://i.pinimg.com/originals/d2/76/ad/d276adcb697f9b9ede98b2baba0d5c17.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "bathinda",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Only video call service nude video call service nude video call",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "bathinda-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Night fun",
     image: "https://i.pinimg.com/originals/64/57/a2/6457a2cfcac8743cf0552175b5ceceaa.jpg",
     images: [
       "https://i.pinimg.com/originals/59/dd/01/59dd014b1152b9c949542db3b9430874.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "bathinda",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "I don't lie like others, straight talk, no nonsense, I don't have a wife, I want a night partner, if anyone wants to accompany me then all the details are confidential.",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "bathinda-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in bathinda.",
+    description: "93720 - 27981 DIRECT CASH PAYMENT NO ADVANCE INDEPENDENT HOT GIRLS, BHABHIS & RUSSIANS",
     image: "https://i.pinimg.com/originals/83/d6/bb/83d6bb6e20fecc238dfc8e9e57a7ca7a.jpg",
     images: [
       "https://i.pinimg.com/originals/01/d4/ca/01d4ca0d2d59f16a4203f9704bfaafca.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "bathinda",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Greetings all, the name is MEETA JAIN and I’m a truly stunning and elegant 23-year-old independent call girl. I'm going to become the woman who'll be able to make you cum like never before, dear. I have such a beautiful and natural figure that you…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

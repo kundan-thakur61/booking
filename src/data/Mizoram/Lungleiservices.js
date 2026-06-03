@@ -2,7 +2,7 @@
   {
     id: "lunglei-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Independent escort girl",
     image: "https://i.pinimg.com/originals/06/6b/ef/066befd4ed494348831d222cef4da2d7.jpg",
     images: [
       "https://i.pinimg.com/originals/85/3e/ba/853eba7dfcfe9a5413d91351082f339f.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "lunglei",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hi my self abidiel D'Souza independent escort service provide all sexsual pleasure and massage services At lowest price all over mumbai",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "lunglei-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in lunglei.",
+    description: "This is dolly",
     image: "https://i.pinimg.com/originals/e6/66/85/e6668536234c86522ec98384cb328bec.jpg",
     images: [
       "https://i.pinimg.com/originals/17/37/d3/1737d32cac40e636e8e1b810d30556cd.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "lunglei",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "This is dolly here housewife with safe place and good cooperation in bed",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "lunglei-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "SUPER CUTE AFRICAN SEXY PERKY BOOBS GIRL 🔥BEYONCE🔥 READY TO SATISFY YOUR SEXUAL 💦FANTASIES IN BED.......WhatsApp Her for more fun details.",
     image: "https://i.pinimg.com/originals/3e/e9/20/3ee9205deb66932e4eadd4349b988605.jpg",
     images: [
       "https://i.pinimg.com/originals/f9/c1/20/f9c12005e2faa8df0121cc8b81d3470e.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "lunglei",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "I am Beyonce a new super cute Africa sexy perky boobs girl living in Pisoli, Pune. So if you are lonely and looking for a kinky and horny date .. i want to be the one for you .. :-) :-) I really enjoy the following: * Blowjobs without Condoms * Ass…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "lunglei-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k fu",
     image: "https://i.pinimg.com/originals/dd/18/6d/dd186dc99823d8422803a7aa0176d41d.jpg",
     images: [
       "https://i.pinimg.com/originals/3d/b4/1c/3db41caf7cf424e78f61d1842b4a87c9.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "lunglei",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k full night unlimited shots with condom without condom front or back both said A TO Z service available in my self Nude live video call service Sex chat and Sexy audio call spiking Contact me come and…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "lunglei-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "SEXY ROUND BOOBS AFRICAN SWEET CALL GIRL 🔥 QUEEN 🔥 READY TO SATISFY YOUR SEXUAL 💦FANTASIES IN BED.......WhatsApp Her for more fun details.",
     image: "https://i.pinimg.com/originals/03/55/bf/0355bf2924832705c1562940c6966fa0.jpg",
     images: [
       "https://i.pinimg.com/originals/f3/8d/77/f38d773fb20ed39d19479fab595df310.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "lunglei",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "I am Queen a new sexy round boobs Africa sweet call girl living in Hinjawadi, Pune. So if you are lonely and looking for a kinky and horny date .. i want to be the one for you .. :-) :-) I really enjoy the following: * Blowjobs without Condoms * Ass Licking * Pussy Licking * Fingering and Rubbing my Wet Clitoris * Face Sitting * Doggy Style *…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "lunglei-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in lunglei.",
+    description: "699/-BOOBS RUBBING 🥵FULL NUDE B2B NURU MASSAGE WITH HAPPYEND.",
     image: "https://i.pinimg.com/originals/d6/2b/54/d62b54098d17fa23b2072fa0ae5f5e5c.jpg",
     images: [
       "https://i.pinimg.com/originals/c9/c5/fb/c9c5fb4bedebb511a2b6259394f6bcc1.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "lunglei",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "OF TYPES MASSAGE AVAILABLE • Normal Massage Swedish Massage ✔ Cream massage Deep tissue massage Body Polishing Massage Gel Massage • Legwand Massage EXTRA SERVICES ALSO AVABILES Full nude Massage Body to body Rubbing Romance Shower bath Happy Ending…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

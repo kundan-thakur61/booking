@@ -2,7 +2,7 @@ export const services = [
   {
     id: "ranchi-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hot oil erotic massage",
     image: "https://i.pinimg.com/videos/thumbnails/originals/bb/db/70/bbdb7022e280d0181839c3194f162633.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/c4/e5/ad/c4e5ad572f768a639addc3466cf31e41.0000000.jpg",
@@ -13,7 +13,7 @@ export const services = [
     availability: "24/7 Available",
     age: "21",
     location: "ranchi",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "This is Ruth, Today special Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with (2)girls with pressure XTRA SERVICES AVAILABLE: ****SPECIAL SERVICE ALSO…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
   {
     id: "ranchi-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in Ranchi.",
+    description: "41 demo charges only video call service only demo charges 41 nude video call service",
     image: "https://i.pinimg.com/videos/thumbnails/originals/cc/de/f2/ccdef236ba19e9ad6c26f34ac7c2ebd9.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/d0/c1/ee/d0c1ee96d44c34c042d54587c34bf4d5.0000000.jpg",
@@ -32,7 +32,7 @@ export const services = [
     availability: "By Appointment",
     age: "23",
     location: "ranchi",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "41 demo charges only video call service only demo charges 41 nude video call service",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
   {
     id: "ranchi-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Independent girl Sandhya No advance Direct hand cash payment",
     image: "https://i.pinimg.com/videos/thumbnails/originals/dc/4c/6c/dc4c6c5942e8a822e4e1c8a3915ab5fa.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/e1/43/83/e1438348638c7099cd71ac322720f71b.0000000.jpg",
@@ -50,7 +50,7 @@ export const services = [
     availability: "10 AM – 10 PM",
     age: "22",
     location: "ranchi",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hai I am Sandya . Call this number HAND TO HAND CASH Hi I am available anytime I will give u really good enjoyment and excellent service No Advance Direct Hand to Hand cash service all type girl's are available u call eny time I am ready to service…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
   {
     id: "ranchi-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across Jharkhand.",
+    description: "Myself Soniya Reall and Genuine independent Call Girls Meet Dairectly No Advance Dairect Hand Cash it's a Genuine",
     image: "https://i.pinimg.com/videos/thumbnails/originals/e1/f9/f8/e1f9f85da48beae333bb8094f9dbfcc1.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/e2/d0/22/e2d022318569447d5bcb7084e2198336.0000000.jpg",
@@ -68,7 +68,7 @@ export const services = [
     availability: "24/7 Available",
     age: "24",
     location: "ranchi",
-    aboutme: "Adventurous and fun travel companion with great knowledge of Jharkhand tourist spots.",
+    aboutme: "Hi Myself Soniya Really genuine independent Call Girls Meet Dairectly No Agents it's a paid relationship with my bed I will provide u all types of services like bj lipkiss anaul services In call out call hotel home and doorstep services available",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
   {
     id: "ranchi-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Delhi independent call girl available",
     image: "https://i.pinimg.com/videos/thumbnails/originals/e9/07/ef/e907ef73c29a3549a4dd965dc5af99d4.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/ef/4b/95/ef4b956936d2a1e45bbfec260bf655f3.0000000.jpg",
@@ -87,7 +87,7 @@ export const services = [
     availability: "24/7 Available",
     age: "22",
     location: "ranchi",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Delhi independent vio call girls available",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
   {
     id: "ranchi-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in Ranchi.",
+    description: "💛//Call Riya Patel//💛 Cash Payment Call Me Genuine model inCall OutCall services available in all Mumbai Andheri",
     image: "https://i.pinimg.com/videos/thumbnails/originals/f7/58/97/f7589786d8d28677a0893806431b31a1.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/f8/13/2f/f8132f16e9e733f5695bc58ff36a57df.0000000.jpg",
@@ -105,7 +105,7 @@ export const services = [
     availability: "Evening & Night",
     age: "25",
     location: "ranchi",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "✅👉Call Ankita Sharma ✅ FULL CASH PAYMENT HAND TO HAND VIP MODEL IN MUMBAI ✅✅ MUMBAI ✅ ✅ HOT & SEXY MODELS // COLLEGE GIRLS Andheri bandra Khar colaba juhu Pawoi Chembur Santacruz Vashi Malad Bhiwandi Kalyan Dombivli Thane",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

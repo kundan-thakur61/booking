@@ -2,7 +2,7 @@
   {
     id: "rajkot-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hot bhabhi full finger video call service big boobs live show",
     image: "https://i.pinimg.com/originals/cd/ba/a2/cdbaa29ba0e962049bf42996ee140db0.jpg",
     images: [
       "https://i.pinimg.com/originals/ce/0e/b7/ce0eb76411c105abea099885d48b4cd5.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "rajkot",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Genuine bhabhi live show video call service sex chat voice call sex sex demo phone sex big boobs",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "rajkot-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in rajkot.",
+    description: "Mumbai Puja Sharma 24/7 top best low price call girls sex service available 100% safe and secure",
     image: "https://i.pinimg.com/originals/ce/a5/dd/cea5dd816fa84bac4a9f753bd087afc3.jpg",
     images: [
       "https://i.pinimg.com/originals/ce/c3/2e/cec32e35c1b4b0eaf42842a039eb09da.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "rajkot",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "rajkot-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "41 demo charges only video call service only demo charges 41 nude video call service",
     image: "https://i.pinimg.com/originals/cf/3c/34/cf3c348aefbc6a956ebd16cc233f50cb.jpg",
     images: [
       "https://i.pinimg.com/originals/cf/62/9f/cf629f7ec17af2c64ddc084c79d28fe2.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "rajkot",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "41 demo charges only video call service only demo charges 41 nude video call service",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "rajkot-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "699/-BOOBS SUCKING 🥵👅💦FULL NUDE B2B NURU MASSAGE WITH HAPPYEND.",
     image: "https://i.pinimg.com/originals/cf/b3/98/cfb3987a7f08121f437b7292e7dd11fe.jpg",
     images: [
       "https://i.pinimg.com/originals/cf/b8/dd/cfb8dd5f25a11c5c4c2565d005675486.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "rajkot",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "OF TYPES MASSAGE AVAILABLE • Normal Massage Swedish Massage ✔ Cream massage Deep tissue massage Body Polishing Massage Gel Massage • Legwand Massage EXTRA SERVICES ALSO AVABILES Full nude Massage Body to body Rubbing Romance Shower bath Happy Ending…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "rajkot-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct",
     image: "https://i.pinimg.com/originals/cf/cb/8e/cfcb8e793ba680c7194daa300564f386.jpg",
     images: [
       "https://i.pinimg.com/originals/cf/d2/90/cfd2900f2ed7a28efc8be9d9c9e5ab6c.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "rajkot",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "No extra charge genuine people came here time pass direct block genuine people came here 24 HOUR",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "rajkot-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in rajkot.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct",
     image: "https://i.pinimg.com/originals/d0/07/01/d0070127a45ee4516c09d6aa8dccb9f4.jpg",
     images: [
       "https://i.pinimg.com/originals/d0/0e/24/d00e242ceff12fa83aad5d7f54900971.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "rajkot",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "No extra charge genuine people came here time pass direct block genuine people came here 24 HOUR",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

@@ -2,7 +2,7 @@
   {
     id: "haldwani-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "NO ANY ADVANCE PAYMENT HAND TO HAND PAYMENT ANAL,LIP TO LIP KISS, PUSHY LIKS,BLOJOB WITH OUT CONDOM, DOGGY STYLE,69 POSSITION A TO Z COMPLETE SERVICE.",
     image: "https://i.pinimg.com/originals/ae/7d/68/ae7d6888804209e99691ed54fe01b7c6.jpg",
     images: [
       "https://i.pinimg.com/originals/48/94/99/4894991815e48b5d49ca7f3fd00bca92.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "haldwani",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "NO ADVANCE PAYMENT GENUINE SERVICE FULL B2B TO BODY MASSAGE WITH UNLIMITED SHOT 24 HOURS AVAILABLE HOME AND HOTEL SERVICE. ✈️ HOTEL & HOME SEX 100% REAL SERVICE.✅ No advance here, Payment after service Andheri, Thane,Daisher, Chembur and other place…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "haldwani-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in haldwani.",
+    description: "Hye I am Priya College girl Real meet available low price ❣️ Low price Genuine person only message",
     image: "https://i.pinimg.com/originals/1f/ee/c2/1feec2ec87a42f81835b9953d24c3647.jpg",
     images: [
       "https://i.pinimg.com/originals/d4/ab/09/d4ab092308b7a8a186153191e802a082.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "haldwani",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "I am an independent girl, all services are allowed as per your wish, I will listen to everything you say, I am a genuine person.my dear",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "haldwani-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "FULL BODY TO BODY MASSAGE AND FULL SEXUAL SERVICE INCALL & OUTCALL AVAILABLE ENJOY B2B NUDE SEX SPA SHOWER BATH BY SEXY GIRLS ONLY AROMATHERAPY SPA H",
     image: "https://i.pinimg.com/originals/66/a4/dd/66a4ddf6a54258e7461b5882323f7871.jpg",
     images: [
       "https://i.pinimg.com/originals/7f/7e/80/7f7e80673bb8bffd1b8137ad9e4de766.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "haldwani",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "FULL B2B MASSAGE AND FULL SEXUAL SERVICE INCALL & OUTCALL AVAILABLE ENJOY B2B NUDE SEX/ SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE BOOB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS OF MUMBAI Call/ WhatsApp Ankita (Incall/Outcall Cash…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "haldwani-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct",
     image: "https://i.pinimg.com/originals/92/e4/3d/92e43daeb0c2a0470088ef69364a8e46.jpg",
     images: [
       "https://i.pinimg.com/originals/21/8e/8e/218e8e32087d7e07b6a87958c3b6d9a7.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "haldwani",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "No extra charge genuine people came here time pass direct block genuine people came here 24 HOUR",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "haldwani-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Spa Vibes-No Tips Cute girls full Romance B2B With BJ Shower Bath 96112 - 33397",
     image: "https://i.pinimg.com/originals/d3/6d/7d/d36d7d017dac254c75ee0b30d7bd60bc.jpg",
     images: [
       "https://i.pinimg.com/originals/1e/3d/1a/1e3d1a40fcf419e4cab835ce5fca592b.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "haldwani",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hi Guys! NOT JUST LUXURY (96112 - 33397 ).OUR SPA IS A PREMIUM LUXURY SPA (5 Star) WITH TOGETHER BATHING FACILITY IN BANGALORE. Call me I'm MS.PRIIYA MORE INF VISIT OUR SITE ASK FOR DETAILS OF ALL IN ONE PACKAGE ONLY FOR 3K AND 5K OFFER PRICE VALID…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "haldwani-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in haldwani.",
+    description: "Hy i am kannada girl paid video call sarves",
     image: "https://i.pinimg.com/originals/6c/52/f8/6c52f80085f98b34bad60e463e0453cc.jpg",
     images: [
       "https://i.pinimg.com/originals/8b/85/3b/8b853b33d74c88f975c6dad57412544c.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "haldwani",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Yes I am kannada girl paid video call sarves",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

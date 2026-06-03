@@ -2,7 +2,7 @@
   {
     id: "kullu-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "MyselF Radhika Really independent Call Girls Meet Dairectly No Agents it's a trusted Service",
     image: "https://i.pinimg.com/originals/e6/c1/1a/e6c11a34590a282a299aa99025cccfb3.jpg",
     images: [
       "https://i.pinimg.com/originals/e6/c5/1a/e6c51ae7fd4ffcce8fbd89356fc9aea3.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "kullu",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hi myself Radhika Really Kannada independent College Girl Meet Dairectly No Agents it's a genuine service In call out call and doorstep services available Time passars please stay away",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "kullu-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in kullu.",
+    description: "3 mint video 95 pay nude 👈Genuine girl Video⚡call service full🍌🌹full satisfy open boobs rubbing fingerings come water of pussy💃🇮🇳Full open video call",
     image: "https://i.pinimg.com/originals/e7/0b/a4/e70ba4b6802742fa86f2c6b8b28986a6.jpg",
     images: [
       "https://i.pinimg.com/originals/e7/15/e0/e715e070f9bf7d577dab369c3dd1dfcd.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "kullu",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "3 mint video 95 pay nude 👈Genuine girl Video⚡call service full🍌🌹full satisfy open boobs rubbing fingerings come water of pussy💃🇮🇳Full open video call service available⚡🇮🇳",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "kullu-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Full body massage deeepa ❤️with service available b2b top less Full nude Massages available sucking licking boobs ❤️❤️❤️",
     image: "https://i.pinimg.com/originals/e7/49/64/e74964d841743c41a92de00a5feeced7.jpg",
     images: [
       "https://i.pinimg.com/originals/e7/88/1f/e7881f1ae7d985490a350687a1afdb14.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "kullu",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Full body massage service available Happy Ending Touching happy ending Top less Touching boobs happy ending Body to Body service Nude Body to Body Service Massages Deep tissue massage Swedish massage Balinese massage Olive oil massage Hot oil massage Open 11 am to 8.30 pm Call me now for appointment",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "kullu-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "TANI HERE TO MAKE YOUR DAY UNFORGETTABLE MESSAGE ME ON WHATSAPP AND TELEGRAM FOR MORE DETAILS AND INFORMATION",
     image: "https://i.pinimg.com/originals/e7/9c/f3/e79cf3dfcd8dee0b90b73831144c338d.jpg",
     images: [
       "https://i.pinimg.com/originals/e7/a2/4e/e7a24e0d2e9c821f1528c26d03421e32.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "kullu",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Message me on telegram and WhatsApp for more details I am waiting for your message",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "kullu-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "3 mint video 95 pay nude 👈Genuine girl Video⚡call service full🍌🌹full satisfy open boobs rubbing fingerings come water of pussy💃🇮🇳Full open video call",
     image: "https://i.pinimg.com/originals/e7/ac/45/e7ac450aa2f2bc6339ca050464684aa4.jpg",
     images: [
       "https://i.pinimg.com/originals/e7/d5/90/e7d59000145972dcc3f67aff03374e6c.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "kullu",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "3 mint video 95 pay nude 👈Genuine girl Video⚡call service full🍌🌹full satisfy open boobs rubbing fingerings come water of pussy💃🇮🇳Full open video call service available⚡🇮🇳",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "kullu-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in kullu.",
+    description: "2000 unlimited short door setp high profile genuine call girl service available",
     image: "https://i.pinimg.com/originals/e7/fd/bb/e7fdbb59d22b7eb9350403e1a9c9d97b.jpg",
     images: [
       "https://i.pinimg.com/originals/e8/25/1a/e8251a7861a6aba7c84242688704c607.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "kullu",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

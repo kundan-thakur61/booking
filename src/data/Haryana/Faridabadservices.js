@@ -2,7 +2,7 @@
   {
     id: "faridabad-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Full open nude video call 🤙 sarvice 💋 only genuine sarvice 💋",
     image: "https://i.pinimg.com/originals/d6/17/0f/d6170f81c4d41d1163ecfa4a395aadae.jpg",
     images: [
       "https://i.pinimg.com/originals/d6/21/14/d62114d2aaa4001fcc0be840e32d76c9.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "faridabad",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Full open nude video call 🤙 sarvice 💋 only genuine sarvice 💋",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "faridabad-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in faridabad.",
+    description: "CASH PAYMENT GENUINE PERSON ONLY FULL SERVICE ALL HOTEL HOME SERVICES AVAILABLE 24 7HRS",
     image: "https://i.pinimg.com/originals/d6/37/28/d637284a39843f1165e52cb35e352a4f.jpg",
     images: [
       "https://i.pinimg.com/originals/d6/4d/cf/d64dcfba015c5c4dd609c5c188bbffe1.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "faridabad",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "1 Hur 500 🌺 2 Hur 1000 🌹 3 Hur 2000 🥀Full night 3000🌹 college girl1 Hur 500 🌺 2 Hur 1000 🌹 3 Hur 2000 🥀Full night 3000🌹 college girl1 Hur 500 🌺 2 Hur 1000 🌹 3 Hur 2000 🥀Full night 3000🌹 college girl1 Hur 500 🌺 2 Hur 1000 🌹 3 Hur 2000 🥀Full night…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "faridabad-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "✅NO ADVANCE & ONLY 3000 AIRPORT MUMBAI HIGH' PROFILE COLLEGE GIRLS AVAILABLE FULL HAND CASH PAYMENT 💯 GENUINE SERVICE",
     image: "https://i.pinimg.com/originals/d6/74/2f/d6742f7e01f2fd1293dbf5239bb74f48.jpg",
     images: [
       "https://i.pinimg.com/originals/d6/97/d7/d697d72a463d3bfaefe3e9718bf7fe32.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "faridabad",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "💚💚ONLY CASH PAYMENTS Cash ON HOTEL BEST CALL GIRL SERVICE JUST CALL ME AND BOOK NOW #ONLY CASH PAYMENT ALL HOTEL# CASH ON HAND GIRL % 1/ #REAL PHOTO AND REAL GIRLS AVAILABLE .TRUST ME SIR REAL PHOTO REAL GIRLS GENUINE GIRLS AVAILABLE# 2/#SERVICE…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "faridabad-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "HEY I AM ARPITA NO ADVANCE FULL HAND TO HAND CASH PAYMENT IN HOTEL AND HOME",
     image: "https://i.pinimg.com/originals/d6/ba/b0/d6bab038b478d356ec7d80b996af31f6.jpg",
     images: [
       "https://i.pinimg.com/originals/d6/bf/ff/d6bfff5c9542fcfbbd80627f95ccdbfe.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "faridabad",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "HEY I AM ARPITA NO ADVANCE FULL HAND TO HAND CASH PAYMENT IN HOTEL AND HOME",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "faridabad-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "💖SONYA💖 independent Girl Staying Alone in Flat Just Visit Once",
     image: "https://i.pinimg.com/originals/d6/d2/82/d6d282227c47b3507d6a073befa68fa2.jpg",
     images: [
       "https://i.pinimg.com/originals/d6/e6/81/d6e681aea1986713d5c838cbbebac0df.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "faridabad",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hello Guys Am SONYA💝 🌟🌟Hotel service available 24 hour 💐 All over Hotel outcall service and incall with regular price guarantee satisfaction genuine service",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "faridabad-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in faridabad.",
+    description: "💞❤️IM SEEMA YDV 💯 CASH PAYMENT NO AGENT NO BROKER 💋✅💵💵💸💸💞 INDIVIDUAL GIRL 💦 OUTCALL HOME HOTEL FULLY SATISFY U UNLIMITED WAY 💞💞 IM READY TO FULLY SATI",
     image: "https://i.pinimg.com/originals/d7/3e/35/d73e3598a539226b2db3ecec93c37c17.jpg",
     images: [
       "https://i.pinimg.com/originals/d7/68/3c/d7683c5b9e06a5ffe76cbf1ceb594b63.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "faridabad",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "💞❤️IM SEEMA YDV 💯 CASH PAYMENT NO AGENT NO BROKER 💋✅💵💵💸💸💞 INDIVIDUAL GIRL 💦 OUTCALL HOME HOTEL FULLY SATISFY U UNLIMITED WAY 💞💞 IM READY TO FULLY SATI",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

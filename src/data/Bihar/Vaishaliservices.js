@@ -2,7 +2,7 @@
   {
     id: "vaishali-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Genuine independent 77954 door step 44304 HAND CASH PAYMENT TRULY...",
     image: "https://i.pinimg.com/originals/a5/14/fe/a514fe48389f95e733ad44a92f497132.jpg",
     images: [
       "https://i.pinimg.com/originals/a5/1c/3b/a51c3be8975b7b6c75b77bca5b44ec33.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "vaishali",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hi cal me or whatsapp me out call door step home service available ltr escort girlfriend experience service available BY HAND CASH PAYMENT TRULY..",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "vaishali-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in vaishali.",
+    description: "Independent girl Ramya no Broker direct hand cash payment out call service",
     image: "https://i.pinimg.com/originals/a5/74/ef/a574ef07d6a4130c207c44308e2a6fc0.jpg",
     images: [
       "https://i.pinimg.com/originals/a5/76/31/a5763110a5fe4f706672095c7ca20b2c.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "vaishali",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Ramya... Call & WhatsApp Now Hand to hand cash only direct girl no Agent No Broker High class independent girls models House wife air hostess, college girls call center girls,who are not only good looking but also very mannered.incall _out Call…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "vaishali-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "BODY MASSAGE N PUSSY LICKER ONLY FOR LADIES WOMENS",
     image: "https://i.pinimg.com/originals/a5/88/c6/a588c6e590edeb145ded1eae2f0dc350.jpg",
     images: [
       "https://i.pinimg.com/originals/a5/8b/d7/a58bd732acc25c4dbefaafaff68a5ddb.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "vaishali",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Note : Satisfaction Guaranteed",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "vaishali-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "GENUINE SERVICE AVAILABLE DIRECT HAND TO HAND CASH PAYMENT NO ADVANCE PAYMENT NO EXTRA CHARGES",
     image: "https://i.pinimg.com/originals/a5/c2/08/a5c208f45b01dfc72bb947e11a5608b3.jpg",
     images: [
       "https://i.pinimg.com/originals/a5/f3/7f/a5f37f0322f4d256448171357083bed7.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "vaishali",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Direct Meeting Direct Payment Before Service Cash or UPI. ▪♨️ No Booking Charges or No Online Advance Payment Service Details :- ▪♨️ Full Open Nude Sex Without any Dess With 100% Satisfaction. ▪♨️ BlowJob Oral Sex Pussy Licking Boobs Sucking69 Style…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "vaishali-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "699/-FULL NUDE 💦👅🫦 SANDWICH B2B MASSAGE WITH HOT GIRLS",
     image: "https://i.pinimg.com/originals/a6/24/d9/a624d90d42dee925a1ca5792f843cb8e.jpg",
     images: [
       "https://i.pinimg.com/originals/a6/52/da/a652da06e963e0523d9a471d6949cadc.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "vaishali",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "OUR SPCL SERVICES: SEXY GIRLS ONLY AROMATHERAPY, SPA, HAPPY ENDING MASSAGE, NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE B0OB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS contact sweety Affordable Rate, 100 %…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "vaishali-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in vaishali.",
+    description: "Siya full open video call service with voice full satisfaction",
     image: "https://i.pinimg.com/originals/a6/87/be/a687be86a99f33d15149733672796924.jpg",
     images: [
       "https://i.pinimg.com/originals/a6/8a/9e/a68a9e530c9344a363f267638df52fef.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "vaishali",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "💋💋 About me Hey Priya, ❤I am Priya.❤ I am an independent call girl (College Student ) , ❤offering now My deep Nude Video Call service, ❤ Sex 💋chat with Nude pics and many more as per your interest❤:- 👆 Will offer on Nude video call",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

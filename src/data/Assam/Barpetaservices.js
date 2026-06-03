@@ -2,7 +2,7 @@
   {
     id: "barpeta-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "💫Live video call service 🎥 full open 💦 video call service Geniuen 🖤call girl fingering and voice call 📞Demo charges 100.5min♻️💐 Full enjoy fingerling",
     image: "https://i.pinimg.com/originals/4c/74/98/4c7498c62458e4446eb7fa3869b90983.jpg",
     images: [
       "https://i.pinimg.com/originals/4c/7c/38/4c7c38f2fcf68eee6e14cf6e22a0b837.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "barpeta",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "💫Live video call service 🎥 full open 💦 video call service Geniuen 🖤call girl fingering and voice call 📞Demo charges 100.5min♻️💐 Full enjoy fingerling",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "barpeta-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in barpeta.",
+    description: "Chief and best service all over Mumbai safe and secure unlimited shot",
     image: "https://i.pinimg.com/originals/4c/de/ed/4cdeed97d6fefe78207f0749f0711845.jpg",
     images: [
       "https://i.pinimg.com/originals/4c/ed/9f/4ced9f5c1331462db90ef495ae2975fb.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "barpeta",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "All Mumbai Andheri airport Colaba BKC 💚💚ONLY CASH PAYMENTS Cash ON HOTEL BEST CALL GIRL SERVICE JUST CALL ME AND BOOK NOW #ONLY CASH PAYMENT ALL HOTEL# CASH ON HAND GIRL % 1/ #REAL PHOTO AND REAL GIRLS AVAILABLE .TRUST ME SIR REAL PHOTO REAL GIRLS…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "barpeta-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hi I saw your ad on skkoka only 50 full open video call service",
     image: "https://i.pinimg.com/originals/4d/56/1e/4d561efbddf695322c7a359c66893e64.jpg",
     images: [
       "https://i.pinimg.com/originals/4d/7e/f6/4d7ef6d41e50a77f161d38348e2985c4.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "barpeta",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "👉🏼Full open video call service with. 👉🏼. voice full enjoy 👉🏼No time pass",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "barpeta-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💫✅NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL SERVICE WITHOUT CONDOM 100% SECURE ALL OVER PUNE CITY",
     image: "https://i.pinimg.com/originals/4d/bb/73/4dbb736f8ffc98e9f16dc1742ce6d0a6.jpg",
     images: [
       "https://i.pinimg.com/originals/4d/f1/5a/4df15a11bd8326dd8914c1b73504d438.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "barpeta",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "NO ADVANCE DIRECT CASH PAYMENT IN HAND FULL SAFE AND SECURE WE GURANTEE 100% SATISFACTION IN LOWEST PRICE ( Incall & outcall ) service 24*7 hrs available here.. Location :- Koregaon park Viman Nagar Hadapsar kharadi Wagholi Hinjewadi Kalyani Nagar…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "barpeta-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "📌DIRECT PAYMENT *(NO ADVANCE)* 📍A-Z SERVICE ON DEMAND GOOD QUALITY BEAUTY FOR FULLY💫 SATISFACTION",
     image: "https://i.pinimg.com/originals/4e/22/f0/4e22f0e493a068cfa2d388bcf7db5cbc.jpg",
     images: [
       "https://i.pinimg.com/originals/4e/29/0c/4e290c7f09f106f00655356b509bb5cd.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "barpeta",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "No Advance Payment And No Booking Charge And No Extra Charge Hand To Hand Payment To Meet Hotel 🛏️ Or Home Service All Types Service Including All Pune Available 24/7Hours ‎ ‎All Pune:- ( VIMAN NAGAR , HINJEWADI , KHARADI , KOREGAON PARK , BANER ,…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "barpeta-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in barpeta.",
+    description: "I have pink pussy and big boobs",
     image: "https://i.pinimg.com/originals/4e/66/39/4e6639f04d996010240bb39e55ed62ae.jpg",
     images: [
       "https://i.pinimg.com/originals/4e/9a/93/4e9a9389b2dc9b11f421899b6a74e66a.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "barpeta",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "I will give good service",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

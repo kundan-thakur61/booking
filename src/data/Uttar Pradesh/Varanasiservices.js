@@ -2,7 +2,7 @@
   {
     id: "varanasi-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hi I saw your ad on skkoka only 50 full open video call service",
     image: "https://i.pinimg.com/originals/63/88/46/638846cb051f2927f28607914542926d.jpg",
     images: [
       "https://i.pinimg.com/originals/ba/c2/2c/bac22c8a393e9ff9dc41fd3162d83056.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "varanasi",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "👉🏼Full open video call service with. 👉🏼. voice full enjoy 👉🏼No time pass",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "varanasi-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in varanasi.",
+    description: "💥BOOK ₹ 2K SHORT ₹ 7k NIGHT 99998 call 58187 PAYMENT GIRL HAND YOUR FLAT HOTEL HOME ✅ IN CALL FREE ROOM 🆗 OUT CALL YOUR PLACE REAL WHATSAPP",
     image: "https://i.pinimg.com/originals/e2/2d/5d/e22d5d78ee7a814acbd674676325a769.jpg",
     images: [
       "https://i.pinimg.com/originals/0a/ad/e1/0aade14c28fe61cd37816964f14c7e76.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "varanasi",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "CALL GIRLS IN DELHI:- 99998 call 58187❤️𝗛𝗔𝗡𝗗 𝗧𝗢 𝗛𝗔𝗡𝗗 𝗖𝗔𝗦𝗛 𝗣𝗔𝗬𝗠𝗘𝗡𝗧 𝗡𝗢 𝗔𝗗𝗩𝗔𝗡𝗖𝗘 𝗡𝗢 𝗘𝗫𝗧𝗥𝗔 𝗖𝗛𝗔𝗥𝗚𝗘❤️ DELHI 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗣𝗥𝗢𝗩𝗜𝗗𝗘𝗥 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝟮𝟰/𝟳 ALL OVER DELHI NCR SHREY 𝐁𝐨𝐨𝐤 𝐧𝐨𝐰 V★I★P Genuine High Profile Model's Available - ALL DELHI NCR Hotel &…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "varanasi-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "SUPER HOT AFRICAN NAUGHTY SWEET GIRL 🔥ANJELA🔥 READY TO SATISFY YOUR SEXUAL 💦FANTASIES IN BED.......WhatsApp Her for more fun details.",
     image: "https://i.pinimg.com/originals/14/d8/bb/14d8bba4f7fc611a3dacf54933677b45.jpg",
     images: [
       "https://i.pinimg.com/originals/1c/9d/3c/1c9d3c30bae4595e1225d0aceaceb588.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "varanasi",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "I am Anjela a new super hot Africa naughty sweet girl living in Hinjewadi, Pune. So if you are lonely and looking for a kinky and horny date .. i want to be the one for you .. :-) :-) I really enjoy the following: * Blowjobs without Condoms * Ass…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "varanasi-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "MyselF Radhika Really independent Call Girls Meet Dairectly No Agents it's a trusted Service",
     image: "https://i.pinimg.com/originals/a6/83/7c/a6837c205bbdf2e5df3a570991ab3b14.jpg",
     images: [
       "https://i.pinimg.com/originals/1c/a8/51/1ca851ee8dfff7953735bb6881f265b9.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "varanasi",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi myself Radhika Really Kannada independent College Girl Meet Dairectly No Agents it's a genuine service In call out call and doorstep services available Time passars please stay away",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "varanasi-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "GENUINE 77954 INDEPENDENT 44304DOOR STEP HOME SERVICE LTR",
     image: "https://i.pinimg.com/originals/dc/45/04/dc4504e495df4c09ed1e0d625c9fb14c.jpg",
     images: [
       "https://i.pinimg.com/originals/ac/b0/b3/acb0b3d28e0425e723e912a820cf6ffc.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "varanasi",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "NO ADVANCE GENUINE INDEPENDENT ESCORT LTR HAND CASH PAYMENT TRULY Door step home service available ltr escort girlfriend experience service available..",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "varanasi-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in varanasi.",
+    description: "699/-BOOBS RUBBING 🥵FULL NUDE B2B NURU MASSAGE WITH HAPPYEND.",
     image: "https://i.pinimg.com/originals/7b/16/3d/7b163d7d5c1769657826fe54577e90ac.jpg",
     images: [
       "https://i.pinimg.com/originals/a1/2a/d2/a12ad216e9184da0680ec660fa1e5aeb.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "varanasi",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "OF TYPES MASSAGE AVAILABLE • Normal Massage Swedish Massage ✔ Cream massage Deep tissue massage Body Polishing Massage Gel Massage • Legwand Massage EXTRA SERVICES ALSO AVABILES Full nude Massage Body to body Rubbing Romance Shower bath Happy Ending…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

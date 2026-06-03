@@ -2,7 +2,7 @@
   {
     id: "asansol-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Bangalore. 💯% SAFE AND SECURE TODAY LOW PRICE HIGH PROFILE COLLAGE GIRL'S AVAILABLE",
     image: "https://i.pinimg.com/originals/c2/5d/89/c25d89a9a033a2ea641114e338c87164.jpg",
     images: [
       "https://i.pinimg.com/originals/cf/10/c0/cf10c01c25d11ab7edc28fa397df1802.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "asansol",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "asansol-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in asansol.",
+    description: "BOOBS🩷 SUCKING 🫦💦 FULL NUDE NURU MASSAGE WITH HAPPYENDING",
     image: "https://i.pinimg.com/originals/ff/82/80/ff82803fbd44e63ede201e89dd39b30b.jpg",
     images: [
       "https://i.pinimg.com/originals/e0/5f/e6/e05fe665c7befe43b0270b98542b9ba1.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "asansol",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "OUR SPCL SERVICES: SEXY GIRLS ONLY AROMATHERAPY, SPA, HAPPY ENDING MASSAGE, NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE B0OB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS contact sweety Affordable Rate, 100 %…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "asansol-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hy I am kannada hudgi nimi geninune video call service available",
     image: "https://i.pinimg.com/originals/e6/a5/d9/e6a5d91fd3120a92a335741b8797a340.jpg",
     images: [
       "https://i.pinimg.com/originals/cb/8f/5a/cb8f5a78dc87488497288f21476c0bdd.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "asansol",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "It's only online service and it's paid vc available",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "asansol-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hi,im swati providing u the best massage in punjabi bagh,new delhi only",
     image: "https://i.pinimg.com/originals/c9/6d/bc/c96dbcaf12b455fd42ac15b0682f4cb1.jpg",
     images: [
       "https://i.pinimg.com/originals/9a/92/85/9a9285d3f1da0e5ae9e11a194e5c8ad1.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "asansol",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "We are providing you the best massage in punjabi bagh new delhi only new delhi only Nuru massage Kerala massage Deep tissue massage Turkish massage Jaccuzi massage Erotic massage",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "asansol-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Body massage only female Want to get pussy massaged? Contact us.",
     image: "https://i.pinimg.com/originals/a2/22/f1/a222f1063bed8dafae4421edba70dd12.jpg",
     images: [
       "https://i.pinimg.com/originals/67/d1/ee/67d1ee1e5935acf0bd5e02e006538e18.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "asansol",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Sex massage body massage I suck the pussy and massage it with gentle chatting.",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "asansol-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in asansol.",
+    description: "Full open nude video call 🤙 sarvice 💋 only genuine sarvice 💋",
     image: "https://i.pinimg.com/originals/2c/5c/78/2c5c78842fac47ec2d32ce93e2535a07.jpg",
     images: [
       "https://i.pinimg.com/originals/e0/8e/04/e08e045bc79867b2cdced12c20b675d4.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "asansol",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Full open nude video call 🤙 sarvice 💋 only genuine sarvice 💋",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

@@ -2,7 +2,7 @@
   {
     id: "dharamshala-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "____Genuine Vip Independent Escort Service In Bangalore Available For Doorstep And Hotel Service ____",
     image: "https://i.pinimg.com/originals/e5/37/c6/e537c6da80807f0bef19e0e232cd0e38.jpg",
     images: [
       "https://i.pinimg.com/originals/e5/52/e0/e552e06a8227357c2732c8d3514f9064.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "dharamshala",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Call or What`s App Me __97420 Manu 25924__ For More Details-Bangalore Genuine Independent Escort Service Available For Doorstep And Hotel Service ... \"NO Cheating NO Misbehave\" ...... This Ads Is Only For Those Clients Who Are Looking For Genuine And…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "dharamshala-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in dharamshala.",
+    description: "NO ADVANCE ONLY CASH HAND TO HAND PAYMENT GENUINE SERVICE IN ALL BANGLORE COLLEGE GIRLS",
     image: "https://i.pinimg.com/originals/e5/b2/c0/e5b2c0529e5db9ff82485eb122332ae0.jpg",
     images: [
       "https://i.pinimg.com/originals/e5/b9/95/e5b9954331905eb3fe119514f5f4a508.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "dharamshala",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Bangalore)✅ONLY CASH PAYMENT ⭐100% GENUINE SAME PROFILE HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100%…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "dharamshala-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hii I am Neetu independent genuine location BTM Layout but only out call available and full service please no time pass",
     image: "https://i.pinimg.com/originals/e6/03/eb/e603ebc3700665be0c34d03a1e871cdc.jpg",
     images: [
       "https://i.pinimg.com/originals/e6/3d/80/e63d80bb59437375f6410ff457a30bc0.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "dharamshala",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hii I am Neetu independent genuine location BTM Layout but only out call me available short time 7k 2 short 3 hours full night 12k 4 short and full service please no time pass",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "dharamshala-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "MyselF Radhika Really independent Call Girls Meet Dairectly No Agents it's a trusted Service",
     image: "https://i.pinimg.com/originals/e6/4d/2e/e64d2e273caf4d0bac9f32c1cb2644ef.jpg",
     images: [
       "https://i.pinimg.com/originals/e6/66/85/e6668536234c86522ec98384cb328bec.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "dharamshala",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi myself Radhika Really Kannada independent College Girl Meet Dairectly No Agents it's a genuine service In call out call and doorstep services available Time passars please stay away",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "dharamshala-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "ONLY 👉99 💦 Full GENIUNE 🌴🌴 LIVE CALL SERVICE✅✅ FULL SAFE SEQUE 💞💞 NO EXTRA FULL SAFTy CALL ME🤙🌹",
     image: "https://i.pinimg.com/originals/e6/73/10/e67310ce2eaa7086421418766167b676.jpg",
     images: [
       "https://i.pinimg.com/originals/e6/77/8a/e6778a6c60eb6f910ea0d63077f69843.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "dharamshala",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "ONLY 👉99 💦 Full GENIUNE 🌴🌴 LIVE CALL SERVICE✅✅ FULL SAFE SEQUE 💞💞 NO EXTRA FULL SAFTy CALL ME🤙🌹",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "dharamshala-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in dharamshala.",
+    description: "Hii am 💗Anusha💗 independent hot and sexy girl .kannada hudgi",
     image: "https://i.pinimg.com/originals/e6/b0/d3/e6b0d3a8d1bde3922f1ca94dc74e294e.jpg",
     images: [
       "https://i.pinimg.com/originals/e6/b1/98/e6b198f536a9ae5ffbae0b24125ac7c9.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "dharamshala",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hii am 💗 Anusha 💗 independent college girl .. Out call and incall service available Due to some proverty problem dad was dead that's why am doing this work. Video call and audio call service also available. It's truly genuine service genuine person…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

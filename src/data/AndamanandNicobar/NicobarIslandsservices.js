@@ -2,7 +2,7 @@
   {
     id: "nicobarIslands-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "NO ADVANCE ONLY CASH HAND TO HAND PAYMENT GENUINE SERVICE IN ALL BANGLORE COLLEGE GIRLS",
     image: "https://i.pinimg.com/originals/02/34/46/023446bfb38ec907166fe2c1db95e44d.jpg",
     images: [
       "https://i.pinimg.com/originals/02/35/56/023556613521ac42935c46494d9b85c5.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "nicobarIslands",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Bangalore)✅ONLY CASH PAYMENT ⭐100% GENUINE SAME PROFILE HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100%…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "nicobarIslands-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in nicobarIslands.",
+    description: "Full body massage for women only",
     image: "https://i.pinimg.com/originals/02/a3/26/02a32616c56ddbeb6ba6ba85a46b81f4.jpg",
     images: [
       "https://i.pinimg.com/originals/02/d4/0e/02d40e1442865424478bde5a5f90b4ae.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "nicobarIslands",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hello! I am a 32 year old guy staying in Andheri ready to give you a wonderful full body massage at your own place. No charges for the first visit. Please feel free to discuss and connect on my number for further details. Take care!!!",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "nicobarIslands-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "TANI HERE TO MAKE YOUR DAY AND FORGETTABLE MESSAGE ME ON WHATSAPP AND TELEGRAM FOR MORE DETAILS",
     image: "https://i.pinimg.com/originals/02/ef/58/02ef588fe42602def7d3a6abdffbc97a.jpg",
     images: [
       "https://i.pinimg.com/originals/02/f0/06/02f006d05b3cdaca874544bfa94ac514.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "nicobarIslands",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Message me on telegram and WhatsApp for more details I'm waiting for your message",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "nicobarIslands-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Best body massage therapist in pune",
     image: "https://i.pinimg.com/originals/03/08/1f/03081f47591a30fefd15dc284f15ca68.jpg",
     images: [
       "https://i.pinimg.com/originals/03/10/c5/0310c56cd3ba303c9d8f946b2e1561a1.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "nicobarIslands",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi Ladies I am experienced body massager, special massage therepy reduce your stress and pain. If you are genuine female than I will be provided you the best massage services at doorstep, hotel. Please let me know if you are interested for best…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "nicobarIslands-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "THE CLASSIC ESCORTS-SHILPI ROY HARD- SEX 100% GENUINE PREMIUM QUALITY AVAILABLE IN MUMBAI CALL 24 HOUR'S",
     image: "https://i.pinimg.com/originals/03/13/3f/03133f648b4f9321db15b5592483e687.jpg",
     images: [
       "https://i.pinimg.com/originals/03/22/36/032236ea2fc9d45d5fca91f247bf56e8.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "nicobarIslands",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Dear Gentlemen Call & WhatsApp - SHILPI ROY We Are Providing Good Independent Premium Quality Girls Available:- City Unlock Time Escorts Hotels Service : Call Girl , Guaranteed…Service Available In: - 24/7 Home & 3 * 5 *7 *Star Hotel Service In. In…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "nicobarIslands-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in nicobarIslands.",
+    description: "HEY I AM ARPITA NO ADVANCE FULL HAND TO HAND CASH PAYMENT IN HOTEL AND HOME",
     image: "https://i.pinimg.com/originals/03/55/bf/0355bf2924832705c1562940c6966fa0.jpg",
     images: [
       "https://i.pinimg.com/originals/03/55/e2/0355e207522d9e7f79d6ee2f2e731f26.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "nicobarIslands",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "💸💸 NO advance FULL CASH pay 💃 💦HOT & SEXY MODELS💃 // COLLEGE GIRLS💃 AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ % SATISFACTION,UNLIMITED ENJOYMENT. ★…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

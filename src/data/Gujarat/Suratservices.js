@@ -2,7 +2,7 @@
   {
     id: "surat-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "699/-❤️‍🔥SPCL💦♥️ HOT SHOWER B2B NURU MASSAGE WITH HAPPYENDING",
     image: "https://i.pinimg.com/originals/d0/17/74/d01774c592bd00aa11fa1209b8c39ed2.jpg",
     images: [
       "https://i.pinimg.com/originals/d0/1b/cf/d01bcf867feb352db7e2a09a32af5e0a.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "surat",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "OUR SPCL SERVICES: SEXY GIRLS ONLY AROMATHERAPY, SPA, HAPPY ENDING MASSAGE, NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE B0OB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS contact sweety Affordable Rate, 100 %…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "surat-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in surat.",
+    description: "HAND TO HAND CASH PAYMENT NO ADVANCE NO EXTRA PAYMENT ME 💖",
     image: "https://i.pinimg.com/originals/d0/7e/bb/d07ebb2fbd0a49c2cee1cb5798840c7c.jpg",
     images: [
       "https://i.pinimg.com/originals/d0/8d/3f/d08d3f5b6e2c5950d9e31f66ba7fb837.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "surat",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "surat-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "I'm independent mature pure top massager for everyone one",
     image: "https://i.pinimg.com/originals/d0/a4/ee/d0a4ee412c2d291efe318b5c9b562eea.jpg",
     images: [
       "https://i.pinimg.com/originals/d0/aa/02/d0aa022d43f01a04fe9e6e4f79004680.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "surat",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hii my name is raj and I am 21 years old I am a professional massager Upper body Lower body Front body Back body Back pain point Leg muscle Leg muscle cramp And mainly full body These are all me in menu of my massages If you need more information…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "surat-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Body massage only female Want to get pussy massaged? Contact us.",
     image: "https://i.pinimg.com/originals/d0/cf/5d/d0cf5d5b4e9564ba5faf2fe26b9dae02.jpg",
     images: [
       "https://i.pinimg.com/originals/d0/e6/f1/d0e6f11fd9e7bae38c2bb2878e3bc5f8.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "surat",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Sex massage body massage I suck the pussy and massage it with gentle chatting.",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "surat-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "🙏🏼No advance only 3000 unlimited shots coustomer satisfaction service ♥️",
     image: "https://i.pinimg.com/originals/d1/1b/cb/d11bcb59c8f6621dd288c67be026f255.jpg",
     images: [
       "https://i.pinimg.com/originals/d1/22/a2/d122a269d9de22a37577da9d6e4271d0.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "surat",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Call me:- Ritu Sharma Hotel and home service available 100% genuine service full satisfactionLocation:- Andheri, Sakinaka, Mora, Andheri airport, Chakala, Powai, Dadar, Bandra, Kurla, Chembur, Malad, Santacruz,Vile Parle, Mira Road, Goregaon,…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "surat-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in surat.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct",
     image: "https://i.pinimg.com/originals/d1/b8/24/d1b8243bd3286d053724b3b772172686.jpg",
     images: [
       "https://i.pinimg.com/originals/d1/cf/ab/d1cfabd839d2f1e665768abd8b522b50.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "surat",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "No extra charge genuine people came here time pass direct block genuine people came here 24 HOUR",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

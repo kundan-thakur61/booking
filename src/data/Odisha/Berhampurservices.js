@@ -2,7 +2,7 @@
   {
     id: "berhampur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
     image: "https://i.pinimg.com/originals/19/4b/b5/194bb53d34cbacf866e092ba941a8a69.jpg",
     images: [
       "https://i.pinimg.com/originals/71/ef/2c/71ef2c1a160721237ea6f1024122bfca.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "berhampur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "berhampur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in berhampur.",
+    description: "Independent gir bo broker no agents",
     image: "https://i.pinimg.com/originals/ea/5d/4a/ea5d4a1d578e1ca445604a3e1963f693.jpg",
     images: [
       "https://i.pinimg.com/originals/a0/94/e2/a094e2d93b864867af8db9b2807835dc.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "berhampur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Independent girl no broker no agents i work only kn bookings",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "berhampur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Independent girl Ramya no Broker direct hand cash payment out call service",
     image: "https://i.pinimg.com/originals/83/d6/bb/83d6bb6e20fecc238dfc8e9e57a7ca7a.jpg",
     images: [
       "https://i.pinimg.com/originals/4e/c3/bf/4ec3bf0e9fb5693b56390bc82e6c3a4b.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "berhampur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Ramya... Call & WhatsApp Now Hand to hand cash only direct girl no Agent No Broker High class independent girls models House wife air hostess, college girls call center girls,who are not only good looking but also very mannered.incall _out Call…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "berhampur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "❤️ KRITIKA INDEPENDENT CALL GIRL REAL MEET GENUINE SERVICE AVAILABLE 24/7💯💯",
     image: "https://i.pinimg.com/originals/e4/d4/a2/e4d4a250c2f65fd127692d3638160e01.jpg",
     images: [
       "https://i.pinimg.com/originals/75/98/0d/75980d9d3110de23ba5387f7788885da.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "berhampur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "❤️ hii gentalman My self kritika sinha I am independent girl I am college student I am hot girl Please text me genuine person 💯💯 Real meet service available 24/7💯💯 I am available now for real meet service all over banglore 24/7💯💯",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "berhampur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "A007 Rs 1000 (Counter) - Full Nude🩱Body Massage💗B2B Body massage Spa with BJ🍌 - Madeenaguda / Kukatpally /Miyapur / Hafeezpet",
     image: "https://i.pinimg.com/originals/29/3b/ad/293bad535a2ada68f0e329a3b933115a.jpg",
     images: [
       "https://i.pinimg.com/originals/a5/6d/09/a56d094b84624338ae291247972651c7.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "berhampur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Madeenaguda Beauty Spa Massage starting form 1000/- Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "berhampur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in berhampur.",
+    description: "Big boobs live show full finger video full service line sex show genuine",
     image: "https://i.pinimg.com/originals/60/fc/bd/60fcbd55c0d37e117fe5393315681816.jpg",
     images: [
       "https://i.pinimg.com/originals/4b/a7/03/4ba7034f892528823837a7399cbd8ee3.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "berhampur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hot full live show big boobs finger show video call service chat chat audio sex demo sex",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

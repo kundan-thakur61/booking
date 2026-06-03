@@ -2,7 +2,7 @@
   {
     id: "goalpara-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "2000 unlimited short door setp high profile genuine call girl service available",
     image: "https://i.pinimg.com/originals/54/46/9b/54469b0a63eddc8c80a0fe045a86e2c2.jpg",
     images: [
       "https://i.pinimg.com/originals/54/63/c8/5463c8b8c2582991b0132e3d859853c3.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "goalpara",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "goalpara-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in goalpara.",
+    description: "88502 - 92443 ONLY CASH PAYMENT INDEPENDENT GIRLS AND HOUSE WIVES RUSSIAN NO ADVANCE",
     image: "https://i.pinimg.com/originals/55/16/82/551682cccbb454dbcf348088765bf09c.jpg",
     images: [
       "https://i.pinimg.com/originals/55/2e/bf/552ebf39d4b7ca1ea5a49bf53c2b8cb1.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "goalpara",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Greetings all, the name is PRITI JAIN and I’m a truly stunning and elegant 22-year-old independent call girl. I'm going to become the woman who'll be able to make you cum like never before, dear. I have such a beautiful and natural figure that you…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "goalpara-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "HOT 🔥FULL NUDE VIDEO CALL SERVICE🎥 SEXTING 💬 PHONE 🥀SEX 💋 FINGRING ALSO",
     image: "https://i.pinimg.com/originals/55/76/25/557625fd6a4fc273557c5ac6c75538f0.jpg",
     images: [
       "https://i.pinimg.com/originals/55/7b/4f/557b4fe78cdd41a80b93e9bfab105813.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "goalpara",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "🔥 HOT 🔥 NUDE LIVE VIDEO CALL SERVICE, SEX CHAT, VOICE CALL, ROLE PLAY, FULL OPEN VIDEO CALL SERVICE WITH VOICE AND WITH FACE BOOBS PRESSING AND OPEN PUSSY FINGRING WITH VOICE AND WITH FACE",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "goalpara-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct",
     image: "https://i.pinimg.com/originals/55/aa/d1/55aad144f068fde7ab0daab3ee30e889.jpg",
     images: [
       "https://i.pinimg.com/originals/55/c3/44/55c34438ad38e4954e7443d2ff41ddfb.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "goalpara",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "No extra charge genuine people came here time pass direct block genuine people came here 24 HOUR",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "goalpara-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL SERVICE WITHOUT CONDOM 100% SECURE ALL OVER BANGLORE CITY",
     image: "https://i.pinimg.com/originals/56/10/a6/5610a6ffa699c2cadd50e5a8e7b97066.jpg",
     images: [
       "https://i.pinimg.com/originals/56/17/24/5617245ffc1e17b199e4be7c117ee415.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "goalpara",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "me 💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "goalpara-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in goalpara.",
+    description: "Best body massage therapist in pune",
     image: "https://i.pinimg.com/originals/56/64/2e/56642e5e423a480089c2cc7c3071d855.jpg",
     images: [
       "https://i.pinimg.com/originals/56/71/78/567178a50a751ac234094b2f04c5d627.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "goalpara",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hi Ladies I am experienced body massager, special massage therepy reduce your stress and pain. If you are genuine female than I will be provided you the best massage services at doorstep, hotel. Please let me know if you are interested for best…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

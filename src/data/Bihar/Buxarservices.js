@@ -2,7 +2,7 @@
   {
     id: "buxar-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hot African Curvy QueenThick Booty Round Boobs Sucking 😚 Juicey Pusssy 💦",
     image: "https://i.pinimg.com/originals/7b/bd/ad/7bbdad7342a43060d4c67ec90643fef7.jpg",
     images: [
       "https://i.pinimg.com/originals/7b/cf/65/7bcf65090df441364fb8446bd15317fc.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "buxar",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "I AM SHANITA, 💫 I'M CURRENTLY LIVING IN SUKHDEV AVENUE, LUDHIANA 📍 MY BOOBS ARE SO JUICEY CURVY ASS HOT LIPS 👄. 📟--CHAT WITH ME HERE--📟 💫___+91-98729-22785____💫 My fantasy is that i stay in doggy style while you eat my juicy ass and pussy .. I have my own private place to stay and i can host you. My ass needs really horny doggy style sex .. come…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "buxar-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in buxar.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct",
     image: "https://i.pinimg.com/originals/7b/e4/51/7be4512f9d274b7bfc44bb9eeebda0cb.jpg",
     images: [
       "https://i.pinimg.com/originals/7b/eb/e6/7bebe65bb2f22d10f11ed86cf40e89e1.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "buxar",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "No extra charge genuine people came here time pass direct block genuine people came here 24 HOUR",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "buxar-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
     image: "https://i.pinimg.com/originals/7c/37/15/7c3715f175b5de84f12f1183069d1292.jpg",
     images: [
       "https://i.pinimg.com/originals/7c/41/62/7c416214fc0cb6aeade76039924d1299.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "buxar",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "buxar-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k fu",
     image: "https://i.pinimg.com/originals/7c/fe/7d/7cfe7df634b080872951c4737bd0d284.jpg",
     images: [
       "https://i.pinimg.com/originals/7d/17/cd/7d17cd2a51cefe132a795ae904c262d8.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "buxar",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k full night unlimited shots with condom without condom front or back both said A TO Z service available in my self Nude live video call service Sex chat and Sexy audio call spiking Contact me come and…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "buxar-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hi ,im swati providing you the best massage service in rani bagh,new delhi only.once you avail our service you wont go anywhere in future",
     image: "https://i.pinimg.com/originals/7d/33/84/7d3384f91bfcf570a6727ac7101033a1.jpg",
     images: [
       "https://i.pinimg.com/originals/7d/35/18/7d3518637a7df064e94c97e8b0b44d7f.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "buxar",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hi,im swati providing you the best massage service in rani bagh,pitampura new delhi only. in rani bagh new delhi where you can relax yourself with highly trained therapist. NURU MASSAGE KERALA MASSAGE DEEP TISSUE MASSAGE AYURVEDIC THERAPY B2B MASSAGE HOT OIL MASSAGE",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "buxar-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in buxar.",
+    description: "Demo 50/- for 3 min Video call service provider I am soni agrwal indipendent college girl...",
     image: "https://i.pinimg.com/originals/7d/6c/61/7d6c6157c3bb71a08e642e347e25eb89.jpg",
     images: [
       "https://i.pinimg.com/originals/7d/6e/8b/7d6e8b2eccaf7e33cccbb2cc919da94c.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "buxar",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "I am independent college girl working as Video call Girl full Nude Video call As you like as your mood. Its my guarantee that you will fill like real meet. with maximum satisfaction. 💯💯💯💯♀️special specifications♂️💯💯💯 ❤ full nude video call service ❤…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

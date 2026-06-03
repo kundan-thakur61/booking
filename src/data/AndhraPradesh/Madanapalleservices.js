@@ -2,7 +2,7 @@
   {
     id: "madanapalle-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Mumbai Puja Sharma 24/7 top best low price call girls sex service available 100% safe and secure",
     image: "https://i.pinimg.com/originals/21/93/30/219330a940c2dc194e35b4a78b6c45ed.jpg",
     images: [
       "https://i.pinimg.com/originals/21/93/9f/21939f6f75bcd5cbc3d0e7137cd17175.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "madanapalle",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "madanapalle-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in madanapalle.",
+    description: "💛//Call Riya Patel//💛 Cash Payment Call Me Genuine model inCall OutCall services available in all Mumbai Andheri",
     image: "https://i.pinimg.com/originals/21/e5/c9/21e5c9e2394bbe5ddb5933cbd4d9e9ef.jpg",
     images: [
       "https://i.pinimg.com/originals/22/17/4e/22174e4a508a8c412a1c53a231303329.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "madanapalle",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "✅👉Call Ankita Sharma ✅ FULL CASH PAYMENT HAND TO HAND VIP MODEL IN MUMBAI ✅✅ MUMBAI ✅ ✅ HOT & SEXY MODELS // COLLEGE GIRLS Andheri bandra Khar colaba juhu Pawoi Chembur Santacruz Vashi Malad Bhiwandi Kalyan Dombivli Thane",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "madanapalle-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Intrested lady girls housewife are contact me for dating meeting and physically at full secret so contact me whatsapp",
     image: "https://i.pinimg.com/originals/22/46/72/2246726669c793c4bc14ad24a39fd6a9.jpg",
     images: [
       "https://i.pinimg.com/originals/22/86/87/228687f45ee8319723b8d01cbae35f74.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "madanapalle",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hlw my self vicky Iam defence person Any intrested lady girls housewife are intrested for dating meeting and physically relationship so msg me fast aur hamari puri meeting puri tarah sa secret rahagi yah mai apko bharosha dilata hu 1baar biswas krka…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "madanapalle-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "INCALL and OUTCALL service available i am INDEPENDENT girl no agent no broker",
     image: "https://i.pinimg.com/originals/22/ac/39/22ac39c184dd7b2ec3d41f9a958d2386.jpg",
     images: [
       "https://i.pinimg.com/originals/22/f5/ce/22f5ceb2e3c306f78e4b4f8cad0b3880.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "madanapalle",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hello dear i am simran independent girl staying banglore.i have independent flat staying alone only if anybody wants service incall service then message me. Genuine service only available no any advance payment hand to hand payment.",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "madanapalle-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "💥 NO NEED ANY ADVANCE PAYMENT, ONLY HAND TO HAND CASH PAYMENT, VIP GENUINE INDEPENDENT CALL GIRL💥",
     image: "https://i.pinimg.com/originals/23/20/de/2320deb5d117dc9b57213b19228547ff.jpg",
     images: [
       "https://i.pinimg.com/originals/23/40/f6/2340f68845a47436ba81c923b1813b16.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "madanapalle",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "✅ NO NEED ANY ADVANCE PAYMENT ✅ 💯 ONLY FOR CASH PAYMENT HAND TO HAND 💯 💕 100% GENUINE AND SECURE SERVICE SENTER 💕 ✌ HELLO GUYS 🕺🕺🕺 VIP GENUINE AND SECURE SERVICE AVAILABLE HERE🕺🕺🕺 🫂 FULL FRIENDLY 🫂 FULL COOPERATIVE 🫂 LIKE GIRLFRIEND EXPERIENCE 🫂 100%…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "madanapalle-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in madanapalle.",
+    description: "GENUINE 77954 INDEPENDENT 44304ESCORT LTR HAND CASH PAYMENT TRULY",
     image: "https://i.pinimg.com/originals/23/b3/45/23b345b51284b15cdf7eac71c07058fc.jpg",
     images: [
       "https://i.pinimg.com/originals/23/b9/1b/23b91b28f52399196df93f4b7d7b6f80.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "madanapalle",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Direct Meeting Direct Payment Before Service Cash or UPI. ▪♨️ No Booking Charges or No Online Advance Payment Service Details :- ▪♨️ Full Open Nude Sex Without any Dess With 100% Satisfaction. ▪♨️ BlowJob Oral Sex Pussy Licking Boobs Sucking69 Style…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

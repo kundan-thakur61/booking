@@ -2,7 +2,7 @@
   {
     id: "sonipat-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Rs 1100 (Counter) - *Full Nude🩱Body Massage💗B2B Body massage Spa with BJ🍌 - Manikonda / Nanakramguda / Gachibowli / Shaikpet / Narsingi",
     image: "https://i.pinimg.com/originals/e1/ca/f0/e1caf07b61ff93b48220074a69a672aa.jpg",
     images: [
       "https://i.pinimg.com/originals/e1/d0/bc/e1d0bcf618a3f4417dae92a00901f515.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "sonipat",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Manikonda Hot Massage Spa Massage starting form 1000/- Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "sonipat-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in sonipat.",
+    description: "BOOBS🩷 SUCKING 🫦💦 FULL NUDE NURU MASSAGE WITH HAPPYENDING",
     image: "https://i.pinimg.com/originals/e2/cb/97/e2cb97e4a9c8d25708caa14f9ebb112b.jpg",
     images: [
       "https://i.pinimg.com/originals/e3/01/29/e301290e75b7054de7a5a48e8839d834.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "sonipat",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "OUR SPCL SERVICES: SEXY GIRLS ONLY AROMATHERAPY, SPA, HAPPY ENDING MASSAGE, NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE B0OB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS contact sweety Affordable Rate, 100 %…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "sonipat-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "699/-BOOBS RUBBING 🥵FULL NUDE B2B NURU MASSAGE WITH HAPPYEND.",
     image: "https://i.pinimg.com/originals/e3/7e/21/e37e212de4d55ac493044a889971eb2a.jpg",
     images: [
       "https://i.pinimg.com/originals/e3/a6/c7/e3a6c777868324cbe079d187a89d7712.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "sonipat",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "OF TYPES MASSAGE AVAILABLE • Normal Massage Swedish Massage ✔ Cream massage Deep tissue massage Body Polishing Massage Gel Massage • Legwand Massage EXTRA SERVICES ALSO AVABILES Full nude Massage Body to body Rubbing Romance Shower bath Happy Ending…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "sonipat-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Slim juicy body shape AFRICAN Hot Juicy Body Available.. Horny Hot Wet Fat Tight Pussy Girl .Fucking Meet Now ..fuck as you want ready..",
     image: "https://i.pinimg.com/originals/e4/2e/1c/e42e1ccfc0eb02e5da5091f530966a4c.jpg",
     images: [
       "https://i.pinimg.com/originals/e4/3c/d6/e43cd67d8f6408546a70c89dc06cbe31.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "sonipat",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "MY NAME Is Joy Are you looking for some good time? Want to relax and have fun? You are in here the right place.☺️ I’M VERY CLEAN, SPORTY and HEALTHY NARROW WAIST , WIDE HIPS🍑 And SILKY SMOOTH SKIN ☺️ ——————————————————————— I am a very easy going…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "sonipat-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "💖PRIYA💖 independent Girl Staying Alone in Flat Just Visit Once",
     image: "https://i.pinimg.com/originals/e4/78/f5/e478f5ec09e8fe1fb6e5c696e0c5c9a5.jpg",
     images: [
       "https://i.pinimg.com/originals/e4/9d/28/e49d28b89a93958fa57fb302e777b697.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "sonipat",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hello Guys Am PRIYA💝 🌟🌟Hotel service available 24 hour 💐 All over Hotel outcall service and incall with regular price guarantee satisfaction genuine service",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "sonipat-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in sonipat.",
+    description: "only 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     image: "https://i.pinimg.com/originals/e4/f8/3f/e4f83f90b482a502f76f193c7ef47857.jpg",
     images: [
       "https://i.pinimg.com/originals/e4/fc/74/e4fc74a986b79c3ea57bd8d5389dc231.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "sonipat",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Demo 50/- only ◼️◾▪️💞hey I'm Radhika Bangalore hot girl genius Full Nude video sex service💞 new joinonly 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

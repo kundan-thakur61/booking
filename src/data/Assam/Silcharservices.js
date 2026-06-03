@@ -2,7 +2,7 @@
   {
     id: "silchar-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Radhika available all night for vc service",
     image: "https://i.pinimg.com/originals/62/d9/79/62d97978a92c5e0f811c92407d107ebb.jpg",
     images: [
       "https://i.pinimg.com/originals/62/f7/8c/62f78cc8f0eb09350fa6bd411253cbdb.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "silchar",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "i am Radhika Available for alll service for cam sex available no meet",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "silchar-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in silchar.",
+    description: "93720 - 27981 DIRECT CASH PAYMENT NO ADVANCE INDEPENDENT HOT GIRLS, BHABHIS & RUSSIANS",
     image: "https://i.pinimg.com/originals/63/50/2c/63502c809e46bf81a2cb774566f3e999.jpg",
     images: [
       "https://i.pinimg.com/originals/63/76/a2/6376a24f90bdb30b18a0548e84d744fb.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "silchar",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Greetings all, the name is MEETA JAIN and I’m a truly stunning and elegant 23-year-old independent call girl. I'm going to become the woman who'll be able to make you cum like never before, dear. I have such a beautiful and natural figure that you…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "silchar-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Am Shreya truly genuine independent call girl direct meet independent escorts service available",
     image: "https://i.pinimg.com/originals/63/a9/95/63a995713b5eceb70540059e794a46de.jpg",
     images: [
       "https://i.pinimg.com/originals/63/c7/e1/63c7e1aa351cda06d34e0f882a62cdf9.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "silchar",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "It's a safe and genuine service available in Bangalore all types of services available including hotel and home service available direct meet also available no broker involved with me try and enjoy your day with me",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "silchar-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "🙏🏼No advance only 3000 unlimited shots coustomer satisfaction service ♥️",
     image: "https://i.pinimg.com/originals/63/e6/29/63e62900cd157743bbb2b09509057205.jpg",
     images: [
       "https://i.pinimg.com/originals/64/26/68/6426686dedefb3e1b5da27dc3b44eece.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "silchar",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Call me:- Ritu Sharma Hotel and home service available 100% genuine service full satisfactionLocation:- Andheri, Sakinaka, Mora, Andheri airport, Chakala, Powai, Dadar, Bandra, Kurla, Chembur, Malad, Santacruz,Vile Parle, Mira Road, Goregaon,…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "silchar-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "TANI HERE TO MAKE YOUR DAY UNFORGETTABLE MESSAGE ME ON TELEGRAM FOR MORE DETAILS",
     image: "https://i.pinimg.com/originals/64/6c/72/646c72d642f744c1f64ff17f4bd04d55.jpg",
     images: [
       "https://i.pinimg.com/originals/64/9e/cb/649ecb3734647562dc7a61922763e94c.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "silchar",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Message me on telegram for more details I am waiting for your call and message",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "silchar-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in silchar.",
+    description: "👑LUXURIOUS MODEL👙AIRHOSTESS HOT SEXY🥻CLG GIRL READY HOUSEWIFE♦️MUMBAI BEST🌍ESCORT AVAILABLE🏪",
     image: "https://i.pinimg.com/originals/65/1c/f9/651cf913cbfda9f8647e75d0c48fdf0c.jpg",
     images: [
       "https://i.pinimg.com/originals/65/1f/0a/651f0ad220d033a0ac288d8620929a14.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "silchar",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "VIP GIRL AVAILABLE HOTEL 3🌟4🌟5🌟HIGH PROFILE ESCORTS FOR PREMIER ESCORT SERVICES COLLEGE ESCORTS IN MUMBAI PROVIDES BEST ROMANTIC PLEASURES ONLY CASH PAYMENT 100% REAL MUMBAI ESCORT SERVICES SAFE AND ORIGINAL. 100% SATISFIED MUMBAI ESCORT SERVICES SAFE AND ORIGINAL. 100% SATISFIED GUARANTEED (age-20,21,22.....) College girls , party girls and also…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

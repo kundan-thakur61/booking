@@ -2,7 +2,7 @@
   {
     id: "ongole-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hii I am Neetu independent genuine location BTM Layout but only out call available and full service please no time pass",
     image: "https://i.pinimg.com/originals/29/cc/c0/29ccc044803b99bfa7e393d3b9594522.jpg",
     images: [
       "https://i.pinimg.com/originals/29/ce/7c/29ce7cb3f4c09084a1ced0d4f60d20a4.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "ongole",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hii I am Neetu independent genuine location BTM Layout but only out call me available short time 7k 2 short 3 hours full night 12k 4 short and full service please no time pass",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "ongole-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in ongole.",
+    description: "𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 DIRECT🌿💞 PAYMENT CALL GIRLS PREMIUM ESCORT INDIAN TOP MODELS PROFILE",
     image: "https://i.pinimg.com/originals/2a/16/37/2a1637f3febe49a61c2452c1380fc621.jpg",
     images: [
       "https://i.pinimg.com/originals/2a/1b/20/2a1b2004eba95cba4ad0f44bd4c745b9.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "ongole",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "About me Hello, Sir. I am at your service. I offer my services on a cash-payment basis and will ensure your complete satisfaction. I am confident that you will be pleased with my services. Please refrain from messaging me merely to pass the time; for…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "ongole-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Bangalore video call service full nude with voice",
     image: "https://i.pinimg.com/originals/2a/41/04/2a41040cd5fa5b607323bf67edb23cbd.jpg",
     images: [
       "https://i.pinimg.com/originals/2a/7f/76/2a7f76841cb48ad078521a47ccb18677.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "ongole",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Boobs rubbing and fingring regular customer banane ki full guarantee",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "ongole-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "I m jaya kannada hudgi geninu vc available with real face and voice",
     image: "https://i.pinimg.com/originals/2a/b0/94/2ab094375d0b8e52a3981a3128dbbc64.jpg",
     images: [
       "https://i.pinimg.com/originals/2a/e9/95/2ae9950abd875328044a79b6facc50e9.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "ongole",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "I m jaya kannada hudgi geninu vc available with face voice",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "ongole-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hy i am kannada girl paid video call",
     image: "https://i.pinimg.com/originals/2b/44/f8/2b44f8e0964fc58df8842aa6cadd7e01.jpg",
     images: [
       "https://i.pinimg.com/originals/2b/60/a4/2b60a41728461e00a85e92104d6cac16.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "ongole",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Yes I am kannada girl paid video call sarves",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "ongole-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in ongole.",
+    description: "NO ADVANCE CASH PAYMENT FULL SERVICE ALL KOLKATA HOME AND HOTEL SERVICE",
     image: "https://i.pinimg.com/originals/2c/16/c0/2c16c0dd88d87d82c3ce4e9303bbc47d.jpg",
     images: [
       "https://i.pinimg.com/originals/2c/2b/23/2c2b23cf2c138461d1d77d71e262f899.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "ongole",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "CALL AND OUT-CALL FACILITY HOTEL AND HOME SERVICE AVAILABLE affordable Rate satisfaction NOTE:- ALL OUR GIRLS ARE MEDICALLY TESTED PERIODICALLY JUST TO ENSURE SAFE AND SECURE RELATIONSHIP WITH. BEST CALL GIRL ESCORT SERVICE IN/OUT CALL LOW-COST CALL…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

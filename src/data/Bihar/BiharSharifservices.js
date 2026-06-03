@@ -2,7 +2,7 @@
   {
     id: "biharSharif-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "No broker Remember no time for free For booking what's app Aradhana",
     image: "https://i.pinimg.com/originals/7a/75/bf/7a75bf51a51b176ca2d290d6704f6261.jpg",
     images: [
       "https://i.pinimg.com/originals/7a/78/93/7a78931cd0db950cf1124c8f52a31fbc.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "biharSharif",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Independent Independent house wife for nude video chat 30 mins: 5000/ 20 mins: 3000/ 10 mins: 2500/ Remember no time for free demo ifyou don't trust don't message After payment done Aradhana will inform me I will then start with my session For…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "biharSharif-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in biharSharif.",
+    description: "Body Massage Service To Girls , Women & Couples",
     image: "https://i.pinimg.com/originals/7a/9a/c3/7a9ac30f36689c7b2946ac5005d35214.jpg",
     images: [
       "https://i.pinimg.com/originals/7a/c0/d7/7ac0d75ba42327c8468fa584f293b93a.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "biharSharif",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hello Every One My Self Aniket Here I Am Trained & Professional Massage Therapist With Over 7 Years Experienced Delivering Massage Service. I Provide Doorstep & Personalized Home Body Massage Service Across The Pune City I Offered The Following…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "biharSharif-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Genuine housewife",
     image: "https://i.pinimg.com/originals/7a/f7/10/7af710ae73b6d6bf348f4bc3ce051178.jpg",
     images: [
       "https://i.pinimg.com/originals/7a/ff/7e/7aff7ee3de922d5feeefc8f43134381a.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "biharSharif",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hello iam usha genuine and serious age Above 27yrs old looking for paid fun with genuine guy only as am alone at home I have safe place with independent house no free things pine me on wasap or tlgrm usha",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "biharSharif-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "NO💸 ADVANCE NEW MODEL 💋SEXY TRUSTED COLLAGE CALL GIRL IN PUNE 🤞",
     image: "https://i.pinimg.com/originals/7b/03/59/7b03598ded11fcace9bd99a450d656fd.jpg",
     images: [
       "https://i.pinimg.com/originals/7b/04/ca/7b04cabdf128802ea93fca027fb76f1d.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "biharSharif",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "NO ADVANCE DIRECT CASH PAYMENT IN HAND FULL SAFE AND SECURE HOTEL AND HOME SERVICE AVAILABLE WE GURANTEE 100% SATISFACTION IN LOWEST PRICE ( Incall & outcall ) service 24*7 hrs available here.. Location :- Koregaon park Viman Nagar Hadapsar kharadi…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "biharSharif-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hi I'm kannada sexy aunty full nude live whatsapp vc and real meet aunty num available",
     image: "https://i.pinimg.com/originals/7b/0a/b2/7b0ab2bc844677f8a652bff9c221dc96.jpg",
     images: [
       "https://i.pinimg.com/originals/7b/12/cb/7b12cb2ec191d656cef271c8f68505f2.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "biharSharif",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Only genuine no fake I need only genuine costumers contact me Sex chat with pics 💋 Audio call roleplay 💯 Pussy fingered show video call",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "biharSharif-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in biharSharif.",
+    description: "Demo 50/- only ◼️◾▪️💞hey I'm jyoti Bangalore hot girl genius Full Nude video sex service💞 new joinonly 50/-Full 💝nude 🤗video call without clothes demo",
     image: "https://i.pinimg.com/originals/7b/27/61/7b27610c6edd7b02d576c145b0e1975d.jpg",
     images: [
       "https://i.pinimg.com/originals/7b/49/8c/7b498c8aacad3006397631d3b88a3bfc.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "biharSharif",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Full open video call in just 50 demo charge with voice with enjoy full enjoy hot girl ❤️❤️💘💕 50 demo charge 🥵 💦",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

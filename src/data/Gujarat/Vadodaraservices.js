@@ -2,7 +2,7 @@
   {
     id: "vadodara-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Mrs Mini(Housewife) here ,Real sex service Available",
     image: "https://i.pinimg.com/originals/d1/e9/0b/d1e90bb24dce71693d330c3d8ee901b0.jpg",
     images: [
       "https://i.pinimg.com/originals/d1/f1/d1/d1f1d1ed2034f658700f5098ace31e0a.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "vadodara",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hello Dear Myself Mrs Mini(Housewife) here, And I am living here from 2 year Best Sex Service with Full Satisfaction I am giving Real sex Service at Very Low Charges (sex,foreplay,blowjob) Charges 2000/- 2hr(2shots with place + Ac included) booking…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "vadodara-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in vadodara.",
+    description: "SEXY ROUND BOOBS AFRICAN SWEET CALL GIRL 🔥 QUEEN 🔥 READY TO SATISFY YOUR SEXUAL 💦FANTASIES IN BED.......WhatsApp Her for more fun details.",
     image: "https://i.pinimg.com/originals/d2/47/47/d2474711850a3fb220b85c5e7b5b3eb3.jpg",
     images: [
       "https://i.pinimg.com/originals/d2/47/54/d24754218ba95ccf6b86c87d07d3d235.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "vadodara",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "I am Queen a new sexy round boobs Africa sweet call girl living in Hinjawadi, Pune. So if you are lonely and looking for a kinky and horny date .. i want to be the one for you .. :-) :-) I really enjoy the following: * Blowjobs without Condoms * Ass Licking * Pussy Licking * Fingering and Rubbing my Wet Clitoris * Face Sitting * Doggy Style *…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "vadodara-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hi guys I am Neetu independent only out call available service",
     image: "https://i.pinimg.com/originals/d2/76/ad/d276adcb697f9b9ede98b2baba0d5c17.jpg",
     images: [
       "https://i.pinimg.com/originals/d2/d2/91/d2d291e0f02cb69d34e9b511c5f40e82.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "vadodara",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hii sir l me Neetu independent but only out call available short time 7k 2 short 3 hours full night 12k 4 short and full service please no time pass",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "vadodara-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Independent girl Ramya no Broker direct hand cash payment out call service",
     image: "https://i.pinimg.com/originals/d3/08/a1/d308a1a31b65618d2e02e18fe7a3b401.jpg",
     images: [
       "https://i.pinimg.com/originals/d3/35/37/d3353732197391dd53bffc47c4153c73.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "vadodara",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Ramya... Call & WhatsApp Now Hand to hand cash only direct girl no Agent No Broker High class independent girls models House wife air hostess, college girls call center girls,who are not only good looking but also very mannered.incall _out Call…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "vadodara-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "🔥VIP GENUINE ESCORT SERVICE, NO NEED ANY ADVANCE, ONLY HAND TO HAND PAYMENT 🔥",
     image: "https://i.pinimg.com/originals/d3/66/6e/d3666e3c9d0fcd55a3ce3d77213d0894.jpg",
     images: [
       "https://i.pinimg.com/originals/d3/6d/7d/d36d7d017dac254c75ee0b30d7bd60bc.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "vadodara",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "💕 NO NEED ANY ADVANCE PAYMENT 💕 💕 Only for cash payment hand to hand 💕 💖 100% GENUINE AND SECURE SERVICE CENTRE 💖 👋 HELLO GENTLEMAN 🕺🕺🕺 VIP GENUINE & SECURE SERVICE AVAILABLE HERE 🕺🕺🕺 🫂 FULL FRIENDLY 🫂 FULL COOPERATIVE 🫂 100% SATISFACTION 🫂 LIKE…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "vadodara-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in vadodara.",
+    description: "Hi,im swati providing you the best massage service in rani bagh new delhi onlyonce you avail our service you wont go anywhere in future",
     image: "https://i.pinimg.com/originals/d3/cf/95/d3cf95167e212127f11114d77f76173d.jpg",
     images: [
       "https://i.pinimg.com/originals/d3/ee/98/d3ee983a85dcf28fa8f4fcdc0fbfeaf3.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "vadodara",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hi,im swati providing you the best massage service in rani bagh new delhi only.you can relax your self in our centre with trained therapist with various massage and services NURU MASSAGE KERALA MASSAGE DEEP TISSUE MASSAGE B2B MASSAGE HOT OIL MASSAGE",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

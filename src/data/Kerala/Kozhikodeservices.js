@@ -2,7 +2,7 @@
   {
     id: "kozhikode-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "💗💯✅ OUTCALLL SERVICE AVAILABLE ALL CASH PAYMENT. CAMSHOW AVAILABLE ALSO💦",
     image: "https://i.pinimg.com/originals/b6/d0/bd/b6d0bd3b908542e56f3cd09c250dc15b.jpg",
     images: [
       "https://i.pinimg.com/originals/2c/a8/3c/2ca83cb7318722bae0712f68441c264d.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "kozhikode",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hello gentlemen. I'm available now for real meet. If you have your own place i want some advance for ok dear. Hotel -all cash. Shot with protection bj without protection all type kissing. Full service without any restriction",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "kozhikode-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in kozhikode.",
+    description: "✍🏻 Directly Meeting Bangalore Electronic City In Call Out Call Avl🤙🏻Nude Video Call 100 5 minutes Vc Full Open Body Show figure and voice ka sath",
     image: "https://i.pinimg.com/originals/93/4c/9e/934c9e88c6fb30acbb2029c010210d2c.jpg",
     images: [
       "https://i.pinimg.com/originals/3a/95/a5/3a95a52c3270f7532e9713cc0f95ce59.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "kozhikode",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "My name is masuma from electronic City",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "kozhikode-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "GENUINE SERVICE AVAILABLE DIRECT HAND TO HAND CASH PAYMENT NO ADVANCE NO EXTRA CHARGES",
     image: "https://i.pinimg.com/originals/47/46/a5/4746a511ae5b8bbbbf1bb0f9dba1509f.jpg",
     images: [
       "https://i.pinimg.com/originals/73/97/e8/7397e82553ddcb933f7c06f6e3e40a2e.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "kozhikode",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Direct Meeting Direct Payment Before Service Cash or UPI. ▪♨️ No Booking Charges or No Online Advance Payment Service Details :- ▪♨️ Full Open Nude Sex Without any Dess With 100% Satisfaction. ▪♨️ BlowJob Oral Sex Pussy Licking Boobs Sucking69 Style…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "kozhikode-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hii am banglore 💗 Divya 💗 independent hot girl.kannada hudgi",
     image: "https://i.pinimg.com/originals/39/81/16/398116efe360bb9f56940df754fd4adc.jpg",
     images: [
       "https://i.pinimg.com/originals/4c/86/16/4c8616b62484f500dd57d1046bf0fb82.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "kozhikode",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hii am 💗 Divya 💗 independent college girl .. Out call and incall service available Due to some proverty problem dad was dead that's why am doing this work. Video call and audio call service also available. It's truly genuine service genuine person…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "kozhikode-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "699/-FULL NUDE 🩷PINK PUSSY LICKING 🫦💦 NURU MASSAGE WITH HAPPYENDING",
     image: "https://i.pinimg.com/originals/c2/4e/4b/c24e4b0044e0e251aec1a64de3055bab.jpg",
     images: [
       "https://i.pinimg.com/originals/58/0c/e8/580ce8e540f414db5a6c2291330314f7.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "kozhikode",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "OUR SPCL SERVICES: SEXY GIRLS ONLY AROMATHERAPY, SPA, HAPPY ENDING MASSAGE, NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE B0OB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS contact sweety Affordable Rate, 100 %…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "kozhikode-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in kozhikode.",
+    description: "✅✅ My SELF NEHA INDEPENDENT CALL GIRL AVAILABLE FOR OUTCALLL GENUINE MEET SERVICES. AVAILABLE 24/7",
     image: "https://i.pinimg.com/originals/c8/a3/0f/c8a30f5a573105b651377d4c16057ad7.jpg",
     images: [
       "https://i.pinimg.com/originals/06/b7/f7/06b7f7efb4c0d6f46f0bd304a5f0c048.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "kozhikode",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hey dear. Service available now. Full service. Shot with protection bj without protection all type kissing. . Anal. All type kissing. Full service without any restriction. . . If you have your own place you have to pay some advance for. . Hotel -all…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

@@ -2,7 +2,7 @@
   {
     id: "nagaon-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Bangalore LOW RATE (VIDHI CALL GIRLS) ESCORT FULL HARD FUCK WITH NAUGHTY IF YOU WANT TO FUCK MY PINK PUSSY WITH BIG BOOBS A",
     image: "https://i.pinimg.com/originals/61/13/7b/61137b75750f08ca80854710e5352fd1.jpg",
     images: [
       "https://i.pinimg.com/originals/61/48/91/6148919d266ab998d0a218edf9fa6960.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "nagaon",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "LOVELY HOTTY 👅💏 HI MODELS COLLEGE GIRLS👅💋 HI PROFILE VERY NAUGHTY💦📞👙 💥ANAL SEX💥 BDSM💥 POSE💥LIP KISS💥 DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANCE💥 BOOBS RUBBING💥 LICKING💥HAND JOB 💏GIRLFRIEND EXPERIENCE💏 EROTIC MASSAGE💥 💥 SEX IN DIFFERENT…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "nagaon-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in nagaon.",
+    description: "Hello I am beby singh the genuine service available so please ☺️😍",
     image: "https://i.pinimg.com/originals/61/6f/1d/616f1d44de8786d301a57ffb5ccc437f.jpg",
     images: [
       "https://i.pinimg.com/originals/61/83/88/6183880b10c7a4786caea6e8e7f93bf5.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "nagaon",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hello my name is beby singh the best girlfriend experience and best service in the world massage and full service 😍💯💕",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "nagaon-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "THE ZEN SPA OFFERS THAILAND STYLE SOAPY MASSAGE BY 2 GIRL & NURO TANTRIC B2B OIL MASSAGE BY HOT GIRLS",
     image: "https://i.pinimg.com/originals/61/b7/79/61b7791c3d5182680f17d0f0b6730e6e.jpg",
     images: [
       "https://i.pinimg.com/originals/61/ea/7a/61ea7a690c4dac05cea3c28f0e49f289.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "nagaon",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Welcome to \"THE ZEN SPA\" Body Massage in Bangalore ,If you are looking over for a Best Body Massage Center in Bangalore? Spa provides you with the world standard body massage. Contact us - 953-555-4703 experience the Best Body Massage in Bangalore.…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "nagaon-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Video call service nude video call service video call service",
     image: "https://i.pinimg.com/originals/62/14/95/6214955a7a249e0d6b3f36073c5c7346.jpg",
     images: [
       "https://i.pinimg.com/originals/62/25/99/6225991d0f293950a74161e892fdb1ce.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "nagaon",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Video call service nude video call service video call service",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "nagaon-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "only 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     image: "https://i.pinimg.com/originals/62/39/0d/62390d1c1b749241ac3147dec9d0651b.jpg",
     images: [
       "https://i.pinimg.com/originals/62/3d/18/623d181fd2eae594b91f0dddfb08c091.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "nagaon",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Demo 50/- only ◼️◾▪️💞hey I'm Radhika Bangalore hot girl genius Full Nude video sex service💞 new joinonly 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "nagaon-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in nagaon.",
+    description: "Video call and voice call service available 💜🥵full open and face confirm free 🥵low price",
     image: "https://i.pinimg.com/originals/62/89/ad/6289adcaf10e6946fc581a81246883ad.jpg",
     images: [
       "https://i.pinimg.com/originals/62/8d/90/628d9071e4d0bd0e2ad6d91eab662fcc.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "nagaon",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Video call and voice call service available 💜🥵full open and face confirm free 🥵low price",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

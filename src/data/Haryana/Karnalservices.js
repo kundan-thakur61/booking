@@ -2,7 +2,7 @@
   {
     id: "karnal-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "CALL ME PRIYANKA ROY AND TRUSTED SERVICE AVAILABLE IN OUR CITY ALL TIME ANAL ORALS SUCKING BELOW JOB AND EDUCATED GIRL AVAILABLE",
     image: "https://i.pinimg.com/originals/db/fc/8e/dbfc8e576693bc6da21897596a802fcb.jpg",
     images: [
       "https://i.pinimg.com/originals/dc/1d/70/dc1d70b05580048793be17e76a03734a.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "karnal",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "karnal-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in karnal.",
+    description: "Hii ladies /Girls/widow/auntys and mummy's any one needed perfact massage partner for relax your body and mind then connect me.",
     image: "https://i.pinimg.com/originals/dc/78/fa/dc78fa21cf56dafa3c85c45e12f85968.jpg",
     images: [
       "https://i.pinimg.com/originals/dc/94/f2/dc94f220414e0cb1a51c9b04ca100fc7.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "karnal",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hii ladies /Girls/widow/auntys and mummy's any one needed perfact massage partner for relax your body and mind then connect me. Any one needed genuine massage then connect time passer will be directly block and i provide extra services also with full…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "karnal-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Rs 1000 (HyderNgr) - Full Nude🩱Body Massage in Kukatpally JNTU HyderNagar💗KPHB B2B Body massage Spa with BJ🍌 - Kukatpally / JNTU / HyderNagar",
     image: "https://i.pinimg.com/originals/dc/c1/7e/dcc17ed877e18410710823f21e8a366f.jpg",
     images: [
       "https://i.pinimg.com/originals/dc/c4/a4/dcc4a47283cefc73cff94ee221487100.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "karnal",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Kukatpally Massage Spa Massage starting form 1000/- HyderNagar Massage Spa Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "karnal-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "PUNE MARATHI MOVIE MODAL OYO HOTEL CASH PAYMENT NO ADVANCE CALL GIRL",
     image: "https://i.pinimg.com/originals/dc/d4/e8/dcd4e87b19aaa8bc106e63e1b01c9f1d.jpg",
     images: [
       "https://i.pinimg.com/originals/dc/e3/e6/dce3e6ab67058c44b1715cdf1b2a8d2a.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "karnal",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "PUNE ONLY CASH 💵 PAYMENT BEST AND MOST AFFORDABLE PRICE CALL ME ANYTIME FOR SERVICE REQUIRED PLEASE🙏 ONLY GENUINE PERSON CONTACT ME",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "karnal-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "💖PRIYA💖 independent Girl Staying Alone in Flat Just Visit Once",
     image: "https://i.pinimg.com/originals/dd/18/6d/dd186dc99823d8422803a7aa0176d41d.jpg",
     images: [
       "https://i.pinimg.com/originals/dd/4c/8a/dd4c8a5e33352490cd7be28c1b8582f5.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "karnal",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hello Guys Am PRIYA💝 🌟🌟Hotel service available 24 hour 💐 All over Hotel outcall service and incall with regular price guarantee satisfaction genuine service",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "karnal-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in karnal.",
+    description: "✅INDEPENDENT CALL GIRL REAL MEET GENUINE SERVICE AVAILABLE",
     image: "https://i.pinimg.com/originals/dd/5f/a9/dd5fa97a25a00b2ee490c332f69efe50.jpg",
     images: [
       "https://i.pinimg.com/originals/dd/72/e2/dd72e23b2094de47abddc1f4d499b53a.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "karnal",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "About me ❤️ hii gentalman My self Aliya Sharma I am independent girl I am college student I am very hot girl Please text me genuine person 💯💯 Real meet service available 24/7💯💯 I am available now for real meet service all over Bangalore 24/7💯💯",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

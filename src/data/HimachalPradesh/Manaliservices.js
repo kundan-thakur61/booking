@@ -2,7 +2,7 @@
   {
     id: "manali-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "NO ADVANCE//BUSTY & BIG BOOBS YOUNG GIRL AVAILABLE IN YOUR CITY WITH REASONABLE PRICE",
     image: "https://i.pinimg.com/originals/e8/4c/ed/e84ced060104075294039c7155578308.jpg",
     images: [
       "https://i.pinimg.com/originals/e8/64/0c/e8640c010fc8ae06f34f491d669c6dce.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "manali",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hello Everyone, I'm Mahi Singh We are genuine service provider in Bangalore. If you are genuinely interested than tell Text me....ok Only OutCall Don't Ask For InCall I can be everything you have always desire seductive and mischievous in one moment,…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "manali-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in manali.",
+    description: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
     image: "https://i.pinimg.com/originals/e8/d3/87/e8d387ce5ea68ebf3c0b96f4d3bcb14c.jpg",
     images: [
       "https://i.pinimg.com/originals/e8/d9/f5/e8d9f5a203932021a95b616317ac91da.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "manali",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "manali-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hi im swati providing you the best massage service in rohini,pitampura.new delhi once you avail our service you wont go anywhere in future",
     image: "https://i.pinimg.com/originals/e9/70/ad/e970ad5ca6ce10bf992f4ed325db4bd9.jpg",
     images: [
       "https://i.pinimg.com/originals/e9/76/bb/e976bba8ed1866a2e51834768759e0a5.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "manali",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hi im swati providing you the best massage service in pitampura.new delhi only.once you avail our service i m sure you wont go any where in future.contact new delhi only. Nuru massage Kerela massage Deep tissue massage Ayurvedic massage Shower…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "manali-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "🥀HII RIYA INDEPENDENT CALL GIRL NO BROKEN DIRECTL MEAT GENUINE WORK 🥀",
     image: "https://i.pinimg.com/originals/e9/b1/34/e9b134a42ced120f91eeef5187b067de.jpg",
     images: [
       "https://i.pinimg.com/originals/e9/c6/3e/e9c63e32c6b2e0aa89622317b8e5a08d.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "manali",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Independent call girl no advance payment hand to hand payment hotel service all over =visit Bangalore Vip service Genuine work directly meet 🥀",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "manali-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "GENUINE INDEPENDENT INDIAN BUILT ON TRUST SATISFACTION GUARANTEED DECENT & SELF MADE SIZZLING HOT COMPANION NO ADVANCE ONLY HAND CASH",
     image: "https://i.pinimg.com/originals/e9/f8/ce/e9f8ce262641a98bf1440d9279afa4f1.jpg",
     images: [
       "https://i.pinimg.com/originals/ea/1e/4b/ea1e4b04bc78bc0fb4f52256cb6473ac.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "manali",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "INDEPENDENT, SELF-MADE, AND GUIDED BY INTENTION. I EMBODY CONFIDENCE, DISCRETION, AND A REFINED LIFESTYLE WHERE QUALITY ALWAYS COMES FIRST. I VALUE MEANINGFUL CONNECTIONS, MUTUAL RESPECT, AND ELEVATED STANDARDS IN EVERY INTERACTION. MY TIME & ENERGY…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "manali-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in manali.",
+    description: "All night available Radhika cam service",
     image: "https://i.pinimg.com/originals/ea/5d/4a/ea5d4a1d578e1ca445604a3e1963f693.jpg",
     images: [
       "https://i.pinimg.com/originals/ea/6e/7e/ea6e7e3c6c3be9b6738165687f35263f.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "manali",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "PAYTM/GPAY/PHONEPE AVAILABLE IF YOU DON't TRUST DONT MESSAGE ME After payment send screenshot otherwise your payment is not valid Timepassers will directly get blocked Anytime my sex online available Live vc Nude pic Lesbian show Nude bath Ass show…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

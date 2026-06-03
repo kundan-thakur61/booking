@@ -2,7 +2,7 @@
   {
     id: "changlang-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "❤Demo 50rs 💓Hi, I Am Genuine💓 College Girl Nude Chat Video Call Service With Voice Also Full 50rs No security change no extra charge",
     image: "https://i.pinimg.com/originals/40/d9/51/40d951ecfc97ea31ebd114b45fff689d.jpg",
     images: [
       "https://i.pinimg.com/originals/40/f7/b9/40f7b96e0915dcace4a427046a91b4d6.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "changlang",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "💦/Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge and make ur mood happy👩‍❤️‍👨 ❤ full nude service call service ❤ phone call sex ❤ sex chat ❤ sex education ❤ maximum satisfied customer we…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "changlang-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in changlang.",
+    description: "💃HIGH CLASS COLLEGE HOSTEL GIRLS INDEPENDENT OR HOTEL STAY AVAILABLE VERRY REASONABLE PRICE CONTACT PLEASE💃",
     image: "https://i.pinimg.com/originals/41/6b/77/416b77e79684c3ba420daffe7e6a0c5c.jpg",
     images: [
       "https://i.pinimg.com/originals/41/74/18/41741870990d4f321427c36ef23ef3ef.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "changlang",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Escorts Service In Delhi- 8796- 155 -250📌𝐚𝐧𝐝 𝐊𝐢𝐬𝐬𝐢𝐧𝐠, 𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠 𝐋𝐢𝐩𝐥𝐨𝐜𝐤, 𝐃𝐞𝐞𝐩 𝐊𝐢𝐬𝐬, 𝐅𝐫𝐞𝐧𝐜𝐡 𝐊𝐢𝐬𝐬 100% satisfaction guaranteed",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "changlang-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "I have pink pussy and big boobs",
     image: "https://i.pinimg.com/originals/42/10/be/4210be88edaa4d07d21679563cb92cd8.jpg",
     images: [
       "https://i.pinimg.com/originals/42/29/dc/4229dcadc499f006203da3022e620706.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "changlang",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "I will give good service",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "changlang-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hi I'm Nisha independent girl meet direct My flat",
     image: "https://i.pinimg.com/originals/42/40/78/42407826900ee2c688ab0d36f5442da0.jpg",
     images: [
       "https://i.pinimg.com/originals/42/4f/a8/424fa8d7baa6280f897d90b845688629.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "changlang",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Direct meet I'm independent call-girl-in alone... I'll really give u good enjoyment and Excellent service on my bed.... I'm basically from south girl.. i can speak kannada and English.. I'm in some financial problems that's why this way... but I'll…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "changlang-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Intrested lady girls housewife are contact me for dating meeting and physically at full secret so contact me whatsapp",
     image: "https://i.pinimg.com/originals/42/98/d0/4298d099ef5db211166c3f1687d6c3a2.jpg",
     images: [
       "https://i.pinimg.com/originals/42/a7/08/42a7085a41d741978c056d3d610064cc.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "changlang",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hlw my self vicky Iam defence person Any intrested lady girls housewife are intrested for dating meeting and physically relationship so msg me fast aur hamari puri meeting puri tarah sa secret rahagi yah mai apko bharosha dilata hu 1baar biswas krka…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "changlang-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in changlang.",
+    description: "I m jaya kannada hudgi geninu vc available with real face and voice",
     image: "https://i.pinimg.com/originals/42/f6/22/42f622b2a3b784187308c761c90cbbe1.jpg",
     images: [
       "https://i.pinimg.com/originals/43/04/c2/4304c2689e0222d412c196b584bc2f6c.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "changlang",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "I m jaya kannada hudgi geninu vc available with face voice",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

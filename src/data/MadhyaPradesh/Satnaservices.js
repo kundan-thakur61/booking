@@ -2,7 +2,7 @@
   {
     id: "satna-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Genuine Horny Bhabhi for Services(free Confirmation)",
     image: "https://i.pinimg.com/originals/b5/5a/6b/b55a6bee123290b141ce1dc29c8b21ab.jpg",
     images: [
       "https://i.pinimg.com/originals/ca/fc/46/cafc46fdb3861b689726801d9fb7f07f.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "satna",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hello guys, This is jivika 26 yr old married having busty body available for live services. Free voice confirmation. Plz Contact me on. WhatsApp. My pics r attached",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "satna-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in satna.",
+    description: "Genuine Horny Bhabhi for Services(free Confirmation)",
     image: "https://i.pinimg.com/originals/b8/2f/be/b82fbeb575185414959dfdc589ef12f6.jpg",
     images: [
       "https://i.pinimg.com/originals/dd/5a/1b/dd5a1bb384f6356ae10341e704be962c.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "satna",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hello guys, This is jivika 26 yr old married having busty body available for live services. Free voice confirmation. Plz Contact me on. WhatsApp. My pics r attached",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "satna-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
     image: "https://i.pinimg.com/originals/33/6b/e1/336be140e6616aff663ae08dce403150.jpg",
     images: [
       "https://i.pinimg.com/originals/e8/d3/87/e8d387ce5ea68ebf3c0b96f4d3bcb14c.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "satna",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "satna-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "NO ADVANCE DIRECT CASH PAYMENT CALL-GIRL 24hr available hotel in home apartment",
     image: "https://i.pinimg.com/originals/01/d4/ca/01d4ca0d2d59f16a4203f9704bfaafca.jpg",
     images: [
       "https://i.pinimg.com/originals/d2/47/54/d24754218ba95ccf6b86c87d07d3d235.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "satna",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "HAND TO HAND CASH PAYMENT HIGH PROFILE GIRLS hotel and home AVAILABLE 24/7 ALL TYPE GIRL. 🌟✨CALL &WHATSAPP = ONLY GENU⁵IPERSONNE DON'T TIME WASTE GENUINE PERSON ENJOY 100% Cus bytomers Satisfaction Guarantee // 100 % Vip Profiles Top Grade Service //1 100% Cooperative All round Service. WE GUARANTEE FULL SATISFACTION & IN CASE OF ANY UNHAPPY…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "satna-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "👑LUXURIOUS MODEL👙AIRHOSTESS HOT SEXY🥻CLG GIRL READY HOUSEWIFE♦️PUNE BEST🌍ESCORT AVAILABLE🏪",
     image: "https://i.pinimg.com/originals/3f/f5/d6/3ff5d66c000231130970e180114f0cb1.jpg",
     images: [
       "https://i.pinimg.com/originals/b0/35/84/b03584d669bae4288fd82a1b7708bcb9.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "satna",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "GOOD QUALITY EDUCATED PROFILE HOTEL SERVICE AT VERY LOW 100% SAFE AND ORIGINAL. 100%⭐⭐⭐ SATISFIED GUARANTEED (age-19 to 35) College girls , party girls and also house wife’s⭐⭐⭐⭐⭐ Our Service Available In Home AND STAR HOTELS , In call Out call Service.24 hrs⭐⭐⭐⭐⭐ * Models⭐⭐⭐⭐⭐ * Call Center Working Girls/Women * Hi Tech Co. Girls/Women⭐⭐⭐⭐⭐ * House…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "satna-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in satna.",
+    description: "My name is Ruhi Patel i am independent college girl no broker ❌ no agency ill provide the without registration 👍",
     image: "https://i.pinimg.com/originals/d6/ba/b0/d6bab038b478d356ec7d80b996af31f6.jpg",
     images: [
       "https://i.pinimg.com/originals/30/c0/34/30c034dbaa9d5a476dd1c7a771b6e8d5.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "satna",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Dear Customers Are You Looking Call Girl Service In Bangalore,But Unable To Find Geniune Best One! Don't Worry,I'm Here To Full Fill Your All Requirment, My Name is Soniya I'M a Independent Call Girl and I Will Provide The Service Without Any Restriction without any Stupid Condition,You Just Connect With Me Through Whatsapp Or Teligram And Get…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

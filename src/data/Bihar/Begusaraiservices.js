@@ -2,7 +2,7 @@
   {
     id: "begusarai-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "699/-BOOBS RUBBING 🥵FULL NUDE B2B NURU MASSAGE WITH HAPPYEND.",
     image: "https://i.pinimg.com/originals/72/2c/ef/722cef3dc60d2568e412a699f48b70a4.jpg",
     images: [
       "https://i.pinimg.com/originals/72/2e/54/722e547ddff73f66abf616a4fc634ab8.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "begusarai",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "OF TYPES MASSAGE AVAILABLE • Normal Massage Swedish Massage ✔ Cream massage Deep tissue massage Body Polishing Massage Gel Massage • Legwand Massage EXTRA SERVICES ALSO AVABILES Full nude Massage Body to body Rubbing Romance Shower bath Happy Ending…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "begusarai-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in begusarai.",
+    description: "ONLY 99 PROVIDE💋 LIVE FULL OPEN NUDE💦 VIDEO CALL 💦BOOBS PRESSING 💋SERVICE 100%GENUINE SAFE AND SEQURE",
     image: "https://i.pinimg.com/originals/72/8a/71/728a71d0aa5155c0f007b282f9ffb14a.jpg",
     images: [
       "https://i.pinimg.com/originals/72/90/3e/72903ebfebfbcb848d54ded36f3164d2.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "begusarai",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "ONLY 99 PROVIDE💋 LIVE FULL OPEN NUDE💦 VIDEO CALL 💦BOOBS PRESSING 💋SERVICE 100%GENUINE SAFE AND SEQURE",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "begusarai-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Demo 50/- for 3 min Video call service provider I am soni agrwal indipendent college girl...",
     image: "https://i.pinimg.com/originals/72/ce/d7/72ced78fda3713e1cc48a440f45300b8.jpg",
     images: [
       "https://i.pinimg.com/originals/72/d8/b0/72d8b07f165ddfd48fe5a1f8e1b3a240.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "begusarai",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "I am independent college girl working as Video call Girl full Nude Video call As you like as your mood. Its my guarantee that you will fill like real meet. with maximum satisfaction. 💯💯💯💯♀️special specifications♂️💯💯💯 ❤ full nude video call service ❤…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "begusarai-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "I AM ANKITAA 😍🤤VIP CALL GIRLS HERE INDEPENDENT CALL GIRL ESCORT SERVICE COLLEGE GIRL",
     image: "https://i.pinimg.com/originals/73/6e/98/736e98406a9895eba4d30c35c4d582b3.jpg",
     images: [
       "https://i.pinimg.com/originals/73/70/f1/7370f1cfe3e92cb67a14a4fd280e571f.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "begusarai",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "𝐈𝐍𝐃𝐄𝐏𝐄𝐍𝐃𝐄𝐍𝐓 CALL 𝐆𝐈𝐑𝐋 𝐕𝐈𝐏 𝐄𝐒𝐂𝐎𝐑𝐓 SERVICE ✅ ❣️ ⭐➡️HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAF",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "begusarai-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "PREMIUM CALL GIRLS 👙 Enjoy Romantic Girlfriend Experience 🍑 Oral-Fun 💦100% Sexual Pleasure 🎯 At Luxurious Place",
     image: "https://i.pinimg.com/originals/73/97/e8/7397e82553ddcb933f7c06f6e3e40a2e.jpg",
     images: [
       "https://i.pinimg.com/originals/73/99/ef/7399ef5ecfbba7206ee941d2857c2df2.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "begusarai",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hi, I Am Ananya Sharma, High-Society Call-Girls At Spa-Center in Lajpat Nagar, Full Sexual Satisfaction, Special Offers Only High-Society Guest, Enjoy A Romantic and Sensual Experience At Luxurious Spa-Center in Lajpat Nagar, This Is Top-Class…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "begusarai-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in begusarai.",
+    description: "HAND TO HAND CASH PAYMENT HOT SLIM MODAL PRETTY GIRL Want To Fuck You Anytime... She Will Treat You Like Her Little Girlfriend In Bed",
     image: "https://i.pinimg.com/originals/73/e7/7d/73e77d5499c584c0d18f716db79cc341.jpg",
     images: [
       "https://i.pinimg.com/originals/74/19/77/7419770fd42f795bd2e88779ce727b9c.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "begusarai",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "I am independent call girl living alone looking honest and genuine guys for fun and enjoyment. I am available for both incall and outcall services at low charges. So, without any hesitation pick your cell phone and book me for shot and night…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

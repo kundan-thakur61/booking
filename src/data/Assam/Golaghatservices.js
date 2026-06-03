@@ -2,7 +2,7 @@
   {
     id: "golaghat-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "ROYAL SPA OFFERS- THANTIC-EROTIC- THAILAND MASSAGE WITH EXTRA AVAILABLE HERE",
     image: "https://i.pinimg.com/originals/56/ae/2a/56ae2abb1c9ee1b1808723b3bd75c4de.jpg",
     images: [
       "https://i.pinimg.com/originals/56/bc/f3/56bcf367c5b02773590705b92ffea971.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "golaghat",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "CALL US MS.SANJANA WHATSAPP 98453 - 56597 ENJOY HOT GIRLS ROYAL-SPA -NO EXTRA TIPS - ENJOY BEAUTIFUL YOUNG NUDE GIRLS. PROVIDE SUPER CLASSIC MASSAGE IN A HYGIENIC WAY FOR YOUR BODY AND MIND SATISFACTIONS BY TRAINED FEMALE THERAPISTS........ FULL BODY…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "golaghat-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in golaghat.",
+    description: "✅INDEPENDENT CALL GIRL REAL MEET GENUINE SERVICE AVAILABLE",
     image: "https://i.pinimg.com/originals/57/09/b8/5709b8a67cbf7b8596833a7dc6cb784b.jpg",
     images: [
       "https://i.pinimg.com/originals/57/13/d7/5713d7ac267866406dfd3f369fc5f35b.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "golaghat",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "About me ❤️ hii gentalman My self Aliya Sharma I am independent girl I am college student I am very hot girl Please text me genuine person 💯💯 Real meet service available 24/7💯💯 I am available now for real meet service all over Bangalore 24/7💯💯",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "golaghat-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hyderabad ✅ 24x7 AFFORDABLE CHEAPEST RATE SAFE CALL GIRL SERVICE AVAILABLE OUTCALL AVAILABLE",
     image: "https://i.pinimg.com/originals/57/7c/cf/577ccfabba24743e9db9bcb732e78eec.jpg",
     images: [
       "https://i.pinimg.com/originals/57/8f/d1/578fd153501a4aefe7d3b8647f9c7825.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "golaghat",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "golaghat-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💯NO ADVANCE ONLY CASH PAYMENT AFTER THE MEET✅ HIGH CLASS PRIMIUM VVIP ESCORTS SERVICE IN BANGALORE",
     image: "https://i.pinimg.com/originals/57/c4/88/57c4880838ddf38706a1781ab8375e13.jpg",
     images: [
       "https://i.pinimg.com/originals/57/ce/fd/57cefd3278dda6d20e275b6a2f27ac0a.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "golaghat",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Bangalore)✅ONLY CASH PAYMENT ⭐100% GENUINE SAME PROFILE HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100%…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "golaghat-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hy I am kannada hudgi nishu geninune video call service available",
     image: "https://i.pinimg.com/originals/58/0c/e8/580ce8e540f414db5a6c2291330314f7.jpg",
     images: [
       "https://i.pinimg.com/originals/58/11/39/581139798bbfcd9cb9adc3cf2d510e68.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "golaghat",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "It's only online service and it's paid vc available",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "golaghat-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in golaghat.",
+    description: "💍 Just Married Couple 💑",
     image: "https://i.pinimg.com/originals/58/6a/e1/586ae155d8ddaeacd5798e56ac28a459.jpg",
     images: [
       "https://i.pinimg.com/originals/58/91/a1/5891a1c1c9708d99f586733058e8724b.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "golaghat",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "❤️ Fresh • Elegant • Pure Chemistry ✨ Real couple vibes, no fake drama 🔥 Romantic, passionate & unforgettable moments 🌹 Clean, safe & 100% private experience 💖 Soft talks, deep connection & sweet memories 📩 Only genuine & respectful people 😈",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

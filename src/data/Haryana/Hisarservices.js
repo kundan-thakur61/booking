@@ -2,7 +2,7 @@
   {
     id: "hisar-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "HAND TO HAND CASH PAYMENT HOT SLIM MODAL PRETTY GIRL Want To Fuck You Anytime... She Will Treat You Like Her Little Girlfriend In Bed",
     image: "https://i.pinimg.com/originals/d9/f5/1b/d9f51bc5f6697be60719fcb1f64ad053.jpg",
     images: [
       "https://i.pinimg.com/originals/d9/fe/65/d9fe650e9f49afe0f7a2a8a11157f84b.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "hisar",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "I am independent call girl living alone looking honest and genuine guys for fun and enjoyment. I am available for both incall and outcall services at low charges. So, without any hesitation pick your cell phone and book me for shot and night…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "hisar-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in hisar.",
+    description: "All night available Radhika cam service",
     image: "https://i.pinimg.com/originals/da/2b/db/da2bdb49e6784c91f4be00c9814106b0.jpg",
     images: [
       "https://i.pinimg.com/originals/da/2d/0d/da2d0dc1e9c5a695a109648fcbe778c7.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "hisar",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "PAYTM/GPAY/PHONEPE AVAILABLE IF YOU DON't TRUST DONT MESSAGE ME After payment send screenshot otherwise your payment is not valid Timepassers will directly get blocked Anytime my sex online available Live vc Nude pic Lesbian show Nude bath Ass show…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "hisar-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
     image: "https://i.pinimg.com/originals/da/4d/28/da4d287549c831f4f6f7b3799ae21d22.jpg",
     images: [
       "https://i.pinimg.com/originals/da/62/0f/da620f59bd8ad1e28018f210cc733caa.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "hisar",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "hisar-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Full body massage for women only",
     image: "https://i.pinimg.com/originals/da/70/9e/da709edcaec254d207ab8b53b16309f4.jpg",
     images: [
       "https://i.pinimg.com/originals/da/7a/dd/da7add828a2cf1b3b6845156704a763b.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "hisar",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hello! I am a 32 year old guy staying in Andheri ready to give you a wonderful full body massage at your own place. No charges for the first visit. Please feel free to discuss and connect on my number for further details. Take care!!!",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "hisar-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "💫✅NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL SERVICE WITHOUT CONDOM 100% SECURE ALL OVER PUNE CITY",
     image: "https://i.pinimg.com/originals/da/9b/0f/da9b0f1c0502ae0c66b69e59bd10dd3b.jpg",
     images: [
       "https://i.pinimg.com/originals/da/9d/b8/da9db8937dd346e835b9f9111789f6ee.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "hisar",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "NO ADVANCE DIRECT CASH PAYMENT IN HAND FULL SAFE AND SECURE WE GURANTEE 100% SATISFACTION IN LOWEST PRICE ( Incall & outcall ) service 24*7 hrs available here.. Location :- Koregaon park Viman Nagar Hadapsar kharadi Wagholi Hinjewadi Kalyani Nagar…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "hisar-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in hisar.",
+    description: "HEY I AM ARPITA NO ADVANCE FULL HAND TO HAND CASH PAYMENT IN HOTEL AND HOME",
     image: "https://i.pinimg.com/originals/db/78/08/db7808b0e027b3976e7448adf23333a4.jpg",
     images: [
       "https://i.pinimg.com/originals/db/79/f6/db79f63fbd1bce683ef3e2c78dc044b1.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "hisar",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "💸💸 NO advance FULL CASH pay 💃 💦HOT & SEXY MODELS💃 // COLLEGE GIRLS💃 AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ % SATISFACTION,UNLIMITED ENJOYMENT. ★…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

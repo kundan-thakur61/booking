@@ -2,7 +2,7 @@
   {
     id: "vasco-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "BIG BOOBS HOUSEWIFE 👉 Nude B2B Massage 😘 Happy Ending 🍑 Enjoy Sandwich Massage 💦 Oral-Fun 💯% Hygienic Place Available",
     image: "https://i.pinimg.com/originals/c8/45/06/c8450625b1deb97bbd4fc390f32ffd8e.jpg",
     images: [
       "https://i.pinimg.com/originals/c8/5c/e8/c85ce81dca8aea0818044a9ff361dc1f.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "vasco",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hello Friends, I Am Priya Oberoi and My College Friend Diksha Rawat Enjoy Hot Escorts At Spa-Center (Delhi Call-Girls), Top Class Escorts Service In Delhi, Meet Sexy n Hot Indian Call-Girls At Luxurious Place In Lajpat Nagar, Affordable Prices 100%…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "vasco-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in vasco.",
+    description: "💖SONYA💖 independent Girl Staying Alone in Flat Just Visit Once",
     image: "https://i.pinimg.com/originals/c8/d8/4d/c8d84d975e15086a5f9c22978030c141.jpg",
     images: [
       "https://i.pinimg.com/originals/c8/dd/14/c8dd144c64ed2961848a19a5832661b9.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "vasco",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hello Guys Am SONYA💝 🌟🌟Hotel service available 24 hour 💐 All over Hotel outcall service and incall with regular price guarantee satisfaction genuine service",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "vasco-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "✅✅ My SELF NEHA INDEPENDENT CALL GIRL AVAILABLE FOR OUTCALLL GENUINE MEET SERVICES. AVAILABLE 24/7",
     image: "https://i.pinimg.com/originals/c9/0a/ed/c90aede07dba4450da300213626a65f3.jpg",
     images: [
       "https://i.pinimg.com/originals/c9/26/a6/c926a693429c0c5a45ea66a01b4349bc.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "vasco",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hey dear. Service available now. Full service. Shot with protection bj without protection all type kissing. . Anal. All type kissing. Full service without any restriction. . . If you have your own place you have to pay some advance for. . Hotel -all…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "vasco-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💦JANVI FULL NUDE WITH VOICE VIDEO CALL SERVICE 🎥 SEXTING 💌 PHONE 🥀SEX📞NO FREE DEMO.",
     image: "https://i.pinimg.com/originals/c9/58/f5/c958f5401ff87e0a638182ec2a8c8242.jpg",
     images: [
       "https://i.pinimg.com/originals/c9/6d/bc/c96dbcaf12b455fd42ac15b0682f4cb1.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "vasco",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "as Video call Girl 💋 full Nude Video call As you like as your mood. Its my guarantee that you will fill like real meet. with maximum satisfaction. 💯💯💯💯♀️special specifications♂️💯💯💯 ❤ full nude video call service ❤ phone call sex ❤ sex chat ❤ sex…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "vasco-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "THE ZEN SPA OFFERS THAILAND STYLE SOAPY MASSAGE BY 2 GIRL & NURO TANTRIC B2B OIL MASSAGE BY HOT GIRLS",
     image: "https://i.pinimg.com/originals/c9/a6/d2/c9a6d26cbbbbad31ceae125b751f0c42.jpg",
     images: [
       "https://i.pinimg.com/originals/c9/c5/fb/c9c5fb4bedebb511a2b6259394f6bcc1.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "vasco",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Welcome to \"THE ZEN SPA\" Body Massage in Bangalore ,If you are looking over for a Best Body Massage Center in Bangalore? Spa provides you with the world standard body massage. Contact us - 953-555-4703 experience the Best Body Massage in Bangalore.…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "vasco-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in vasco.",
+    description: "𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 PAYMENT SECURE 100% SATISFACTION CALL ROY FOR GENUINE",
     image: "https://i.pinimg.com/originals/c9/ff/7d/c9ff7d4b48c7f4ca75aa887e845e5c65.jpg",
     images: [
       "https://i.pinimg.com/originals/ca/33/25/ca3325635335a3a95a11f948b16eceed.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "vasco",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "About me NO ADVANCE PAYMENT HAND TO HAND 100% GENUINE SERVICE VIP PROFILE COLLEGE GIRLS HOUSE WIFE HOTEL AND HOME SERVICE AVAILABLE HOTEL",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

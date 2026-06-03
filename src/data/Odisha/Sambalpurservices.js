@@ -2,7 +2,7 @@
   {
     id: "sambalpur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hii I anu kannada independent genuine girl...",
     image: "https://i.pinimg.com/originals/a3/25/43/a3254381b8fe501172731e395cad60b0.jpg",
     images: [
       "https://i.pinimg.com/originals/0f/bb/ec/0fbbecb1b8aee71cd137a01787420ff4.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "sambalpur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "🌟🌟Hotel and home service available 24 hour 💐 All over Hotel outcall service and incall with regular price guarantee satisfaction genuine service",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "sambalpur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in sambalpur.",
+    description: "FULL CASE PEYMENT NO ADVANCE FULL GENUINE SERVICE ALV",
     image: "https://i.pinimg.com/originals/12/7e/88/127e88c6a55d0e702f0c96401d1c71ee.jpg",
     images: [
       "https://i.pinimg.com/originals/63/a9/95/63a995713b5eceb70540059e794a46de.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "sambalpur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Direct Cash Payment for Hotel Service Book Now Good Looking High Profile Call girls at Your Doorstep /",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "sambalpur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Wild Erotic Sessions",
     image: "https://i.pinimg.com/originals/48/04/df/4804df5c7dfe45116fdc10ece3884452.jpg",
     images: [
       "https://i.pinimg.com/originals/59/c3/2e/59c32e52049b7fdfbc790fee560862a7.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "sambalpur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Myslf 42 Aged Mature Guy Available for Wild Erotic Session Body Massage Pu ssy Licking Sessions Serious Females & Couples Inbox",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "sambalpur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "699/-FULL NUDE 🩷PINK PUSSY LICKING 🫦💦 NURU MASSAGE WITH HAPPYENDING",
     image: "https://i.pinimg.com/originals/81/77/69/81776923bebd170a962d14fb9ce0c39f.jpg",
     images: [
       "https://i.pinimg.com/originals/92/f1/1f/92f11feacde12550b8983f1243937493.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "sambalpur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "OUR SPCL SERVICES: SEXY GIRLS ONLY AROMATHERAPY, SPA, HAPPY ENDING MASSAGE, NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE B0OB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS contact sweety Affordable Rate, 100 %…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "sambalpur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Big boobs live show full finger video full service line sex show genuine",
     image: "https://i.pinimg.com/originals/83/b0/45/83b0459846ebb29e0206924b9db29f3c.jpg",
     images: [
       "https://i.pinimg.com/originals/e7/e5/00/e7e5008803e676635c76fc1ab1a24341.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "sambalpur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hot full live show big boobs finger show video call service chat chat audio sex demo sex",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "sambalpur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in sambalpur.",
+    description: "🔥VIP GENUINE ESCORT SERVICE, NO NEED ANY ADVANCE, ONLY HAND TO HAND PAYMENT 🔥",
     image: "https://i.pinimg.com/originals/ad/fc/2f/adfc2f146bfa99adef8c0392450202ad.jpg",
     images: [
       "https://i.pinimg.com/originals/cc/9d/6f/cc9d6fe30d8de8e93286d421efd279c2.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "sambalpur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "💕 NO NEED ANY ADVANCE PAYMENT 💕 💕 Only for cash payment hand to hand 💕 💖 100% GENUINE AND SECURE SERVICE CENTRE 💖 👋 HELLO GENTLEMAN 🕺🕺🕺 VIP GENUINE & SECURE SERVICE AVAILABLE HERE 🕺🕺🕺 🫂 FULL FRIENDLY 🫂 FULL COOPERATIVE 🫂 100% SATISFACTION 🫂 LIKE…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

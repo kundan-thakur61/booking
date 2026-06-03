@@ -2,7 +2,7 @@
   {
     id: "panipat-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "💦 3 min 99 /Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge",
     image: "https://i.pinimg.com/originals/dd/b0/1f/ddb01ff88b0e6ca9e611c7563042a72a.jpg",
     images: [
       "https://i.pinimg.com/originals/dd/b0/74/ddb074a9d7e54d41ab0dd0f7ed04aa72.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "panipat",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "💦 3 min 99/Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge and make ur mood happy👩‍❤️‍👨 40min 299 ❤ full nude service call service ❤ phone call sex ❤ sex chat ❤ sex education ❤ maximum…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "panipat-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in panipat.",
+    description: "Ladies providing online services, phone sex, voice call, video call. As well real massage services",
     image: "https://i.pinimg.com/originals/de/22/be/de22be641df86903777081fe73890b7a.jpg",
     images: [
       "https://i.pinimg.com/originals/de/2f/18/de2f1839af59f73fdb3d88f2435ac118.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "panipat",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hello Ladies.. feeling so Horny n wet? Myself Sridhar, I provide online services like Phone sex Voice call Video call For free. And door step massage services. Ladies feeling hot, horny and naughty now. Ladies call immediately Regards Sridhar",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "panipat-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "💦 3 min 75 /Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge and make ur mood",
     image: "https://i.pinimg.com/originals/de/b3/d9/deb3d9b9613a08fb882526ecf7b8a93b.jpg",
     images: [
       "https://i.pinimg.com/originals/de/c3/2e/dec32ebabc840d6925ded0cd43b5e771.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "panipat",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "💦 3 min 75 /Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge and make ur mood happy👩‍❤️‍👨 40min 299 ❤ full nude service call service ❤ phone call sex ❤ sex chat ❤ sex education ❤ maximum…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "panipat-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Nuru oil b2b erotic sensual massage with happy ending only genuine call girl escort service andheri jw marriot hotel all five star hotel also availabl",
     image: "https://i.pinimg.com/originals/df/16/fc/df16fcba6cc056ee48bb01f021ad778b.jpg",
     images: [
       "https://i.pinimg.com/originals/df/2e/bc/df2ebc25be42e58c9f570b5bfcdf6bf3.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "panipat",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Call me:- muskan keshri Hotel and home service available 100% genuine service full satisfactionLocation:- Andheri, Sakinaka, Mora, Andheri airport, Chakala, Powai, Dadar, Bandra, Kurla, Chembur, Malad, Santacruz,Vile Parle, Mira Road, Goregaon,…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "panipat-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Spa Vibes-No Tips Cute girls full Romance B2B With BJ Shower Bath 96112 - 33397",
     image: "https://i.pinimg.com/originals/df/3d/3b/df3d3b9b00defb7cb367e632b9736463.jpg",
     images: [
       "https://i.pinimg.com/originals/df/40/fc/df40fca1e20e5a19b5b099d186c956aa.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "panipat",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hi Guys! NOT JUST LUXURY (96112 - 33397 ).OUR SPA IS A PREMIUM LUXURY SPA (5 Star) WITH TOGETHER BATHING FACILITY IN BANGALORE. Call me I'm MS.PRIIYA MORE INF VISIT OUR SITE ASK FOR DETAILS OF ALL IN ONE PACKAGE ONLY FOR 3K AND 5K OFFER PRICE VALID…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "panipat-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in panipat.",
+    description: "IM PRIYA INDEPENDENT ✅ CALL GIRL, STAYING ALONE IN BANGALORE CONTACT ME FOR SERVICE LOW PRICE",
     image: "https://i.pinimg.com/originals/df/8d/5c/df8d5c872b76283a69ac6cba27d996fc.jpg",
     images: [
       "https://i.pinimg.com/originals/df/b1/c3/dfb1c3a4e03f150a6321d93de7157783.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "panipat",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Dear Customers Are you looking call girl service in mysore but unable to find out best geniune, don't worry I'm here for you to full fill all requirements you just connect with me through whatsapp and get service anytime anywhere in BANGALORE",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

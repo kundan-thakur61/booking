@@ -2,7 +2,7 @@
   {
     id: "sasaram-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Massage Services For Females Only At Home By Individual Trained Therapist With 100% Privacy & Maintain Hygiene",
     image: "https://i.pinimg.com/originals/9d/50/b3/9d50b3f645c129bfe9b21843426ae4d0.jpg",
     images: [
       "https://i.pinimg.com/originals/9d/6b/ce/9d6bce32bdd30bf1201c05ad478d26cf.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "sasaram",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "I am Individual and Trained Massage Therapist. 🌸Balance ​yourself Between work, family, and daily life, it’s easy to put self-care on the back burner. 1.DEEP TISSUE MASSAGE 2.THAI MASSAGE 3.SWEDISH MASSAGE 4.TRIGGER POINT MASSAGE 5.HEAD & NECK…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "sasaram-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in sasaram.",
+    description: "✅✅ yah gentleman I'm aarti available for genuine meet service. All cash payment in hand",
     image: "https://i.pinimg.com/originals/9d/c8/b5/9dc8b5e732dae5babac9b09a11662f1c.jpg",
     images: [
       "https://i.pinimg.com/originals/9d/f5/7b/9df57b12e16ea2bc787a64873a064704.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "sasaram",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hey Aarti hare . Text me for real meet . . All cash payment. Camshow available now. 24/7",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "sasaram-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Am Shreya truly genuine independent call girl direct meet independent escorts service available",
     image: "https://i.pinimg.com/originals/9e/4e/c1/9e4ec1a8e7227f33c57fc13853a463d0.jpg",
     images: [
       "https://i.pinimg.com/originals/9e/7d/2a/9e7d2a547b5ca9ff728394b451390466.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "sasaram",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "It's a safe and genuine service available in Bangalore all types of services available including hotel and home service available direct meet also available no broker involved with me try and enjoy your day with me",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "sasaram-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Full open video call ☎️ chat 💬 service 💘 open nude video call demo charge 70 only without clothes demo70",
     image: "https://i.pinimg.com/originals/9e/ca/95/9eca9540d2156f5859951e436023fa28.jpg",
     images: [
       "https://i.pinimg.com/originals/9e/e9/a2/9ee9a25da522b28dc221d0e9ca4d5989.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "sasaram",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Demo 70/- only ◼️◾▪️💞hey I'm Radhika Bangalore hot girl genius Full Nude video sex service💞 new joinonly 70/-Full 💝nude 🤗video call without clothes demo charge 70",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "sasaram-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "HAND TO HAND CASH PAYMENT NO ADVANCE NO EXTRA PAYMENT ME",
     image: "https://i.pinimg.com/originals/9f/06/9d/9f069d274b716f2617141c4e67fc930d.jpg",
     images: [
       "https://i.pinimg.com/originals/9f/1a/9f/9f1a9f03e850f1c6763c838d6560605f.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "sasaram",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "I'm independent call girl And I am a girl from a poor family, I am sure that I will satisfy you, my height is 166 cm and my weight is 50 kgs, I am a very hot guy, I hope you will like me.",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "sasaram-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in sasaram.",
+    description: "Live hot sexy full nude WhatsApp and telegram vedio call sex service",
     image: "https://i.pinimg.com/originals/9f/7b/2c/9f7b2c0545d26021a53ebdf78d933275.jpg",
     images: [
       "https://i.pinimg.com/originals/9f/7e/60/9f7e60cbac2398d7e75781efa60fa8b1.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "sasaram",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hii dear if you need vedio call sex service so please WhatsApp or telegram msg to me immediately.i will setisfied you.",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

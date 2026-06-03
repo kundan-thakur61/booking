@@ -2,7 +2,7 @@
   {
     id: "khammam-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "MY SELF SWETA CALL GIRL & BODY-TO-BODY MASSAGE SPA SERVICES OUTCALL AND INCALL",
     image: "https://i.pinimg.com/originals/18/93/76/189376bc7ea32090ce8bfb6f310e25c7.jpg",
     images: [
       "https://i.pinimg.com/originals/20/9e/41/209e410982634e1f415f6856f3ca64bc.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "khammam",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "EROTIC MASSAGE •BLOWJOB👅 FULL NUDE • NURU👅💦ERVICE SHOWER 👅👅👅 GIRLFRIEND EXPERIENCE💏❤️DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANGIRLFRIEND EXPERIENCE💏💥 LICKING💥HAND JOB ❤️DEEP SUCKING WITHOUT CONDOM 💥 CUM ON FACE 💥 NUDE DANCE 💥 BOOBS RUBBING💥 LICKING💥 HAND JOB ❤️EROTIC MASSAGE • BLOWJOB👅 • • FULL NUDE • NURU •💦 ❤️DEEP SUCKING WITHOUT CONDOM💥…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "khammam-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in khammam.",
+    description: "Hy I am independent college girl CAM session and real meet 100 % genuine girl 24/7 AVAILABLE",
     image: "https://i.pinimg.com/originals/79/d4/48/79d4483ad2ed9123483589cec2facf38.jpg",
     images: [
       "https://i.pinimg.com/originals/0e/75/8d/0e758d273a8073dec13467d32081cf53.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "khammam",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hey guys my self puja from Bangalore near by kormangla independent meet and cam show provide if you interested with my profile come my WhatsApp or telegram let's fun i hope enjoy with me For meeting Short time 8k Full night 12k For cam 15 minutes 1k…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "khammam-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Independent gir bo broker no agents",
     image: "https://i.pinimg.com/originals/90/37/ac/9037ac8d98e5fba4083077d6f23ec829.jpg",
     images: [
       "https://i.pinimg.com/originals/05/f4/a0/05f4a0f46ba6419d21961072a841d07c.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "khammam",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Independent girl no broker no agents i work only kn bookings",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "khammam-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hi I am kannada hudgi vc available in kannada voice",
     image: "https://i.pinimg.com/originals/e9/27/66/e927663e4eb012e62f5e57ed111395c6.jpg",
     images: [
       "https://i.pinimg.com/originals/39/81/16/398116efe360bb9f56940df754fd4adc.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "khammam",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi I am kannada hudgi vc available in kannada voice",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "khammam-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Myself chhoti singh and Genuine independent Call Girls Meet Dairectl No Advance Dairect Hand Cash it's a Genuine",
     image: "https://i.pinimg.com/originals/f1/b4/89/f1b4897b337ad68cb89feafa3d9ea685.jpg",
     images: [
       "https://i.pinimg.com/originals/8a/e7/f9/8ae7f949b5bc29e4dbc323682df92cb1.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "khammam",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hi Myself chhoti Really genuine independent Call Girls Meet Dairectl No Agents it's a paid relationship with my bed I will provide u all types of services like bj lipkiss anaul services In call out call hotel home and doorstep services available",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "khammam-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in khammam.",
+    description: "HOT 🔥FULL NUDE VIDEO CALL SERVICE🎥 SEXTING 💬 PHONE 🥀SEX 💋 FINGRING ALSO",
     image: "https://i.pinimg.com/originals/cb/fd/37/cbfd37ace04ccac0c028f4e69194ee33.jpg",
     images: [
       "https://i.pinimg.com/originals/28/0b/8b/280b8bf75b9e2914747779888c3340c7.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "khammam",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "🔥 HOT 🔥 NUDE LIVE VIDEO CALL SERVICE, SEX CHAT, VOICE CALL, ROLE PLAY, FULL OPEN VIDEO CALL SERVICE WITH VOICE AND WITH FACE BOOBS PRESSING AND OPEN PUSSY FINGRING WITH VOICE AND WITH FACE",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

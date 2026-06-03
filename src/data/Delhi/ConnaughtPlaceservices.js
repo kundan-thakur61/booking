@@ -2,7 +2,7 @@
   {
     id: "connaughtPlace-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Demo 50/- only ◼️◾▪️💞hey I'm jyoti Bangalore hot girl genius Full Nude video sex service💞 new joinonly 50/-Full 💝nude 🤗video call without clothes demo",
     image: "https://i.pinimg.com/originals/b3/8c/da/b38cda4912a4d0f9079ee68a603d6a98.jpg",
     images: [
       "https://i.pinimg.com/originals/b3/a5/e4/b3a5e4b8ebc1518c1b77b269cf36120d.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "connaughtPlace",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Full open video call in just 50 demo charge with voice with enjoy full enjoy hot girl ❤️❤️💘💕 50 demo charge 🥵 💦",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "connaughtPlace-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in connaughtPlace.",
+    description: "💗💯✅ OUTCALLL SERVICE AVAILABLE ALL CASH PAYMENT. CAMSHOW AVAILABLE ALSO💦",
     image: "https://i.pinimg.com/originals/b3/e5/7d/b3e57db18ba8c5d2748dab5e441b718a.jpg",
     images: [
       "https://i.pinimg.com/originals/b3/ff/39/b3ff396737ea25d62de9e5e8ba9e0d26.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "connaughtPlace",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hello gentlemen. I'm available now for real meet. If you have your own place i want some advance for ok dear. Hotel -all cash. Shot with protection bj without protection all type kissing. Full service without any restriction",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "connaughtPlace-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Telugu independent girl in hyderabad all types of genuine service istha",
     image: "https://i.pinimg.com/originals/b4/3f/ec/b43fec2588b0fa48226484f8adcf058a.jpg",
     images: [
       "https://i.pinimg.com/originals/b4/49/78/b44978489ce29bb69443aeb0d24fa4c3.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "connaughtPlace",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Nenu me Telugu ammayi miku kavalisina anni genuine service istha Nenu full hot and sexy ga untha Nenu miku full romantic service Istha Video call service are available Sex chat with sexy' pics service All types of genuine service are available Please…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "connaughtPlace-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "only 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     image: "https://i.pinimg.com/originals/b4/7a/6a/b47a6ae02fb75ebba7773de04cf838a1.jpg",
     images: [
       "https://i.pinimg.com/originals/b4/89/f3/b489f3aa27b8202b2125218e1b294c2d.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "connaughtPlace",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Demo 50/- only ◼️◾▪️💞hey I'm Radhika Bangalore hot girl genius Full Nude video sex service💞 new joinonly 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "connaughtPlace-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "INDIPENDENT💸 𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 PAYMENT HAND TO HAND FULL SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE 24X7 AVAILABLE",
     image: "https://i.pinimg.com/originals/b4/ff/1e/b4ff1e8ea337518645ef57cbfeec0630.jpg",
     images: [
       "https://i.pinimg.com/originals/b5/2f/f9/b52ff923b18da5a402febb8c9fc2bbf1.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "connaughtPlace",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "INDIPENDENT💸 𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 PAYMENT HAND TO HAND FULL SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE 24X7 AVAILABLE college girl model VIP available full service",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "connaughtPlace-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in connaughtPlace.",
+    description: "Hot aunty old age women big boobs fitness available",
     image: "https://i.pinimg.com/originals/b5/66/47/b566477f6f14e32fbea9091cb880d109.jpg",
     images: [
       "https://i.pinimg.com/originals/b5/6c/05/b56c050e0c9b93fd822eb151493f5a72.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "connaughtPlace",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hot aunty old age women big boobs fitness available whatsapp no.",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

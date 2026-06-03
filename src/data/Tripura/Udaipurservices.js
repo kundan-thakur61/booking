@@ -2,7 +2,7 @@
   {
     id: "udaipur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "College 💓girls face to face payment no advance 24*7 service all over Chandigarh mohali kharar",
     image: "https://i.pinimg.com/originals/d6/4d/cf/d64dcfba015c5c4dd609c5c188bbffe1.jpg",
     images: [
       "https://i.pinimg.com/originals/7d/55/6d/7d556df157be71e29556ee6a4aee753b.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "udaipur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "We believe in customer satisfaction call or whats app for more enquiries Safe and secure service",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "udaipur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in udaipur.",
+    description: "TANI HERE TO MAKE YOUR DAY AND FORGETTABLE MESSAGE ME YOUR TELEGRAM AT WHATSAPP FOR MORE DETAILS I'M WAITING FOR YOUR MESSAGE",
     image: "https://i.pinimg.com/originals/56/72/fc/5672fc0ea7fb962f7b6e97de10989f54.jpg",
     images: [
       "https://i.pinimg.com/originals/ff/cc/e4/ffcce422cd88d5a95a40df9fd966ae1b.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "udaipur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Message me on telegram at WhatsApp I am waiting for your message",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "udaipur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "ONLY CASH PAYMENT HAND TO HAND AHMEDABAD AVAILABLE SERVICE 7/24",
     image: "https://i.pinimg.com/originals/e0/5f/e6/e05fe665c7befe43b0270b98542b9ba1.jpg",
     images: [
       "https://i.pinimg.com/originals/b7/1b/35/b71b352ba0d6c114901b97b1569f3513.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "udaipur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Call & Whatsapp Safe & Secure High Class Services Affordable Rate 100% Satisfaction, Unlimited Enjoyment. Any Time for Model/Escort in Ahmedabad 🚔High class luxury and premium escorts High class luxury and premium escorts Well Educated, Royal Class…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "udaipur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hi,im swati providing u the best massage in punjabi bagh,new delhi only",
     image: "https://i.pinimg.com/originals/f1/b0/2d/f1b02d59b2f234d3bff4954da153c6ef.jpg",
     images: [
       "https://i.pinimg.com/originals/f8/c6/94/f8c694179d85bd7f5722930dcfb4b4f1.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "udaipur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "We are providing you the best massage in punjabi bagh new delhi only new delhi only Nuru massage Kerala massage Deep tissue massage Turkish massage Jaccuzi massage Erotic massage",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "udaipur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "BODY MASSAGE N PUSSY LICKER ONLY FOR LADIES WOMENS",
     image: "https://i.pinimg.com/originals/16/9b/91/169b9159f0a48bf294c53c339e151722.jpg",
     images: [
       "https://i.pinimg.com/originals/02/a3/26/02a32616c56ddbeb6ba6ba85a46b81f4.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "udaipur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Note : Satisfaction Guaranteed",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "udaipur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in udaipur.",
+    description: "Delhi 24/7 top best low price call girls sex service available 100% safe and secure",
     image: "https://i.pinimg.com/originals/65/b4/32/65b432ae01836fa4c6a1c545bd4c8e3d.jpg",
     images: [
       "https://i.pinimg.com/originals/f7/4e/20/f74e209c5fe86b72b78a10dac7b1f2c1.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "udaipur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

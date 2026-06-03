@@ -2,7 +2,7 @@
   {
     id: "namchi-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "BENGALURU ESCORT HY I AM INDEPENDENT COLLEGE GIRLS CAM SESSION AND SECURE SERVICE I NEED MONEY GENUINE SERVICE FULL SATISFACTION 24/7 AVAILABLE",
     image: "https://i.pinimg.com/originals/f1/94/fb/f194fb98115c86816c5d57ab0a0fe0a7.jpg",
     images: [
       "https://i.pinimg.com/originals/ed/93/d9/ed93d9e1bd9f37f57655c6f8043dff3d.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "namchi",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Cam session Full nude with face Out call and incall Hotel ya home Blojob Kissing Lipstick Without condom Anal sex Oral sex BDSM",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "namchi-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in namchi.",
+    description: "Anjali Sharma NO💸 ADVANCE NEW MODEL 💋SEXY TRUSTED COLLAGE CALL GIRL IN PUNE 🤞",
     image: "https://i.pinimg.com/originals/0e/8b/12/0e8b1292fe078148c7dfcbf1d91be3d1.jpg",
     images: [
       "https://i.pinimg.com/originals/d0/0e/24/d00e242ceff12fa83aad5d7f54900971.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "namchi",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "NO ADVANCE DIRECT CASH PAYMENT IN HAND FULL SAFE AND SECURE HOTEL AND HOME SERVICE AVAILABLE WE GURANTEE 100% SATISFACTION IN LOWEST PRICE ( Incall & outcall ) service 24*7 hrs available here.. Location :- Koregaon park Viman Nagar Hadapsar kharadi…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "namchi-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "4✨5✨ HAND TO HAND CASH PAYMENT WITH FULL SEXUAL SERVICES 24/7 AVAILABLE 💵 NO ADVANCE",
     image: "https://i.pinimg.com/originals/82/7c/7b/827c7bd89173a87a6b6ebcfd16dc870c.jpg",
     images: [
       "https://i.pinimg.com/originals/a6/d6/d1/a6d6d1f32a719224e54407cd3fb411fa.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "namchi",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "💵 HAND TO HAND CASH PAYMENT 100% ALL BANGALORE 🏬 SERVICE AVAILABLE *100% Real service provider *Body to body massage sexual service *Lip to lip 💋 kissing *Xx. Full open available No advance hand to hand cash payment massage with sexual service…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "namchi-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💦 DEMO CHRG 49 RS 💦 FULL NUDE 💦 WITH FINGER 💦 SERVICE AVAILABLE 💦",
     image: "https://i.pinimg.com/originals/56/64/2e/56642e5e423a480089c2cc7c3071d855.jpg",
     images: [
       "https://i.pinimg.com/originals/af/c5/da/afc5dab5e8c10ac5e0c737fabf6d54cd.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "namchi",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "💦 LOW PRICE 💦 VIDEO CALL 💦 SERVICE AVAILABLE 💦 VIDEO CALL 💦 AUDIO CALL 💦 SEX CHAT 💦 AND NUDE 💦 PIC AVAILABLE 💦",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "namchi-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hi I saw your ad on skkoka only 50 full open video call service",
     image: "https://i.pinimg.com/originals/7b/0a/b2/7b0ab2bc844677f8a652bff9c221dc96.jpg",
     images: [
       "https://i.pinimg.com/originals/25/dc/41/25dc418472f3867250582cee2c561a63.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "namchi",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "👉🏼Full open video call service with. 👉🏼. voice full enjoy 👉🏼No time pass",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "namchi-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in namchi.",
+    description: "____Genuine Vip Independent Escort Service In Bangalore Available For Doorstep And Hotel Service ____",
     image: "https://i.pinimg.com/originals/af/84/9d/af849d5b04eaf2773ae12a9150e6c1bf.jpg",
     images: [
       "https://i.pinimg.com/originals/c4/b8/e4/c4b8e4eb745ef6fc2049ea29fb9202d0.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "namchi",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Call or What`s App Me __97420 Manu 25924__ For More Details-Bangalore Genuine Independent Escort Service Available For Doorstep And Hotel Service ... \"NO Cheating NO Misbehave\" ...... This Ads Is Only For Those Clients Who Are Looking For Genuine And…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

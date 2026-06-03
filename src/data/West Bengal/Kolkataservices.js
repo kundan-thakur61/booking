@@ -2,7 +2,7 @@
   {
     id: "kolkata-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "I AM ANKITAA 😍🤤VIP CALL GIRLS HERE INDEPENDENT CALL GIRL ESCORT SERVICE COLLEGE GIRL",
     image: "https://i.pinimg.com/originals/78/ba/c0/78bac06d23959eea3878c3b9677f4f2d.jpg",
     images: [
       "https://i.pinimg.com/originals/d0/a4/b4/d0a4b41897b5f7cf2638ef2de874786b.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "kolkata",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "𝐈𝐍𝐃𝐄𝐏𝐄𝐍𝐃𝐄𝐍𝐓 CALL 𝐆𝐈𝐑𝐋 𝐕𝐈𝐏 𝐄𝐒𝐂𝐎𝐑𝐓 SERVICE ✅ ❣️ ⭐➡️HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAF",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "kolkata-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in kolkata.",
+    description: "ONLY HAND TO HAND PAYMENT ONLY GENUINE PERSON COME !!",
     image: "https://i.pinimg.com/originals/14/d6/3d/14d63d604fc103f3bb6faf1de8b93844.jpg",
     images: [
       "https://i.pinimg.com/originals/a1/84/4b/a1844b04465a4b9eae3c5d5368c92b83.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "kolkata",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "NO ADVANCE ONLY CASH PAYMENT 💸💸 ____FULL HAND TO HAND HIGH PROFILE GIRLS 100% GENUINE 24 HOURS AVAILABLE",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "kolkata-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Bangalore Live Video Call Service 💦📱 Full Open 🔥 Genuine 💯 Demo Available 💸 Fast Response 📞 Banni Bega 😉",
     image: "https://i.pinimg.com/originals/86/e1/67/86e167cf65f942573dcf62b3f78f2910.jpg",
     images: [
       "https://i.pinimg.com/originals/37/1f/77/371f7715ef96e13f65b5e33936a34d35.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "kolkata",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Bangalore Live Video Call Service 💦📱 Full Open 🔥 Genuine 💯 Demo Available 💸 Fast Response 📞 Banni Bega 😉",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "kolkata-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Only video call service 24 hours available full nude with face service confirmation only voice call",
     image: "https://i.pinimg.com/originals/bb/8d/16/bb8d16974447ec7ef93c58c6f0bdd6b7.jpg",
     images: [
       "https://i.pinimg.com/originals/a5/0b/f0/a50bf0044e6de63e84d46a2329ec47ec.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "kolkata",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Only video call service 24 hours available full nude with face service confirmation only voice call",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "kolkata-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Anjali Sharma NO💸 ADVANCE NEW MODEL 💋SEXY TRUSTED COLLAGE CALL GIRL IN PUNE 🤞",
     image: "https://i.pinimg.com/originals/b8/2f/be/b82fbeb575185414959dfdc589ef12f6.jpg",
     images: [
       "https://i.pinimg.com/originals/ab/c2/36/abc236dbe6525a19933ef05ad8a4db23.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "kolkata",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "NO ADVANCE DIRECT CASH PAYMENT IN HAND FULL SAFE AND SECURE HOTEL AND HOME SERVICE AVAILABLE WE GURANTEE 100% SATISFACTION IN LOWEST PRICE ( Incall & outcall ) service 24*7 hrs available here.. Location :- Koregaon park Viman Nagar Hadapsar kharadi…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "kolkata-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in kolkata.",
+    description: "Bangalore Live Video Call Service 💦📱 Full Open 🔥 Genuine 💯 Demo Available 💸 Fast Response 📞 Banni Bega 😉",
     image: "https://i.pinimg.com/originals/aa/00/fe/aa00feda8b7ab17f4f156c10533fabb8.jpg",
     images: [
       "https://i.pinimg.com/originals/55/16/82/551682cccbb454dbcf348088765bf09c.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "kolkata",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Bangalore Live Video Call Service 💦📱 Full Open 🔥 Genuine 💯 Demo Available 💸 Fast Response 📞 Banni Bega 😉",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

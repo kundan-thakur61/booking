@@ -2,7 +2,7 @@
   {
     id: "rohtak-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
     image: "https://i.pinimg.com/originals/df/cb/88/dfcb883ebb636ea8b2a0689e2535a28c.jpg",
     images: [
       "https://i.pinimg.com/originals/df/cd/9b/dfcd9bc2b325639ef1003b87c7968ec7.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "rohtak",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "rohtak-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in rohtak.",
+    description: "🔥 RS 5OOO NIGHT -OR- DAY ❣️ NO ADVANCE DIRECT PAY IN YOUR ROOM SATISFACTION GUARANTEE 24x7 Independent Delhi Escorts - Call Girl Services",
     image: "https://i.pinimg.com/originals/e0/35/f3/e035f39aac310e91a69ba0f246aa077e.jpg",
     images: [
       "https://i.pinimg.com/originals/e0/36/7c/e0367c8da5c4fcbed4d66c0766b80a3a.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "rohtak",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "𝗖𝗔𝗟𝗟 𝗚𝗜𝗥𝗟𝗦 𝗜𝗡 𝗗𝗘𝗟𝗛𝗜 𝗥𝗔𝗦𝗛𝗠𝗜 ✔️ ✔️ 𝗗𝗲𝗹𝗵𝗶 𝗖𝗮𝗹𝗹 𝗚𝗶𝗿𝗹𝘀 𝗘𝘀𝗰𝗼𝗿𝘁𝘀 𝗣𝗿𝗼𝘃𝗶𝗱𝗲𝗿 𝟮𝟰𝘅𝟳 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗗𝗲𝗹𝗵𝗶 𝗖𝗮𝗹𝗹 𝗚𝗶𝗿𝗹𝘀- 𝙑★𝙄★𝙋 𝙂𝙚𝙣𝙪𝙞𝙣𝙚 𝙃𝙞𝙜𝙝 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙈𝙤𝙙𝙚𝙡'𝙨 𝘼𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 - 𝘿𝙚𝙡𝙝𝙞 𝙉𝙘𝙧, 𝙉𝙤𝙞𝙙𝙖 𝙂𝙪𝙧𝙜𝙖𝙤𝙣 𝙃𝙤𝙩𝙚𝙡 & 𝙃𝙤𝙢𝙚 𝙎𝙚𝙧𝙫𝙞𝙘𝙚 ( 𝘿𝙖𝙮 / 𝙉𝙞𝙜𝙝𝙩 ) 𝘾𝙖𝙡𝙡 𝙂𝙞𝙧𝙡𝙨 𝙍𝙚𝙖𝙙𝙮 𝙛𝙤𝙧 𝘼𝙡𝙡 𝙔𝙤𝙪𝙧 𝙒𝙞𝙨𝙝𝙚𝙨 𝙖𝙣𝙙…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "rohtak-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Independent girl",
     image: "https://i.pinimg.com/originals/e0/7d/a7/e07da772e251c2e7b02c7ca1b47284d9.jpg",
     images: [
       "https://i.pinimg.com/originals/e0/81/cc/e081ccab8b6476325f579def6c087962.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "rohtak",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "First pay 100 rs for talking if you take serious it lo be adjusted in the price else it will be a compensation for timepass No timepass Specifically nothing is free No free confirmation",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "rohtak-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "1 Hour. 2000 2 Hour. 3000 3 Hour. 4000 Full day. 6000 Full Night. 6000 ... hotal charge include...",
     image: "https://i.pinimg.com/originals/e0/96/31/e09631cd2a1eb8eda3ea4fe182852c43.jpg",
     images: [
       "https://i.pinimg.com/originals/e0/9e/2f/e09e2fd1f12333b5ef9d1013362d8a6b.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "rohtak",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Call girls available video call available. oral sex available.riyal sarvice available massage sarvice available. Incall outcall sarvice available. Hotel room. Home sarvice available for 24/7 available most.(🚗 Car) Sarvice available.1 hours 2000/ full night/day 6000",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "rohtak-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hy I am kannada hudgi nimi geninune video call service available",
     image: "https://i.pinimg.com/originals/e0/ce/59/e0ce594740d78b9b6097444d403e99ba.jpg",
     images: [
       "https://i.pinimg.com/originals/e1/1b/f7/e11bf76bd75cd777be730e9182f2deb4.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "rohtak",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "It's only online service and it's paid vc available",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "rohtak-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in rohtak.",
+    description: "💥BOOK ₹ 2K SHORT ₹ 7k NIGHT 99998 call 58187 PAYMENT GIRL HAND YOUR FLAT HOTEL HOME ✅ IN CALL FREE ROOM 🆗 OUT CALL YOUR PLACE REAL WHATSAPP",
     image: "https://i.pinimg.com/originals/e1/59/97/e159972db01b4d3805712cd5f2edb27c.jpg",
     images: [
       "https://i.pinimg.com/originals/e1/85/72/e18572d8959b4436de4e3c4c8474c30c.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "rohtak",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "CALL GIRLS IN DELHI:- 99998 call 58187❤️𝗛𝗔𝗡𝗗 𝗧𝗢 𝗛𝗔𝗡𝗗 𝗖𝗔𝗦𝗛 𝗣𝗔𝗬𝗠𝗘𝗡𝗧 𝗡𝗢 𝗔𝗗𝗩𝗔𝗡𝗖𝗘 𝗡𝗢 𝗘𝗫𝗧𝗥𝗔 𝗖𝗛𝗔𝗥𝗚𝗘❤️ DELHI 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗣𝗥𝗢𝗩𝗜𝗗𝗘𝗥 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝟮𝟰/𝟳 ALL OVER DELHI NCR SHREY 𝐁𝐨𝐨𝐤 𝐧𝐨𝐰 V★I★P Genuine High Profile Model's Available - ALL DELHI NCR Hotel &…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

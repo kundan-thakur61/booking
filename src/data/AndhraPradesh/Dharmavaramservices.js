@@ -2,7 +2,7 @@
   {
     id: "dharmavaram-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
     image: "https://i.pinimg.com/originals/0f/a2/36/0fa236be0e27c3ef7e8c48b8b60b92da.jpg",
     images: [
       "https://i.pinimg.com/originals/0f/bb/ec/0fbbecb1b8aee71cd137a01787420ff4.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "dharmavaram",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "dharmavaram-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in dharmavaram.",
+    description: "Hii dear I'm suneha available to real meet",
     image: "https://i.pinimg.com/originals/0f/fa/9a/0ffa9a29999397782973265d5803dc28.jpg",
     images: [
       "https://i.pinimg.com/originals/10/15/66/1015665d09e29399769e478484c606ec.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "dharmavaram",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hi dear I'm suneha available to direct meeting",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "dharmavaram-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Rs 1000 (HyderNgr) - Full Nude🩱Body Massage in Kukatpally JNTU HyderNagar💗KPHB B2B Body massage Spa with BJ🍌 - Kukatpally / JNTU / HyderNagar",
     image: "https://i.pinimg.com/originals/10/57/15/105715bb4ce79b37342ef06d025edb4f.jpg",
     images: [
       "https://i.pinimg.com/originals/10/69/d0/1069d04a6d579e0e95ff9953112e8346.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "dharmavaram",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Kukatpally Massage Spa Massage starting form 1000/- HyderNagar Massage Spa Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "dharmavaram-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Rs 1100 (Counter) - *Full Nude🩱Body Massage💗B2B Body massage Spa with BJ🍌 - Manikonda / Nanakramguda / Gachibowli / Shaikpet / Narsingi",
     image: "https://i.pinimg.com/originals/10/6d/53/106d530b77c963d8cc40f9f7340c5205.jpg",
     images: [
       "https://i.pinimg.com/originals/10/6e/2e/106e2e696a339c406fffa1cf4f5f8bca.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "dharmavaram",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Manikonda Hot Massage Spa Massage starting form 1000/- Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "dharmavaram-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "💖SONYA💖 independent Girl Staying Alone in Flat Just Visit Once",
     image: "https://i.pinimg.com/originals/10/9f/e3/109fe30f11a4721e5141fd7841e14e9d.jpg",
     images: [
       "https://i.pinimg.com/originals/11/09/6e/11096ed3f313889f9675a0b511c8221f.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "dharmavaram",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hello Guys Am SONYA💝 🌟🌟Hotel service available 24 hour 💐 All over Hotel outcall service and incall with regular price guarantee satisfaction genuine service",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "dharmavaram-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in dharmavaram.",
+    description: "Call girl in delhi full enjoy in delhi night 6000 hour charg is 2000",
     image: "https://i.pinimg.com/originals/11/60/d3/1160d315086e7c13bf8daaa5d9e2f200.jpg",
     images: [
       "https://i.pinimg.com/originals/11/69/a0/1169a01dee3dad9c1f0b6a3b2b4fd455.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "dharmavaram",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Call me and msg me full enjoy and fulking sukking and annal full enjoy night charg is 6000 full day charg is 5000",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

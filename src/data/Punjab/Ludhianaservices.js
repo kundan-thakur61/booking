@@ -2,7 +2,7 @@
   {
     id: "ludhiana-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hi I'm Nisha independent girl meet direct My flat",
     image: "https://i.pinimg.com/originals/c3/69/49/c3694929d162ccf097d1bc7cb7955934.jpg",
     images: [
       "https://i.pinimg.com/originals/23/20/de/2320deb5d117dc9b57213b19228547ff.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "ludhiana",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Direct meet I'm independent call-girl-in alone... I'll really give u good enjoyment and Excellent service on my bed.... I'm basically from south girl.. i can speak kannada and English.. I'm in some financial problems that's why this way... but I'll…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "ludhiana-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in ludhiana.",
+    description: "✅Hot sexy 𝐆𝐈𝐑𝐋 high profile escort service and genuine service",
     image: "https://i.pinimg.com/originals/72/2c/ef/722cef3dc60d2568e412a699f48b70a4.jpg",
     images: [
       "https://i.pinimg.com/originals/0b/22/36/0b223620a8578f0124c8a2f496bc5b2a.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "ludhiana",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "About me 100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "ludhiana-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Am Shreya truly genuine independent call girl direct meet independent escorts service available",
     image: "https://i.pinimg.com/originals/18/ff/53/18ff53e8f56163850e8498b9c9b40e4e.jpg",
     images: [
       "https://i.pinimg.com/originals/a4/28/c7/a428c7252a69e29eba861cbaf916039e.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "ludhiana",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "It's a safe and genuine service available in Bangalore all types of services available including hotel and home service available direct meet also available no broker involved with me try and enjoy your day with me",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "ludhiana-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "only 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     image: "https://i.pinimg.com/originals/3a/3b/c0/3a3bc021a588ff79facf5fc5aaaf81b9.jpg",
     images: [
       "https://i.pinimg.com/originals/fd/f8/18/fdf81840302f77a323043b3740ab61aa.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "ludhiana",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Demo 50/- only ◼️◾▪️💞hey I'm Radhika Bangalore hot girl genius Full Nude video sex service💞 new joinonly 50/-Full 💝nude 🤗video call without clothes demo charge 50",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "ludhiana-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Wild Experience 🔥 Of African Queen Curvy Booty 💥😻 Waterfall Of Water 🌊",
     image: "https://i.pinimg.com/originals/c1/1b/3e/c11b3ea30f7f9f62590788ccc0f8417c.jpg",
     images: [
       "https://i.pinimg.com/originals/49/74/3f/49743f735e9eb03ab93e81552d117c53.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "ludhiana",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "🌹 ZARI 🌹 Hey there, cutie 😉💫 Looking for a Premium Sex ? , a dash of charm, and moments that make your day brighter? I’m here to make your time fun, flirty, and absolutely unforgettable 💖✨ Imagine soft laughter, teasing smiles 😏, and a cozy, warm atmosphere where you can just relax, feel special, and enjoy the magic of the moment 🌙💐 🔥☎️…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "ludhiana-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in ludhiana.",
+    description: "GENUINE SERVICE HAND TO HAND PAYMENT COLLEGE GIRL AND BHABHI HOUSE WIFE ALL TYPE AVAILABLE CALL ME 24 HRS AVAILABLE",
     image: "https://i.pinimg.com/originals/bd/75/a4/bd75a4ad687959bbab1ad3c23c45a0a5.jpg",
     images: [
       "https://i.pinimg.com/originals/0c/13/4a/0c134a36316bdbd6eb4d149f09afa832.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "ludhiana",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

@@ -2,7 +2,7 @@
   {
     id: "mapusa-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "💫 Professional top of Faridabad😈 Massage also available 💆🏻‍♂️💆🏻‍♀️",
     image: "https://i.pinimg.com/originals/bf/b8/49/bfb84938de9eb72340adc8373c290961.jpg",
     images: [
       "https://i.pinimg.com/originals/bf/d9/84/bfd984edc347bddc32898f581a97f9d4.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "mapusa",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hi I'm Anmol I have been in this service for the last 2 years and have a good client base and have a great experience as a massager with happy ending. Bhabhi couple and bottoms are most welcome. No advance required just book a cab or rapido from my…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "mapusa-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in mapusa.",
+    description: "💖PRIYA💖 independent Girl Staying Alone in Flat Just Visit Once",
     image: "https://i.pinimg.com/originals/c0/1a/5d/c01a5d2d972f0eec6869a48fa3e0e952.jpg",
     images: [
       "https://i.pinimg.com/originals/c0/21/44/c0214452faad69ced4637aa0ab9f7e7a.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "mapusa",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hello Guys Am PRIYA💝 🌟🌟Hotel service available 24 hour 💐 All over Hotel outcall service and incall with regular price guarantee satisfaction genuine service",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "mapusa-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "3 mint video 95 pay nude 👈Genuine girl Video⚡call service full🍌🌹full satisfy open boobs rubbing fingerings come water of pussy💃🇮🇳Full open video call",
     image: "https://i.pinimg.com/originals/c0/60/40/c060409e1fce420f2d7a064d1003faaa.jpg",
     images: [
       "https://i.pinimg.com/originals/c0/63/c4/c063c4f1ec56c5adc276dbfefeecbc98.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "mapusa",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "3 mint video 95 pay nude 👈Genuine girl Video⚡call service full🍌🌹full satisfy open boobs rubbing fingerings come water of pussy💃🇮🇳Full open video call service available⚡🇮🇳",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "mapusa-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hi I saw your ad on skkoka only 50 full open video call service",
     image: "https://i.pinimg.com/originals/c0/9e/c9/c09ec94b86361d5748394daf22ed3dc5.jpg",
     images: [
       "https://i.pinimg.com/originals/c0/a9/05/c0a905ce6be22a08dc73d4e5c5beea92.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "mapusa",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Full open video call service with voice",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "mapusa-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Pune BODY OIL MASSAGE SERVICE DOOR STEP for Women only 100% secretaly",
     image: "https://i.pinimg.com/originals/c1/1b/3e/c11b3ea30f7f9f62590788ccc0f8417c.jpg",
     images: [
       "https://i.pinimg.com/originals/c1/2c/0c/c12c0cc48ba47f7a656ef0fa7ba80bae.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "mapusa",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Pune BODY OIL MASSAGE SERVICE DOOR STEP for Women only 100% secretaly",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "mapusa-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in mapusa.",
+    description: "Telugu Independent Woman, milky boobs, service available.",
     image: "https://i.pinimg.com/originals/c1/e2/59/c1e2593ffd578bae3cec79c0a4aabe56.jpg",
     images: [
       "https://i.pinimg.com/originals/c1/e4/2b/c1e42b8d7c249da7847b04a168d2d5de.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "mapusa",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Telugu Independent Woman, milky boobs, service available only outcall. WhatsApp for further details.",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

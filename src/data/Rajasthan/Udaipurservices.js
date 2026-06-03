@@ -2,7 +2,7 @@
   {
     id: "udaipur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "💍 Just Married Couple 💑",
     image: "https://i.pinimg.com/originals/3a/b7/de/3ab7debb92233f21ecbdae082ff501d0.jpg",
     images: [
       "https://i.pinimg.com/originals/13/b9/e4/13b9e4351b6325df0f3b1685c83131b3.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "udaipur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "❤️ Fresh • Elegant • Pure Chemistry ✨ Real couple vibes, no fake drama 🔥 Romantic, passionate & unforgettable moments 🌹 Clean, safe & 100% private experience 💖 Soft talks, deep connection & sweet memories 📩 Only genuine & respectful people 😈",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "udaipur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in udaipur.",
+    description: "💦 3 min 75 /Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge and make ur mood",
     image: "https://i.pinimg.com/originals/8a/e7/f9/8ae7f949b5bc29e4dbc323682df92cb1.jpg",
     images: [
       "https://i.pinimg.com/originals/e8/d0/e1/e8d0e1d2d8228e2c22c6be2df3a03302.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "udaipur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "💦 3 min 75 /Full💕 Open Nude Video Call Service Priyanka tight boobs🫦 with pussy Fingerings🌹Available With No Extra Charge and make ur mood happy👩‍❤️‍👨 40min 299 ❤ full nude service call service ❤ phone call sex ❤ sex chat ❤ sex education ❤ maximum…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "udaipur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hy i am kannada girl paid video call sarves",
     image: "https://i.pinimg.com/originals/de/e8/7d/dee87d931018241a8109eb0bc6a252aa.jpg",
     images: [
       "https://i.pinimg.com/originals/59/39/36/5939361ca46e1b8b573d0c6c3234f3b4.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "udaipur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Yes I am kannada girl paid video call sarves",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "udaipur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "FULL B2B MASSAGE AND FULL SEXUAL SERVICE INCALL & OUTCALL AVAILABLE ENJOY B2B NUDE SEX SPA SHOWER BATH BY SEXY GARLS ONLY AROMATHERAPY SPA HAPPY ENDIN",
     image: "https://i.pinimg.com/originals/82/65/a8/8265a8fed6355c79292948cbcf2ddf3f.jpg",
     images: [
       "https://i.pinimg.com/originals/57/7c/cf/577ccfabba24743e9db9bcb732e78eec.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "udaipur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "FULL B2B MASSAGE AND FULL SEXUAL SERVICE INCALL & OUTCALL AVAILABLE ENJOY B2B NUDE SEX/ SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE BOOB SUCKING,…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "udaipur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "💖SONYA💖 independent Girl Staying Alone in Flat Just Visit Once",
     image: "https://i.pinimg.com/originals/1c/e9/f6/1ce9f656d1b9598b2d778cef303efbdf.jpg",
     images: [
       "https://i.pinimg.com/originals/71/6a/97/716a97b14443ee87cc51d9ecee4732e4.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "udaipur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hello Guys Am SONYA💝 🌟🌟Hotel service available 24 hour 💐 All over Hotel outcall service and incall with regular price guarantee satisfaction genuine service",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "udaipur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in udaipur.",
+    description: "4✨5✨ 100% HAND TO HAND CASH PAYMENT 💵 NO ADVANCE PAYMENT WITH 💋 FULL SEXUAL SERVICES 24/7 AVAILABLE",
     image: "https://i.pinimg.com/originals/e4/1c/f7/e41cf75624d3b2bae3905698517e9706.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/86/b6/77/86b677b95a4c4c25f28067e2bb20dd88.0000000.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "udaipur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "💵 HAND TO HAND CASH PAYMENT 100% ALL BANGALORE 🏬 SERVICE AVAILABLE *100% Real service provider *Body to body massage sexual service *Lip to lip 💋 kissing *Xx. Full open available No advance hand to hand cash payment massage with sexual service…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

@@ -2,7 +2,7 @@
   {
     id: "saharsa-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "HAND call me CASH PAYMENT ONLY GENUINE SERVICE ANAL SEX MASSAGE",
     image: "https://i.pinimg.com/originals/97/0d/95/970d953d865c1b73ec85c550918ce24c.jpg",
     images: [
       "https://i.pinimg.com/originals/97/12/de/9712dea795d9d816dcea80d280a003d0.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "saharsa",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "// CALL // ME NOW HAND CASH ALL BANGALORE NEW PROFILE CALL GIRLS HOT BHABHI",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "saharsa-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in saharsa.",
+    description: "Kannada)Speek Genuine Big boobs) hot whatsapp chat video call full nude with voice fingerring pin Bangalore",
     image: "https://i.pinimg.com/originals/97/70/de/9770de9a9b94ade5a3adb825d73a000e.jpg",
     images: [
       "https://i.pinimg.com/originals/97/8a/21/978a21e79dfca53d9501840a43c1857d.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "saharsa",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Kannada spiking aunty genuine service full trusted service video call service full nude all audio chat phone sex only genuine person message me on whatsapp. Sarvice kudtani",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "saharsa-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Delhi independent call girl available",
     image: "https://i.pinimg.com/originals/97/b0/eb/97b0eb2bba226dcbaf5cb5509f154e52.jpg",
     images: [
       "https://i.pinimg.com/originals/97/bc/32/97bc3222a0529b17db7df19041b3f2b6.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "saharsa",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Delhi independent vio call girls available",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "saharsa-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "I m kannada hudgi geninu vc available with real face and voice",
     image: "https://i.pinimg.com/originals/98/24/ed/9824ed27a928f54bb5f776a693e70194.jpg",
     images: [
       "https://i.pinimg.com/originals/98/2d/af/982daf8ac7657e0c6592282a21e5ef7d.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "saharsa",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "I m kannada hudgi geninu vc available with face voice",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "saharsa-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "SS SPA",
     image: "https://i.pinimg.com/originals/98/3c/13/983c13801524c656e980176938943210.jpg",
     images: [
       "https://i.pinimg.com/originals/98/3e/db/983edb5f9b8b54015e2ad909d1f18375.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "saharsa",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Best erotic massage and tantric massage nice heaven relaxation",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "saharsa-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in saharsa.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct block",
     image: "https://i.pinimg.com/originals/98/7f/60/987f60f5f171781e9722db86d26545c7.jpg",
     images: [
       "https://i.pinimg.com/originals/98/8c/c3/988cc30d0c6c00ad30770df346a04c1c.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "saharsa",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Live video call service available no meet only genuine people came here no extra charge",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

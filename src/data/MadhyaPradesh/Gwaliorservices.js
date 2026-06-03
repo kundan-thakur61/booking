@@ -2,7 +2,7 @@
   {
     id: "gwalior-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
     image: "https://i.pinimg.com/originals/24/92/d4/2492d4a56c030207f0a777a834e41b6d.jpg",
     images: [
       "https://i.pinimg.com/originals/fd/fa/36/fdfa367140d640e7e0e745608370dfe8.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "gwalior",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "gwalior-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in gwalior.",
+    description: "Am Shreya truly genuine independent call girl direct meet independent escorts service available",
     image: "https://i.pinimg.com/originals/93/8c/fe/938cfeadd657c2eacfd0615e08786b01.jpg",
     images: [
       "https://i.pinimg.com/originals/85/9a/a2/859aa24c6f2d429ebe4d0b6fb076cc56.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "gwalior",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "It's a safe and genuine service available in Bangalore all types of services available including hotel and home service available direct meet also available no broker involved with me try and enjoy your day with me",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "gwalior-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "NO💸 ADVANCE NEW MODEL 💋SEXY TRUSTED COLLAGE CALL GIRL IN PUNE 🤞",
     image: "https://i.pinimg.com/originals/b6/e4/10/b6e410330f59983e3a3ac78161db204f.jpg",
     images: [
       "https://i.pinimg.com/originals/e8/d3/87/e8d387ce5ea68ebf3c0b96f4d3bcb14c.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "gwalior",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "NO ADVANCE DIRECT CASH PAYMENT IN HAND FULL SAFE AND SECURE HOTEL AND HOME SERVICE AVAILABLE WE GURANTEE 100% SATISFACTION IN LOWEST PRICE ( Incall & outcall ) service 24*7 hrs available here.. Location :- Koregaon park Viman Nagar Hadapsar kharadi…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "gwalior-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct",
     image: "https://i.pinimg.com/originals/df/40/fc/df40fca1e20e5a19b5b099d186c956aa.jpg",
     images: [
       "https://i.pinimg.com/originals/5b/fe/15/5bfe15cbf4efc206ea5ed021eb40c419.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "gwalior",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "No extra charge genuine people came here time pass direct block genuine people came here 24 HOUR",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "gwalior-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "💋IM NISHA INDEPENDENT ✅ CALL GIRL, STAYING ALONE IN BANGALORE CONTACT ME FOR SERVICE LOW PRICE",
     image: "https://i.pinimg.com/originals/60/d5/60/60d5600cc08127ad889eb6b170d1ada0.jpg",
     images: [
       "https://i.pinimg.com/originals/f4/b3/0c/f4b30cc1d6a5acd3f88e7f17a9398505.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "gwalior",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Dear Customers Are you looking call girl service in mysore but unable to find out best geniune, don't worry I'm here for you to full fill all requirements you just connect with me through whatsapp and get service anytime anywhere in BANGALORE",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "gwalior-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in gwalior.",
+    description: "Hi,im swati providing u the best massage in punjabi bagh,new delhi only",
     image: "https://i.pinimg.com/originals/11/69/a0/1169a01dee3dad9c1f0b6a3b2b4fd455.jpg",
     images: [
       "https://i.pinimg.com/originals/d7/09/fe/d709fe71358e20173e24f98d4f0cdb88.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "gwalior",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "We are providing you the best massage in punjabi bagh new delhi only new delhi only Nuru massage Kerala massage Deep tissue massage Turkish massage Jaccuzi massage Erotic massage",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

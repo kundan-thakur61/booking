@@ -2,7 +2,7 @@
   {
     id: "thoubal-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "NO ADVANCE CASH PAYMENT FULL SERVICE ALL KOLKATA HOME AND HOTEL SERVICE",
     image: "https://i.pinimg.com/originals/ca/33/25/ca3325635335a3a95a11f948b16eceed.jpg",
     images: [
       "https://i.pinimg.com/originals/7b/e4/51/7be4512f9d274b7bfc44bb9eeebda0cb.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "thoubal",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "CALL AND OUT-CALL FACILITY HOTEL AND HOME SERVICE AVAILABLE affordable Rate satisfaction NOTE:- ALL OUR GIRLS ARE MEDICALLY TESTED PERIODICALLY JUST TO ENSURE SAFE AND SECURE RELATIONSHIP WITH. BEST CALL GIRL ESCORT SERVICE IN/OUT CALL LOW-COST CALL…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "thoubal-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in thoubal.",
+    description: "I'm so hot and sexy indipendent women (100 1 minutes demo)",
     image: "https://i.pinimg.com/originals/0f/60/8d/0f608d0d5e972fbd8ccdb2aaf1e4aa05.jpg",
     images: [
       "https://i.pinimg.com/originals/d9/f2/87/d9f2870e5ae85fd70eacc4b91d0368a9.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "thoubal",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hello everyone I am geniune honest indipendent sexy woman Full open nude cam show available only 1000 no extra charges",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "thoubal-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hot oil erotic massage",
     image: "https://i.pinimg.com/originals/e8/d0/e1/e8d0e1d2d8228e2c22c6be2df3a03302.jpg",
     images: [
       "https://i.pinimg.com/originals/8f/48/98/8f4898b7aadd53cc7c1d55ea05678456.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "thoubal",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "This is Ruth, Today special Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with (2)girls with pressure XTRA SERVICES AVAILABLE: ****SPECIAL SERVICE ALSO…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "thoubal-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💖SONYA💖 independent Girl Staying Alone in Flat Just Visit Once",
     image: "https://i.pinimg.com/originals/ed/63/a3/ed63a3f9a2158fe7ab4cb2c3c2143b76.jpg",
     images: [
       "https://i.pinimg.com/originals/5e/19/6c/5e196cfa43ddd72a16e2a66d1c079452.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "thoubal",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hello Guys Am SONYA💝 🌟🌟Hotel service available 24 hour 💐 All over Hotel outcall service and incall with regular price guarantee satisfaction genuine service",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "thoubal-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Myself Soniya Reall and Genuine independent Call Girls Meet Dairectly No Advance Dairect Hand Cash it's a Genuine",
     image: "https://i.pinimg.com/videos/thumbnails/originals/68/cf/d7/68cfd70ca774ff9b51d100976d01ea67.0000000.jpg",
     images: [
       "https://i.pinimg.com/originals/9a/ad/00/9aad009334db4126d4ea1094827c4ffb.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "thoubal",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hi Myself Soniya Really genuine independent Call Girls Meet Dairectly No Agents it's a paid relationship with my bed I will provide u all types of services like bj lipkiss anaul services In call out call hotel home and doorstep services available",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "thoubal-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in thoubal.",
+    description: "Slim juicy body shape AFRICAN Hot Juicy Body Available.. Horny Hot Wet Fat Tight Pussy Girl .Fucking Meet Now ..fuck as you want ready..",
     image: "https://i.pinimg.com/originals/1f/57/63/1f5763a5be9c46ddf46f0e156fb34426.jpg",
     images: [
       "https://i.pinimg.com/originals/ad/5f/78/ad5f7816a2ca4b74fd7a4c0cc1fbe25e.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "thoubal",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "MY NAME Is Joy Are you looking for some good time? Want to relax and have fun? You are in here the right place.☺️ I’M VERY CLEAN, SPORTY and HEALTHY NARROW WAIST , WIDE HIPS🍑 And SILKY SMOOTH SKIN ☺️ ——————————————————————— I am a very easy going…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

@@ -2,7 +2,7 @@
   {
     id: "ponda-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "HAND TO HAND CASH PAYMENT NO ADVANCE NO EXTRA CHARGES ME 💜",
     image: "https://i.pinimg.com/originals/c6/3c/9d/c63c9d407e75ec1b70913de04cc74ba5.jpg",
     images: [
       "https://i.pinimg.com/originals/c6/66/ed/c666ed108791010d92bb7b5dbce676f5.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "ponda",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hey guys my self puja from Bangalore near by kormangla independent meet and cam show provide if you interested with my profile come my WhatsApp or telegram let's fun i hope enjoy with me For meeting Short time 8k Full night 12k For cam 15 minutes 1k…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "ponda-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in ponda.",
+    description: "Hi,im swati providing you the best massage service in rani bagh new delhi onlyonce you avail our service you wont go anywhere in future",
     image: "https://i.pinimg.com/originals/c6/f6/9f/c6f69fab5424daa43b3750e646e1e89c.jpg",
     images: [
       "https://i.pinimg.com/originals/c7/05/f5/c705f50a7656d4ebc4d1ec453a58f0c1.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "ponda",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hi,im swati providing you the best massage service in rani bagh new delhi only.you can relax your self in our centre with trained therapist with various massage and services NURU MASSAGE KERALA MASSAGE DEEP TISSUE MASSAGE B2B MASSAGE HOT OIL MASSAGE",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "ponda-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "DIRECT HAND TO HAND CASH PAYMENT NO ADVANCE PAYMENT NO EXTRA CHARGES GENUINE SERVICE AVAILABLE",
     image: "https://i.pinimg.com/originals/c7/20/28/c72028d8f0901e6c618cd746632daa3a.jpg",
     images: [
       "https://i.pinimg.com/originals/c7/28/d9/c728d902b8ebf3d375258e928133e2fa.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "ponda",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Direct Meeting Direct Payment Before Service Cash or UPI. ▪♨️ No Booking Charges or No Online Advance Payment Service Details :- ▪♨️ Full Open Nude Sex Without any Dess With 100% Satisfaction. ▪♨️ BlowJob Oral Sex Pussy Licking Boobs Sucking69 Style…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "ponda-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "QUEEN MASSAGE.NURU NUDE THAI HAPPY ENDING SPA FUL BODY B2B BJ FEMALE*",
     image: "https://i.pinimg.com/originals/c7/56/c2/c756c2f517971ff36aad7618f2c2ba91.jpg",
     images: [
       "https://i.pinimg.com/originals/c7/6b/96/c76b966a9d7256352ee822ade77e9b6f.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "ponda",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "QUEEN Spa Massage services in Bangalore:- Call Us Ms.Sneha. 96111 - 85789 (Or ) Whatsapp Silver package :- Full Nude Massage magical touching massage body to body rubbing with Girl romance and kissing and hugging and happy ending sir Duration :-1hr…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "ponda-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Playboy",
     image: "https://i.pinimg.com/originals/c7/ac/cf/c7accf9cb3b97372371dd737e8951172.jpg",
     images: [
       "https://i.pinimg.com/originals/c7/c7/24/c7c724d124b3b4fac7b82f49c81699e0.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "ponda",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "WhatsApp only women and girls",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "ponda-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in ponda.",
+    description: "3min demo full dirty open 😘😘 painfull fingering with voice service 🥰 100% GENIUS🥇 FULL NUDE💋VOICE FINGERIN",
     image: "https://i.pinimg.com/originals/c7/ee/b7/c7eeb7627d3388755ad2d3e0cb0e250d.jpg",
     images: [
       "https://i.pinimg.com/originals/c8/08/00/c80800d0a4dcc7fddcb4466454051690.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "ponda",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "✨🌟✨⭐ Genuine Escorts Service Call and WhatsApp ( Any Time ) 24/7 Hours Service Available Day and Night Call/WhatsApp:- same number Call and WhatsApp I will Reply Immediately 24/7 Hours Service Available....... 🔆 Genuine Price Fully Clean Hotels I…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

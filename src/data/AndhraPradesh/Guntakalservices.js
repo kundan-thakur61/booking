@@ -2,7 +2,7 @@
   {
     id: "guntakal-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Independent girl",
     image: "https://i.pinimg.com/originals/13/c0/9d/13c09df802b1ac06d3b5a283403ebd4b.jpg",
     images: [
       "https://i.pinimg.com/originals/13/cf/88/13cf88ca2af19ed06738e69168ca932a.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "guntakal",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "First pay 100 rs for talking if you take serious it lo be adjusted in the price else it will be a compensation for timepass No timepass Specifically nothing is free No free confirmation",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "guntakal-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in guntakal.",
+    description: "HIGH PROFILE COLLEGE CALL GIRLS IN DELHI JUST BOOKING NOW ANY TIME 99580 Top 18831",
     image: "https://i.pinimg.com/originals/13/d4/84/13d4847b9fff67cb5da64d2630c5239f.jpg",
     images: [
       "https://i.pinimg.com/originals/13/ea/e4/13eae4a0c9b8cc4ec95451972549f74d.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "guntakal",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Call & Whatsapp Now 99580-/-18831 Safe & Secure High Class Services Affordable Rate 100% Satisfaction, Unlimited Enjoyment. Any Time for Model/Escort in Delhi High class luxury and premium escorts High class luxury and premium escorts Well Educated,…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "guntakal-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hanisha Wants to have fun tonight",
     image: "https://i.pinimg.com/originals/14/17/0e/14170ef3b11bcd5d126e09df429c5ff9.jpg",
     images: [
       "https://i.pinimg.com/originals/14/18/37/141837b0689057e7e0bc8f90c14674cd.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "guntakal",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "AM Hanisha 😻✨ I LIVES IN :- Bangalore kammanahalli 📍 My juicy ass and sweet boobs Needs your attention .. Come see me and allow me to Make you a happy guy .... PING ME UP HERE 😚 I enjoy cow-girl position and riding on top, probably Sitting on a chair…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "guntakal-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "HYY I AM INDU INDEPENDENT GIRL VVIP SERVICE AVAILABLE CASH PAYMENT GENUINE PROFILE HOT SEXY MODEL 24HRS",
     image: "https://i.pinimg.com/originals/14/2c/a7/142ca785f9a89fa77bd2bffc783a989f.jpg",
     images: [
       "https://i.pinimg.com/originals/14/49/84/14498426bfbdc6299bd6af6111652e98.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "guntakal",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "HELLO I AM INDU WHATSAPP ONLY GENUINE PERSON GENUINE REAL MEET DOOR-STEP SERVICE AVAILABLE WHATSAP ME NOW 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗔𝗹𝗹 𝗛𝗢𝗧𝗘𝗟𝗦 𝗜𝗡 GUARANTEE FULL SATISFACTION & IN CASE OF ANY UNHAPPY EXPERIENCE, WE WOULD REFUND YOUR FEES, WITHOUT ANY QUESTIONS…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "guntakal-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Mumbai VIP genuine high profile college girls genuine payment hand to hand in 24 hours call me",
     image: "https://i.pinimg.com/originals/14/65/ad/1465ad755ff66f607ed9386c82135f16.jpg",
     images: [
       "https://i.pinimg.com/originals/14/70/08/147008230ea4051fb732de80577f07c5.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "guntakal",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "100%genune escorts service no advance AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "guntakal-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in guntakal.",
+    description: "💞❤️IM SEEMA YDV 💯 CASH PAYMENT NO AGENT NO BROKER 💋✅💵💵💸💸💞 INDIVIDUAL GIRL 💦 OUTCALL HOME HOTEL FULLY SATISFY U UNLIMITED WAY 💞💞 IM READY TO FULLY SATI",
     image: "https://i.pinimg.com/originals/14/d6/3d/14d63d604fc103f3bb6faf1de8b93844.jpg",
     images: [
       "https://i.pinimg.com/originals/14/d8/bb/14d8bba4f7fc611a3dacf54933677b45.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "guntakal",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "💞❤️IM SEEMA YDV 💯 CASH PAYMENT NO AGENT NO BROKER 💋✅💵💵💸💸💞 INDIVIDUAL GIRL 💦 OUTCALL HOME HOTEL FULLY SATISFY U UNLIMITED WAY 💞💞 IM READY TO FULLY SATI",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

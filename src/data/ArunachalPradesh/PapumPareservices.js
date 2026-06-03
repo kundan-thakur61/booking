@@ -2,7 +2,7 @@
   {
     id: "papumPare-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Full Body Massage",
     image: "https://i.pinimg.com/originals/47/4d/b5/474db5a0807821ac9233accb6c12139a.jpg",
     images: [
       "https://i.pinimg.com/originals/47/88/dd/4788dd957abd0213f38fd55437bff45e.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "papumPare",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Full Body Massage Head & Shoulder Massage Foot Reflexology Stress Relief Therapy 🌸 Experienced Staff | Clean & Peaceful Environment",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "papumPare-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in papumPare.",
+    description: "HYY I AM INDU CAM OR MEET 24 HRS AVAILABLE IN FULL BODY MASSAGE SUCKING KISSING INCLUDING SERVICE AVAILABLE.",
     image: "https://i.pinimg.com/originals/47/d6/71/47d6714bf2c1021daf1a4aa6e12c7785.jpg",
     images: [
       "https://i.pinimg.com/originals/47/e9/15/47e915330994f8cd79bd2f21cdc2cc65.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "papumPare",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hy i am indu cam or meet 24hrs available full body massage erotic massage sucking kissing blowjob including oral sex analsex all over Bangalore.",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "papumPare-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "✍🏻 Directly Meeting Bangalore Electronic City In Call Out Call Avl🤙🏻Nude Video Call 100 5 minutes Vc Full Open Body Show figure and voice ka sath",
     image: "https://i.pinimg.com/originals/48/0b/0e/480b0ea8ed8da47a6961b3b027d34a75.jpg",
     images: [
       "https://i.pinimg.com/originals/48/24/9b/48249b2f2c22521a04f9c926bc5cb329.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "papumPare",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "My name is masuma from electronic City",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "papumPare-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Big boobs live show full finger video full service line sex show genuine",
     image: "https://i.pinimg.com/originals/48/5a/08/485a088e4c33088eef0bd715c2c3cf8a.jpg",
     images: [
       "https://i.pinimg.com/originals/48/5b/74/485b7422bc0d030a424f36ee2a429a5d.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "papumPare",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hot full live show big boobs finger show video call service chat chat audio sex demo sex",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "papumPare-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Real meet service available",
     image: "https://i.pinimg.com/originals/48/8f/9b/488f9ba1b652560960fa553755e3c944.jpg",
     images: [
       "https://i.pinimg.com/originals/48/94/99/4894991815e48b5d49ca7f3fd00bca92.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "papumPare",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Real meet service available",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "papumPare-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in papumPare.",
+    description: "Royal genuine escort service available 24 hours so please call me",
     image: "https://i.pinimg.com/originals/48/de/ae/48deae40800d0d954b0acc9476939a4b.jpg",
     images: [
       "https://i.pinimg.com/originals/48/e9/35/48e935cebee9701229c10a37434f99a5.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "papumPare",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hello lover my name is Rani Rajput and am a hotel 23_years old in the privacy of our company our bodies will find a perfect natural rhythm I'm alos a lady who values respect and exppects to be treated with equal courtesy I am hot girl and girlfriend…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

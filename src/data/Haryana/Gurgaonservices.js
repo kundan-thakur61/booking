@@ -2,7 +2,7 @@
   {
     id: "gurgaon-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "💋IM NISHA INDEPENDENT ✅ CALL GIRL, STAYING ALONE IN BANGALORE CONTACT ME FOR SERVICE LOW PRICE",
     image: "https://i.pinimg.com/originals/d7/93/0b/d7930b952ed4ad1eda6aeb58f511b5c0.jpg",
     images: [
       "https://i.pinimg.com/originals/d7/93/1b/d7931b412c16f3c9b4430c23df8182f0.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "gurgaon",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Dear Customers Are you looking call girl service in mysore but unable to find out best geniune, don't worry I'm here for you to full fill all requirements you just connect with me through whatsapp and get service anytime anywhere in BANGALORE",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "gurgaon-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in gurgaon.",
+    description: "My Self Lara from USA now available in Hyderabad 24×7 For Fun enjoy beautiful night",
     image: "https://i.pinimg.com/originals/d7/fd/db/d7fddb8bc04367cdbe42fd4c6fac5c5b.jpg",
     images: [
       "https://i.pinimg.com/originals/d8/02/76/d802765c5776bdd56f575b102beb2908.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "gurgaon",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "My Self Lara I'm available in ●Hyderabad now 24×7 ■I giving A To Z service I here for Fun and giving my fetish ●service Like Desire come true service whatever you want ● In call services ● Out call service ●Hotel Room Service ●Farm house party ●Goa Manali simla Nepal kashmir everywhere You can Go with me Just like Girlfriend ●3some Also available…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "gurgaon-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "💸No advnc Direct Meet 🤝♨️Independent Call-girl👙 Staying Alone in Hyderabad 🔥",
     image: "https://i.pinimg.com/originals/d8/3c/17/d83c176133a3a7adff0573641bbc84a9.jpg",
     images: [
       "https://i.pinimg.com/originals/d8/52/c2/d852c2cf9c6aa903f30cb11560301f1c.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "gurgaon",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Direct Meet🤝 Hand To Hand Cash Pay 💵 to 🔥Horny 👙Independent Call girls 👅 Call Ms. Shweta For Genuine Escorts service in Surat Rating :100% ⭐⭐⭐⭐⭐ Satisfaction : 100%⭐⭐⭐⭐⭐ 💦Fingering💦 💦Boobpress💦 service🔥24 hours available service 💦💦 👅💋 HI PROFILE VERY…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "gurgaon-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hi m lund🍌🍌🍌. Hot girl's, bhabhi lund🍌ko chusne,satisfied, threesome, enjoy, party, relationship karne ke liye contact me.",
     image: "https://i.pinimg.com/originals/d8/cf/4c/d8cf4cef932fc25899f6c1f7eebc08d1.jpg",
     images: [
       "https://i.pinimg.com/originals/d9/02/f6/d902f68b0303fcf203221fd06b3d2dba.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "gurgaon",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Bhabhi, diveroce girl's Apni chut🥝ko satisfied, hard sex, anal, oral, relationship, enjoy, party karne ke liye message me. Hot girls Apni chut🥝ki seal tudwane, sex experience lene, sex chat,massage karvana ke liye message me.",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "gurgaon-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Call girl in delhi full enjoy in delhi night 6000 hour charg is 2000",
     image: "https://i.pinimg.com/originals/d9/2d/fe/d92dfe021d2fc896d3d31efdb849e10a.jpg",
     images: [
       "https://i.pinimg.com/originals/d9/33/b9/d933b9bff19cfb509c882513bbff72ce.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "gurgaon",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Call me and msg me full enjoy and fulking sukking and annal full enjoy night charg is 6000 full day charg is 5000",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "gurgaon-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in gurgaon.",
+    description: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k fu",
     image: "https://i.pinimg.com/originals/d9/6a/1a/d96a1a78007f9576351bc55b2eae7a51.jpg",
     images: [
       "https://i.pinimg.com/originals/d9/d5/53/d9d553879b2f2b873af7500b8c7fb86e.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "gurgaon",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k full night unlimited shots with condom without condom front or back both said A TO Z service available…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

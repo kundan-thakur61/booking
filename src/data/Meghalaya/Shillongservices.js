@@ -2,7 +2,7 @@
   {
     id: "shillong-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "💥💥 KRITI THAPTE REAL MODELS CALL GIRL SERVICE 💥💥BANGLORE JP NAGAR AVAILABLE HOTEL AND HOME 🏡 ONLY",
     image: "https://i.pinimg.com/originals/d3/cf/95/d3cf95167e212127f11114d77f76173d.jpg",
     images: [
       "https://i.pinimg.com/originals/7e/a7/e2/7ea7e2cdb391ade2fe921765783f6ae7.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "shillong",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hello everyone if you want home and hotel service with high profile so you can text at WhatsApp only here available cash payment and to and genuine service only",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "shillong-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in shillong.",
+    description: "MY SELF SWETA CALL GIRL & BODY-TO-BODY MASSAGE SPA SERVICES OUTCALL AND INCALL",
     image: "https://i.pinimg.com/originals/57/ce/fd/57cefd3278dda6d20e275b6a2f27ac0a.jpg",
     images: [
       "https://i.pinimg.com/originals/d0/17/74/d01774c592bd00aa11fa1209b8c39ed2.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "shillong",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "EROTIC MASSAGE •BLOWJOB👅 FULL NUDE • NURU👅💦ERVICE SHOWER 👅👅👅 GIRLFRIEND EXPERIENCE💏❤️DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANGIRLFRIEND EXPERIENCE💏💥 LICKING💥HAND JOB ❤️DEEP SUCKING WITHOUT CONDOM 💥 CUM ON FACE 💥 NUDE DANCE 💥 BOOBS RUBBING💥 LICKING💥 HAND JOB ❤️EROTIC MASSAGE • BLOWJOB👅 • • FULL NUDE • NURU •💦 ❤️DEEP SUCKING WITHOUT CONDOM💥…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "shillong-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "A007 Rs 1000 (Counter) - Full Nude🩱Body Massage💗B2B Body massage Spa with BJ🍌 - Madeenaguda / Kukatpally /Miyapur / Hafeezpet",
     image: "https://i.pinimg.com/originals/dd/5a/1b/dd5a1bb384f6356ae10341e704be962c.jpg",
     images: [
       "https://i.pinimg.com/originals/1e/45/e9/1e45e9f572f4f553e709178f3c4feaa4.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "shillong",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Madeenaguda Beauty Spa Massage starting form 1000/- Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "shillong-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "699/-❤️‍🔥💦♥️ HOT SHOWER B2B NURU BJ MASSAGE WITH HAPPYENDING",
     image: "https://i.pinimg.com/videos/thumbnails/originals/8d/e3/db/8de3dbd2b07615034cfca76ff5c6c7fc.0000000.jpg",
     images: [
       "https://i.pinimg.com/originals/f3/f1/44/f3f14484b081e8878ee5f2667255f495.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "shillong",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "OUR SPCL SERVICES: SEXY GIRLS ONLY AROMATHERAPY, SPA, HAPPY ENDING MASSAGE, NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE B0OB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS contact sweety Affordable Rate, 100 %…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "shillong-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Myself Rani I provide nude live video call service if you want kindly let me know",
     image: "https://i.pinimg.com/originals/5a/ea/c9/5aeac9b08ab1e15e0bbdbde8a8b23d75.jpg",
     images: [
       "https://i.pinimg.com/originals/92/f2/d4/92f2d4aba72c9331d5ab000680b7e4ba.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "shillong",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Myself Rani I provide nude live video call service if you want kindly let me know",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "shillong-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in shillong.",
+    description: "Full open nude video call 🤙 sarvice 💋 only genuine sarvice 💋",
     image: "https://i.pinimg.com/originals/5a/3e/aa/5a3eaa6255a348e9ff8e0f6d9a320799.jpg",
     images: [
       "https://i.pinimg.com/originals/da/00/12/da00123a8d7c4cdb12f241b66658a338.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "shillong",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Full open nude video call 🤙 sarvice 💋 only genuine sarvice 💋",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

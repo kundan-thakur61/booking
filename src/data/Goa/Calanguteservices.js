@@ -2,7 +2,7 @@
   {
     id: "calangute-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Independent gir bo broker no agents",
     image: "https://i.pinimg.com/originals/bd/83/20/bd8320f23f7c513f53e6ec53f4907816.jpg",
     images: [
       "https://i.pinimg.com/originals/bd/9e/0f/bd9e0fdd1c30ba2e66691fc3b8541416.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "calangute",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Independent girl no broker no agents i work only kn bookings",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "calangute-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in calangute.",
+    description: "💋💋100% real girl💃💃 provided phone sex sarvice with voice and fhingring full satisfaction💦💦 no extra charge",
     image: "https://i.pinimg.com/originals/bd/c2/28/bdc228eccdee7927ee23d06ae0e93c62.jpg",
     images: [
       "https://i.pinimg.com/originals/bd/ef/c9/bdefc9cbf2239e65866c1e66bc1459bd.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "calangute",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "💋💋100% real girl💃💃 provided phone sex sarvice with voice and fhingring full satisfaction💦💦 no extra charge",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "calangute-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center,,M",
     image: "https://i.pinimg.com/originals/be/34/8c/be348c2a8698820f6a9f0cbb3020ac51.jpg",
     images: [
       "https://i.pinimg.com/originals/be/3d/52/be3d52df4c56029cd4ff1dd9cdfcd355.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "calangute",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hey, I Am Ms.Vaishnavi , 82965 - 39457 The Luxurious Spa and Massage Center In BANGALORE Full Body Massage For VIP Guest, All Royal-Class Facility Available with Shower Bath and More, Relex Yourself In This Summer with Relaxing Body Massage and Spa…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "calangute-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💍 Just Married Couple 💑",
     image: "https://i.pinimg.com/originals/be/4e/98/be4e980350d1acaa217b2c903fd97ceb.jpg",
     images: [
       "https://i.pinimg.com/originals/be/5f/d0/be5fd02cbba60a3a5719f973a81e74b7.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "calangute",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "❤️ Fresh • Elegant • Pure Chemistry ✨ Real couple vibes, no fake drama 🔥 Romantic, passionate & unforgettable moments 🌹 Clean, safe & 100% private experience 💖 Soft talks, deep connection & sweet memories 📩 Only genuine & respectful people 😈",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "calangute-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "SOUTH🍑🍆 AND NORTH🍑🍆 AND NORTH EAST COLLAGE GIRLS💦LOW PRICE 💥👅💦 B2B & NURU 💥👅👅💦*HAPPY ENDING👅💦 👅💦ROMANCE👅💦BODY TO BODY MASSAGE👅💦FULL NUDE MASSAGE👅💦SPA",
     image: "https://i.pinimg.com/originals/be/83/4e/be834e4a2f30396f257f52cecc78b591.jpg",
     images: [
       "https://i.pinimg.com/originals/be/98/23/be9823f636f3d6a70bb2d832760b837d.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "calangute",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "WHATS APP ME 96111-94827EROTIC MASSAGE •BLOWJOB👅 FULL NUDE • NURU👅💦ERVICE SHOWER 👅👅👅 GIRLFRIEND EXPERIENCE💏❤️DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANGIRLFRIEND EXPERIENCE💏💥 LICKING💥HAND JOB ❤️DEEP SUCKING WITHOUT CONDOM 💥 CUM ON FACE 💥 NUDE DANCE 💥 BOOBS RUBBING💥 LICKING💥 HAND JOB ❤️EROTIC MASSAGE • BLOWJOB👅 • • FULL NUDE • NURU •💦 ❤️DEEP…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "calangute-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in calangute.",
+    description: "Happy Ending massage spa Manikonda B2B full romance Nude ❤️Girls selection available walk-in, Call or whatsapp me now",
     image: "https://i.pinimg.com/originals/be/f3/70/bef3700bc698b6e3d8956f47911cd9bd.jpg",
     images: [
       "https://i.pinimg.com/originals/bf/55/73/bf5573cb6cec60b19f1d868bad3ec901.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "calangute",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hello guys Welcome to our spa and today you gets very hot girls 😍Normal massage 🤪Aroma Massage 😛Deep Tissue Massage 😗😂Body polish massage 🥳Thai Massage 🤣Head massage 🤩Foot massage 😘Oil massage 👅Gel massage 👄Cream massage Extras available ❣️Topless massage 🥰Full nude massage 💋Body to body rubbing massage 🤩Romance 💓Magical touchings 💙Happy ending…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

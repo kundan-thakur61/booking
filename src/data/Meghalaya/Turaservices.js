@@ -2,7 +2,7 @@
   {
     id: "tura-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Kannada Hot Aunty Sexy' Video Call Service Full Nude All Audio Chat Phone Sex",
     image: "https://i.pinimg.com/originals/a0/8d/4c/a08d4c3c65278d619afb749f858de874.jpg",
     images: [
       "https://i.pinimg.com/originals/13/d1/07/13d107ae523cb61fd7c2eabe106003d2.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "tura",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Kannada Hot Aunty Sexy' Video Call Service Full Nude All Audio Chat Phone Sex only genuine person message me on WhatsApp",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "tura-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in tura.",
+    description: "Offer for couples. Single please stay away",
     image: "https://i.pinimg.com/originals/87/5b/22/875b22ba5d5fbd0665a695193bf4aa05.jpg",
     images: [
       "https://i.pinimg.com/originals/13/b9/e4/13b9e4351b6325df0f3b1685c83131b3.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "tura",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hello couples and single females, I am Rajeev, age 35 years from Delhi, visiting Bengaluru from 4th June 2026 to 6th June and will stay at Holiday inn yeshwantpur. If you want to explore the special naughty things along with your partner then your…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "tura-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "699/-BOOBS RUBBING 🥵FULL NUDE B2B NURU MASSAGE WITH HAPPYEND.",
     image: "https://i.pinimg.com/originals/47/c5/9e/47c59ec19912040fa7abaeec530c898d.jpg",
     images: [
       "https://i.pinimg.com/originals/36/db/ff/36dbff945930c85381ea311b5d4b5978.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "tura",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "OF TYPES MASSAGE AVAILABLE • Normal Massage Swedish Massage ✔ Cream massage Deep tissue massage Body Polishing Massage Gel Massage • Legwand Massage EXTRA SERVICES ALSO AVABILES Full nude Massage Body to body Rubbing Romance Shower bath Happy Ending…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "tura-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "NO ADVANCE//BUSTY & BIG BOOBS YOUNG GIRL AVAILABLE IN YOUR CITY WITH REASONABLE PRICE",
     image: "https://i.pinimg.com/originals/f8/c8/36/f8c83603aad2057499ea83acbd060c84.jpg",
     images: [
       "https://i.pinimg.com/originals/e1/86/3b/e1863be8140652c403779a92c3eacd41.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "tura",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hello Everyone, I'm Mahi Singh We are genuine service provider in Bangalore. If you are genuinely interested than tell Text me....ok Only OutCall Don't Ask For InCall I can be everything you have always desire seductive and mischievous in one moment,…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "tura-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hy i am independent girl CAM session and real meet available 100% genuine escorts service all type service 24/7 AVAILABLE",
     image: "https://i.pinimg.com/originals/b8/f4/4d/b8f44d323752475ead78d666689b54e4.jpg",
     images: [
       "https://i.pinimg.com/originals/f7/7c/e9/f77ce9c1593f4134afda6de49abb63db.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "tura",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Out call and incall Hotel ya home Blojob Kissing Full open body to body massage Oral sex BDSM No time pass only genuine MSG me CAM session avelable Full nude with face and full satisfaction Genuine service",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "tura-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in tura.",
+    description: "Hii I am Neetu independent genuine location BTM Layout but only out call available and full service please no time pass",
     image: "https://i.pinimg.com/originals/9b/3e/e2/9b3ee21092b727b701143be368df85c8.jpg",
     images: [
       "https://i.pinimg.com/originals/12/89/49/128949b598f6d52b838303a59c70fa4f.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "tura",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hii I am Neetu independent genuine location BTM Layout but only out call available short time 7k 2 short 3 hours full night 12k 4 short and full service please no time pass",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

@@ -2,7 +2,7 @@
   {
     id: "kadapa-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "✅✅ My SELF NEHA INDEPENDENT CALL GIRL AVAILABLE FOR OUTCALLL GENUINE MEET SERVICES. AVAILABLE 24/7",
     image: "https://i.pinimg.com/originals/19/c4/95/19c49569269874e62ac11d2cba4489b5.jpg",
     images: [
       "https://i.pinimg.com/originals/19/c9/9f/19c99f6d577ed4488c46d961a304b00e.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "kadapa",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hey dear. Service available now. Full service. Shot with protection bj without protection all type kissing. . Anal. All type kissing. Full service without any restriction. . . If you have your own place you have to pay some advance for. . Hotel -all…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "kadapa-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in kadapa.",
+    description: "93720 - 27981 DIRECT CASH PAYMENT NO ADVANCE INDEPENDENT HOT GIRLS, BHABHIS & RUSSIANS",
     image: "https://i.pinimg.com/originals/1a/2e/5e/1a2e5eb05d32552f8664b6295e3c30c4.jpg",
     images: [
       "https://i.pinimg.com/originals/1a/7f/e1/1a7fe14098d96bd0f93223ea1a0cf1af.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "kadapa",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Greetings all, the name is MEETA JAIN and I’m a truly stunning and elegant 23-year-old independent call girl. I'm going to become the woman who'll be able to make you cum like never before, dear. I have such a beautiful and natural figure that you…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "kadapa-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hello dear I'm sexy girl beautiful pussy",
     image: "https://i.pinimg.com/originals/1a/c4/55/1ac4550c74f2c1dc19b82264b5387f99.jpg",
     images: [
       "https://i.pinimg.com/originals/1b/19/2d/1b192dc95507c1b98718647e0f311587.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "kadapa",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Direct meeting and vedio call sex my whatsapp number",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "kadapa-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Big boobs live show full finger video full service line sex show genuine",
     image: "https://i.pinimg.com/originals/1b/5b/a0/1b5ba0a8aaa241f0d5042e6b57d95ed8.jpg",
     images: [
       "https://i.pinimg.com/originals/1b/77/e9/1b77e94821a2bfc943465e90f1a2dd47.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "kadapa",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hot full live show big boobs finger show video call service chat chat audio sex demo sex",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "kadapa-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "All delhi available ✨❣️ Full safe and secure Genuine CALL-GIRL Service incall and out call available",
     image: "https://i.pinimg.com/originals/1b/98/bf/1b98bfa09e8606398d295fdbb61f1252.jpg",
     images: [
       "https://i.pinimg.com/originals/1b/be/4a/1bbe4ada353de15e63729a105d65fa38.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "kadapa",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "FULL B2B MASSAGE AND FULL SEXUAL SERVICE INCALL & OUTCALL AVAILABLE ENJOY B2B NUDE SEX/ SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE BOOB SUCKING, LICKING, BLOW JOB, BY BEAUTIFUL AND SEXY GIRLS OF MUMBAI Call/ WhatsApp Ankita (Incall/Outcall Cash…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "kadapa-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in kadapa.",
+    description: "Genuine service ✅ Full Satisfied ✅Aunty number paid ✅ contact me",
     image: "https://i.pinimg.com/originals/1b/d7/5b/1bd75bf6da7d269eee2db04bd334f44b.jpg",
     images: [
       "https://i.pinimg.com/originals/1b/e9/3b/1be93be5d84c69cd0bd53d9877987bb2.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "kadapa",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "🥰Trusted video call sarvice 🥰 Full fingring with dirty voice nude show Full open Tamil girl Age 28 VIDEO CAAL CHARAGE Face demo SEX CHAT",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

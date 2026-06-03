@@ -2,7 +2,7 @@
   {
     id: "guntur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "GENUINE SERVICE AVAILABLE DIRECT HAND TO HAND CASH PAYMENT NO ADVANCE PAYMENT NO EXTRA CHARGES",
     image: "https://i.pinimg.com/originals/15/48/b9/1548b9d2646258f4a6d73d00fe5fc685.jpg",
     images: [
       "https://i.pinimg.com/originals/15/49/5e/15495e3dde9ce532309b311824130e3b.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "guntur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Direct Meeting Direct Payment Before Service Cash or UPI. ▪♨️ No Booking Charges or No Online Advance Payment Service Details :- ▪♨️ Full Open Nude Sex Without any Dess With 100% Satisfaction. ▪♨️ BlowJob Oral Sex Pussy Licking Boobs Sucking69 Style Sucking Hand Job. ▪♨️ Romance Erotic Body Touching and Kissing Including Liplock Deep Kiss French…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "guntur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in guntur.",
+    description: "THIS IS GENUINE SERVICE ❤️ NO ADVANCE PAYMENT ❌ HAND CASE PAYMENT ❤️",
     image: "https://i.pinimg.com/originals/15/ec/c8/15ecc800d8e6dff5101887400bb264b3.jpg",
     images: [
       "https://i.pinimg.com/originals/16/01/93/16019355519631b248f1ac508190fd91.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "guntur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "LOVELY HOTTY 👅💏 HI MODELS COLLEGE GIRLS👅💋 HI PROFILE VERY NAUGHTY💦📞👙 💥ANAL SEX💥 BDSM💥 POSE💥LIP KISS💥 DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANCE💥 BOOBS RUBBING💥 LICKING💥HAND JOB 💏GIRLFRIEND EXPERIENCE💏 EROTIC MASSAGE💥 💥 SEX IN DIFFERENT POSITION etc. A to Z SERVICE WITHOUT ANY RESTICATION💥 Sensual massaging and proper passionate blowjobs…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "guntur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Myself Rani I provide nude live video call service if you want kindly let me know",
     image: "https://i.pinimg.com/originals/16/73/20/167320b23c259efbd074ad88635e672f.jpg",
     images: [
       "https://i.pinimg.com/originals/16/7b/3a/167b3a1bbf44461d139fa7ed07a3d2c8.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "guntur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hii guys Rani here. If Anyone who really want an amazing videocall experience live on videocall then feel free to contact me on whatsapp. I will do whatever you ask. Also i am 21yrs old. Milky white girl. Only genuine peoples can contact on…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "guntur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "hi how are you",
     image: "https://i.pinimg.com/originals/16/9b/91/169b9159f0a48bf294c53c339e151722.jpg",
     images: [
       "https://i.pinimg.com/originals/16/b2/34/16b234d5bb67fdf7f0ee4cf98adb84b9.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "guntur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Full open video call in just 50 demo charge with voice with enjoy full enjoy hot girl ❤️❤️💘💕 50 demo charge 🥵 💦",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "guntur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Big boobse 🍌♨️ All type girl 🥵🥵 hot video call sarvice geaune raat 🍓🍓 demo call 5min 10 min real girl for same girl no time pass voice call confirm on",
     image: "https://i.pinimg.com/originals/16/eb/f5/16ebf54d49a4c67b1796a34a9bd21625.jpg",
     images: [
       "https://i.pinimg.com/originals/16/f0/9d/16f09dc160def9eceb007edbab5cfaa3.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "guntur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hot bhabhi nude video call full open service available full enjoy low price night girl online service no time pass genuine customer genuine service availa Nude video call audio call WhatsApp sex chat Demo pay without clothes only massage me Stripping…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "guntur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in guntur.",
+    description: "Hot oil erotic massage",
     image: "https://i.pinimg.com/originals/17/86/b9/1786b93a63e9433ea8de544f35ede1ea.jpg",
     images: [
       "https://i.pinimg.com/originals/17/92/34/179234e894de27345d84b10d2131dedb.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "guntur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "This is Ruth, Today special Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with (2)girls with pressure XTRA SERVICES AVAILABLE: ****SPECIAL SERVICE ALSO…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

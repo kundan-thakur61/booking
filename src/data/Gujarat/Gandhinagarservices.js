@@ -2,7 +2,7 @@
   {
     id: "gandhinagar-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Full open video call with voice ☎️ nude sex chat open clothes in video call ❤️🫠🫠",
     image: "https://i.pinimg.com/originals/cb/c2/ae/cbc2aebc92b9110c0ad8a5891554894e.jpg",
     images: [
       "https://i.pinimg.com/originals/cb/c3/6f/cbc36ffd1452f56b06cbadc6165ff9fb.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "gandhinagar",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Demo 70/- only ◼️◾▪️💞hey I'm Radhika Bangalore hot girl genius Full Nude video sex service💞 new joinonly 70/-Full 💝nude 🤗video call without clothes demo charge 70",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "gandhinagar-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in gandhinagar.",
+    description: "Delhi 24/7 top best low price call girls sex service available 100% safe and secure",
     image: "https://i.pinimg.com/originals/cc/15/ee/cc15eead6b905aeb004685d604e969ee.jpg",
     images: [
       "https://i.pinimg.com/originals/cc/4c/16/cc4c16b05399c89a11c7a0622dd1e6c1.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "gandhinagar",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "gandhinagar-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Full open nude video call 🤙 sarvice 💋 only genuine sarvice 💋",
     image: "https://i.pinimg.com/originals/cc/73/cb/cc73cbc65e41eb89c29aaf831da4bdd6.jpg",
     images: [
       "https://i.pinimg.com/originals/cc/9d/6f/cc9d6fe30d8de8e93286d421efd279c2.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "gandhinagar",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Full open nude video call 🤙 sarvice 💋 only genuine sarvice 💋",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "gandhinagar-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Rs 1000 (Counter) - Full Nude🩱Body Massage💗B2B Body massage Spa with BJ🍌 - Mirjalguda / Malkajgiri / Anand Bagh / Lalapet",
     image: "https://i.pinimg.com/originals/cc/ac/a3/ccaca3e4174e3f397c9f367927eb5226.jpg",
     images: [
       "https://i.pinimg.com/originals/cc/bd/7e/ccbd7e428f7158f597bdc814e4a2b660.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "gandhinagar",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Malkajgiri Beauty Spa Massage starting form 1000/- Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "gandhinagar-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "I'm independent college girl🧕🏻 working as call Girl👄 full Nude call As you like as your mood. Its my guarantee that you will fill like real meet. w",
     image: "https://i.pinimg.com/originals/cc/d5/2a/ccd52a871a6da359719755730c73dd1e.jpg",
     images: [
       "https://i.pinimg.com/originals/cc/f2/98/ccf298c1131e844b75ae65a2040141a3.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "gandhinagar",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "NO CHEATING GENUINE SERVICE NUDE VIDEO CALL SERVICE AND AUDIO CALL SERVICE AND SEXY CHAT AVAILABLE",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "gandhinagar-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in gandhinagar.",
+    description: "TANI HERE TO MAKE YOUR DAY AND FORGETTABLE MESSAGE ME YOUR TELEGRAM AT WHATSAPP FOR MORE DETAILS I'M WAITING FOR YOUR MESSAGE",
     image: "https://i.pinimg.com/originals/cd/38/51/cd3851543a2544325dd9967109c6d5fd.jpg",
     images: [
       "https://i.pinimg.com/originals/cd/83/bc/cd83bc3bdebc1e67528eb02667a75df1.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "gandhinagar",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Message me on telegram at WhatsApp I am waiting for your message",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

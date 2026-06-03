@@ -2,7 +2,7 @@
   {
     id: "durgapur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k fu",
     image: "https://i.pinimg.com/originals/d1/cf/ab/d1cfabd839d2f1e665768abd8b522b50.jpg",
     images: [
       "https://i.pinimg.com/originals/19/d2/bd/19d2bd151b557b45a5b9301b563b4d9f.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "durgapur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k full night unlimited shots with condom without condom front or back both said A TO Z service available…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "durgapur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in durgapur.",
+    description: "Hi m lund🍌🍌🍌. Hot girl's, bhabhi lund🍌ko chusne,satisfied, threesome, enjoy, party, relationship karne ke liye contact me.",
     image: "https://i.pinimg.com/originals/aa/54/78/aa5478f963bc48883de6cdce995edda8.jpg",
     images: [
       "https://i.pinimg.com/originals/c7/ce/1d/c7ce1d630816aab4510467b67b3d14db.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "durgapur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Bhabhi, diveroce girl's Apni chut🥝ko satisfied, hard sex, anal, oral, relationship, enjoy, party karne ke liye message me. Hot girls Apni chut🥝ki seal tudwane, sex experience lene, sex chat,massage karvana ke liye message me.",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "durgapur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "41 demo charges only video call service only demo charges 41 nude video call service",
     image: "https://i.pinimg.com/originals/e4/78/f5/e478f5ec09e8fe1fb6e5c696e0c5c9a5.jpg",
     images: [
       "https://i.pinimg.com/originals/66/8e/9c/668e9cb00d18976a6a209101962f55bd.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "durgapur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "41 demo charges only video call service only demo charges 41 nude video call service",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "durgapur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Am Shreya truly genuine independent call girl direct meet independent escorts service available",
     image: "https://i.pinimg.com/originals/b6/d1/39/b6d13964dd76e6bb37d4dea6577948be.jpg",
     images: [
       "https://i.pinimg.com/originals/1c/b2/4e/1cb24e943699f4cbb3146ed10fe2b2c7.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "durgapur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "It's a safe and genuine service available in Bangalore all types of services available including hotel and home service available direct meet also available no broker involved with me try and enjoy your day with me",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "durgapur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "My Self Lara from USA now available in Hyderabad 24×7 For Fun enjoy beautiful night",
     image: "https://i.pinimg.com/originals/a5/90/3e/a5903e1558d40104f46b9f8ed325cde0.jpg",
     images: [
       "https://i.pinimg.com/originals/6f/cb/09/6fcb09757f2068b40ed75ecad891807a.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "durgapur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "My Self Lara I'm available in ●Hyderabad now 24×7 ■I giving A To Z service I here for Fun and giving my fetish ●service Like Desire come true service whatever you want ● In call services ● Out call service ●Hotel Room Service ●Farm house party ●Goa Manali simla Nepal kashmir everywhere You can Go with me Just like Girlfriend ●3some Also available…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "durgapur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in durgapur.",
+    description: "I m kannada hudgi geninu vc available with real face and voice",
     image: "https://i.pinimg.com/originals/e5/37/c6/e537c6da80807f0bef19e0e232cd0e38.jpg",
     images: [
       "https://i.pinimg.com/originals/90/55/b3/9055b35f74677830a65c367f5891a820.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "durgapur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "I m kannada hudgi geninu vc available with real face and voice",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

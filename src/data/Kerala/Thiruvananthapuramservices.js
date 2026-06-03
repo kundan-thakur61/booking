@@ -2,7 +2,7 @@
   {
     id: "thiruvananthapuram-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "🥀Real Meeting Bangalore Electronic City💋Vc Audio Call Sex Chat Sarvice 🤙🏻",
     image: "https://i.pinimg.com/originals/44/5c/c1/445cc1f91adad3f8434c702463da2a39.jpg",
     images: [
       "https://i.pinimg.com/originals/dd/b0/74/ddb074a9d7e54d41ab0dd0f7ed04aa72.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "thiruvananthapuram",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "99 5 minutes nude video call real meeting charge 1 hours 1500 in call out call available whatsapp message now",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "thiruvananthapuram-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in thiruvananthapuram.",
+    description: "NO CCHEAT NO FRAUD TRUST FULL SERVICE",
     image: "https://i.pinimg.com/originals/ea/55/95/ea5595fb4cf934e9bbf4f0331e147570.jpg",
     images: [
       "https://i.pinimg.com/originals/72/d8/b0/72d8b07f165ddfd48fe5a1f8e1b3a240.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "thiruvananthapuram",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "HI I AM UR SWAATI PROVIDING HOT VIDEO CALL AND REAL MEET AVAILABLE MEET ME ONCE I AM STAYING WITH MY FRNDS NO BROKER OR AGENT CALL ME DIRECTLY",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "thiruvananthapuram-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Mumbai high profile escorts call girls body to body Massages Erotic Massage nuru Massage happy Ending home hotel service Available",
     image: "https://i.pinimg.com/originals/ab/56/58/ab565885daf87aceb0565e7e4f9d7cda.jpg",
     images: [
       "https://i.pinimg.com/originals/a7/7a/2b/a77a2bb9aca6a90714b439e28193b806.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "thiruvananthapuram",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Call me:- neha Hotel and home service available 100% genuine service full satisfactionLocation:- Andheri, Sakinaka, Mora, Andheri airport, Chakala, Powai, Dadar, Bandra, Kurla, Chembur, Malad, Santacruz,Vile Parle, Mira Road, Goregaon, Kandivali,…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "thiruvananthapuram-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "GENUINE SERVICE AVAILABLE DIRECT HAND TO HAND CASH PAYMENT NO ADVANCE PAYMENT NO EXTRA CHARGES",
     image: "https://i.pinimg.com/originals/c0/9e/c9/c09ec94b86361d5748394daf22ed3dc5.jpg",
     images: [
       "https://i.pinimg.com/originals/d6/d2/82/d6d282227c47b3507d6a073befa68fa2.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "thiruvananthapuram",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Direct Meeting Direct Payment Before Service Cash or UPI. ▪♨️ No Booking Charges or No Online Advance Payment Service Details :- ▪♨️ Full Open Nude Sex Without any Dess With 100% Satisfaction. ▪♨️ BlowJob Oral Sex Pussy Licking Boobs Sucking69 Style…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "thiruvananthapuram-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "41 demo charges only video call service only demo charges 41 nude video call service",
     image: "https://i.pinimg.com/originals/6a/2e/1b/6a2e1b340e14f1ff279539f62ccfdea8.jpg",
     images: [
       "https://i.pinimg.com/originals/9c/07/a5/9c07a5476147376c48ac71e34d09f311.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "thiruvananthapuram",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "41 demo charges only video call service only demo charges 41 nude video call service",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "thiruvananthapuram-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in thiruvananthapuram.",
+    description: "TANI HERE TO MAKE YOUR DAY UNFORGETTABLE MESSAGE ME ON WHATSAPP AND TELEGRAM FOR MORE DETAILS AND INFORMATION",
     image: "https://i.pinimg.com/originals/ec/35/5e/ec355e768a66fb6e82fb560c9c48b5a9.jpg",
     images: [
       "https://i.pinimg.com/originals/bb/52/0b/bb520b900e996b16d1a2c85eae6d49a6.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "thiruvananthapuram",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Message me on telegram and WhatsApp for more details I am waiting for your message",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

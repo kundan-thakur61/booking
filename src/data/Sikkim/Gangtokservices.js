@@ -2,7 +2,7 @@
   {
     id: "gangtok-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "AFTER SERVICE PAYMENT TRUSTED CHEAPEST RATE 24 HOURS AVAILABLE ALL OVER MUMBAI",
     image: "https://i.pinimg.com/originals/df/8d/5c/df8d5c872b76283a69ac6cba27d996fc.jpg",
     images: [
       "https://i.pinimg.com/originals/11/d4/0c/11d40c46963152bc20a2ac989dc19681.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "gangtok",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Mumbai escorts services beautiful and Reasonable best services 24 Available In :- 24 hotel ya home cash 3*5*7*Star Hotel home services In.In call & out call... Name :- Shilpa Sharma Age :- 21yrs Height :- 5ft 3in (without heels) Measurements :-…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "gangtok-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in gangtok.",
+    description: "Genuine Horny Bhabhi for Services(free Confirmation)",
     image: "https://i.pinimg.com/videos/thumbnails/originals/a4/4e/10/a44e10e6cc6a0b615e9f1a9851e17f73.0000000.jpg",
     images: [
       "https://i.pinimg.com/originals/3f/14/62/3f14623e41b41681b8b5441bf82bac09.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "gangtok",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hello guys, This is jivika 26 yr old married having busty body available for live services. Free voice confirmation. Plz Contact me on. WhatsApp. My pics r attached",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "gangtok-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Genuine independent 77954 door step 44304 HAND CASH PAYMENT TRULY",
     image: "https://i.pinimg.com/originals/84/1e/b3/841eb3bb1721dac6b59844b4d70dd90c.jpg",
     images: [
       "https://i.pinimg.com/originals/30/88/46/3088464c86411286590c28a183cfbfaa.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "gangtok",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Hi call me hand cash payment directly i am indipendent girl door step home service available ltr escort girlfriend experience service available",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "gangtok-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hi I'm Nisha independent girl meet direct My flat",
     image: "https://i.pinimg.com/originals/3e/19/39/3e1939fb63222f6fa01ba93f8948ac62.jpg",
     images: [
       "https://i.pinimg.com/originals/f6/a8/93/f6a893af00f221054b5e570c1765626e.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "gangtok",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Direct meet I'm independent call-girl-in alone... I'll really give u good enjoyment and Excellent service on my bed.... I'm basically from south girl.. i can speak kannada and English.. I'm in some financial problems that's why this way... but I'll…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "gangtok-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hy I am independent college girl CAM session and real meet 100 % genuine girl 24/7 AVAILABLE",
     image: "https://i.pinimg.com/originals/18/d4/c5/18d4c54c7bb3be6d9069f40f8d705499.jpg",
     images: [
       "https://i.pinimg.com/originals/42/29/dc/4229dcadc499f006203da3022e620706.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "gangtok",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hey guys my self puja from Bangalore near by kormangla independent meet and cam show provide if you interested with my profile come my WhatsApp or telegram let's fun i hope enjoy with me For meeting Short time 8k Full night 12k For cam 15 minutes 1k…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "gangtok-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in gangtok.",
+    description: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
     image: "https://i.pinimg.com/originals/85/94/cc/8594cc4cd10e5986458987b69dc22999.jpg",
     images: [
       "https://i.pinimg.com/originals/e6/84/fc/e684fcae88c05a155c322463d5078a6c.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "gangtok",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE WITH SHOWER BATH MASSAGE • FULL NUDE MASSAGE WITH SHOWER BATH…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

@@ -2,7 +2,7 @@
   {
     id: "proddatur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "NO ADVANCE PAYMENT HAND TO HAND 100% GENUINE SERVICE VIP PROFILE COLLEGE GIRLS HOUSE WIFE HOTEL AND HOME SERVICE AVAILABLE IN PUNE 24/7",
     image: "https://i.pinimg.com/originals/2c/5c/78/2c5c78842fac47ec2d32ce93e2535a07.jpg",
     images: [
       "https://i.pinimg.com/originals/2c/68/28/2c6828b960045d469c1afec34dfdb38e.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "proddatur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "No**Online Payment, no Fraud only direct hand to hand payment at the time of meeting--**************** ★ 100% Customers Satisfaction Guarantee // Profiles Top Grade Service // 100% Cooperative All round ★ HOT & SEXY MODELS // COLLEGE GIRLS //…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "proddatur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in proddatur.",
+    description: "Massage service",
     image: "https://i.pinimg.com/originals/2c/b9/5c/2cb95cac230439d4c3fe59039056f833.jpg",
     images: [
       "https://i.pinimg.com/originals/2c/b9/d0/2cb9d09970478536ede1e2281d4f8db3.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "proddatur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Hi ,I am genuinely providing massage service at door step at reasonable rate.only genuine people contact. Couples and single can contact only. No time pass.",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "proddatur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "TANI HERE TO MAKE YOUR DAY UNFORGETTABLE MESSAGE ME ON TELEGRAM FOR MORE DETAILS",
     image: "https://i.pinimg.com/originals/2c/ef/dc/2cefdc9ebff9734db1d5f845b27f613e.jpg",
     images: [
       "https://i.pinimg.com/originals/2c/fd/6f/2cfd6fe1d533e80693e71cefe606bd36.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "proddatur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Message me on telegram and call me for more details I am waiting for your message and call",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "proddatur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "NO ADVANCE ONLY CASH HAND TO HAND PAYMENT GENUINE SERVICE IN ALL BANGLORE COLLEGE GIRLS",
     image: "https://i.pinimg.com/originals/2d/1d/45/2d1d45d7c9c34a5e9dcd332ee9fb99ad.jpg",
     images: [
       "https://i.pinimg.com/originals/2d/2c/be/2d2cbefa8187d4091df02cfd83c10bc8.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "proddatur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Bangalore)✅ONLY CASH PAYMENT ⭐100% GENUINE SAME PROFILE HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100%…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "proddatur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Bangalore Live Video Call Service 💦📱 Full Open 🔥 Genuine 💯 Demo Available 💸 Fast Response 📞 Banni Bega 😉",
     image: "https://i.pinimg.com/originals/2d/a4/85/2da4856cd48a97f0a1c2dded4c84d90e.jpg",
     images: [
       "https://i.pinimg.com/originals/2d/ca/fa/2dcafa6133c1ff6e5fd1dd407f0a9eea.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "proddatur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Bangalore Live Video Call Service 💦📱 Full Open 🔥 Genuine 💯 Demo Available 💸 Fast Response 📞 Banni Bega 😉",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "proddatur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in proddatur.",
+    description: "INDIPENDENT💸 𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 PAYMENT HAND TO HAND FULL SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE 24X7 AVAILABLE",
     image: "https://i.pinimg.com/originals/2d/e2/97/2de2970ea59fac82118b2ffa0a5058ea.jpg",
     images: [
       "https://i.pinimg.com/originals/2d/f3/27/2df32796f66c71b560f7fbe606455ce0.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "proddatur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "INDIPENDENT💸 𝐎𝐍𝐋𝐘 𝐂𝐀𝐒𝐇 PAYMENT HAND TO HAND FULL SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE 24X7 AVAILABLE college girl model VIP available full service",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

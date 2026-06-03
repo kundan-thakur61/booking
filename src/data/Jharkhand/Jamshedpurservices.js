@@ -2,7 +2,7 @@
   {
     id: "jamshedpur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
     image: "https://i.pinimg.com/videos/thumbnails/originals/77/b6/68/77b66801a2f8eab4fe1530a65b689fea.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/79/8f/b2/798fb25e3044f803ec0f5224eb6540e3.0000000.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "jamshedpur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "jamshedpur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in jamshedpur.",
+    description: "Hello ladies jisko v gndi trh se chudna ho mere w p msg kre only women",
     image: "https://i.pinimg.com/videos/thumbnails/originals/7f/1b/ef/7f1bef8579385023544cdb4a3a2b2c71.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/80/aa/50/80aa50e57e1c36e1604bbdd2d6c38d5c.0000000.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "jamshedpur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Sex experience acchi h timing mere second third round me 1.5 hours h but bndi me exited krni ki dam honi chaiye jisko chudna ho whi msg kre time kharab krne wale n msg kre thnxx",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "jamshedpur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "HOT 🔥FULL NUDE VIDEO CALL SERVICE🎥 SEXTING 💬 PHONE 🥀SEX 💋 FINGRING ALSO",
     image: "https://i.pinimg.com/videos/thumbnails/originals/8d/e3/db/8de3dbd2b07615034cfca76ff5c6c7fc.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/91/e1/fa/91e1fab6ae4b32aee56609f99165da32.0000000.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "jamshedpur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "🔥 HOT 🔥 NUDE LIVE VIDEO CALL SERVICE, SEX CHAT, VOICE CALL, ROLE PLAY, FULL OPEN VIDEO CALL SERVICE WITH VOICE AND WITH FACE BOOBS PRESSING AND OPEN PUSSY FINGRING WITH VOICE AND WITH FACE",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "jamshedpur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "IM PRIYA INDEPENDENT ✅ CALL GIRL, STAYING ALONE IN BANGALORE CONTACT ME FOR SERVICE LOW PRICE",
     image: "https://i.pinimg.com/videos/thumbnails/originals/9a/1c/a6/9a1ca6f718f521d2bc55093b86e61e1b.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/a0/75/dd/a075dd505e88fd9878e946a7961f18c0.0000000.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "jamshedpur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Dear Customers Are you looking call girl service in mysore but unable to find out best geniune, don't worry I'm here for you to full fill all requirements you just connect with me through whatsapp and get service anytime anywhere in BANGALORE",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "jamshedpur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "NO ADVANCE PAYMENT HAND TO HAND 100% GENUINE SERVICE VIP PROFILE COLLEGE GIRLS HOUSE WIFE HOTEL AND HOME SERVICE AVAILABLE IN PUNE 24/7",
     image: "https://i.pinimg.com/videos/thumbnails/originals/a3/a9/9e/a3a99e1b850000d066cd1fa136c3ce72.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/a4/4e/10/a44e10e6cc6a0b615e9f1a9851e17f73.0000000.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "jamshedpur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "No**Online Payment, no Fraud only direct hand to hand payment at the time of meeting--**************** ★ 100% Customers Satisfaction Guarantee // Profiles Top Grade Service // 100% Cooperative All round ★ HOT & SEXY MODELS // COLLEGE GIRLS //…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "jamshedpur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in jamshedpur.",
+    description: "Hii I anu kannada independent genuine girl...",
     image: "https://i.pinimg.com/videos/thumbnails/originals/ab/b1/79/abb179ee075c9c492cc813aa43535292.0000000.jpg",
     images: [
       "https://i.pinimg.com/videos/thumbnails/originals/ad/9c/bd/ad9cbdde1b3a6398f509a2257a84f751.0000000.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "jamshedpur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "🌟🌟Hotel and home service available 24 hour 💐 All over Hotel outcall service and incall with regular price guarantee satisfaction genuine service",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

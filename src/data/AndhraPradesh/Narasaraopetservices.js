@@ -2,7 +2,7 @@
   {
     id: "narasaraopet-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Genuine independent 77954 door step 44304 HAND CASH PAYMENT TRULY...",
     image: "https://i.pinimg.com/originals/25/51/18/255118557a1c0199133e250849654ada.jpg",
     images: [
       "https://i.pinimg.com/originals/25/52/c9/2552c93f627fd36e2b55bee922f8ea58.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "narasaraopet",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hi cal me or whatsapp me out call door step home service available ltr escort girlfriend experience service available BY HAND CASH PAYMENT TRULY..",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "narasaraopet-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in narasaraopet.",
+    description: "🥦FACE TO FACE PAYMENT 💸 GENUINE GIRL'S GENUINE WORK LOW/HIGH PROFILE💫 AVAILABLE.... 24×7",
     image: "https://i.pinimg.com/originals/25/f8/6d/25f86d3d02891c3db5b3697144d784de.jpg",
     images: [
       "https://i.pinimg.com/originals/26/14/00/261400fc1f8038727e11df4924a6e362.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "narasaraopet",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "💐💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "narasaraopet-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hot bhabhi full finger video call service big boobs live show",
     image: "https://i.pinimg.com/originals/26/66/08/2666084bc5ba6be4d9b98f717ed3d6f6.jpg",
     images: [
       "https://i.pinimg.com/originals/26/6f/14/266f14a2bbcf7ae3d11ad6293f0cda62.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "narasaraopet",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "Genuine bhabhi live show video call service sex chat voice call sex sex demo phone sex big boobs",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "narasaraopet-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💖PRIYA💖 independent Girl Staying Alone in Flat Just Visit Once",
     image: "https://i.pinimg.com/originals/26/77/92/267792c4728e012bde207dd81a911da8.jpg",
     images: [
       "https://i.pinimg.com/originals/26/9b/41/269b41dc921ccba74f3c45561dc329b5.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "narasaraopet",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hello Guys Am PRIYA💝 🌟🌟Hotel service available 24 hour 💐 All over Hotel outcall service and incall with regular price guarantee satisfaction genuine service",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "narasaraopet-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Rs 1000 (Counter) - Full Nude🩱Body Massage💗B2B Body massage Spa with BJ🍌 - Mirjalguda / Malkajgiri / Anand Bagh / Lalapet",
     image: "https://i.pinimg.com/originals/26/ba/48/26ba48740c0dc4e799595bf00a6ba557.jpg",
     images: [
       "https://i.pinimg.com/originals/26/c9/25/26c92535669ccec0e1808ff8635ef236.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "narasaraopet",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "This is Renu, Riya, Sree and Priya Welcome to Malkajgiri Beauty Spa Massage starting form 1000/- Today special 🔥Hot oil massage with sexy nude girls Types of massages *Dry massage *Aroma oil massage *Cool cream massage *Deep tissue massage *Swedish massage *Thai massage *Alovera massage *Full body polishing and scrubbing *Heavy massage means with…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "narasaraopet-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in narasaraopet.",
+    description: "Nude video calling service full open full masti fingering also pussy",
     image: "https://i.pinimg.com/originals/27/4f/35/274f35b42e23d937c78a887a6a8fa7f9.jpg",
     images: [
       "https://i.pinimg.com/originals/27/bc/18/27bc18ad683237597f0026612972a40e.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "narasaraopet",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hi👅👅 I am punam singh🍌🍌 I am 20👄👄 I like to sex videos call and nude service for You 💋 Full open boby video call service with voice and 👍 fingering 💞💋 Provide 💞 Note --contact only genuine people no niklugi time pass And only for paid service A…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

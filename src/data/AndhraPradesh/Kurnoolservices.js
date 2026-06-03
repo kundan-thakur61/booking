@@ -2,7 +2,7 @@
   {
     id: "kurnool-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "🔥VIP GENUINE ESCORT SERVICE, NO NEED ANY ADVANCE, ONLY HAND TO HAND PAYMENT 🔥",
     image: "https://i.pinimg.com/originals/1d/4a/bd/1d4abd8bea7f08f1d6ad538fdc8f435a.jpg",
     images: [
       "https://i.pinimg.com/originals/1d/6b/93/1d6b935afc3bd9279a8cefda2f2b678c.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "kurnool",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "💕 NO NEED ANY ADVANCE PAYMENT 💕 💕 Only for cash payment hand to hand 💕 💖 100% GENUINE AND SECURE SERVICE CENTRE 💖 👋 HELLO GENTLEMAN 🕺🕺🕺 VIP GENUINE & SECURE SERVICE AVAILABLE HERE 🕺🕺🕺 🫂 FULL FRIENDLY 🫂 FULL COOPERATIVE 🫂 100% SATISFACTION 🫂 LIKE…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "kurnool-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in kurnool.",
+    description: "House wife here suma 34yrs",
     image: "https://i.pinimg.com/originals/1d/b3/e4/1db3e4bc9d66cdee9de48b51335eba5b.jpg",
     images: [
       "https://i.pinimg.com/originals/1d/b5/8e/1db58e44c8e873cdd14066a3a65d2420.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "kurnool",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Am genuine telugu house wife 34yrs From bennarghatta road I don't have place Only day time U need to pickup n drop or cab amount no cab bookings No pics strictly 5k 2hrs unlimited fun Only real genuine people contact Am very very average looks…",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "kurnool-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "NO ADVANCE SAFE AND SECURE CALL GIRL SERVICE",
     image: "https://i.pinimg.com/originals/1e/1e/2e/1e1e2ea9150382aefee7a5c56b8a9fe2.jpg",
     images: [
       "https://i.pinimg.com/originals/1e/30/6e/1e306e3016dfbc900d8382d9b825dbcf.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "kurnool",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "NO ADVANCE ONLY HAND CASH PAYMENT CALL GIRL SERVICE SAFE AND SECURE DIRECT MEET AFTER PAYMENT PAY ..",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "kurnool-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hot African Curvy QueenThick Booty Round Boobs Sucking 😚 Juicey Pusssy 💦",
     image: "https://i.pinimg.com/originals/1e/45/e9/1e45e9f572f4f553e709178f3c4feaa4.jpg",
     images: [
       "https://i.pinimg.com/originals/1e/59/6a/1e596a73f6921c6de706c881f35cc70c.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "kurnool",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "I AM SHANITA, 💫 I'M CURRENTLY LIVING IN SUKHDEV AVENUE, LUDHIANA 📍 MY BOOBS ARE SO JUICEY CURVY ASS HOT LIPS 👄. 📟--CHAT WITH ME HERE--📟 💫___+91-98729-22785____💫 My fantasy is that i stay in doggy style while you eat my juicy ass and pussy .. I have my own private place to stay and i can host you. My ass needs really horny doggy style sex .. come…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "kurnool-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Bangalore video call service full nude with voice",
     image: "https://i.pinimg.com/originals/1e/63/83/1e638347444071fbd81fd80161a94463.jpg",
     images: [
       "https://i.pinimg.com/originals/1e/6a/02/1e6a02196abf9ffdc2c3c3a1d6e02a67.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "kurnool",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Boobs rubbing and fingring regular customer banane ki full guarantee",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "kurnool-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in kurnool.",
+    description: "LOW RATE (VIDHI CALL GIRLS) ESCORT FULL HARD FUCK WITH NAUGHTY IF YOU WANT TO FUCK MY PINK PUSSY WITH BIG BOOBS A",
     image: "https://i.pinimg.com/originals/1f/30/53/1f305376a6778678c8913410e97d20ec.jpg",
     images: [
       "https://i.pinimg.com/originals/1f/33/c9/1f33c9db76a782753c9316e5a6d04a25.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "kurnool",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "LOVELY HOTTY 👅💏 HI MODELS COLLEGE GIRLS👅💋 HI PROFILE VERY NAUGHTY💦📞👙 💥ANAL SEX💥 BDSM💥 POSE💥LIP KISS💥 DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANCE💥 BOOBS RUBBING💥 LICKING💥HAND JOB 💏GIRLFRIEND EXPERIENCE💏 EROTIC MASSAGE💥 💥 SEX IN DIFFERENT…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

@@ -2,7 +2,7 @@
   {
     id: "nizamabad-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "BODY MASSAGE N PUSSY LICKER ONLY FOR LADIES WOMENS",
     image: "https://i.pinimg.com/originals/b9/16/50/b91650541b2163f8ad0dd76ad56cf2be.jpg",
     images: [
       "https://i.pinimg.com/originals/2e/d6/ac/2ed6ac18a0ea09a000910988df9d0e8a.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "nizamabad",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Note : Satisfaction Guaranteed",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "nizamabad-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in nizamabad.",
+    description: "Am Shreya truly genuine independent call girl direct meet independent escorts service available",
     image: "https://i.pinimg.com/originals/7d/ea/10/7dea104573e740f7a7c28538c857ad79.jpg",
     images: [
       "https://i.pinimg.com/originals/6e/bd/37/6ebd37c06e327c64ca2b116e471df7cf.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "nizamabad",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "It's a safe and genuine service available in Bangalore all types of services available including hotel and home service available direct meet also available no broker involved with me try and enjoy your day with me",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "nizamabad-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Hand to hand payment geniune service call me",
     image: "https://i.pinimg.com/originals/06/26/ac/0626ac3fac1037e274e2b59012878aad.jpg",
     images: [
       "https://i.pinimg.com/originals/af/09/b3/af09b3093f7351e776fac14f3fd19017.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "nizamabad",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "100% satisfaction guaranteed ✓profiles top grade service Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service Call…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "nizamabad-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "💖PRIYA💖 independent Girl Staying Alone in Flat Just Visit Once",
     image: "https://i.pinimg.com/originals/f2/87/17/f28717f5f5c80a2b2b171ecfac6568e6.jpg",
     images: [
       "https://i.pinimg.com/originals/3a/3c/ba/3a3cba1d56d2e63e905532c8c6904581.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "nizamabad",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hello Guys Am PRIYA💝 🌟🌟Hotel service available 24 hour 💐 All over Hotel outcall service and incall with regular price guarantee satisfaction genuine service",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "nizamabad-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "I will provide best body massage",
     image: "https://i.pinimg.com/originals/25/22/eb/2522eb8fabc97a1efd79c9bea952afe6.jpg",
     images: [
       "https://i.pinimg.com/originals/78/81/a5/7881a5c03fa2bb8e7410a42a1965f9e7.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "nizamabad",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hi .siddhu 26 I'm professional body massager I will provide Oil and cream. Deep tissue. You will feel relaxed and relif from all body pains Stress relief free And get free from body pains",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "nizamabad-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in nizamabad.",
+    description: "𝙷𝚘𝚝 𝙸𝚗𝚍𝚘𝚗𝚎𝚜𝚒𝚊𝚗 𝚐𝚒𝚛𝚕 😘😘😘😘 in Bangalore",
     image: "https://i.pinimg.com/originals/fd/39/27/fd3927291e77f4bbf20a9b3bac4bd604.jpg",
     images: [
       "https://i.pinimg.com/originals/2a/21/9e/2a219e87e338af059a5ca1abfe50a386.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "nizamabad",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "All service available and body massage also available",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

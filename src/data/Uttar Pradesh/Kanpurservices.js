@@ -2,7 +2,7 @@
   {
     id: "kanpur-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Low price genuine video call service available 24 HOUR only genuine people came here time pass direct",
     image: "https://i.pinimg.com/originals/77/2a/e4/772ae462ef10c18a8b5de44ed7b2e601.jpg",
     images: [
       "https://i.pinimg.com/originals/4e/b4/76/4eb4768b6096bad84cc08733a974ceca.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "kanpur",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "No extra charge genuine people came here time pass direct block genuine people came here 24 HOUR",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "kanpur-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in kanpur.",
+    description: "Call me old age women big boob's fitness available",
     image: "https://i.pinimg.com/originals/b1/f5/17/b1f5179c280e5b5ee3b58fe87c067d0c.jpg",
     images: [
       "https://i.pinimg.com/originals/cc/5a/f1/cc5af17fd42d73ea4be6456be4ff1bd1.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "kanpur",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "Call me old age women big boob's fitness available whatsapp no.",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "kanpur-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "Anjali Sharma NO💸 ADVANCE NEW MODEL 💋SEXY TRUSTED COLLAGE CALL GIRL IN PUNE 🤞",
     image: "https://i.pinimg.com/originals/21/7c/f3/217cf31dc0f73a9e5edd22e32477abfc.jpg",
     images: [
       "https://i.pinimg.com/originals/d8/3c/17/d83c176133a3a7adff0573641bbc84a9.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "kanpur",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "NO ADVANCE DIRECT CASH PAYMENT IN HAND FULL SAFE AND SECURE HOTEL AND HOME SERVICE AVAILABLE WE GURANTEE 100% SATISFACTION IN LOWEST PRICE ( Incall & outcall ) service 24*7 hrs available here.. Location :- Koregaon park Viman Nagar Hadapsar kharadi…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "kanpur-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "Hey myself sneha I'm independent girl call me now for real meet genuine sarvice available 24/7 hours all over bangalore",
     image: "https://i.pinimg.com/originals/fa/0d/ae/fa0daef4bd56319b5a106b6387afc4a8.jpg",
     images: [
       "https://i.pinimg.com/originals/9a/27/ab/9a27ab09c91344f0333b6890fe03c1b0.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "kanpur",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Hi everyone I'm sneha indipendent call girl from Bangalore I provide real meet genuine services in all over bangalore Call me now for real meet genuine services in all over bangalore 24/7",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "kanpur-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: "Hii am 💗 Divya 💗 independent hot girl.banglore video call service available",
     image: "https://i.pinimg.com/originals/a4/8a/3f/a48a3f7dc1a9d147f1019878af44a940.jpg",
     images: [
       "https://i.pinimg.com/originals/3b/3f/f2/3b3ff25ced4be443ce251c4d6330b28a.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "kanpur",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "Hii am 💗 Divya 💗 independent college girl .. Out call and incall service available Due to some proverty problem dad was dead that's why am doing this work. Video call and audio call service also available. It's truly genuine service genuine person…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "kanpur-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in kanpur.",
+    description: "FULL CASE PEYMENT NO ADVANCE FULL GENUINE SERVICE ALV",
     image: "https://i.pinimg.com/originals/0a/74/07/0a74075d1b28a25b01ed9b962c46131b.jpg",
     images: [
       "https://i.pinimg.com/originals/5c/3f/69/5c3f69e31257ed52dbcd4e5c005f7c6d.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "kanpur",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Direct Cash Payment for Hotel Service Book Now Good Looking High Profile Call girls at Your Doorstep /",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",

@@ -2,7 +2,7 @@
   {
     id: "supaul-003",
     name: "Body Massage Service",
-    description: "Relaxing therapeutic massage services with premium companionship.",
+    description: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k fu",
     image: "https://i.pinimg.com/originals/a3/9c/46/a39c463258b8f4ccb2fc36ef63335b40.jpg",
     images: [
       "https://i.pinimg.com/originals/a3/a7/5c/a3a75c3c77853c645e5fa6fa6dcbe94b.jpg",
@@ -13,7 +13,7 @@
     availability: "24/7 Available",
     age: "21",
     location: "supaul",
-    aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques.",
+    aboutme: "Hi I’m shreya independent Kannada girl genuine incall or outcall service nude live video call service Short time 4 hours 3.5k Full time 10 hours 7k full night unlimited shots with condom without condom front or back both said A TO Z service available in my self Nude live video call service Sex chat and Sexy audio call spiking Contact me come and…",
     tag: "massage,spa,body massage",
     service: "Full Body,Swedish,Deep Tissue",
     attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@
   {
     id: "supaul-001",
     name: "VIP Companion Service",
-    description: "Premium VIP escort and companion service for elite clientele in supaul.",
+    description: "today full discount Independent college student and house wife hand to hand payment HYDERABAD",
     image: "https://i.pinimg.com/originals/a3/c4/dc/a3c4dcc815b3867176fdeab0768b7000.jpg",
     images: [
       "https://i.pinimg.com/originals/a3/d1/dd/a3d1dd45c72e07efa35af5532680a5be.jpg",
@@ -32,7 +32,7 @@
     availability: "By Appointment",
     age: "23",
     location: "supaul",
-    aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings.",
+    aboutme: "new new profile avl I have Many collection of Independent girls and house wife They are goodlooking and ready to do anything for money For any information and booking please feel free and call me directly",
     tag: "vip,companion,elite",
     service: "Social Events,Dinner Date,Travel Companion",
     attentionTo: "men,couples",
@@ -41,7 +41,7 @@
   {
     id: "supaul-002",
     name: "Relaxation Spa Service",
-    description: "Complete spa and relaxation experience with trained professionals.",
+    description: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
     image: "https://i.pinimg.com/originals/a4/02/5d/a4025da286b22334c3b80e83f9ac1121.jpg",
     images: [
       "https://i.pinimg.com/originals/a4/1f/7b/a41f7be85ed7b7307b0710cb3ed72baa.jpg",
@@ -50,7 +50,7 @@
     availability: "10 AM - 10 PM",
     age: "22",
     location: "supaul",
-    aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments.",
+    aboutme: "NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE WITH SHOWER BATH MASSAGE • FULL NUDE MASSAGE WITH SHOWER BATH…",
     tag: "spa,relaxation,wellness",
     service: "Aromatherapy,Hot Stone,Head Massage",
     attentionTo: "men,women",
@@ -59,7 +59,7 @@
   {
     id: "supaul-004",
     name: "Travel Companion Service",
-    description: "Charming travel companions for business trips and leisure tours across India.",
+    description: "DIRECT HAND TO HAND CASH PAYMENT NO ADVANCE PAYMENT NO EXTRA CHARGES GENUINE SERVICE AVAILABLE",
     image: "https://i.pinimg.com/originals/a4/28/c7/a428c7252a69e29eba861cbaf916039e.jpg",
     images: [
       "https://i.pinimg.com/originals/a4/50/cd/a450cd5ae1e91e7c2a3bacce6e3ba6b9.jpg",
@@ -68,7 +68,7 @@
     availability: "24/7 Available",
     age: "24",
     location: "supaul",
-    aboutme: "Adventurous and fun travel companion with great knowledge of local tourist spots.",
+    aboutme: "Direct Meeting Direct Payment Before Service Cash or UPI. ▪♨️ No Booking Charges or No Online Advance Payment Service Details :- ▪♨️ Full Open Nude Sex Without any Dess With 100% Satisfaction. ▪♨️ BlowJob Oral Sex Pussy Licking Boobs Sucking69 Style…",
     tag: "travel,companion,tours",
     service: "Business Travel,Leisure Tours,Hotel Companion",
     attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@
   {
     id: "supaul-005",
     name: "Verified Escort Service",
-    description: "100% verified escort services with complete discretion and professionalism.",
+    description: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
     image: "https://i.pinimg.com/originals/a4/8a/3f/a48a3f7dc1a9d147f1019878af44a940.jpg",
     images: [
       "https://i.pinimg.com/originals/a4/8b/02/a48b023f73e42dc09d36c0737d76040f.jpg",
@@ -87,7 +87,7 @@
     availability: "24/7 Available",
     age: "22",
     location: "supaul",
-    aboutme: "Professional, discreet and verified escort. Your privacy and safety is my priority.",
+    aboutme: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
     tag: "verified,escort,discreet",
     service: "In-Call,Out-Call,Overnight",
     attentionTo: "men",
@@ -96,7 +96,7 @@
   {
     id: "supaul-006",
     name: "Premium Night Service",
-    description: "Exclusive premium overnight companion service in supaul.",
+    description: "Curvy Queen Thick Ass Whoud Like To Fuck Hard Juicy Pussy Ever 💦",
     image: "https://i.pinimg.com/originals/a4/f2/5f/a4f25f006a9919474c148677add79ac7.jpg",
     images: [
       "https://i.pinimg.com/originals/a5/00/d0/a500d0adf949a541092521890f71e15b.jpg",
@@ -105,7 +105,7 @@
     availability: "Evening & Night",
     age: "25",
     location: "supaul",
-    aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience.",
+    aboutme: "Hii Am Praise.🧸 From South Africa 🇿🇦 I stay in Chandkheda, Ahmedabad, Gujarat.📌 ☎️📟 +91-73599-46903 📟☎️ I’m super discrete, classy, attractive slim beautiful melanin babe ❤️. It’s always QUALITY over quantity. My slim gorgeous body is like no other, my soft, smooth skin and my sensual touch will make you come for more. I’m also available for trips,…",
     tag: "premium,night,companion",
     service: "Dinner Date,Night Companion,Overnight",
     attentionTo: "men",
