@@ -346,16 +346,16 @@ ${areasFormatted}
       {/* Hero Section */}
       <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
         <div className="container mx-auto px-4">
-          <nav className="text-sm mb-4 opacity-90">
-            <Link to="/" className="hover:underline">Home</Link>
-            <span className="mx-2">\\u203a</span>
-            <Link to="/${parentSlug}" className="hover:underline">${parentName}</Link>
-            <span className="mx-2">\\u203a</span>
+          <nav className="text-sm mb-4 opacity-90 bg">
+            <Link to="/" className="hover:underline text-white">Home</Link>
+            <span className="mx-2"></span>
+            <Link to="/${parentSlug}" className="hover:underline text-white">${parentName}</Link>
+            <span className="mx-2"></span>
             <span>${name}</span>
           </nav>
 
           <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            ${name} Escorts 2026 \\u2014 ${profileCount}+ Verified Companions in ${area0} & ${area1}
+            ${name} Escorts 2026  ${profileCount}+ Verified Companions in ${area0} & ${area1}
           </h1>
           <p className="text-xl mb-6 max-w-3xl">
             Browse ${profileCount}+ verified profiles of premium escorts and independent companions
@@ -428,9 +428,10 @@ ${areasFormatted}
               <div className="relative overflow-hidden">
                 <LazyImage
                   src={service.image}
-                  alt={service.name}
+                  alt={service.description}
                   className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-500"
                 />
+
 
                 {/* Price Range Badge */}
                 <div className="absolute bottom-4 right-4">
@@ -442,11 +443,11 @@ ${areasFormatted}
 
               <div className="p-6">
                 <h3 className="text-xl font-bold text-neutral-900 mb-2 group-hover:text-pink-600 transition-colors">
-                  {service.name}
+                  {service.description}
                 </h3>
 
-                <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                  {service.description}
+                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
+                //   {service.description}
                 </p>
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
@@ -458,7 +459,7 @@ ${areasFormatted}
                   </div>
 
                   <div className="text-pink-600 font-semibold text-sm group-hover:translate-x-1 transition-transform">
-                    View Options \\u2192
+                    View Options
                   </div>
                 </div>
               </div>

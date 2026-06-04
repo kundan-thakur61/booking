@@ -12,7 +12,7 @@ const path = require('path');
 const ROOT = path.join(__dirname, '..');
 const DATA_DIR = path.join(ROOT, 'src', 'data');
 const SERVICE_CARD_DIR = path.join(ROOT, 'src', 'serviceCard');
-const TEMPLATE_PATH = path.join(__dirname, 'service-detail-template.jsx');
+const TEMPLATE_PATH = path.join(__dirname, 'ServiceDetail.jsx');
 
 // Read the template
 const template = fs.readFileSync(TEMPLATE_PATH, 'utf8');
@@ -68,11 +68,11 @@ for (const stateName of stateFolders) {
     const outputPath = path.join(serviceCardStatePath, outputFileName);
 
     // Skip if already exists
-    if (fs.existsSync(outputPath)) {
-      console.log(`  SKIP: ${serviceCardFolder}/${outputFileName} (already exists)`);
-      skipped++;
-      continue;
-    }
+    // if (fs.existsSync(outputPath)) {
+    //   console.log(`  SKIP: ${serviceCardFolder}/${outputFileName} (already exists)`);
+    //   skipped++;
+    //   continue;
+    // }
 
     // Generate the file content by replacing placeholders
     const content = template

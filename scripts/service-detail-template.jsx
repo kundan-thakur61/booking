@@ -181,11 +181,11 @@ const __CITY_NAME__ServiceDetail = () => {
                 </div>
 
                 <h1 className="text-2xl md:text-3xl font-bold text-neutral-900 mb-4">
-                  {service.name} in __CITY_DISPLAY__
+                  {service.description} in __CITY_DISPLAY__
                 </h1>
 
                 <p className="text-neutral-600 mb-6 leading-relaxed">
-                  {service.description}
+                  {service.aboutme}
                 </p>
 
                 {/* Features */}
