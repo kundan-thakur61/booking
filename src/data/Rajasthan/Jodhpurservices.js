@@ -2,7 +2,7 @@ export const services = [
     {
       id: "jodhpur-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Jodhpur.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/28/7a/5f/287a5f47652a0404657a7cb1df8fc807.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/ad/3c/01/ad3c01c49ad01519c00257ca75f2b061.0000000.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "jodhpur",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Jodhpur.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "jodhpur-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Jodhpur.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/40/97/69/409769d1de8352d500570a48d2bd91fa.jpg",
       images: [
         "https://i.pinimg.com/originals/47/84/a0/4784a05aeb0b2f40f5ad4cbad677319d.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "jodhpur",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Jodhpur.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "jodhpur-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Jodhpur.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/2c/2b/23/2c2b23cf2c138461d1d77d71e262f899.jpg",
       images: [
         "https://i.pinimg.com/originals/35/5d/8f/355d8f1df0b8a642e4af5823c368bd8b.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "jodhpur",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Jodhpur.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "jodhpur-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Jodhpur.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/6c/4e/d5/6c4ed5ae801b4bd836d1157103300352.jpg",
       images: [
         "https://i.pinimg.com/originals/e2/b7/e3/e2b7e3d5ccedc726b308d7bd0792ea05.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "jodhpur",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Jodhpur and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "jodhpur-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Jodhpur.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/videos/thumbnails/originals/ec/af/49/ecaf49d03a0bb7bf12d265d926db3ee9.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/0f/45/5e/0f455e45d515fd24d380440fa70215cf.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "jodhpur",
-      aboutme: "Professional, discreet and verified escort in Jodhpur. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "jodhpur-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Jodhpur.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/31/30/37/31303773ddc9f78381c13df88c37ccdd.jpg",
       images: [
         "https://i.pinimg.com/originals/b4/91/48/b4914861c16d161a0361a52491cb7f57.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "jodhpur",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Jodhpur.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

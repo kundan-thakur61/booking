@@ -2,7 +2,7 @@ export const services = [
     {
       id: "vijayawada-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Vijayawada.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/b0/8c/8e/b08c8ec111e3757fa356879863f46170.jpg",
       images: [
         "https://i.pinimg.com/originals/b1/f3/35/b1f335d4a80914b7a0739b9772692188.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "vijayawada",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Vijayawada.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "vijayawada-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Vijayawada.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/b2/a7/43/b2a743794a0f61120b17903c1b1d3e6e.jpg",
       images: [
         "https://i.pinimg.com/originals/b3/08/8e/b3088e5483107e02be3c5053483d1c22.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "vijayawada",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Vijayawada.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "vijayawada-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Vijayawada.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/b4/19/78/b419782b5b913035f1bb258812891024.jpg",
       images: [
         "https://i.pinimg.com/originals/b4/91/48/b4914861c16d161a0361a52491cb7f57.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "vijayawada",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Vijayawada.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "vijayawada-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Vijayawada.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/b5/6c/05/b56c050e0c9b93fd822eb151493f5a72.jpg",
       images: [
         "https://i.pinimg.com/originals/b5/a2/a7/b5a2a70bfa4132a6d3b0e56503485e67.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "vijayawada",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Vijayawada and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "vijayawada-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Vijayawada.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/b6/44/de/b644debd91fe8bb52e00d043806d7dbb.jpg",
       images: [
         "https://i.pinimg.com/originals/b6/a3/a4/b6a3a4005d8e21e3beebc3593f939da1.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "vijayawada",
-      aboutme: "Professional, discreet and verified escort in Vijayawada. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "vijayawada-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Vijayawada.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/b8/47/b5/b847b55505d6bd63e9ba53877bcfd574.jpg",
       images: [
         "https://i.pinimg.com/originals/b8/48/37/b84837cab1fef5e7780f3ea57fb8148c.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "vijayawada",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Vijayawada.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

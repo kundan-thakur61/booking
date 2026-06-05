@@ -349,7 +349,7 @@ import React, { useState, useMemo } from 'react';
                       </div>
                     </div>
                     <div className="p-5">
-                      <h3 className="text-lg font-bold text-neutral-900 mb-1 group-hover:text-pink-600 transition-colors">
+                      <h3 className="text-lg font-bold text-neutral-900 mb-1 group-hover:text-pink-600 transition-colors line-clamp-3">
                         {s.description}
                       </h3>
       

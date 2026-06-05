@@ -2,7 +2,7 @@ export const services = [
     {
       id: "dharamshala-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Dharamshala.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/e8/6a/66/e86a666c39ec66fc7b2c0dd26067ce6e.jpg",
       images: [
         "https://i.pinimg.com/originals/0d/72/41/0d7241b4fa36918be0a83a1f150ec11a.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "dharamshala",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Dharamshala.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "dharamshala-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Dharamshala.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/b2/a7/43/b2a743794a0f61120b17903c1b1d3e6e.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/e2/d0/22/e2d022318569447d5bcb7084e2198336.0000000.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "dharamshala",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Dharamshala.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "dharamshala-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Dharamshala.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/7f/11/0a/7f110ac8340e97dc6dcabdc68ae1ea31.jpg",
       images: [
         "https://i.pinimg.com/originals/c0/4f/01/c04f01ed65eb0c0f43265e6fcde160bf.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "dharamshala",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Dharamshala.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "dharamshala-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Dharamshala.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/d7/01/71/d701718f4589f97fa30c406f21cac83d.jpg",
       images: [
         "https://i.pinimg.com/originals/04/97/15/04971541a71824a4d0944579d2b5154b.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "dharamshala",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Dharamshala and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "dharamshala-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Dharamshala.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/15/51/1f/15511f660cc370fdc3bb6a27c8bd86b4.jpg",
       images: [
         "https://i.pinimg.com/originals/dc/80/06/dc80067e0ca24c8946a2624a3ab28258.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "dharamshala",
-      aboutme: "Professional, discreet and verified escort in Dharamshala. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "dharamshala-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Dharamshala.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/2d/75/20/2d75207fd99bbfed6bd90ae308ddb32a.jpg",
       images: [
         "https://i.pinimg.com/originals/d2/87/57/d28757426847fcbadf0d30983b5f94f5.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "dharamshala",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Dharamshala.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

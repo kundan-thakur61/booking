@@ -2,7 +2,7 @@ export const services = [
     {
       id: "tezu-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Tezu.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/a0/08/55/a008559e9fa616cf848d8e6105a19f78.jpg",
       images: [
         "https://i.pinimg.com/originals/de/cd/42/decd42c53fdd90184c2f045067c57b19.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "tezu",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Tezu.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "tezu-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Tezu.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/cc/cc/8c/cccc8cc6ee35369f9e5b299a3ba37b64.jpg",
       images: [
         "https://i.pinimg.com/originals/25/a4/93/25a493bdddceff9e4b6c1d6f24724aa2.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "tezu",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Tezu.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "tezu-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Tezu.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/d1/be/c5/d1bec53c615e747915bb9271a6010884.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/5c/8a/ff/5c8aff424f4036f18a808fc9761dca51.0000000.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "tezu",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Tezu.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "tezu-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Tezu.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/10/76/46/107646ba6ffdf7b1acc778abb4e2b821.jpg",
       images: [
         "https://i.pinimg.com/originals/9b/90/13/9b901353f652760ddf15b0c60b0c1da5.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "tezu",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Tezu and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "tezu-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Tezu.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/3f/61/11/3f61117503821613fc186c86e54fc2e4.jpg",
       images: [
         "https://i.pinimg.com/originals/90/4c/db/904cdba574fbcb4438497b7090721bfd.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "tezu",
-      aboutme: "Professional, discreet and verified escort in Tezu. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "tezu-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Tezu.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/a8/f6/d9/a8f6d9c55daa0d1c8288def4f1e89f2f.jpg",
       images: [
         "https://i.pinimg.com/originals/30/31/bb/3031bb0fbf9bfc1eca5b29628601805a.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "tezu",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Tezu.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

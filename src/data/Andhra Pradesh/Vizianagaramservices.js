@@ -2,7 +2,7 @@ export const services = [
     {
       id: "vizianagaram-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Vizianagaram.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/be/b0/53/beb0537ba87f7ea041d2c38d854d6811.jpg",
       images: [
         "https://i.pinimg.com/originals/be/f6/7f/bef67fb8f7b3bfdbcea68bd40e0f7af6.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "vizianagaram",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Vizianagaram.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "vizianagaram-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Vizianagaram.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/c0/0f/23/c00f239282f8c2377c349b673f742b8d.jpg",
       images: [
         "https://i.pinimg.com/originals/c0/14/6b/c0146b7cc9807a0dc8346d9a53e283fa.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "vizianagaram",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Vizianagaram.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "vizianagaram-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Vizianagaram.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/c0/b0/20/c0b0207f493044ccdec5b5f7b425e0fb.jpg",
       images: [
         "https://i.pinimg.com/originals/c1/1b/3e/c11b3ea30f7f9f62590788ccc0f8417c.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "vizianagaram",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Vizianagaram.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "vizianagaram-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Vizianagaram.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/c1/ef/0f/c1ef0fbcc3c30119b476df28d8b76c0c.jpg",
       images: [
         "https://i.pinimg.com/originals/c1/f1/64/c1f16488fd94a02bec3e9debab48b988.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "vizianagaram",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Vizianagaram and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "vizianagaram-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Vizianagaram.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/c2/4d/27/c24d274d11110946a28cef88401f40be.jpg",
       images: [
         "https://i.pinimg.com/originals/c2/8d/ac/c28dacc879401771552b0d9a1ea68601.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "vizianagaram",
-      aboutme: "Professional, discreet and verified escort in Vizianagaram. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "vizianagaram-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Vizianagaram.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/c3/23/ef/c323efad9cabb4826f161f12a027c526.jpg",
       images: [
         "https://i.pinimg.com/originals/c3/8f/ed/c38fed39296a9c35551ce28cc81f6d95.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "vizianagaram",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Vizianagaram.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

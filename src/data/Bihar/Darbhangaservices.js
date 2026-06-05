@@ -2,7 +2,7 @@ export const services = [
     {
       id: "darbhanga-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Darbhanga.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/84/61/dd/8461ddff1d09272961c57c177f712aa5.jpg",
       images: [
         "https://i.pinimg.com/originals/0d/72/41/0d7241b4fa36918be0a83a1f150ec11a.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "darbhanga",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Darbhanga.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "darbhanga-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Darbhanga.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/22/2a/b5/222ab5049a51d7c005119e6c2fd8ed20.jpg",
       images: [
         "https://i.pinimg.com/originals/6c/1b/b2/6c1bb2fcfaab7ea2da8e527d1d810a91.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "darbhanga",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Darbhanga.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "darbhanga-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Darbhanga.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/1e/30/6e/1e306e3016dfbc900d8382d9b825dbcf.jpg",
       images: [
         "https://i.pinimg.com/originals/20/9e/41/209e410982634e1f415f6856f3ca64bc.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "darbhanga",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Darbhanga.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "darbhanga-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Darbhanga.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/2c/95/50/2c9550b212680bd75d13ebe5aad22106.jpg",
       images: [
         "https://i.pinimg.com/originals/08/07/c3/0807c3e95c4079ed8a69448674918a88.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "darbhanga",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Darbhanga and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "darbhanga-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Darbhanga.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/f5/a6/c3/f5a6c346cc6592c7e5417cafbd01b7ed.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/4c/9f/de/4c9fde29c3b969d1638e3259128b7347.0000000.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "darbhanga",
-      aboutme: "Professional, discreet and verified escort in Darbhanga. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "darbhanga-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Darbhanga.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/87/d5/7d/87d57dc8c4ec5a66c81df5d0a85dfac6.jpg",
       images: [
         "https://i.pinimg.com/originals/09/3a/d2/093ad2845b8cea90ad52d1bed2551883.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "darbhanga",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Darbhanga.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

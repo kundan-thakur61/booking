@@ -2,7 +2,7 @@ export const services = [
     {
       id: "samastipur-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Samastipur.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/67/42/cb/6742cb36ab6cb34896014dd3a88bc9df.jpg",
       images: [
         "https://i.pinimg.com/originals/69/65/98/6965986abeab32cd883610dce6141f1a.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "samastipur",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Samastipur.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "samastipur-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Samastipur.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/57/c4/88/57c4880838ddf38706a1781ab8375e13.jpg",
       images: [
         "https://i.pinimg.com/originals/43/0b/f0/430bf0ec66cdd897b37cdf77a75d9180.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "samastipur",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Samastipur.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "samastipur-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Samastipur.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/ad/0d/39/ad0d398ca8e03dcd1bfe3ebf8ad0fc0d.jpg",
       images: [
         "https://i.pinimg.com/originals/5a/54/3b/5a543b02b38f3b0382bea293cdfd58e6.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "samastipur",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Samastipur.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "samastipur-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Samastipur.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/c7/5a/49/c75a4950a277574713609a439030bf9f.jpg",
       images: [
         "https://i.pinimg.com/originals/91/c0/8d/91c08dab0fe288a7f5030b79390b8405.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "samastipur",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Samastipur and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "samastipur-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Samastipur.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/d5/97/13/d597134d790e3ad1131331afb6112c34.jpg",
       images: [
         "https://i.pinimg.com/originals/c6/cf/43/c6cf43585cbc93a90fd4d3ebbc760069.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "samastipur",
-      aboutme: "Professional, discreet and verified escort in Samastipur. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "samastipur-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Samastipur.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/e5/7f/f7/e57ff7bb6090e7b7f76ab56d963e8c04.jpg",
       images: [
         "https://i.pinimg.com/originals/2f/be/6a/2fbe6aa325050d80eb4bb6a54ab1012f.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "samastipur",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Samastipur.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

@@ -2,7 +2,7 @@ export const services = [
     {
       id: "chirala-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Chirala.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/dc/1b/fd/dc1bfd6bb5fd17066627c6bdcd100bd8.jpg",
       images: [
         "https://i.pinimg.com/originals/dc/1f/83/dc1f8353fbf94c08a2bbcac940f4f273.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "chirala",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Chirala.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "chirala-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Chirala.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/dd/04/d9/dd04d9e0426bae76eb10c70a475b1117.jpg",
       images: [
         "https://i.pinimg.com/originals/dd/35/0e/dd350effa8ac7082a74a3e695c26c322.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "chirala",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Chirala.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "chirala-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Chirala.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/de/17/19/de1719980d66e916472119e3ffd753eb.jpg",
       images: [
         "https://i.pinimg.com/originals/de/cd/42/decd42c53fdd90184c2f045067c57b19.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "chirala",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Chirala.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "chirala-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Chirala.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/df/98/27/df98274c467976b18a3ac7e230516f01.jpg",
       images: [
         "https://i.pinimg.com/originals/df/bf/b7/dfbfb7db424e2ddc661d6eb71429541a.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "chirala",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Chirala and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "chirala-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Chirala.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/e0/03/da/e003daacb95d1a60eb7ff7380d88f72a.jpg",
       images: [
         "https://i.pinimg.com/originals/e0/9e/2f/e09e2fd1f12333b5ef9d1013362d8a6b.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "chirala",
-      aboutme: "Professional, discreet and verified escort in Chirala. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "chirala-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Chirala.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/e1/86/3b/e1863be8140652c403779a92c3eacd41.jpg",
       images: [
         "https://i.pinimg.com/originals/e1/91/e5/e191e515b09028b9ed9d75930666cbaf.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "chirala",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Chirala.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

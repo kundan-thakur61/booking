@@ -2,7 +2,7 @@ export const services = [
     {
       id: "eluru-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Eluru.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/eb/5b/ff/eb5bff75dee6cfd433943c14e0c0c495.jpg",
       images: [
         "https://i.pinimg.com/originals/eb/64/ee/eb64ee1d984c7914a79918e4e4aa0db6.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "eluru",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Eluru.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "eluru-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Eluru.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/eb/8d/74/eb8d740cf34a1f9e52051a8f4a595b1a.jpg",
       images: [
         "https://i.pinimg.com/originals/eb/cb/8a/ebcb8a746bb9c3b7470703673b798e91.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "eluru",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Eluru.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "eluru-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Eluru.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/ec/49/be/ec49be74269e45831d4822512877f2dc.jpg",
       images: [
         "https://i.pinimg.com/originals/ec/6c/a4/ec6ca456a6ef706ed0bd7191a16a30da.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "eluru",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Eluru.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "eluru-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Eluru.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/ed/86/fd/ed86fd6a384aa750524a25e7b7d81cc7.jpg",
       images: [
         "https://i.pinimg.com/originals/ed/88/20/ed882055695e5598d8858a2a01d17236.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "eluru",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Eluru and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "eluru-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Eluru.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/ed/c8/1a/edc81a475a57f728cad09b15eb609538.jpg",
       images: [
         "https://i.pinimg.com/originals/ed/f0/8d/edf08d7aee5f825c814c5a4f3ebcc1c0.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "eluru",
-      aboutme: "Professional, discreet and verified escort in Eluru. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "eluru-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Eluru.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/ef/de/6b/efde6b2582d15b62f41319265b5561d9.jpg",
       images: [
         "https://i.pinimg.com/originals/f0/23/0e/f0230eb587212b945d97db26ce797ad3.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "eluru",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Eluru.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

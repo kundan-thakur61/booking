@@ -2,7 +2,7 @@ export const services = [
     {
       id: "tirap-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Tirap.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/cb/63/f9/cb63f9090024e2af43471ec86da385da.jpg",
       images: [
         "https://i.pinimg.com/originals/bd/c2/28/bdc228eccdee7927ee23d06ae0e93c62.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "tirap",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Tirap.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "tirap-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Tirap.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/57/9d/54/579d549f33a60937f40a98ca40089041.jpg",
       images: [
         "https://i.pinimg.com/originals/36/08/c4/3608c4a3aa1f3535256d28b949e0902b.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "tirap",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Tirap.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "tirap-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Tirap.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/e3/42/34/e3423415d657687c9f79d05758202c86.jpg",
       images: [
         "https://i.pinimg.com/originals/25/b7/ab/25b7ab3e1d11d01664724dead959f01e.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "tirap",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Tirap.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "tirap-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Tirap.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/2b/9a/36/2b9a36ec71100c20f3efcf0b901ac2dd.jpg",
       images: [
         "https://i.pinimg.com/originals/9c/58/12/9c5812719665d8f2d2a2490f09efffb9.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "tirap",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Tirap and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "tirap-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Tirap.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/4a/b6/3d/4ab63da0b96e068a41e9cb0ec0d7af48.jpg",
       images: [
         "https://i.pinimg.com/originals/60/54/7e/60547eb69911ef9b192b19d583a44e7f.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "tirap",
-      aboutme: "Professional, discreet and verified escort in Tirap. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "tirap-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Tirap.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/a5/2c/ac/a52cac2518a8fee3dd334c135ec9bcbf.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/b8/48/37/b84837cab1fef5e7780f3ea57fb8148c.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "tirap",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Tirap.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

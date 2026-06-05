@@ -2,7 +2,7 @@ export const services = [
     {
       id: "nandyal-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Nandyal.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/74/c7/26/74c7260480b51849c24e4abb8a6e002a.jpg",
       images: [
         "https://i.pinimg.com/originals/75/36/55/753655244ab72337575b48ad9b7694b2.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "nandyal",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Nandyal.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "nandyal-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Nandyal.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/75/ab/8f/75ab8f46f68d2e82a6806b192287b99d.jpg",
       images: [
         "https://i.pinimg.com/originals/75/ca/3b/75ca3b3ff4851e23049bcbf96743f097.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "nandyal",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Nandyal.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "nandyal-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Nandyal.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/76/ad/43/76ad43ca06c38e92cadaaa6c9b13c8cd.jpg",
       images: [
         "https://i.pinimg.com/originals/77/06/2f/77062f3bd8279494bdf94a5d1eab2828.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "nandyal",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Nandyal.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "nandyal-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Nandyal.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/77/9b/78/779b783e4bfe201e016c3189b5a13900.jpg",
       images: [
         "https://i.pinimg.com/originals/77/aa/81/77aa81419d87c3023b21da558ec3b9d2.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "nandyal",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Nandyal and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "nandyal-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Nandyal.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/78/3c/47/783c47a0c06b82f31e9599ac907a6d93.jpg",
       images: [
         "https://i.pinimg.com/originals/78/3c/ba/783cba9489eb8fd3c518faedd52b4a70.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "nandyal",
-      aboutme: "Professional, discreet and verified escort in Nandyal. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "nandyal-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Nandyal.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/78/ed/c1/78edc1510a146c9773b8a9698c97686d.jpg",
       images: [
         "https://i.pinimg.com/originals/78/f2/ba/78f2bade652cc5ac60d7e5536eccbbe7.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "nandyal",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Nandyal.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

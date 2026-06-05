@@ -2,7 +2,7 @@ export const services = [
     {
       id: "ongole-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Ongole.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/86/27/3c/86273c0cd9be42866db1bd2671032af4.jpg",
       images: [
         "https://i.pinimg.com/originals/86/94/14/869414728d6aa75e630909d15f3288bf.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "ongole",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Ongole.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "ongole-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Ongole.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/87/29/43/872943ed0ec7c9c1f209d8c0b26ad61e.jpg",
       images: [
         "https://i.pinimg.com/originals/87/d5/7d/87d57dc8c4ec5a66c81df5d0a85dfac6.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "ongole",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Ongole.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "ongole-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Ongole.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/88/44/5d/88445dda4a71419aa1a8db9d4bad7aae.jpg",
       images: [
         "https://i.pinimg.com/originals/88/87/14/8887147a466a3788fea6efd3b59a6249.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "ongole",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Ongole.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "ongole-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Ongole.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/89/ad/b3/89adb33e5047b5b868b2a7a9f785f425.jpg",
       images: [
         "https://i.pinimg.com/originals/89/d6/d4/89d6d4e5cd343c253fba3e1d82f9e846.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "ongole",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Ongole and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "ongole-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Ongole.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/8a/01/15/8a01158cca5cec3e45ecdc86bb8c5ab7.jpg",
       images: [
         "https://i.pinimg.com/originals/8a/27/21/8a272173aef27a1e72c171a8c9dc348b.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "ongole",
-      aboutme: "Professional, discreet and verified escort in Ongole. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "ongole-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Ongole.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/8b/43/f1/8b43f10a717c3dc15b6b2a03b00b9f39.jpg",
       images: [
         "https://i.pinimg.com/originals/8b/5e/34/8b5e347eedad54a5eeeb634cfa2deec8.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "ongole",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Ongole.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

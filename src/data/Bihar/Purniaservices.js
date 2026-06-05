@@ -2,7 +2,7 @@ export const services = [
     {
       id: "purnia-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Purnia.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/e7/e4/82/e7e4822c5d59fbd6b8984f137ca7e9ac.jpg",
       images: [
         "https://i.pinimg.com/originals/87/29/43/872943ed0ec7c9c1f209d8c0b26ad61e.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "purnia",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Purnia.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "purnia-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Purnia.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/22/3a/15/223a1520822c1bed77f3ed8c6bb5aa56.jpg",
       images: [
         "https://i.pinimg.com/originals/7a/47/4e/7a474e92a1d6928557ee42d9fc368fe6.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "purnia",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Purnia.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "purnia-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Purnia.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/ec/6c/a4/ec6ca456a6ef706ed0bd7191a16a30da.jpg",
       images: [
         "https://i.pinimg.com/originals/ad/4a/4d/ad4a4da4ed97aa0ecb364cc95d0dff25.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "purnia",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Purnia.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "purnia-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Purnia.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/e2/39/63/e2396346bca9dc07fffc28417bfea04c.jpg",
       images: [
         "https://i.pinimg.com/originals/f4/ab/38/f4ab386235cc645fd41531196c2ac1ba.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "purnia",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Purnia and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "purnia-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Purnia.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/b8/48/37/b84837cab1fef5e7780f3ea57fb8148c.jpg",
       images: [
         "https://i.pinimg.com/originals/25/9a/0b/259a0b37f0de6ecbc447e528af140bd7.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "purnia",
-      aboutme: "Professional, discreet and verified escort in Purnia. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "purnia-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Purnia.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/8a/fb/ce/8afbce5c814c8db08a533fa83e55a292.jpg",
       images: [
         "https://i.pinimg.com/originals/20/9e/41/209e410982634e1f415f6856f3ca64bc.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "purnia",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Purnia.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

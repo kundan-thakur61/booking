@@ -2,7 +2,7 @@ export const services = [
     {
       id: "saket-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Saket.",
+      description: "CALL GIRLS IN DELHI:- 99998 call 58187❤️𝗛𝗔𝗡𝗗 𝗧𝗢 𝗛𝗔𝗡𝗗 𝗖𝗔𝗦𝗛 𝗣𝗔𝗬𝗠𝗘𝗡𝗧 𝗡𝗢 𝗔𝗗𝗩𝗔𝗡𝗖𝗘 𝗡𝗢 𝗘𝗫𝗧𝗥𝗔 𝗖𝗛𝗔𝗥𝗚𝗘❤️ DELHI 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗣𝗥𝗢𝗩𝗜𝗗𝗘𝗥 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝟮𝟰/𝟳 ALL OVER DELHI NCR SHREY 𝐁𝐨𝐨𝐤 𝐧𝐨𝐰 V★I★P Genuine High Profile Model's Available - ALL DELHI NCR Hotel &…",
       image: "https://i.pinimg.com/originals/a2/7a/03/a27a03cee67cfc4d871eb5cc290273c6.jpg",
       images: [
         "https://i.pinimg.com/originals/49/3a/13/493a13f4ec39006a70659fb8aa45f2ff.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "saket",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Saket.",
+      aboutme: "💥BOOK ₹ 2K SHORT ₹ 7k NIGHT 99998 call 58187 PAYMENT GIRL HAND YOUR FLAT HOTEL HOME ✅ IN CALL FREE ROOM 🆗 OUT CALL YOUR PLACE REAL WHATSAPP",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "saket-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Saket.",
+      description: "I am beautiful girl I am available for video call, sexting or phone sex call me on whatsApp",
       image: "https://i.pinimg.com/originals/f5/0c/81/f50c81ed0529735f7ffca5eb14b2a217.jpg",
       images: [
         "https://i.pinimg.com/originals/4a/a7/31/4aa731855b63f31269e5ec5cceb1e3d9.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "saket",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Saket.",
+      aboutme: "Low budget video chat sex service available video call sexting, phone sex in India",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "saket-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Saket.",
+      description: "HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential…",
       image: "https://i.pinimg.com/originals/36/03/03/360303fe9eac6adfa9bf54d6d1a72c27.jpg",
       images: [
         "https://i.pinimg.com/originals/c0/0f/23/c00f239282f8c2377c349b673f742b8d.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "saket",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Saket.",
+      aboutme: "Delhi Puja Sharma 24/7 top best low price call girls sex service available 100% safe and secure",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "saket-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Saket.",
+      description: "𝗖𝗔𝗟𝗟 𝗚𝗜𝗥𝗟𝗦 𝗜𝗡 𝗗𝗘𝗟𝗛𝗜 𝗥𝗔𝗦𝗛𝗠𝗜 ✔️ ✔️ 𝗗𝗲𝗹𝗵𝗶 𝗖𝗮𝗹𝗹 𝗚𝗶𝗿𝗹𝘀 𝗘𝘀𝗰𝗼𝗿𝘁𝘀 𝗣𝗿𝗼𝘃𝗶𝗱𝗲𝗿 𝟮𝟰𝘅𝟳 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗗𝗲𝗹𝗵𝗶 𝗖𝗮𝗹𝗹 𝗚𝗶𝗿𝗹𝘀- 𝙑★𝙄★𝙋 𝙂𝙚𝙣𝙪𝙞𝙣𝙚 𝙃𝙞𝙜𝙝 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙈𝙤𝙙𝙚𝙡'𝙨 𝘼𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 - 𝘿𝙚𝙡𝙝𝙞 𝙉𝙘𝙧, 𝙉𝙤𝙞𝙙𝙖 𝙂𝙪𝙧𝙜𝙖𝙤𝙣 𝙃𝙤𝙩𝙚𝙡 & 𝙃𝙤𝙢𝙚 𝙎𝙚𝙧𝙫𝙞𝙘𝙚 ( 𝘿𝙖𝙮 / 𝙉𝙞𝙜𝙝𝙩 ) 𝘾𝙖𝙡𝙡 𝙂𝙞𝙧𝙡𝙨 𝙍𝙚𝙖𝙙𝙮 𝙛𝙤𝙧 𝘼𝙡𝙡 𝙔𝙤𝙪𝙧 𝙒𝙞𝙨𝙝𝙚𝙨 𝙖𝙣𝙙…",
       image: "https://i.pinimg.com/originals/29/e6/c4/29e6c48778cc58a424b29a64705f09ec.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/e2/d0/22/e2d022318569447d5bcb7084e2198336.0000000.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "saket",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Saket and nearby areas.",
+      aboutme: "🔥 RS 5OOO NIGHT -OR- DAY ❣️ NO ADVANCE DIRECT PAY IN YOUR ROOM SATISFACTION GUARANTEE 24x7 Independent Delhi Escorts - Call Girl Services",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "saket-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Saket.",
+      description: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
       image: "https://i.pinimg.com/originals/40/97/69/409769d1de8352d500570a48d2bd91fa.jpg",
       images: [
         "https://i.pinimg.com/originals/67/c4/2d/67c42d73adb666c3aadc743b56614fdd.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "saket",
-      aboutme: "Professional, discreet and verified escort in Saket. Your privacy and safety is my priority.",
+      aboutme: "Delhi 24/7 top best low price call girls sex service available 100% safe and secure",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "saket-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Saket.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/c9/0a/ed/c90aede07dba4450da300213626a65f3.jpg",
       images: [
         "https://i.pinimg.com/originals/e2/16/eb/e216eb40e9ba6ac6237037f0df2ab32b.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "saket",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Saket.",
+      aboutme: "2000 unlimited short door setp high profile genuine call girl service available",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

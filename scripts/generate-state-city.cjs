@@ -424,6 +424,9 @@ ${areasFormatted}
             <Link
               to={\`/${parentSlug}/${slug}/service/\${service.id}\`}
               className="block h-full"
+               onClick={() => {
+              window.scrollTo(0, 0);
+              }}
             >
               <div className="relative overflow-hidden">
                 <LazyImage
@@ -442,7 +445,7 @@ ${areasFormatted}
               </div>
 
               <div className="p-6">
-                <h3 className="text-xl font-bold text-neutral-900 mb-2 group-hover:text-pink-600 transition-colors">
+                <h3 className="text-xl font-bold text-neutral-900 mb-2 group-hover:text-pink-600 transition-colors line-clamp-3">
                   {service.description}
                 </h3>
 
@@ -680,66 +683,71 @@ function formatAreasArray(areas) {
 
 // ─── Main Execution ──────────────────────────────────────────
 function main() {
-  const stateDirs = fs.readdirSync(STATE_DIR, { withFileTypes: true })
+  const stateDirs = fs.readdirSync(
+    STATE_DIR,
+    { withFileTypes: true }
+  )
     .filter(d => d.isDirectory())
     .map(d => d.name);
 
   let totalUpdated = 0;
-  let totalServices = 0;
 
   for (const stateDir of stateDirs) {
-    const dirPath = path.join(STATE_DIR, stateDir);
-    const files = fs.readdirSync(dirPath).filter(f => f.endsWith('.jsx'));
+    const dirPath = path.join(
+      STATE_DIR,
+      stateDir
+    );
 
-    // Collect sibling info for related areas
+    const files = fs.readdirSync(dirPath)
+      .filter(f => f.endsWith('.jsx'));
+
     const siblings = files.map(f => ({
       name: f.replace('.jsx', ''),
       file: f
     }));
 
-    // Create data directory for this state
-    const dataDir = path.join(DATA_DIR, stateDir);
-    if (!fs.existsSync(dataDir)) {
-      fs.mkdirSync(dataDir, { recursive: true });
-    }
-
     for (const file of files) {
-      // Skip Andheri.jsx - it's already the template
-      if (stateDir === 'Mumbai' && file === 'Andheri.jsx') {
-        console.log(`  SKIP: ${stateDir}/${file} (template)`);
-        continue;
-      }
+      const filePath = path.join(
+        dirPath,
+        file
+      );
 
-      const filePath = path.join(dirPath, file);
-      const content = fs.readFileSync(filePath, 'utf-8');
+      const content = fs.readFileSync(
+        filePath,
+        'utf-8'
+      );
 
-      // Extract existing data
-      const data = extractData(content, file, stateDir);
+      const data = extractData(
+        content,
+        file,
+        stateDir
+      );
 
-      // Generate and write services file
-      const slug = toSlug(data.name);
-      const servicesContent = generateServicesFile(data.name, slug);
-      const servicesFileName = `${data.componentName}services.js`;
-      const servicesPath = path.join(dataDir, servicesFileName);
-      
-      // Don't overwrite existing Andheri services
-      if (!(stateDir === 'Mumbai' && servicesFileName === 'Andheriservices.js')) {
-        fs.writeFileSync(servicesPath, servicesContent, 'utf-8');
-        totalServices++;
-      }
+      const jsxContent = generateJSX(
+        data,
+        stateDir,
+        siblings
+      );
 
-      // Generate and write new JSX file
-      const jsxContent = generateJSX(data, stateDir, siblings);
-      fs.writeFileSync(filePath, jsxContent, 'utf-8');
+      fs.writeFileSync(
+        filePath,
+        jsxContent,
+        'utf-8'
+      );
+
       totalUpdated++;
 
-      console.log(`  OK: ${stateDir}/${file} -> ${servicesFileName}`);
+      console.log(
+        `OK: ${stateDir}/${file}`
+      );
     }
   }
 
   console.log(`\n=== DONE ===`);
-  console.log(`Updated ${totalUpdated} JSX files`);
-  console.log(`Created ${totalServices} services files`);
+  console.log(
+    `Updated ${totalUpdated} JSX files`
+  );
 }
 
 main();
+

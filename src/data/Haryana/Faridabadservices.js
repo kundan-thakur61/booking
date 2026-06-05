@@ -2,7 +2,7 @@ export const services = [
     {
       id: "faridabad-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Faridabad.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/36/83/3e/36833e6feeb76df9d31630dd9273931e.jpg",
       images: [
         "https://i.pinimg.com/originals/06/d9/8b/06d98b2a8aa7890724208bc9066c6ce0.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "faridabad",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Faridabad.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "faridabad-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Faridabad.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/a9/15/bf/a915bfe3fefa6bbe00661434e0f604cb.jpg",
       images: [
         "https://i.pinimg.com/originals/ae/d6/56/aed656f9ad3a09044c1e166b113a3995.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "faridabad",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Faridabad.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "faridabad-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Faridabad.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/dc/14/46/dc1446dda174e0b4169bc91d7cc2014e.jpg",
       images: [
         "https://i.pinimg.com/originals/10/69/d0/1069d04a6d579e0e95ff9953112e8346.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "faridabad",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Faridabad.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "faridabad-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Faridabad.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/2c/2b/23/2c2b23cf2c138461d1d77d71e262f899.jpg",
       images: [
         "https://i.pinimg.com/originals/a1/04/85/a104855cf184fd83410158c010253518.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "faridabad",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Faridabad and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "faridabad-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Faridabad.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/f2/4d/64/f24d6478e7fe47174e4f1ba61f59278b.jpg",
       images: [
         "https://i.pinimg.com/originals/e1/86/3b/e1863be8140652c403779a92c3eacd41.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "faridabad",
-      aboutme: "Professional, discreet and verified escort in Faridabad. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "faridabad-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Faridabad.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/47/e8/d8/47e8d82ebf15e20e9c144af0ab605f69.jpg",
       images: [
         "https://i.pinimg.com/originals/a2/c6/89/a2c689d8e8ebbf73da9d9cbc161ae6c5.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "faridabad",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Faridabad.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

@@ -2,7 +2,7 @@ export const services = [
     {
       id: "juhu-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Juhu.",
+      description: "NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE WITH SHOWER BATH MASSAGE • FULL NUDE MASSAGE WITH SHOWER BATH…",
       image: "https://i.pinimg.com/originals/f6/23/d1/f623d1f018f7a44f66a775e8f5cd0e2e.jpg",
       images: [
         "https://i.pinimg.com/originals/de/cd/42/decd42c53fdd90184c2f045067c57b19.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "juhu",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Juhu.",
+      aboutme: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "juhu-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Juhu.",
+      description: "LOCATION LOKHANDWALA MARKET ANDHERI WEST CALL ME MR SAPPY NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE 45MIN…",
       image: "https://i.pinimg.com/originals/98/48/f4/9848f40b17765c09880e5e6a9a28fe28.jpg",
       images: [
         "https://i.pinimg.com/originals/7d/35/18/7d3518637a7df064e94c97e8b0b44d7f.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "juhu",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Juhu.",
+      aboutme: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "juhu-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Juhu.",
+      description: "LOVELY HOTTY 👅💏 HI MODELS COLLEGE GIRLS👅💋 HI PROFILE VERY NAUGHTY💦📞👙 💥ANAL SEX💥 BDSM💥 POSE💥LIP KISS💥 DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANCE💥 BOOBS RUBBING💥 LICKING💥HAND JOB 💏GIRLFRIEND EXPERIENCE💏 EROTIC MASSAGE💥 💥 SEX IN DIFFERENT…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/06/0b/06/060b067f9fb6aac479b6834df11ceb2b.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/60/54/7e/60547eb69911ef9b192b19d583a44e7f.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "juhu",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Juhu.",
+      aboutme: "Mumbai LOW RATE (VIDHI CALL GIRLS) ESCORT FULL HARD FUCK WITH NAUGHTY IF YOU WANT TO FUCK MY PINK PUSSY WITH BIG BOOBS A",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "juhu-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Juhu.",
+      description: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high…",
       image: "https://i.pinimg.com/originals/d5/a3/10/d5a310c08c5b9997b8ba37d9598a6b65.jpg",
       images: [
         "https://i.pinimg.com/originals/ed/86/fd/ed86fd6a384aa750524a25e7b7d81cc7.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "juhu",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Juhu and nearby areas.",
+      aboutme: "NO ADVANCE PAYMENT ANAL, 69 POSITION, LIP TO LIP KISS, B2B MASSAGE, WITH OUT CONDOM BLOJOB, MOUTH DISCHARGE, HAPPY ENDING",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "juhu-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Juhu.",
+      description: "Call me:- neha Hotel and home service available 100% genuine service full satisfactionLocation:- Andheri, Sakinaka, Mora, Andheri airport, Chakala, Powai, Dadar, Bandra, Kurla, Chembur, Malad, Santacruz,Vile Parle, Mira Road, Goregaon, Kandivali,…",
       image: "https://i.pinimg.com/originals/c5/39/1d/c5391d4adcc307646f2ce62d140e2ad2.jpg",
       images: [
         "https://i.pinimg.com/originals/a6/35/98/a63598099902146c0e732c1d7872308d.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "juhu",
-      aboutme: "Professional, discreet and verified escort in Juhu. Your privacy and safety is my priority.",
+      aboutme: "Mumbai high profile escorts call girls body to body Massages Erotic Massage nuru Massage happy Ending home hotel service Available",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "juhu-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Juhu.",
+      description: "Note : Satisfaction Guaranteed",
       image: "https://i.pinimg.com/originals/d7/01/71/d701718f4589f97fa30c406f21cac83d.jpg",
       images: [
         "https://i.pinimg.com/originals/a8/be/27/a8be27315befb5453dcbbb0be1c331db.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "juhu",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Juhu.",
+      aboutme: "BODY MASSAGE N PUSSY LICKER ONLY FOR LADIES WOMENS",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

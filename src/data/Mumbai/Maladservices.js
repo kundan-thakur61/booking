@@ -2,7 +2,7 @@ export const services = [
     {
       id: "malad-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Malad.",
+      description: "NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE WITH SHOWER BATH MASSAGE • FULL NUDE MASSAGE WITH SHOWER BATH…",
       image: "https://i.pinimg.com/originals/a0/62/7c/a0627c2e3c3bcd2f1a668034d383d4f6.jpg",
       images: [
         "https://i.pinimg.com/originals/39/97/d3/3997d33500423f9b6a935243d3a467b8.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "malad",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Malad.",
+      aboutme: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "malad-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Malad.",
+      description: "LOCATION LOKHANDWALA MARKET ANDHERI WEST CALL ME MR SAPPY NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE 45MIN…",
       image: "https://i.pinimg.com/originals/d4/90/55/d49055e9a65e6b2d2c76c3a9a942ea3f.jpg",
       images: [
         "https://i.pinimg.com/originals/08/07/c3/0807c3e95c4079ed8a69448674918a88.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "malad",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Malad.",
+      aboutme: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "malad-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Malad.",
+      description: "LOVELY HOTTY 👅💏 HI MODELS COLLEGE GIRLS👅💋 HI PROFILE VERY NAUGHTY💦📞👙 💥ANAL SEX💥 BDSM💥 POSE💥LIP KISS💥 DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANCE💥 BOOBS RUBBING💥 LICKING💥HAND JOB 💏GIRLFRIEND EXPERIENCE💏 EROTIC MASSAGE💥 💥 SEX IN DIFFERENT…",
       image: "https://i.pinimg.com/originals/a6/10/cc/a610cc1c640f3e6ebfd903be527c5c27.jpg",
       images: [
         "https://i.pinimg.com/originals/3f/14/62/3f14623e41b41681b8b5441bf82bac09.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "malad",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Malad.",
+      aboutme: "Mumbai LOW RATE (VIDHI CALL GIRLS) ESCORT FULL HARD FUCK WITH NAUGHTY IF YOU WANT TO FUCK MY PINK PUSSY WITH BIG BOOBS A",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "malad-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Malad.",
+      description: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high…",
       image: "https://i.pinimg.com/originals/25/5c/c4/255cc4654b29d4d75f5893af4336a556.jpg",
       images: [
         "https://i.pinimg.com/originals/b0/65/43/b06543cb99051bf0a2049c53ac71cf23.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "malad",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Malad and nearby areas.",
+      aboutme: "NO ADVANCE PAYMENT ANAL, 69 POSITION, LIP TO LIP KISS, B2B MASSAGE, WITH OUT CONDOM BLOJOB, MOUTH DISCHARGE, HAPPY ENDING",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "malad-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Malad.",
+      description: "Call me:- neha Hotel and home service available 100% genuine service full satisfactionLocation:- Andheri, Sakinaka, Mora, Andheri airport, Chakala, Powai, Dadar, Bandra, Kurla, Chembur, Malad, Santacruz,Vile Parle, Mira Road, Goregaon, Kandivali,…",
       image: "https://i.pinimg.com/originals/1b/47/8e/1b478e30231fd7bde3d5a763858dd261.jpg",
       images: [
         "https://i.pinimg.com/originals/17/62/9a/17629aa53bc3b6fdd3fe9dc9b5c97a5d.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "malad",
-      aboutme: "Professional, discreet and verified escort in Malad. Your privacy and safety is my priority.",
+      aboutme: "Mumbai high profile escorts call girls body to body Massages Erotic Massage nuru Massage happy Ending home hotel service Available",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "malad-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Malad.",
+      description: "Note : Satisfaction Guaranteed",
       image: "https://i.pinimg.com/originals/a1/04/85/a104855cf184fd83410158c010253518.jpg",
       images: [
         "https://i.pinimg.com/originals/60/28/76/602876f5f039e813d3fc975e75620cb5.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "malad",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Malad.",
+      aboutme: "BODY MASSAGE N PUSSY LICKER ONLY FOR LADIES WOMENS",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

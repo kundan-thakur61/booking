@@ -2,7 +2,7 @@ export const services = [
     {
       id: "karaikal-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Karaikal.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/89/d6/d4/89d6d4e5cd343c253fba3e1d82f9e846.jpg",
       images: [
         "https://i.pinimg.com/originals/c0/b0/20/c0b0207f493044ccdec5b5f7b425e0fb.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "karaikal",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Karaikal.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "karaikal-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Karaikal.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/61/fd/07/61fd07157b572c1995df7fca3514342a.jpg",
       images: [
         "https://i.pinimg.com/originals/c1/6d/0e/c16d0e4eab3cfdc6aa1c1b2c81f8e3b7.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "karaikal",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Karaikal.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "karaikal-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Karaikal.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/26/b2/c7/26b2c731cd10f772fdb9ab2b658a3d0e.jpg",
       images: [
         "https://i.pinimg.com/originals/7b/99/2c/7b992cff73e4914caa2c422632957192.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "karaikal",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Karaikal.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "karaikal-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Karaikal.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/a8/9c/b8/a89cb8247aadc7611292f90c8730c638.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/f1/5d/3c/f15d3c3a03f3d673aadc5a072c334a5c.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "karaikal",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Karaikal and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "karaikal-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Karaikal.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/99/cc/ac/99ccacfc8275c715c67240e0fc6db3f8.jpg",
       images: [
         "https://i.pinimg.com/originals/c4/83/39/c48339cfa2dc9eb400246a28b46f34fe.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "karaikal",
-      aboutme: "Professional, discreet and verified escort in Karaikal. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "karaikal-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Karaikal.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/db/48/0c/db480c7c43de750297bdc2d2ea286616.jpg",
       images: [
         "https://i.pinimg.com/originals/7f/52/94/7f52948abe19160da814d97de24f8651.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "karaikal",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Karaikal.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

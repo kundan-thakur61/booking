@@ -2,7 +2,7 @@ export const services = [
     {
       id: "coimbatore-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Coimbatore.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/ea/67/fc/ea67fc7a368d0704c66ce1bb5dc4b323.jpg",
       images: [
         "https://i.pinimg.com/originals/1b/d7/5b/1bd75bf6da7d269eee2db04bd334f44b.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "coimbatore",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Coimbatore.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "coimbatore-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Coimbatore.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/4c/73/81/4c7381ddb1b44d3ebdcb313cee36f310.jpg",
       images: [
         "https://i.pinimg.com/originals/ed/f0/8d/edf08d7aee5f825c814c5a4f3ebcc1c0.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "coimbatore",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Coimbatore.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "coimbatore-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Coimbatore.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/f9/e3/cd/f9e3cd2175f691ed060f470c0b2d1c3c.jpg",
       images: [
         "https://i.pinimg.com/originals/25/5c/c4/255cc4654b29d4d75f5893af4336a556.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "coimbatore",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Coimbatore.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "coimbatore-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Coimbatore.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/ec/e4/da/ece4da9717df746471aac1fcf050a0a8.jpg",
       images: [
         "https://i.pinimg.com/originals/e6/ab/95/e6ab95727c651f26f72f72f171f475cf.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "coimbatore",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Coimbatore and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "coimbatore-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Coimbatore.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/ba/33/63/ba3363a19ffc9b1dd0ea3d230a879747.jpg",
       images: [
         "https://i.pinimg.com/originals/60/fd/d7/60fdd7b6da612bd41a363b0f7e35d12e.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "coimbatore",
-      aboutme: "Professional, discreet and verified escort in Coimbatore. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "coimbatore-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Coimbatore.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/2d/9d/c7/2d9dc7af94fde3e5dd6ec225a34658cc.jpg",
       images: [
         "https://i.pinimg.com/originals/a3/7f/4b/a37f4b63af8960fcd33b117de94cd816.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "coimbatore",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Coimbatore.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

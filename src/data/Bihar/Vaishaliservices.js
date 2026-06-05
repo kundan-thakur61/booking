@@ -2,7 +2,7 @@ export const services = [
     {
       id: "vaishali-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Vaishali.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/14/e1/41/14e141cf381d9a7eb5c4b843bff89503.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/4a/a2/f1/4aa2f190937b302e90f961dd7c43563b.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "vaishali",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Vaishali.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "vaishali-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Vaishali.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/56/ca/ea/56caea817253c8e93140ce9ec4bd6a0c.jpg",
       images: [
         "https://i.pinimg.com/originals/ba/d0/b1/bad0b1e6e7fcd6dec402cb7c1ee99076.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "vaishali",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Vaishali.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "vaishali-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Vaishali.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/88/44/5d/88445dda4a71419aa1a8db9d4bad7aae.jpg",
       images: [
         "https://i.pinimg.com/originals/48/62/7c/48627c66378606146dced4ef1894e658.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "vaishali",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Vaishali.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "vaishali-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Vaishali.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/74/75/07/74750740b2e36d834498c9c8be32bbf3.jpg",
       images: [
         "https://i.pinimg.com/originals/a2/31/eb/a231eb90848f3be72035dc64fa85e2ca.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "vaishali",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Vaishali and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "vaishali-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Vaishali.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/videos/thumbnails/originals/14/7c/70/147c70c2c04c19a8f861bd7f360293f1.0000000.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/9d/5f/42/9d5f4255c08a6aa92e5563f8b81b2bfe.0000000.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "vaishali",
-      aboutme: "Professional, discreet and verified escort in Vaishali. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "vaishali-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Vaishali.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/79/25/1e/79251ee3100bc44c14439cd678511f0a.jpg",
       images: [
         "https://i.pinimg.com/originals/03/8c/12/038c128893ddbda8de5c94242717755a.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "vaishali",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Vaishali.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

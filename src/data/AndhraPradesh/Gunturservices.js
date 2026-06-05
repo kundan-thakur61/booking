@@ -2,7 +2,7 @@ export const services = [
     {
       id: "guntur-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Guntur.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/f4/af/49/f4af497dfe8b5792fa397a50e54508e9.jpg",
       images: [
         "https://i.pinimg.com/originals/f4/b2/a8/f4b2a875cb3a1d412a5df71065e104e3.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "guntur",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Guntur.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "guntur-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Guntur.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/f5/a6/c3/f5a6c346cc6592c7e5417cafbd01b7ed.jpg",
       images: [
         "https://i.pinimg.com/originals/f5/c0/c8/f5c0c875ea118ea6e5d05bbe0c34bca1.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "guntur",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Guntur.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "guntur-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Guntur.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/f6/90/cd/f690cdc2e1b14898b4b1b5ca2cb14200.jpg",
       images: [
         "https://i.pinimg.com/originals/f6/fa/e5/f6fae5e65f9a2f176d5095161b99df92.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "guntur",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Guntur.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "guntur-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Guntur.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/f7/27/fc/f727fc837f7d3048cc431caa3b5300c7.jpg",
       images: [
         "https://i.pinimg.com/originals/f7/46/07/f746072480a3482e400172f2009513ac.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "guntur",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Guntur and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "guntur-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Guntur.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/f8/a6/27/f8a62710c79f732ef2164c40ba3e348c.jpg",
       images: [
         "https://i.pinimg.com/originals/f9/a6/10/f9a610ef99ad052b7757fe0cd69d0ff4.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "guntur",
-      aboutme: "Professional, discreet and verified escort in Guntur. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "guntur-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Guntur.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/fa/c0/4e/fac04e9ef3b006c08b2ed0a07b689909.jpg",
       images: [
         "https://i.pinimg.com/originals/fa/c4/0b/fac40ba73ab4521fe7f93c3bae271f19.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "guntur",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Guntur.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

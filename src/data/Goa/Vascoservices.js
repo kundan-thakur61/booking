@@ -2,7 +2,7 @@ export const services = [
     {
       id: "vasco-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Vasco.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/3c/f1/7c/3cf17cd4e7c785477656c7917e6379b4.jpg",
       images: [
         "https://i.pinimg.com/originals/99/80/11/998011a2b59ec46e2311e1a61959e446.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "vasco",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Vasco.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "vasco-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Vasco.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/5c/f7/f7/5cf7f7debabece196e4cd4e035af5fcb.jpg",
       images: [
         "https://i.pinimg.com/originals/ac/bb/b2/acbbb269de325574d5381d4cb1aa0d0d.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "vasco",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Vasco.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "vasco-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Vasco.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/fe/86/95/fe86959ff7ab05773a65d4cef8ac1d52.jpg",
       images: [
         "https://i.pinimg.com/originals/93/e0/fd/93e0fd38430175fe40c5a29769182102.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "vasco",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Vasco.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "vasco-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Vasco.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/15/99/4b/15994b2e9377d1b9650ef81213965da0.jpg",
       images: [
         "https://i.pinimg.com/originals/12/6a/67/126a67b2afd0cb5149151d452bce0f75.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "vasco",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Vasco and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "vasco-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Vasco.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/be/63/b9/be63b9bdc8c666cc0d7dfcc7d8975363.jpg",
       images: [
         "https://i.pinimg.com/originals/ba/eb/f2/baebf29623d22fe4909fb644fc08d1d6.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "vasco",
-      aboutme: "Professional, discreet and verified escort in Vasco. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "vasco-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Vasco.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/0e/24/c2/0e24c2683496a50ac0ced20c850313d7.jpg",
       images: [
         "https://i.pinimg.com/originals/3b/49/4e/3b494eb401a0667d0f8831a72272081a.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "vasco",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Vasco.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

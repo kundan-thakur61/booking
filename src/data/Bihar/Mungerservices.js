@@ -2,7 +2,7 @@ export const services = [
     {
       id: "munger-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Munger.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/cf/f7/40/cff740707ba70434bb0d896f7ec7ee02.jpg",
       images: [
         "https://i.pinimg.com/originals/bb/a7/56/bba7563c226ad7fd26579e82aa34f58c.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "munger",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Munger.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "munger-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Munger.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/93/4d/e9/934de90d559707407c4490f9073863b0.jpg",
       images: [
         "https://i.pinimg.com/originals/c1/6d/0e/c16d0e4eab3cfdc6aa1c1b2c81f8e3b7.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "munger",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Munger.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "munger-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Munger.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/8d/8e/5a/8d8e5a0ad6786869fbf8e8770ec1762b.jpg",
       images: [
         "https://i.pinimg.com/originals/1d/79/e3/1d79e3a767add57df297a03cc7586e28.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "munger",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Munger.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "munger-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Munger.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/b0/65/43/b06543cb99051bf0a2049c53ac71cf23.jpg",
       images: [
         "https://i.pinimg.com/originals/18/57/4e/18574ef97c57365d3e4904ec39235302.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "munger",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Munger and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "munger-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Munger.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/92/f2/d4/92f2d4aba72c9331d5ab000680b7e4ba.jpg",
       images: [
         "https://i.pinimg.com/originals/0d/72/41/0d7241b4fa36918be0a83a1f150ec11a.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "munger",
-      aboutme: "Professional, discreet and verified escort in Munger. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "munger-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Munger.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/0e/8a/08/0e8a08b2b2cecc9a79f9d2489e2e6a76.jpg",
       images: [
         "https://i.pinimg.com/originals/93/68/a9/9368a91d18b0b374205ab207746d69b2.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "munger",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Munger.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

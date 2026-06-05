@@ -2,7 +2,7 @@ export const services = [
     {
       id: "mangalore-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Mangalore.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/fa/ba/8a/faba8a98cab7feb835ad50bb607b87c3.jpg",
       images: [
         "https://i.pinimg.com/originals/9d/73/00/9d7300e4ad6412b591b5adc8b05a4fe3.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "mangalore",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Mangalore.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "mangalore-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Mangalore.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/7d/35/18/7d3518637a7df064e94c97e8b0b44d7f.jpg",
       images: [
         "https://i.pinimg.com/originals/e8/6b/77/e86b77b510a0f6cdb6238c88aee77705.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "mangalore",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Mangalore.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "mangalore-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Mangalore.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/b9/5e/b1/b95eb18e4ffa0234ed637fd704a008c2.jpg",
       images: [
         "https://i.pinimg.com/originals/95/b8/d9/95b8d9a1939e6b2d23aaf68ccd1b84e8.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "mangalore",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Mangalore.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "mangalore-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Mangalore.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/f4/b2/a8/f4b2a875cb3a1d412a5df71065e104e3.jpg",
       images: [
         "https://i.pinimg.com/originals/46/13/3f/46133f3d0bf66e3a6f0aa9a29b1d4b8b.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "mangalore",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Mangalore and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "mangalore-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Mangalore.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/ed/c8/1a/edc81a475a57f728cad09b15eb609538.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/e5/b1/17/e5b11751a1500b430ee960058b6567e0.0000000.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "mangalore",
-      aboutme: "Professional, discreet and verified escort in Mangalore. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "mangalore-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Mangalore.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/e4/40/b7/e440b74de4d4679c9804931a4e4c95c8.jpg",
       images: [
         "https://i.pinimg.com/originals/1e/1a/35/1e1a355926302167eba6c6de8852b7ed.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "mangalore",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Mangalore.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

@@ -2,7 +2,7 @@ export const services = [
     {
       id: "araria-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Araria.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/33/23/46/33234680c74182cbcb1d3b4feb67973b.jpg",
       images: [
         "https://i.pinimg.com/originals/09/ff/39/09ff3986d10f386219d4d6c34806fdcc.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "araria",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Araria.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "araria-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Araria.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/e2/49/2b/e2492b7a024078568badfd60a8f34072.jpg",
       images: [
         "https://i.pinimg.com/originals/a7/d0/4c/a7d04c1c7d64f5e0e373596c4d7bf9cd.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "araria",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Araria.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "araria-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Araria.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/b5/66/47/b566477f6f14e32fbea9091cb880d109.jpg",
       images: [
         "https://i.pinimg.com/originals/8f/71/21/8f71217af871c63495ec45216cd2bc91.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "araria",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Araria.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "araria-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Araria.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/57/38/13/57381305647d560708de3d83a1cfbb36.jpg",
       images: [
         "https://i.pinimg.com/originals/b2/a7/43/b2a743794a0f61120b17903c1b1d3e6e.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "araria",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Araria and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "araria-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Araria.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/9b/90/13/9b901353f652760ddf15b0c60b0c1da5.jpg",
       images: [
         "https://i.pinimg.com/originals/a9/1e/17/a91e177768b0f574848730b592eed91e.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "araria",
-      aboutme: "Professional, discreet and verified escort in Araria. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "araria-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Araria.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/1e/6a/02/1e6a02196abf9ffdc2c3c3a1d6e02a67.jpg",
       images: [
         "https://i.pinimg.com/originals/ec/e4/da/ece4da9717df746471aac1fcf050a0a8.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "araria",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Araria.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

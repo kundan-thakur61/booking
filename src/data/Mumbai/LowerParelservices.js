@@ -2,7 +2,7 @@ export const services = [
     {
       id: "lower-parel-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Lower Parel.",
+      description: "NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE WITH SHOWER BATH MASSAGE • FULL NUDE MASSAGE WITH SHOWER BATH…",
       image: "https://i.pinimg.com/originals/0d/66/3c/0d663c55c29f14f2d0516d37e29cc4e9.jpg",
       images: [
         "https://i.pinimg.com/originals/19/dd/61/19dd6134d593bdd10e375ed37597a65c.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "lower parel",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Lower Parel.",
+      aboutme: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "lower-parel-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Lower Parel.",
+      description: "LOCATION LOKHANDWALA MARKET ANDHERI WEST CALL ME MR SAPPY NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE 45MIN…",
       image: "https://i.pinimg.com/originals/c6/cc/37/c6cc370abb1a856ba8f76fdc179ee0cc.jpg",
       images: [
         "https://i.pinimg.com/originals/2d/9b/64/2d9b642ce45c19456159a1bf1e601331.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "lower parel",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Lower Parel.",
+      aboutme: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "lower-parel-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Lower Parel.",
+      description: "LOVELY HOTTY 👅💏 HI MODELS COLLEGE GIRLS👅💋 HI PROFILE VERY NAUGHTY💦📞👙 💥ANAL SEX💥 BDSM💥 POSE💥LIP KISS💥 DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANCE💥 BOOBS RUBBING💥 LICKING💥HAND JOB 💏GIRLFRIEND EXPERIENCE💏 EROTIC MASSAGE💥 💥 SEX IN DIFFERENT…",
       image: "https://i.pinimg.com/originals/ab/f4/3e/abf43ee060d23feb64f83aff10ac0760.jpg",
       images: [
         "https://i.pinimg.com/originals/f0/43/2f/f0432fc67746c075b0c37b98c3847231.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "lower parel",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Lower Parel.",
+      aboutme: "Mumbai LOW RATE (VIDHI CALL GIRLS) ESCORT FULL HARD FUCK WITH NAUGHTY IF YOU WANT TO FUCK MY PINK PUSSY WITH BIG BOOBS A",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "lower-parel-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Lower Parel.",
+      description: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high…",
       image: "https://i.pinimg.com/originals/77/d4/bf/77d4bf9d57e6844348f78594bafd5247.jpg",
       images: [
         "https://i.pinimg.com/originals/5f/af/78/5faf786f4cf5aedcb7971ea402932c79.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "lower parel",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Lower Parel and nearby areas.",
+      aboutme: "NO ADVANCE PAYMENT ANAL, 69 POSITION, LIP TO LIP KISS, B2B MASSAGE, WITH OUT CONDOM BLOJOB, MOUTH DISCHARGE, HAPPY ENDING",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "lower-parel-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Lower Parel.",
+      description: "Call me:- neha Hotel and home service available 100% genuine service full satisfactionLocation:- Andheri, Sakinaka, Mora, Andheri airport, Chakala, Powai, Dadar, Bandra, Kurla, Chembur, Malad, Santacruz,Vile Parle, Mira Road, Goregaon, Kandivali,…",
       image: "https://i.pinimg.com/originals/76/ad/43/76ad43ca06c38e92cadaaa6c9b13c8cd.jpg",
       images: [
         "https://i.pinimg.com/originals/be/5f/d0/be5fd02cbba60a3a5719f973a81e74b7.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "lower parel",
-      aboutme: "Professional, discreet and verified escort in Lower Parel. Your privacy and safety is my priority.",
+      aboutme: "Mumbai high profile escorts call girls body to body Massages Erotic Massage nuru Massage happy Ending home hotel service Available",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "lower-parel-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Lower Parel.",
+      description: "Note : Satisfaction Guaranteed",
       image: "https://i.pinimg.com/originals/9d/86/56/9d8656dccaadfb001bb2082272896d42.jpg",
       images: [
         "https://i.pinimg.com/originals/60/b3/6d/60b36df80409e9126c5ba80130849b49.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "lower parel",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Lower Parel.",
+      aboutme: "BODY MASSAGE N PUSSY LICKER ONLY FOR LADIES WOMENS",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

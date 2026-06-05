@@ -2,7 +2,7 @@ export const services = [
     {
       id: "kargil-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Kargil.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/4e/a0/20/4ea02044673f0587528de825cb6824cc.jpg",
       images: [
         "https://i.pinimg.com/originals/53/79/0d/53790dc9e657977406a69f8f72e50dbf.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "kargil",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Kargil.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "kargil-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Kargil.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/8c/b9/9a/8cb99ab9e3d6b0eb37929017cde5115e.jpg",
       images: [
         "https://i.pinimg.com/originals/69/e2/f3/69e2f303f80b9019952d914445bd9b0e.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "kargil",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Kargil.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "kargil-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Kargil.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/a8/be/27/a8be27315befb5453dcbbb0be1c331db.jpg",
       images: [
         "https://i.pinimg.com/originals/10/76/46/107646ba6ffdf7b1acc778abb4e2b821.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "kargil",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Kargil.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "kargil-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Kargil.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/06/61/a0/0661a0aa6c064b12228e7858614ef4b7.jpg",
       images: [
         "https://i.pinimg.com/originals/3c/fa/84/3cfa84a5b0a04574b5fd0073740efd38.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "kargil",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Kargil and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "kargil-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Kargil.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/98/3e/db/983edb5f9b8b54015e2ad909d1f18375.jpg",
       images: [
         "https://i.pinimg.com/originals/96/a1/0a/96a10a498935a4279ae926549886c3ef.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "kargil",
-      aboutme: "Professional, discreet and verified escort in Kargil. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "kargil-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Kargil.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/00/b2/e4/00b2e45623240f050cbcd4ebf23b0602.jpg",
       images: [
         "https://i.pinimg.com/originals/a7/be/e3/a7bee36ab7a0d837cfed90c567590c12.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "kargil",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Kargil.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

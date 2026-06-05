@@ -2,7 +2,7 @@ export const services = [
     {
       id: "bandra-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Bandra.",
+      description: "NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE WITH SHOWER BATH MASSAGE • FULL NUDE MASSAGE WITH SHOWER BATH…",
       image: "https://i.pinimg.com/originals/e0/cc/0b/e0cc0b4ca7a9f574e8529cfedf999194.jpg",
       images: [
         "https://i.pinimg.com/originals/ec/26/7b/ec267b19be84a0d2a04b77f88f61439e.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "bandra",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Bandra.",
+      aboutme: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "bandra-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Bandra.",
+      description: "LOCATION LOKHANDWALA MARKET ANDHERI WEST CALL ME MR SAPPY NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE 45MIN…",
       image: "https://i.pinimg.com/originals/dc/1f/83/dc1f8353fbf94c08a2bbcac940f4f273.jpg",
       images: [
         "https://i.pinimg.com/originals/f1/ef/b6/f1efb6e7721b12639d56387d2113a03c.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "bandra",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Bandra.",
+      aboutme: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "bandra-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Bandra.",
+      description: "LOVELY HOTTY 👅💏 HI MODELS COLLEGE GIRLS👅💋 HI PROFILE VERY NAUGHTY💦📞👙 💥ANAL SEX💥 BDSM💥 POSE💥LIP KISS💥 DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANCE💥 BOOBS RUBBING💥 LICKING💥HAND JOB 💏GIRLFRIEND EXPERIENCE💏 EROTIC MASSAGE💥 💥 SEX IN DIFFERENT…",
       image: "https://i.pinimg.com/originals/9d/99/d1/9d99d1fe2dfe9fcfc1c6eafbd005c604.jpg",
       images: [
         "https://i.pinimg.com/originals/8e/ee/09/8eee098aaf37812f20e73019efd7bf2c.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "bandra",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Bandra.",
+      aboutme: "Mumbai LOW RATE (VIDHI CALL GIRLS) ESCORT FULL HARD FUCK WITH NAUGHTY IF YOU WANT TO FUCK MY PINK PUSSY WITH BIG BOOBS A",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "bandra-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Bandra.",
+      description: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high…",
       image: "https://i.pinimg.com/originals/74/87/d7/7487d7402b24f80596dfc60370c415d7.jpg",
       images: [
         "https://i.pinimg.com/originals/47/d1/2b/47d12bf16ead151efd226a23e7bfd1fc.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "bandra",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Bandra and nearby areas.",
+      aboutme: "NO ADVANCE PAYMENT ANAL, 69 POSITION, LIP TO LIP KISS, B2B MASSAGE, WITH OUT CONDOM BLOJOB, MOUTH DISCHARGE, HAPPY ENDING",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "bandra-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Bandra.",
+      description: "Call me:- neha Hotel and home service available 100% genuine service full satisfactionLocation:- Andheri, Sakinaka, Mora, Andheri airport, Chakala, Powai, Dadar, Bandra, Kurla, Chembur, Malad, Santacruz,Vile Parle, Mira Road, Goregaon, Kandivali,…",
       image: "https://i.pinimg.com/originals/fa/c0/4e/fac04e9ef3b006c08b2ed0a07b689909.jpg",
       images: [
         "https://i.pinimg.com/originals/4c/73/81/4c7381ddb1b44d3ebdcb313cee36f310.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "bandra",
-      aboutme: "Professional, discreet and verified escort in Bandra. Your privacy and safety is my priority.",
+      aboutme: "Mumbai high profile escorts call girls body to body Massages Erotic Massage nuru Massage happy Ending home hotel service Available",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "bandra-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Bandra.",
+      description: "Note : Satisfaction Guaranteed",
       image: "https://i.pinimg.com/videos/thumbnails/originals/42/83/5a/42835a2b7412d4f82c29191a72cf8cff.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/35/9f/76/359f768c75d69226eb3c7ba3cefecf0e.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "bandra",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Bandra.",
+      aboutme: "BODY MASSAGE N PUSSY LICKER ONLY FOR LADIES WOMENS",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

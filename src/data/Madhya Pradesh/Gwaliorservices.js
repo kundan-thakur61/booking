@@ -2,7 +2,7 @@ export const services = [
     {
       id: "gwalior-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Gwalior.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/83/58/c4/8358c417dac951169e9c0a151e1c67f7.jpg",
       images: [
         "https://i.pinimg.com/originals/33/23/46/33234680c74182cbcb1d3b4feb67973b.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "gwalior",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Gwalior.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "gwalior-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Gwalior.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/67/42/cb/6742cb36ab6cb34896014dd3a88bc9df.jpg",
       images: [
         "https://i.pinimg.com/originals/37/a1/aa/37a1aa42ccdf4d49e3baa949d284c59b.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "gwalior",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Gwalior.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "gwalior-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Gwalior.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/92/ee/3a/92ee3a8272d7137e9e7664b50c3ed5b3.jpg",
       images: [
         "https://i.pinimg.com/originals/79/93/8f/79938f659d158025e95902f05ffa6365.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "gwalior",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Gwalior.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "gwalior-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Gwalior.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/31/83/40/318340060ff5926c57c3b81c2b6549b6.jpg",
       images: [
         "https://i.pinimg.com/originals/65/f3/66/65f366b1eff96a6debf9fc0d62d68686.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "gwalior",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Gwalior and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "gwalior-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Gwalior.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/d1/be/c5/d1bec53c615e747915bb9271a6010884.jpg",
       images: [
         "https://i.pinimg.com/originals/5f/31/20/5f312034cd27dd6308120145dcf3a0e1.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "gwalior",
-      aboutme: "Professional, discreet and verified escort in Gwalior. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "gwalior-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Gwalior.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/8d/49/20/8d49206010b396e8a4a838741992f423.jpg",
       images: [
         "https://i.pinimg.com/originals/3e/82/75/3e82755ee055fcc5a9c2e2adf6bc8fc6.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "gwalior",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Gwalior.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

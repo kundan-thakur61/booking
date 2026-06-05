@@ -2,7 +2,7 @@ export const services = [
     {
       id: "anantapur-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Anantapur.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/23/d9/67/23d96707d2065dec0c7e573df4f200bf.jpg",
       images: [
         "https://i.pinimg.com/originals/24/12/3d/24123da8c1d5e8e68cb20467f6ddfd63.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "anantapur",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Anantapur.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "anantapur-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Anantapur.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/24/a2/00/24a2009cf04ff80753f31d8bfc56a599.jpg",
       images: [
         "https://i.pinimg.com/originals/25/5c/c4/255cc4654b29d4d75f5893af4336a556.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "anantapur",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Anantapur.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "anantapur-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Anantapur.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/25/9a/0b/259a0b37f0de6ecbc447e528af140bd7.jpg",
       images: [
         "https://i.pinimg.com/originals/25/a3/10/25a310db46859c10eced80b4aa67d00d.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "anantapur",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Anantapur.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "anantapur-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Anantapur.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/25/b7/ab/25b7ab3e1d11d01664724dead959f01e.jpg",
       images: [
         "https://i.pinimg.com/originals/25/b9/d1/25b9d167e5f64175db9cf0ae41ddd74d.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "anantapur",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Anantapur and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "anantapur-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Anantapur.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/26/b2/c7/26b2c731cd10f772fdb9ab2b658a3d0e.jpg",
       images: [
         "https://i.pinimg.com/originals/26/c3/44/26c34494b90cb18144eb4cee7a1b354c.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "anantapur",
-      aboutme: "Professional, discreet and verified escort in Anantapur. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "anantapur-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Anantapur.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/27/97/2f/27972fd9b5903bf6cc9edd0a5a507859.jpg",
       images: [
         "https://i.pinimg.com/originals/27/d0/02/27d002a8754c3851589844dd488e41c7.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "anantapur",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Anantapur.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

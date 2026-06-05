@@ -2,7 +2,7 @@ export const services = [
     {
       id: "tadepallegudem-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Tadepallegudem.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/9b/5d/09/9b5d09206a5e28ca2fdd31a01cbab462.jpg",
       images: [
         "https://i.pinimg.com/originals/9b/8e/43/9b8e4311497dc2bc0d2f48ceb7e7a8bb.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "tadepallegudem",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Tadepallegudem.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "tadepallegudem-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Tadepallegudem.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/9d/6b/ce/9d6bce32bdd30bf1201c05ad478d26cf.jpg",
       images: [
         "https://i.pinimg.com/originals/9d/73/00/9d7300e4ad6412b591b5adc8b05a4fe3.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "tadepallegudem",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Tadepallegudem.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "tadepallegudem-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Tadepallegudem.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/9e/fe/78/9efe78eb9d9f5d34c374c7ddcda17836.jpg",
       images: [
         "https://i.pinimg.com/originals/9f/06/9d/9f069d274b716f2617141c4e67fc930d.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "tadepallegudem",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Tadepallegudem.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "tadepallegudem-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Tadepallegudem.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/9f/1d/2a/9f1d2a86173cab527e6790e9e436eec8.jpg",
       images: [
         "https://i.pinimg.com/originals/9f/25/05/9f2505eb7b4688c78b348f26c6268450.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "tadepallegudem",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Tadepallegudem and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "tadepallegudem-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Tadepallegudem.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/9f/a0/93/9fa093a4fd0b6f18ef98947b7caf8483.jpg",
       images: [
         "https://i.pinimg.com/originals/a0/08/55/a008559e9fa616cf848d8e6105a19f78.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "tadepallegudem",
-      aboutme: "Professional, discreet and verified escort in Tadepallegudem. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "tadepallegudem-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Tadepallegudem.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/a1/04/85/a104855cf184fd83410158c010253518.jpg",
       images: [
         "https://i.pinimg.com/originals/a1/60/dc/a160dcfa25e914f41e0d2e979b8574cf.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "tadepallegudem",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Tadepallegudem.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

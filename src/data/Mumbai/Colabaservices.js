@@ -2,7 +2,7 @@ export const services = [
     {
       id: "colaba-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Colaba.",
+      description: "NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE WITH SHOWER BATH MASSAGE • FULL NUDE MASSAGE WITH SHOWER BATH…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/e5/b1/17/e5b11751a1500b430ee960058b6567e0.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/4a/65/64/4a6564beaae03e588a46d93455112313.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "colaba",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Colaba.",
+      aboutme: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "colaba-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Colaba.",
+      description: "LOCATION LOKHANDWALA MARKET ANDHERI WEST CALL ME MR SAPPY NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE 45MIN…",
       image: "https://i.pinimg.com/originals/14/aa/f4/14aaf4e833b4c9b6de95cd2228b38a89.jpg",
       images: [
         "https://i.pinimg.com/originals/3b/49/4e/3b494eb401a0667d0f8831a72272081a.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "colaba",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Colaba.",
+      aboutme: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "colaba-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Colaba.",
+      description: "LOVELY HOTTY 👅💏 HI MODELS COLLEGE GIRLS👅💋 HI PROFILE VERY NAUGHTY💦📞👙 💥ANAL SEX💥 BDSM💥 POSE💥LIP KISS💥 DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANCE💥 BOOBS RUBBING💥 LICKING💥HAND JOB 💏GIRLFRIEND EXPERIENCE💏 EROTIC MASSAGE💥 💥 SEX IN DIFFERENT…",
       image: "https://i.pinimg.com/originals/f4/f7/9c/f4f79cac5554c59a5f421794fa5ff211.jpg",
       images: [
         "https://i.pinimg.com/originals/44/47/2c/44472cc36f98383522a02cf87de85794.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "colaba",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Colaba.",
+      aboutme: "Mumbai LOW RATE (VIDHI CALL GIRLS) ESCORT FULL HARD FUCK WITH NAUGHTY IF YOU WANT TO FUCK MY PINK PUSSY WITH BIG BOOBS A",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "colaba-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Colaba.",
+      description: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high…",
       image: "https://i.pinimg.com/originals/91/3a/61/913a617324d0be4db222ba2a64ebde61.jpg",
       images: [
         "https://i.pinimg.com/originals/ed/9e/b3/ed9eb3948d63a1b38b27e32c49cf9822.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "colaba",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Colaba and nearby areas.",
+      aboutme: "NO ADVANCE PAYMENT ANAL, 69 POSITION, LIP TO LIP KISS, B2B MASSAGE, WITH OUT CONDOM BLOJOB, MOUTH DISCHARGE, HAPPY ENDING",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "colaba-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Colaba.",
+      description: "Call me:- neha Hotel and home service available 100% genuine service full satisfactionLocation:- Andheri, Sakinaka, Mora, Andheri airport, Chakala, Powai, Dadar, Bandra, Kurla, Chembur, Malad, Santacruz,Vile Parle, Mira Road, Goregaon, Kandivali,…",
       image: "https://i.pinimg.com/originals/43/bc/df/43bcdf0c74793bd2a3276e6f12645569.jpg",
       images: [
         "https://i.pinimg.com/originals/a4/28/63/a42863d9d8a14767eb4d5ab13be4332a.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "colaba",
-      aboutme: "Professional, discreet and verified escort in Colaba. Your privacy and safety is my priority.",
+      aboutme: "Mumbai high profile escorts call girls body to body Massages Erotic Massage nuru Massage happy Ending home hotel service Available",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "colaba-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Colaba.",
+      description: "Note : Satisfaction Guaranteed",
       image: "https://i.pinimg.com/originals/a8/f6/d9/a8f6d9c55daa0d1c8288def4f1e89f2f.jpg",
       images: [
         "https://i.pinimg.com/originals/aa/1e/8a/aa1e8ad3aeee83c216b909841d8ef202.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "colaba",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Colaba.",
+      aboutme: "BODY MASSAGE N PUSSY LICKER ONLY FOR LADIES WOMENS",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

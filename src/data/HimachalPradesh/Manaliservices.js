@@ -2,7 +2,7 @@ export const services = [
     {
       id: "manali-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Manali.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/da/8c/77/da8c777d258cf11495474bd41e3212f4.jpg",
       images: [
         "https://i.pinimg.com/originals/d8/a6/07/d8a607c7562ce75bf4a406b4c4a7f09a.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "manali",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Manali.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "manali-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Manali.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/9a/1c/a6/9a1ca6f718f521d2bc55093b86e61e1b.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/32/2f/3c/322f3ce245a2099e978fbff96b32082c.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "manali",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Manali.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "manali-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Manali.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/8d/45/08/8d4508ce654b489cb4adc5f91caf88ee.0000000.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/69/22/cb/6922cb9dbd8bcd1c2bf040c213a23484.0000000.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "manali",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Manali.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "manali-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Manali.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/31/67/52/3167528113dd0457b552a66a54d5f978.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/ac/18/b9/ac18b918c98bdcfccc4f71ca97e26a2b.0000000.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "manali",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Manali and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "manali-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Manali.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/67/c4/2d/67c42d73adb666c3aadc743b56614fdd.jpg",
       images: [
         "https://i.pinimg.com/originals/3e/1d/21/3e1d21a22f38d06159f60974190b39e0.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "manali",
-      aboutme: "Professional, discreet and verified escort in Manali. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "manali-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Manali.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/7a/f2/a9/7af2a9206912e9599a25df2911a7a2f4.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/7b/1e/43/7b1e4355df4c93ff268863f975071e98.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "manali",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Manali.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

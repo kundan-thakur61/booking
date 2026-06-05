@@ -2,7 +2,7 @@ export const services = [
     {
       id: "gyalshing-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Gyalshing.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/a0/aa/cc/a0aacc822e2260233c00111729945650.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/60/fd/d7/60fdd7b6da612bd41a363b0f7e35d12e.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "gyalshing",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Gyalshing.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "gyalshing-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Gyalshing.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/c0/31/12/c03112b40beaccb615533e7a4ffbdae5.jpg",
       images: [
         "https://i.pinimg.com/originals/d9/8e/f3/d98ef3ea5c295286fe35ec06df1941fb.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "gyalshing",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Gyalshing.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "gyalshing-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Gyalshing.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/eb/7f/ba/eb7fba6182ca442b5ba7a2e4c4c477c3.jpg",
       images: [
         "https://i.pinimg.com/originals/3e/bb/95/3ebb95a5c6e53c4a9a117803f5077630.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "gyalshing",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Gyalshing.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "gyalshing-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Gyalshing.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/d1/be/c5/d1bec53c615e747915bb9271a6010884.jpg",
       images: [
         "https://i.pinimg.com/originals/b5/d8/ba/b5d8bafcd6ff8f2662644292a6b416e9.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "gyalshing",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Gyalshing and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "gyalshing-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Gyalshing.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/d4/ff/12/d4ff1228628d9fd040146c46002708ea.jpg",
       images: [
         "https://i.pinimg.com/originals/c1/1b/3e/c11b3ea30f7f9f62590788ccc0f8417c.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "gyalshing",
-      aboutme: "Professional, discreet and verified escort in Gyalshing. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "gyalshing-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Gyalshing.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/d6/aa/65/d6aa65a4790e1c22513c85f16b769284.jpg",
       images: [
         "https://i.pinimg.com/originals/e2/16/eb/e216eb40e9ba6ac6237037f0df2ab32b.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "gyalshing",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Gyalshing.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

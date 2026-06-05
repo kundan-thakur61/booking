@@ -2,7 +2,7 @@ export const services = [
     {
       id: "udaipur-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Udaipur.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/06/0e/3d/060e3da848623cb58369ee5baa50395e.jpg",
       images: [
         "https://i.pinimg.com/originals/05/24/a3/0524a317ac53b625213a8875f2376fbd.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "udaipur",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Udaipur.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "udaipur-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Udaipur.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/67/c4/2d/67c42d73adb666c3aadc743b56614fdd.jpg",
       images: [
         "https://i.pinimg.com/originals/e2/16/eb/e216eb40e9ba6ac6237037f0df2ab32b.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "udaipur",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Udaipur.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "udaipur-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Udaipur.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/53/8c/03/538c034a066276d9ed054b0acc5b7e00.jpg",
       images: [
         "https://i.pinimg.com/originals/6a/3e/3c/6a3e3c0cfbeb2b167ce54496e1c07c01.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "udaipur",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Udaipur.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "udaipur-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Udaipur.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/34/a2/89/34a2898697d71cabf3cba997c3005be4.jpg",
       images: [
         "https://i.pinimg.com/originals/7c/ed/54/7ced547c3c6e7b5dd3020ba0f4516f1e.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "udaipur",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Udaipur and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "udaipur-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Udaipur.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/86/c6/7c/86c67c7b76848271f0f3b17ce72a2d7a.jpg",
       images: [
         "https://i.pinimg.com/originals/b6/a3/a4/b6a3a4005d8e21e3beebc3593f939da1.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "udaipur",
-      aboutme: "Professional, discreet and verified escort in Udaipur. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "udaipur-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Udaipur.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/c7/6f/8f/c76f8ff8f6d019a8c872efe894707c71.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/09/3a/d2/093ad2845b8cea90ad52d1bed2551883.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "udaipur",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Udaipur.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

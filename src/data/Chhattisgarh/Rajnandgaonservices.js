@@ -2,7 +2,7 @@ export const services = [
     {
       id: "rajnandgaon-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Rajnandgaon.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/54/94/4f/54944fbaca78e24ad7602f88e58407c3.jpg",
       images: [
         "https://i.pinimg.com/originals/8b/43/f1/8b43f10a717c3dc15b6b2a03b00b9f39.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "rajnandgaon",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Rajnandgaon.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "rajnandgaon-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Rajnandgaon.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/18/48/c0/1848c0bf97cc3e932fcd9a4aed3421f9.jpg",
       images: [
         "https://i.pinimg.com/originals/ba/c3/b6/bac3b6780b4745687ecef6ef0daa134f.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "rajnandgaon",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Rajnandgaon.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "rajnandgaon-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Rajnandgaon.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/c1/f1/64/c1f16488fd94a02bec3e9debab48b988.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/62/d3/8f/62d38f0e72a4a7080d78428abc7ef3c9.0000000.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "rajnandgaon",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Rajnandgaon.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "rajnandgaon-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Rajnandgaon.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/2c/6b/e4/2c6be4f927bf8fb41d89d3f83c7b95ce.jpg",
       images: [
         "https://i.pinimg.com/originals/78/ed/c1/78edc1510a146c9773b8a9698c97686d.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "rajnandgaon",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Rajnandgaon and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "rajnandgaon-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Rajnandgaon.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/00/b2/e4/00b2e45623240f050cbcd4ebf23b0602.jpg",
       images: [
         "https://i.pinimg.com/originals/ab/be/94/abbe94e246b45b1c8a4a617eed22f9f8.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "rajnandgaon",
-      aboutme: "Professional, discreet and verified escort in Rajnandgaon. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "rajnandgaon-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Rajnandgaon.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/53/79/0d/53790dc9e657977406a69f8f72e50dbf.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/d9/ff/ef/d9ffef25f32eba0c8e9a5248ee6f71ee.0000000.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "rajnandgaon",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Rajnandgaon.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

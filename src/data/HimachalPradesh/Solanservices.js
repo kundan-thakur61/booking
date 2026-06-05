@@ -2,7 +2,7 @@ export const services = [
     {
       id: "solan-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Solan.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/a0/0e/05/a00e0567d5616ea85cb8315d9f355e15.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/fc/14/dc/fc14dc422c114ddf83e9d6b20b7610c6.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "solan",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Solan.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "solan-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Solan.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/44/88/21/4488210648cf792d4fe73a711c743aa7.jpg",
       images: [
         "https://i.pinimg.com/originals/82/41/32/8241323c4bcdeeef3bba51faf2542d09.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "solan",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Solan.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "solan-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Solan.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/3f/61/11/3f61117503821613fc186c86e54fc2e4.jpg",
       images: [
         "https://i.pinimg.com/originals/24/a2/00/24a2009cf04ff80753f31d8bfc56a599.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "solan",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Solan.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "solan-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Solan.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/a9/84/5d/a9845d9eb0e4d026ff784ebec9fc32bd.jpg",
       images: [
         "https://i.pinimg.com/originals/a4/dd/5b/a4dd5b46a3334181dfdfc0caf09f5a8c.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "solan",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Solan and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "solan-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Solan.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/85/04/3f/85043f6a6b3c9e5eae359abe4df44095.jpg",
       images: [
         "https://i.pinimg.com/originals/ed/c8/1a/edc81a475a57f728cad09b15eb609538.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "solan",
-      aboutme: "Professional, discreet and verified escort in Solan. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "solan-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Solan.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/04/45/d8/0445d8c204fb25cec3bfe428a4fa217a.jpg",
       images: [
         "https://i.pinimg.com/originals/38/4f/46/384f468d1878a36b2ec12db76f91600a.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "solan",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Solan.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

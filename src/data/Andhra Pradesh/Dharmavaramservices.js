@@ -2,7 +2,7 @@ export const services = [
     {
       id: "dharmavaram-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Dharmavaram.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/37/42/d6/3742d66a4773dd7c0ef5adf42d201755.jpg",
       images: [
         "https://i.pinimg.com/originals/37/a1/aa/37a1aa42ccdf4d49e3baa949d284c59b.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "dharmavaram",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Dharmavaram.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "dharmavaram-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Dharmavaram.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/38/52/29/385229b5b8ab7287e3030249f1eea7bb.jpg",
       images: [
         "https://i.pinimg.com/originals/38/e8/c3/38e8c3a52eb48355de39f326770faaa5.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "dharmavaram",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Dharmavaram.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "dharmavaram-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Dharmavaram.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/39/97/d3/3997d33500423f9b6a935243d3a467b8.jpg",
       images: [
         "https://i.pinimg.com/originals/39/f7/9b/39f79b8971435f63cfd3c4340babca9b.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "dharmavaram",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Dharmavaram.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "dharmavaram-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Dharmavaram.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/3a/41/f1/3a41f132f0a82887562bc95f2e698225.jpg",
       images: [
         "https://i.pinimg.com/originals/3a/b8/19/3ab819dda612ba6f470fe35cdf20bf83.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "dharmavaram",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Dharmavaram and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "dharmavaram-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Dharmavaram.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/3b/49/4e/3b494eb401a0667d0f8831a72272081a.jpg",
       images: [
         "https://i.pinimg.com/originals/3b/a9/f2/3ba9f2ee306d84161c8b876175ec1a26.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "dharmavaram",
-      aboutme: "Professional, discreet and verified escort in Dharmavaram. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "dharmavaram-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Dharmavaram.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/3c/f1/7c/3cf17cd4e7c785477656c7917e6379b4.jpg",
       images: [
         "https://i.pinimg.com/originals/3c/fa/84/3cfa84a5b0a04574b5fd0073740efd38.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "dharmavaram",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Dharmavaram.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

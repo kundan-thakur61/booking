@@ -2,7 +2,7 @@ export const services = [
     {
       id: "andheri-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Andheri.",
+      description: "NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE WITH SHOWER BATH MASSAGE • FULL NUDE MASSAGE WITH SHOWER BATH…",
       image: "https://i.pinimg.com/originals/ce/c5/fe/cec5feed676b5a4101605a2b62b3fd95.jpg",
       images: [
         "https://i.pinimg.com/originals/1a/d8/a4/1ad8a465e77797891ee8f99eec25ee29.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "andheri",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Andheri.",
+      aboutme: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "andheri-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Andheri.",
+      description: "LOCATION LOKHANDWALA MARKET ANDHERI WEST CALL ME MR SAPPY NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE 45MIN…",
       image: "https://i.pinimg.com/originals/77/d4/bf/77d4bf9d57e6844348f78594bafd5247.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/51/dd/ce/51ddceaf6d0112f137c7a188294d24d3.0000000.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "andheri",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Andheri.",
+      aboutme: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "andheri-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Andheri.",
+      description: "LOVELY HOTTY 👅💏 HI MODELS COLLEGE GIRLS👅💋 HI PROFILE VERY NAUGHTY💦📞👙 💥ANAL SEX💥 BDSM💥 POSE💥LIP KISS💥 DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANCE💥 BOOBS RUBBING💥 LICKING💥HAND JOB 💏GIRLFRIEND EXPERIENCE💏 EROTIC MASSAGE💥 💥 SEX IN DIFFERENT…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/56/05/14/560514462b3c1d6674a39aace68e5fef.0000000.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/14/7c/70/147c70c2c04c19a8f861bd7f360293f1.0000000.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "andheri",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Andheri.",
+      aboutme: "Mumbai LOW RATE (VIDHI CALL GIRLS) ESCORT FULL HARD FUCK WITH NAUGHTY IF YOU WANT TO FUCK MY PINK PUSSY WITH BIG BOOBS A",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "andheri-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Andheri.",
+      description: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high…",
       image: "https://i.pinimg.com/originals/31/d7/b4/31d7b46846b27ce727a1537e07129116.jpg",
       images: [
         "https://i.pinimg.com/originals/00/49/bd/0049bd318d0ec680c23fbb86e59bff56.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "andheri",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Andheri and nearby areas.",
+      aboutme: "NO ADVANCE PAYMENT ANAL, 69 POSITION, LIP TO LIP KISS, B2B MASSAGE, WITH OUT CONDOM BLOJOB, MOUTH DISCHARGE, HAPPY ENDING",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "andheri-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Andheri.",
+      description: "Call me:- neha Hotel and home service available 100% genuine service full satisfactionLocation:- Andheri, Sakinaka, Mora, Andheri airport, Chakala, Powai, Dadar, Bandra, Kurla, Chembur, Malad, Santacruz,Vile Parle, Mira Road, Goregaon, Kandivali,…",
       image: "https://i.pinimg.com/originals/1f/6d/43/1f6d43ce48de991a8ebfe277a385f93d.jpg",
       images: [
         "https://i.pinimg.com/originals/60/23/89/60238942df32ddcfaef9aad8c83de98b.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "andheri",
-      aboutme: "Professional, discreet and verified escort in Andheri. Your privacy and safety is my priority.",
+      aboutme: "Mumbai high profile escorts call girls body to body Massages Erotic Massage nuru Massage happy Ending home hotel service Available",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "andheri-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Andheri.",
+      description: "Note : Satisfaction Guaranteed",
       image: "https://i.pinimg.com/originals/66/bb/d5/66bbd51567dd254b6960a3912cc0ad48.jpg",
       images: [
         "https://i.pinimg.com/originals/40/2a/f2/402af212dd38b6b4413c3fb4877999b6.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "andheri",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Andheri.",
+      aboutme: "BODY MASSAGE N PUSSY LICKER ONLY FOR LADIES WOMENS",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

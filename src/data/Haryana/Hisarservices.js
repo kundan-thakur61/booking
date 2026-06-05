@@ -2,7 +2,7 @@ export const services = [
     {
       id: "hisar-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Hisar.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/44/47/2c/44472cc36f98383522a02cf87de85794.jpg",
       images: [
         "https://i.pinimg.com/originals/d4/f5/d9/d4f5d9f77306f5738dd8d495f7f71ed8.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "hisar",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Hisar.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "hisar-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Hisar.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/e9/76/bb/e976bba8ed1866a2e51834768759e0a5.jpg",
       images: [
         "https://i.pinimg.com/originals/48/62/7c/48627c66378606146dced4ef1894e658.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "hisar",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Hisar.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "hisar-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Hisar.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/77/06/2f/77062f3bd8279494bdf94a5d1eab2828.jpg",
       images: [
         "https://i.pinimg.com/originals/6a/3e/3c/6a3e3c0cfbeb2b167ce54496e1c07c01.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "hisar",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Hisar.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "hisar-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Hisar.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/26/9f/eb/269feb90acb13bb8521aa836d887b56c.jpg",
       images: [
         "https://i.pinimg.com/originals/c7/ce/1d/c7ce1d630816aab4510467b67b3d14db.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "hisar",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Hisar and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "hisar-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Hisar.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/30/b6/1f/30b61f686b2de32b57f69ca7963e8dc1.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/c1/e9/0d/c1e90d9b72b65934ee832915771aa56d.0000000.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "hisar",
-      aboutme: "Professional, discreet and verified escort in Hisar. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "hisar-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Hisar.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/cc/d0/5e/ccd05ee2cbd76749e3aaa73c9a08adff.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/9e/fe/78/9efe78eb9d9f5d34c374c7ddcda17836.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "hisar",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Hisar.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

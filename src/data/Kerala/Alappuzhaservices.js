@@ -2,7 +2,7 @@ export const services = [
     {
       id: "alappuzha-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Alappuzha.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/f7/27/fc/f727fc837f7d3048cc431caa3b5300c7.jpg",
       images: [
         "https://i.pinimg.com/originals/3e/bb/95/3ebb95a5c6e53c4a9a117803f5077630.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "alappuzha",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Alappuzha.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "alappuzha-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Alappuzha.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/10/b9/27/10b92795b40b2a3dd6460aa67abafdfa.jpg",
       images: [
         "https://i.pinimg.com/originals/ed/c8/1a/edc81a475a57f728cad09b15eb609538.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "alappuzha",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Alappuzha.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "alappuzha-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Alappuzha.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/be/5f/d0/be5fd02cbba60a3a5719f973a81e74b7.jpg",
       images: [
         "https://i.pinimg.com/originals/44/47/2c/44472cc36f98383522a02cf87de85794.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "alappuzha",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Alappuzha.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "alappuzha-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Alappuzha.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/66/50/52/665052facd38f55f57685e6901e313e8.jpg",
       images: [
         "https://i.pinimg.com/originals/d4/f6/d7/d4f6d7a730ccc4fa86045abd989231ff.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "alappuzha",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Alappuzha and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "alappuzha-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Alappuzha.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/a3/65/7a/a3657a75782576b904165ac0322dd834.jpg",
       images: [
         "https://i.pinimg.com/originals/dd/35/0e/dd350effa8ac7082a74a3e695c26c322.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "alappuzha",
-      aboutme: "Professional, discreet and verified escort in Alappuzha. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "alappuzha-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Alappuzha.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/e1/fa/94/e1fa94111d213ac60d0dd5320f1c2259.jpg",
       images: [
         "https://i.pinimg.com/originals/01/66/53/016653d7820b4844d9694f49ac132863.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "alappuzha",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Alappuzha.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

@@ -2,7 +2,7 @@ export const services = [
     {
       id: "aizawl-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Aizawl.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/90/e3/f8/90e3f8d92854a004c8be5fcf03621b24.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/55/76/25/557625fd6a4fc273557c5ac6c75538f0.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "aizawl",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Aizawl.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "aizawl-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Aizawl.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/c0/4f/01/c04f01ed65eb0c0f43265e6fcde160bf.jpg",
       images: [
         "https://i.pinimg.com/originals/3d/63/d5/3d63d5ee9d13dd0c0a3d04de9035e52d.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "aizawl",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Aizawl.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "aizawl-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Aizawl.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/d5/97/13/d597134d790e3ad1131331afb6112c34.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/78/71/2e/78712ec4cedc96d2e12c921f2c7b36a4.0000000.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "aizawl",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Aizawl.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "aizawl-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Aizawl.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/f0/7d/6a/f07d6a8af129ab2ff70197529589129d.jpg",
       images: [
         "https://i.pinimg.com/originals/57/fd/ad/57fdadc22c0665cfbadf21771cc0e08b.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "aizawl",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Aizawl and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "aizawl-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Aizawl.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/fc/f4/fa/fcf4fae9d59bcd390ca42f2bafe3362b.jpg",
       images: [
         "https://i.pinimg.com/originals/ba/eb/f2/baebf29623d22fe4909fb644fc08d1d6.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "aizawl",
-      aboutme: "Professional, discreet and verified escort in Aizawl. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "aizawl-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Aizawl.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/9a/e9/2a/9ae92a14f5ecdf63f8035fc3ac2b7fe9.jpg",
       images: [
         "https://i.pinimg.com/originals/6d/92/b4/6d92b4c87505d955632776e534630800.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "aizawl",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Aizawl.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

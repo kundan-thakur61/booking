@@ -2,7 +2,7 @@ export const services = [
     {
       id: "patna-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Patna.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/5a/ed/9d/5aed9dfc2e0878235750fffefbe6deaa.jpg",
       images: [
         "https://i.pinimg.com/originals/14/c5/31/14c531827c2748ff104358015f03a8f4.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "patna",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Patna.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "patna-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Patna.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/2e/99/fd/2e99fdeb4260f8c7f012d6c2156bb86c.jpg",
       images: [
         "https://i.pinimg.com/originals/2a/11/a7/2a11a7746371df2dc7a23969ca8473b7.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "patna",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Patna.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "patna-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Patna.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/0b/05/19/0b05190d66d7307d6efe5de318357866.jpg",
       images: [
         "https://i.pinimg.com/originals/40/97/69/409769d1de8352d500570a48d2bd91fa.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "patna",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Patna.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "patna-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Patna.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/46/49/ad/4649adffe7b608d96525ab9ad92933b5.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/f3/3d/fe/f33dfef868b4cdca35c41651ea09a83b.0000000.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "patna",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Patna and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "patna-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Patna.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/d4/ab/05/d4ab05cfb38756a1eccc32bea53e5aa8.jpg",
       images: [
         "https://i.pinimg.com/originals/91/db/4e/91db4e167a73f8cf4f16809378fa75af.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "patna",
-      aboutme: "Professional, discreet and verified escort in Patna. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "patna-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Patna.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/32/d2/3c/32d23c706e6dfb7c706fa5ea2627a833.jpg",
       images: [
         "https://i.pinimg.com/originals/12/6a/67/126a67b2afd0cb5149151d452bce0f75.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "patna",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Patna.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

@@ -2,7 +2,7 @@ export const services = [
     {
       id: "adoni-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Adoni.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/c4/7c/de/c47cde8ceb7a958271961fb1bccc0654.jpg",
       images: [
         "https://i.pinimg.com/originals/c4/83/39/c48339cfa2dc9eb400246a28b46f34fe.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "adoni",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Adoni.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "adoni-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Adoni.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/c5/81/99/c58199e1cce750cb6b10ebaddb81bfad.jpg",
       images: [
         "https://i.pinimg.com/originals/c5/86/2e/c5862eaa618685b1fd558513c0f273e5.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "adoni",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Adoni.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "adoni-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Adoni.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/c6/25/a6/c625a6a5271c037613b6fc8ceb86246b.jpg",
       images: [
         "https://i.pinimg.com/originals/c6/cc/37/c6cc370abb1a856ba8f76fdc179ee0cc.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "adoni",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Adoni.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "adoni-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Adoni.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/c6/f6/9f/c6f69fab5424daa43b3750e646e1e89c.jpg",
       images: [
         "https://i.pinimg.com/originals/c7/5a/49/c75a4950a277574713609a439030bf9f.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "adoni",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Adoni and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "adoni-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Adoni.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/c7/cc/3e/c7cc3e46affb9f723d82234d2ff921e7.jpg",
       images: [
         "https://i.pinimg.com/originals/c7/ce/1d/c7ce1d630816aab4510467b67b3d14db.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "adoni",
-      aboutme: "Professional, discreet and verified escort in Adoni. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "adoni-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Adoni.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/c8/be/ad/c8bead6edd3f5d382d59ee4b982b3071.jpg",
       images: [
         "https://i.pinimg.com/originals/c8/dd/14/c8dd144c64ed2961848a19a5832661b9.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "adoni",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Adoni.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

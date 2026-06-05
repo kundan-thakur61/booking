@@ -2,7 +2,7 @@ export const services = [
     {
       id: "jammu-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Jammu.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/a7/88/84/a78884edfc63e782bfefbd2c864200c2.jpg",
       images: [
         "https://i.pinimg.com/originals/cf/4b/ab/cf4babc6b328d03d75a6674b8527557b.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "jammu",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Jammu.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "jammu-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Jammu.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/e3/f7/54/e3f754026b0d2413d604661652cfd1dd.jpg",
       images: [
         "https://i.pinimg.com/originals/c3/8f/ed/c38fed39296a9c35551ce28cc81f6d95.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "jammu",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Jammu.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "jammu-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Jammu.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/84/61/dd/8461ddff1d09272961c57c177f712aa5.jpg",
       images: [
         "https://i.pinimg.com/originals/ae/0d/91/ae0d917a9d4f42ef93b35ebbd20bc2a7.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "jammu",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Jammu.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "jammu-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Jammu.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/d2/08/ae/d208ae84b9f08f2131b088aa27b8f83e.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/06/0e/3d/060e3da848623cb58369ee5baa50395e.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "jammu",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Jammu and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "jammu-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Jammu.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/9a/c9/2a/9ac92a024b753b5743bac74b9ee9e6d5.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/8d/e3/db/8de3dbd2b07615034cfca76ff5c6c7fc.0000000.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "jammu",
-      aboutme: "Professional, discreet and verified escort in Jammu. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "jammu-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Jammu.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/cf/80/01/cf80019f59d95cb14876f8d16e71e151.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/4a/6a/31/4a6a312dfc13454d1d40f88be9db5ab2.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "jammu",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Jammu.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

@@ -514,7 +514,7 @@
                     </span>
                   </div>
                   <div className="p-5">
-                    <h2 className="text-lg font-bold text-neutral-900 mb-1 group-hover:text-pink-600 transition-colors">
+                    <h2 className="text-lg font-bold text-neutral-900 mb-1 group-hover:text-pink-600 transition-colors line-clamp-3">
                       {s.description}
                     </h2>
                     // <p className="text-neutral-600 text-sm line-clamp-2">{s.description}</p>
@@ -906,7 +906,7 @@
                       </div>
                     </div>
                     <div className="p-5">
-                      <h3 className="text-lg font-bold text-neutral-900 mb-1 group-hover:text-pink-600 transition-colors">
+                      <h3 className="text-lg font-bold text-neutral-900 mb-1 group-hover:text-pink-600 transition-colors line-clamp-3">
                         {s.description}
                       </h3>
       
@@ -1023,11 +1023,11 @@ for (const stateDir of stateDirs) {
     console.log(`[CREATED/UPDATED] ${detailPagePath}`);
     jsxFixed++;
 
-    const dataFilePath = path.join(dataStateDir, dataFile);
-    const newDataContent = buildServicesFile(citySlug, cityLabel);
-    fs.writeFileSync(dataFilePath, newDataContent, 'utf8');
-    console.log(`  [DATA] Fixed: data/${stateDir}/${dataFile}`);
-    dataFixed++;
+    // const dataFilePath = path.join(dataStateDir, dataFile);
+    // const newDataContent = buildServicesFile(citySlug, cityLabel);
+    // fs.writeFileSync(dataFilePath, newDataContent, 'utf8');
+    // console.log(`  [DATA] Fixed: data/${stateDir}/${dataFile}`);
+    // dataFixed++;
   }
 }
 

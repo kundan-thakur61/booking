@@ -2,7 +2,7 @@ export const services = [
     {
       id: "nicobar-islands-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Nicobar Islands.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/14/c5/31/14c531827c2748ff104358015f03a8f4.jpg",
       images: [
         "https://i.pinimg.com/originals/14/f8/94/14f89451e03b9517e186d2add1b7419a.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "nicobar islands",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Nicobar Islands.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "nicobar-islands-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Nicobar Islands.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/15/99/4b/15994b2e9377d1b9650ef81213965da0.jpg",
       images: [
         "https://i.pinimg.com/originals/15/a1/4c/15a14c90f6f5908c6b2a979b05b6aa1d.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "nicobar islands",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Nicobar Islands.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "nicobar-islands-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Nicobar Islands.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/16/6f/3b/166f3b0963c702a915e5cb124257a213.jpg",
       images: [
         "https://i.pinimg.com/originals/16/a9/0f/16a90f21f8418d74ab659c40332f55b1.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "nicobar islands",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Nicobar Islands.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "nicobar-islands-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Nicobar Islands.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/17/56/36/175636502a75ac9f515e881a11ebeadd.jpg",
       images: [
         "https://i.pinimg.com/originals/17/62/9a/17629aa53bc3b6fdd3fe9dc9b5c97a5d.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "nicobar islands",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Nicobar Islands and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "nicobar-islands-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Nicobar Islands.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/18/57/4e/18574ef97c57365d3e4904ec39235302.jpg",
       images: [
         "https://i.pinimg.com/originals/18/79/79/187979a028a4f77d01a4a1232c54f468.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "nicobar islands",
-      aboutme: "Professional, discreet and verified escort in Nicobar Islands. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "nicobar-islands-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Nicobar Islands.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/19/52/61/1952616d0608f992a710ba8a9525aa56.jpg",
       images: [
         "https://i.pinimg.com/originals/19/7b/12/197b12e7ca3734a4256b0df2db568f54.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "nicobar islands",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Nicobar Islands.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

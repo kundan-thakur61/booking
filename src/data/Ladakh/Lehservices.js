@@ -2,7 +2,7 @@ export const services = [
     {
       id: "leh-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Leh.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/81/52/4a/81524afcf6d6f3b966cdc7bb9825abf0.jpg",
       images: [
         "https://i.pinimg.com/originals/bd/76/97/bd769720d827e1420dc08440282a5a82.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "leh",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Leh.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "leh-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Leh.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/25/7f/35/257f358fd137cddc764e3fc71514ead8.jpg",
       images: [
         "https://i.pinimg.com/originals/9f/06/9d/9f069d274b716f2617141c4e67fc930d.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "leh",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Leh.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "leh-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Leh.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/e0/03/da/e003daacb95d1a60eb7ff7380d88f72a.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/0b/dd/1d/0bdd1d68857dbb2418c4d4bd3a465ec9.0000000.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "leh",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Leh.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "leh-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Leh.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/7a/0f/05/7a0f057f2c1ee33e96f18d60638179a5.jpg",
       images: [
         "https://i.pinimg.com/originals/fb/2d/ec/fb2dec100c82dc63aed10aa209685784.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "leh",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Leh and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "leh-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Leh.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/ed/86/fd/ed86fd6a384aa750524a25e7b7d81cc7.jpg",
       images: [
         "https://i.pinimg.com/originals/5a/f7/ff/5af7ffa359264ebe424e24f1861a9593.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "leh",
-      aboutme: "Professional, discreet and verified escort in Leh. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "leh-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Leh.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/22/2a/b5/222ab5049a51d7c005119e6c2fd8ed20.jpg",
       images: [
         "https://i.pinimg.com/originals/d7/cb/b8/d7cbb8d80f7bbd0c4a7a1f1560332e05.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "leh",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Leh.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

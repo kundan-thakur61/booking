@@ -2,7 +2,7 @@ export const services = [
     {
       id: "kollam-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Kollam.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/88/44/5d/88445dda4a71419aa1a8db9d4bad7aae.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/1f/ea/5d/1fea5d28b2643c24db2fd60ab38685d9.0000000.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "kollam",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Kollam.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "kollam-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Kollam.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/29/29/c8/2929c83b425ce3108a86a83c9140e056.jpg",
       images: [
         "https://i.pinimg.com/originals/92/f2/d4/92f2d4aba72c9331d5ab000680b7e4ba.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "kollam",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Kollam.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "kollam-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Kollam.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/ac/4d/d9/ac4dd9743685f9088be454873a42ad2c.jpg",
       images: [
         "https://i.pinimg.com/originals/80/c1/92/80c192f49290ffe355be2594b6587975.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "kollam",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Kollam.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "kollam-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Kollam.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/7d/7c/28/7d7c280ec4ca6e919b057c3fd0b1416c.jpg",
       images: [
         "https://i.pinimg.com/originals/57/cd/28/57cd283ac038ab01601a920e2d474bfb.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "kollam",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Kollam and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "kollam-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Kollam.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/9a/e9/2a/9ae92a14f5ecdf63f8035fc3ac2b7fe9.jpg",
       images: [
         "https://i.pinimg.com/originals/e0/9e/2f/e09e2fd1f12333b5ef9d1013362d8a6b.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "kollam",
-      aboutme: "Professional, discreet and verified escort in Kollam. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "kollam-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Kollam.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/dc/3c/b3/dc3cb3aad82011a205880751f96eb025.jpg",
       images: [
         "https://i.pinimg.com/originals/fb/9c/af/fb9caf1cdf4fa856ee9fb289d8942f8b.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "kollam",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Kollam.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

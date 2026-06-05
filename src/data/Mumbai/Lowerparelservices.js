@@ -2,7 +2,7 @@ export const services = [
     {
       id: "lowerparel-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Lowerparel.",
+      description: "NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE WITH SHOWER BATH MASSAGE • FULL NUDE MASSAGE WITH SHOWER BATH…",
       image: "https://i.pinimg.com/originals/e2/16/eb/e216eb40e9ba6ac6237037f0df2ab32b.jpg",
       images: [
         "https://i.pinimg.com/originals/ea/61/37/ea61373a9dc3656cb9488b1b9a35bbde.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "lowerparel",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Lowerparel.",
+      aboutme: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "lowerparel-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Lowerparel.",
+      description: "LOCATION LOKHANDWALA MARKET ANDHERI WEST CALL ME MR SAPPY NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE 45MIN…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/56/05/14/560514462b3c1d6674a39aace68e5fef.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/2a/50/bd/2a50bd474875cb30772a14acab910569.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "lowerparel",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Lowerparel.",
+      aboutme: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "lowerparel-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Lowerparel.",
+      description: "LOVELY HOTTY 👅💏 HI MODELS COLLEGE GIRLS👅💋 HI PROFILE VERY NAUGHTY💦📞👙 💥ANAL SEX💥 BDSM💥 POSE💥LIP KISS💥 DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANCE💥 BOOBS RUBBING💥 LICKING💥HAND JOB 💏GIRLFRIEND EXPERIENCE💏 EROTIC MASSAGE💥 💥 SEX IN DIFFERENT…",
       image: "https://i.pinimg.com/originals/3b/a9/f2/3ba9f2ee306d84161c8b876175ec1a26.jpg",
       images: [
         "https://i.pinimg.com/originals/f2/d0/bb/f2d0bb3fe768e88225a7c47adc9444ef.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "lowerparel",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Lowerparel.",
+      aboutme: "Mumbai LOW RATE (VIDHI CALL GIRLS) ESCORT FULL HARD FUCK WITH NAUGHTY IF YOU WANT TO FUCK MY PINK PUSSY WITH BIG BOOBS A",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "lowerparel-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Lowerparel.",
+      description: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high…",
       image: "https://i.pinimg.com/originals/e2/5a/72/e25a7203d6e81095347a580e56abe6af.jpg",
       images: [
         "https://i.pinimg.com/originals/1c/8c/d4/1c8cd411cb43d8d589e35207dd17b095.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "lowerparel",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Lowerparel and nearby areas.",
+      aboutme: "NO ADVANCE PAYMENT ANAL, 69 POSITION, LIP TO LIP KISS, B2B MASSAGE, WITH OUT CONDOM BLOJOB, MOUTH DISCHARGE, HAPPY ENDING",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "lowerparel-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Lowerparel.",
+      description: "Call me:- neha Hotel and home service available 100% genuine service full satisfactionLocation:- Andheri, Sakinaka, Mora, Andheri airport, Chakala, Powai, Dadar, Bandra, Kurla, Chembur, Malad, Santacruz,Vile Parle, Mira Road, Goregaon, Kandivali,…",
       image: "https://i.pinimg.com/originals/a1/77/c2/a177c207dbefedf9a88f77cf1fa4dc1f.jpg",
       images: [
         "https://i.pinimg.com/originals/8a/01/15/8a01158cca5cec3e45ecdc86bb8c5ab7.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "lowerparel",
-      aboutme: "Professional, discreet and verified escort in Lowerparel. Your privacy and safety is my priority.",
+      aboutme: "Mumbai high profile escorts call girls body to body Massages Erotic Massage nuru Massage happy Ending home hotel service Available",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "lowerparel-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Lowerparel.",
+      description: "Note : Satisfaction Guaranteed",
       image: "https://i.pinimg.com/videos/thumbnails/originals/45/fd/7b/45fd7b449b385c6b8c6087b3e2f29705.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/dc/14/46/dc1446dda174e0b4169bc91d7cc2014e.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "lowerparel",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Lowerparel.",
+      aboutme: "BODY MASSAGE N PUSSY LICKER ONLY FOR LADIES WOMENS",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

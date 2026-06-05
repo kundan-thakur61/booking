@@ -2,7 +2,7 @@ export const services = [
     {
       id: "powai-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Powai.",
+      description: "NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE WITH SHOWER BATH MASSAGE • FULL NUDE MASSAGE WITH SHOWER BATH…",
       image: "https://i.pinimg.com/originals/f4/ab/38/f4ab386235cc645fd41531196c2ac1ba.jpg",
       images: [
         "https://i.pinimg.com/originals/0f/45/5e/0f455e45d515fd24d380440fa70215cf.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "powai",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Powai.",
+      aboutme: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "powai-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Powai.",
+      description: "LOCATION LOKHANDWALA MARKET ANDHERI WEST CALL ME MR SAPPY NUDE BLOWJOB 💚MASSAGE,NURU💚 SANDWICH ROMANCE AND 💚BOOBS SUCKING PUSSY LICKING PENIS 💚MASSAGE THAI have MASSAGE,💚BLOWJOB MASSAGES💚💚 BOOBS LICKING HYGIENIC SPA, BODY TO BODY MASSAGE...❤️ THESE ARE PROMISED SERVICES DONE BY OUR TRAINED THERAPISTS IN REAL HI-FI SPA. • SEMI NUDE MASSAGE 45MIN…",
       image: "https://i.pinimg.com/originals/2f/be/6a/2fbe6aa325050d80eb4bb6a54ab1012f.jpg",
       images: [
         "https://i.pinimg.com/originals/ac/b0/b3/acb0b3d28e0425e723e912a820cf6ffc.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "powai",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Powai.",
+      aboutme: "HOT GIRLS 🍑 Nude Massage 👙 B2B Massage 😘 Happy Ending Massage 📌 AC Rooms 👉 Luxurious Spa Center 🍌🫦FULL NUDE MASSAGE BODY TO BODY🫦❤️ 💦HAPPY ENDING MAS",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "powai-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Powai.",
+      description: "LOVELY HOTTY 👅💏 HI MODELS COLLEGE GIRLS👅💋 HI PROFILE VERY NAUGHTY💦📞👙 💥ANAL SEX💥 BDSM💥 POSE💥LIP KISS💥 DEEP SUCKING WITHOUT CONDOM💥 CUM ON FACE💥 NUDE DANCE💥 BOOBS RUBBING💥 LICKING💥HAND JOB 💏GIRLFRIEND EXPERIENCE💏 EROTIC MASSAGE💥 💥 SEX IN DIFFERENT…",
       image: "https://i.pinimg.com/originals/95/8e/e5/958ee5c69d2637ddaf13451bec9f6a26.jpg",
       images: [
         "https://i.pinimg.com/originals/dd/04/d9/dd04d9e0426bae76eb10c70a475b1117.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "powai",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Powai.",
+      aboutme: "Mumbai LOW RATE (VIDHI CALL GIRLS) ESCORT FULL HARD FUCK WITH NAUGHTY IF YOU WANT TO FUCK MY PINK PUSSY WITH BIG BOOBS A",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "powai-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Powai.",
+      description: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high…",
       image: "https://i.pinimg.com/originals/40/e1/57/40e1576c865d41d03b259a0a3230f814.jpg",
       images: [
         "https://i.pinimg.com/originals/67/e0/ce/67e0ce58cdda025da3d3db197ce52e01.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "powai",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Powai and nearby areas.",
+      aboutme: "NO ADVANCE PAYMENT ANAL, 69 POSITION, LIP TO LIP KISS, B2B MASSAGE, WITH OUT CONDOM BLOJOB, MOUTH DISCHARGE, HAPPY ENDING",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "powai-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Powai.",
+      description: "Call me:- neha Hotel and home service available 100% genuine service full satisfactionLocation:- Andheri, Sakinaka, Mora, Andheri airport, Chakala, Powai, Dadar, Bandra, Kurla, Chembur, Malad, Santacruz,Vile Parle, Mira Road, Goregaon, Kandivali,…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/9d/cf/d2/9dcfd25efe34a298dc91f63c6e5351ce.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/24/5e/10/245e1036595d4f6c2774198798c9e325.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "powai",
-      aboutme: "Professional, discreet and verified escort in Powai. Your privacy and safety is my priority.",
+      aboutme: "Mumbai high profile escorts call girls body to body Massages Erotic Massage nuru Massage happy Ending home hotel service Available",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "powai-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Powai.",
+      description: "Note : Satisfaction Guaranteed",
       image: "https://i.pinimg.com/originals/3d/63/d5/3d63d5ee9d13dd0c0a3d04de9035e52d.jpg",
       images: [
         "https://i.pinimg.com/originals/1f/6d/43/1f6d43ce48de991a8ebfe277a385f93d.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "powai",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Powai.",
+      aboutme: "BODY MASSAGE N PUSSY LICKER ONLY FOR LADIES WOMENS",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

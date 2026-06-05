@@ -2,7 +2,7 @@ export const services = [
     {
       id: "chhapra-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Chhapra.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/34/65/9a/34659a29c94cbccba4e4c708263ec3dc.jpg",
       images: [
         "https://i.pinimg.com/originals/50/33/bc/5033bc9b4aa9dc10636faf5072cb1ce2.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "chhapra",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Chhapra.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "chhapra-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Chhapra.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/45/fd/7b/45fd7b449b385c6b8c6087b3e2f29705.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/c0/b0/20/c0b0207f493044ccdec5b5f7b425e0fb.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "chhapra",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Chhapra.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "chhapra-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Chhapra.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/30/b6/1f/30b61f686b2de32b57f69ca7963e8dc1.jpg",
       images: [
         "https://i.pinimg.com/originals/03/5e/3c/035e3c16e9c0ef28800d963b094909e2.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "chhapra",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Chhapra.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "chhapra-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Chhapra.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/f1/44/a2/f144a2d94dfc16ae71fea5f51eca17c9.jpg",
       images: [
         "https://i.pinimg.com/originals/d6/a2/09/d6a209cf10ab84b421e0d64f7171d995.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "chhapra",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Chhapra and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "chhapra-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Chhapra.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/f7/46/07/f746072480a3482e400172f2009513ac.jpg",
       images: [
         "https://i.pinimg.com/originals/7b/ae/77/7bae77d7cfe462e88d7abfb6548f75cd.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "chhapra",
-      aboutme: "Professional, discreet and verified escort in Chhapra. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "chhapra-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Chhapra.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/4f/e5/d8/4fe5d85bba23fc6b0003bad58e86e440.jpg",
       images: [
         "https://i.pinimg.com/originals/62/48/28/6248285ce0b69a02804a4c84c1a45dc8.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "chhapra",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Chhapra.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

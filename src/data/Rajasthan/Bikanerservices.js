@@ -2,7 +2,7 @@ export const services = [
     {
       id: "bikaner-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Bikaner.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/1d/79/e3/1d79e3a767add57df297a03cc7586e28.jpg",
       images: [
         "https://i.pinimg.com/originals/e3/42/34/e3423415d657687c9f79d05758202c86.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "bikaner",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Bikaner.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "bikaner-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Bikaner.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/14/2c/a7/142ca785f9a89fa77bd2bffc783a989f.jpg",
       images: [
         "https://i.pinimg.com/originals/55/fe/b2/55feb27955f8f3540085968563eed157.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "bikaner",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Bikaner.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "bikaner-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Bikaner.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/40/e1/57/40e1576c865d41d03b259a0a3230f814.jpg",
       images: [
         "https://i.pinimg.com/originals/ec/6c/a4/ec6ca456a6ef706ed0bd7191a16a30da.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "bikaner",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Bikaner.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "bikaner-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Bikaner.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/4e/48/ea/4e48ea0885c129714b5dd191938d6265.jpg",
       images: [
         "https://i.pinimg.com/originals/71/c5/6b/71c56b9462b0a0ce8b57c264ebf729fc.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "bikaner",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Bikaner and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "bikaner-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Bikaner.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/b7/59/0a/b7590ade33771444fee04f4fe2788fa8.jpg",
       images: [
         "https://i.pinimg.com/originals/59/65/4b/59654bd9e9fe2761d0b08eb162723ae2.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "bikaner",
-      aboutme: "Professional, discreet and verified escort in Bikaner. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "bikaner-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Bikaner.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/ed/9e/b3/ed9eb3948d63a1b38b27e32c49cf9822.jpg",
       images: [
         "https://i.pinimg.com/originals/c0/b0/20/c0b0207f493044ccdec5b5f7b425e0fb.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "bikaner",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Bikaner.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

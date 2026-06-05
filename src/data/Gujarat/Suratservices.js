@@ -2,7 +2,7 @@ export const services = [
     {
       id: "surat-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Surat.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/84/6e/1c/846e1c88f3929d680af4a947039c301e.jpg",
       images: [
         "https://i.pinimg.com/originals/03/8c/12/038c128893ddbda8de5c94242717755a.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "surat",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Surat.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "surat-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Surat.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/a0/aa/cc/a0aacc822e2260233c00111729945650.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/07/f4/f2/07f4f2dc3368f5a643d2833727cab142.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "surat",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Surat.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "surat-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Surat.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/91/c0/8d/91c08dab0fe288a7f5030b79390b8405.jpg",
       images: [
         "https://i.pinimg.com/originals/67/9f/7d/679f7d2ecd19849d8f0269040c24ef5a.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "surat",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Surat.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "surat-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Surat.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/f3/14/c9/f314c912f4a41086cc7a343f5525e567.jpg",
       images: [
         "https://i.pinimg.com/originals/2f/2c/dc/2f2cdce265fc5c62e5ff711b722a92b9.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "surat",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Surat and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "surat-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Surat.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/a6/10/cc/a610cc1c640f3e6ebfd903be527c5c27.jpg",
       images: [
         "https://i.pinimg.com/originals/dc/1b/fd/dc1bfd6bb5fd17066627c6bdcd100bd8.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "surat",
-      aboutme: "Professional, discreet and verified escort in Surat. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "surat-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Surat.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/e3/7e/21/e37e212de4d55ac493044a889971eb2a.jpg",
       images: [
         "https://i.pinimg.com/originals/94/90/d0/9490d09ebe21d93f62624ad72b2d6bd9.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "surat",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Surat.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

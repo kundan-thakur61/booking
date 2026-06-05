@@ -2,7 +2,7 @@ export const services = [
     {
       id: "haridwar-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Haridwar.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/f1/ef/b6/f1efb6e7721b12639d56387d2113a03c.jpg",
       images: [
         "https://i.pinimg.com/originals/77/aa/81/77aa81419d87c3023b21da558ec3b9d2.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "haridwar",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Haridwar.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "haridwar-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Haridwar.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/52/60/ee/5260eef2eedcd351b6979ddfe9edf492.jpg",
       images: [
         "https://i.pinimg.com/originals/7d/07/2f/7d072fec8689c762e02df4122d2e62d0.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "haridwar",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Haridwar.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "haridwar-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Haridwar.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/4a/a2/f1/4aa2f190937b302e90f961dd7c43563b.jpg",
       images: [
         "https://i.pinimg.com/originals/ed/f0/8d/edf08d7aee5f825c814c5a4f3ebcc1c0.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "haridwar",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Haridwar.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "haridwar-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Haridwar.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/04/7e/60/047e6022719491fd44c8187c19ecbd3d.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/51/e3/cc/51e3ccd57cce2564109676d992670713.0000000.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "haridwar",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Haridwar and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "haridwar-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Haridwar.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/videos/thumbnails/originals/cb/b4/61/cbb461d728f0d9d9ad4ca0e2283b9b2b.0000000.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/5c/8a/ff/5c8aff424f4036f18a808fc9761dca51.0000000.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "haridwar",
-      aboutme: "Professional, discreet and verified escort in Haridwar. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "haridwar-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Haridwar.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/33/d1/2c/33d12ced991d90955092ab77225be565.jpg",
       images: [
         "https://i.pinimg.com/originals/e3/2e/4b/e32e4b3552ddc5ab0d36c256b28e485e.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "haridwar",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Haridwar.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

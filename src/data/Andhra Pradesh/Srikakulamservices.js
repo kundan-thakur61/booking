@@ -2,7 +2,7 @@ export const services = [
     {
       id: "srikakulam-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Srikakulam.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/96/a1/0a/96a10a498935a4279ae926549886c3ef.jpg",
       images: [
         "https://i.pinimg.com/originals/96/cb/04/96cb04306832728e65dd75b4d69300bf.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "srikakulam",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Srikakulam.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "srikakulam-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Srikakulam.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/98/48/f4/9848f40b17765c09880e5e6a9a28fe28.jpg",
       images: [
         "https://i.pinimg.com/originals/98/5c/c4/985cc48e40f3f9e03fb4f4369a481c48.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "srikakulam",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Srikakulam.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "srikakulam-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Srikakulam.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/99/80/11/998011a2b59ec46e2311e1a61959e446.jpg",
       images: [
         "https://i.pinimg.com/originals/99/95/95/999595276a56ed3bf2b9914a95a15e8f.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "srikakulam",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Srikakulam.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "srikakulam-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Srikakulam.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/99/9c/40/999c400d51c4228e18db873f7ab7beaf.jpg",
       images: [
         "https://i.pinimg.com/originals/99/ac/16/99ac16b47906c30804fc60762298c33f.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "srikakulam",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Srikakulam and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "srikakulam-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Srikakulam.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/9a/13/a5/9a13a51a4a25fc6cb1bda1e5a3d09643.jpg",
       images: [
         "https://i.pinimg.com/originals/9a/48/61/9a4861b2f4db39cc90e46ce2f440c110.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "srikakulam",
-      aboutme: "Professional, discreet and verified escort in Srikakulam. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "srikakulam-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Srikakulam.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/9a/c9/2a/9ac92a024b753b5743bac74b9ee9e6d5.jpg",
       images: [
         "https://i.pinimg.com/originals/9a/e9/2a/9ae92a14f5ecdf63f8035fc3ac2b7fe9.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "srikakulam",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Srikakulam.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

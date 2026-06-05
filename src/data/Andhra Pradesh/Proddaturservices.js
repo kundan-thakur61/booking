@@ -2,7 +2,7 @@ export const services = [
     {
       id: "proddatur-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Proddatur.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/8c/6a/b2/8c6ab2bec4994c168f474b07b5f1c81e.jpg",
       images: [
         "https://i.pinimg.com/originals/8c/b6/18/8cb6186e1ccb173becb404551bd840e4.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "proddatur",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Proddatur.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "proddatur-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Proddatur.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/8d/8e/5a/8d8e5a0ad6786869fbf8e8770ec1762b.jpg",
       images: [
         "https://i.pinimg.com/originals/8d/94/8b/8d948bb33cf6483f40ac2a45cac381c7.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "proddatur",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Proddatur.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "proddatur-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Proddatur.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/8e/d9/fe/8ed9fe86f9ef542c5189e9e0434f2c5e.jpg",
       images: [
         "https://i.pinimg.com/originals/8e/ee/09/8eee098aaf37812f20e73019efd7bf2c.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "proddatur",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Proddatur.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "proddatur-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Proddatur.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/8f/71/21/8f71217af871c63495ec45216cd2bc91.jpg",
       images: [
         "https://i.pinimg.com/originals/8f/a9/7d/8fa97d5c72555b1ae732ff8e7a4909c1.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "proddatur",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Proddatur and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "proddatur-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Proddatur.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/90/4c/db/904cdba574fbcb4438497b7090721bfd.jpg",
       images: [
         "https://i.pinimg.com/originals/90/5c/e9/905ce92c4aad340c4d3141ce1315a0ba.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "proddatur",
-      aboutme: "Professional, discreet and verified escort in Proddatur. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "proddatur-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Proddatur.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/91/34/dd/9134ddcaf67af1bcf49eff65927bb150.jpg",
       images: [
         "https://i.pinimg.com/originals/91/3a/61/913a617324d0be4db222ba2a64ebde61.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "proddatur",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Proddatur.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

@@ -2,7 +2,7 @@ export const services = [
     {
       id: "saran-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Saran.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/99/cc/ac/99ccacfc8275c715c67240e0fc6db3f8.jpg",
       images: [
         "https://i.pinimg.com/originals/db/0e/02/db0e024902ef63f266c556c00236edd5.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "saran",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Saran.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "saran-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Saran.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/c9/f6/1f/c9f61f34ecf27e44858b981f978e098f.jpg",
       images: [
         "https://i.pinimg.com/originals/2c/6b/e4/2c6be4f927bf8fb41d89d3f83c7b95ce.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "saran",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Saran.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "saran-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Saran.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/a1/04/85/a104855cf184fd83410158c010253518.jpg",
       images: [
         "https://i.pinimg.com/originals/45/b0/56/45b05603810c4199b792ec246879d0d7.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "saran",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Saran.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "saran-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Saran.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/7a/0f/05/7a0f057f2c1ee33e96f18d60638179a5.jpg",
       images: [
         "https://i.pinimg.com/originals/36/08/c4/3608c4a3aa1f3535256d28b949e0902b.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "saran",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Saran and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "saran-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Saran.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/56/ca/ea/56caea817253c8e93140ce9ec4bd6a0c.jpg",
       images: [
         "https://i.pinimg.com/originals/46/87/31/468731cdb60caa01b466ca224be42151.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "saran",
-      aboutme: "Professional, discreet and verified escort in Saran. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "saran-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Saran.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/ed/86/fd/ed86fd6a384aa750524a25e7b7d81cc7.jpg",
       images: [
         "https://i.pinimg.com/originals/ed/9e/b3/ed9eb3948d63a1b38b27e32c49cf9822.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "saran",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Saran.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

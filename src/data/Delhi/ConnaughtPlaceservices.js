@@ -2,7 +2,7 @@ export const services = [
     {
       id: "connaught-place-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Connaught Place.",
+      description: "CALL GIRLS IN DELHI:- 99998 call 58187❤️𝗛𝗔𝗡𝗗 𝗧𝗢 𝗛𝗔𝗡𝗗 𝗖𝗔𝗦𝗛 𝗣𝗔𝗬𝗠𝗘𝗡𝗧 𝗡𝗢 𝗔𝗗𝗩𝗔𝗡𝗖𝗘 𝗡𝗢 𝗘𝗫𝗧𝗥𝗔 𝗖𝗛𝗔𝗥𝗚𝗘❤️ DELHI 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗣𝗥𝗢𝗩𝗜𝗗𝗘𝗥 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝟮𝟰/𝟳 ALL OVER DELHI NCR SHREY 𝐁𝐨𝐨𝐤 𝐧𝐨𝐰 V★I★P Genuine High Profile Model's Available - ALL DELHI NCR Hotel &…",
       image: "https://i.pinimg.com/originals/14/2c/a7/142ca785f9a89fa77bd2bffc783a989f.jpg",
       images: [
         "https://i.pinimg.com/originals/d8/a6/07/d8a607c7562ce75bf4a406b4c4a7f09a.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "connaught place",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Connaught Place.",
+      aboutme: "💥BOOK ₹ 2K SHORT ₹ 7k NIGHT 99998 call 58187 PAYMENT GIRL HAND YOUR FLAT HOTEL HOME ✅ IN CALL FREE ROOM 🆗 OUT CALL YOUR PLACE REAL WHATSAPP",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "connaught-place-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Connaught Place.",
+      description: "I am beautiful girl I am available for video call, sexting or phone sex call me on whatsApp",
       image: "https://i.pinimg.com/originals/2c/95/50/2c9550b212680bd75d13ebe5aad22106.jpg",
       images: [
         "https://i.pinimg.com/originals/1c/8c/d4/1c8cd411cb43d8d589e35207dd17b095.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "connaught place",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Connaught Place.",
+      aboutme: "Low budget video chat sex service available video call sexting, phone sex in India",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "connaught-place-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Connaught Place.",
+      description: "HOT & SEXY MODELS // COLLEGE GIRLS AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL & HOME ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 100% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential…",
       image: "https://i.pinimg.com/originals/88/87/14/8887147a466a3788fea6efd3b59a6249.jpg",
       images: [
         "https://i.pinimg.com/originals/ba/d0/b1/bad0b1e6e7fcd6dec402cb7c1ee99076.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "connaught place",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Connaught Place.",
+      aboutme: "Delhi Puja Sharma 24/7 top best low price call girls sex service available 100% safe and secure",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "connaught-place-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Connaught Place.",
+      description: "𝗖𝗔𝗟𝗟 𝗚𝗜𝗥𝗟𝗦 𝗜𝗡 𝗗𝗘𝗟𝗛𝗜 𝗥𝗔𝗦𝗛𝗠𝗜 ✔️ ✔️ 𝗗𝗲𝗹𝗵𝗶 𝗖𝗮𝗹𝗹 𝗚𝗶𝗿𝗹𝘀 𝗘𝘀𝗰𝗼𝗿𝘁𝘀 𝗣𝗿𝗼𝘃𝗶𝗱𝗲𝗿 𝟮𝟰𝘅𝟳 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗗𝗲𝗹𝗵𝗶 𝗖𝗮𝗹𝗹 𝗚𝗶𝗿𝗹𝘀- 𝙑★𝙄★𝙋 𝙂𝙚𝙣𝙪𝙞𝙣𝙚 𝙃𝙞𝙜𝙝 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙈𝙤𝙙𝙚𝙡'𝙨 𝘼𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚 - 𝘿𝙚𝙡𝙝𝙞 𝙉𝙘𝙧, 𝙉𝙤𝙞𝙙𝙖 𝙂𝙪𝙧𝙜𝙖𝙤𝙣 𝙃𝙤𝙩𝙚𝙡 & 𝙃𝙤𝙢𝙚 𝙎𝙚𝙧𝙫𝙞𝙘𝙚 ( 𝘿𝙖𝙮 / 𝙉𝙞𝙜𝙝𝙩 ) 𝘾𝙖𝙡𝙡 𝙂𝙞𝙧𝙡𝙨 𝙍𝙚𝙖𝙙𝙮 𝙛𝙤𝙧 𝘼𝙡𝙡 𝙔𝙤𝙪𝙧 𝙒𝙞𝙨𝙝𝙚𝙨 𝙖𝙣𝙙…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/45/fd/7b/45fd7b449b385c6b8c6087b3e2f29705.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/4e/a8/4b/4ea84b93280a608d418e1d44cbab57e8.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "connaught place",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Connaught Place and nearby areas.",
+      aboutme: "🔥 RS 5OOO NIGHT -OR- DAY ❣️ NO ADVANCE DIRECT PAY IN YOUR ROOM SATISFACTION GUARANTEE 24x7 Independent Delhi Escorts - Call Girl Services",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "connaught-place-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Connaught Place.",
+      description: "100% customer satisfaction guaranteed ✓profiles top grade service✓100% Cooperative all round *Hot&sexy models , college girls, celebrate available for complete enjoyment with high profiles Indian model available hotel& home *Safe and secure high class service 100% genuine and full satisfaction full services. Hotel and home service available 24/7…",
       image: "https://i.pinimg.com/originals/0c/08/6c/0c086ccadf5d1f1c45f5ff0187980449.jpg",
       images: [
         "https://i.pinimg.com/originals/1d/17/b3/1d17b3c560eb553682a634187a6e4567.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "connaught place",
-      aboutme: "Professional, discreet and verified escort in Connaught Place. Your privacy and safety is my priority.",
+      aboutme: "Delhi 24/7 top best low price call girls sex service available 100% safe and secure",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "connaught-place-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Connaught Place.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/58/d4/45/58d445845bf223ba20c98968a40218b5.jpg",
       images: [
         "https://i.pinimg.com/originals/32/91/e0/3291e0d6c403caecb31e348f981e9594.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "connaught place",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Connaught Place.",
+      aboutme: "2000 unlimited short door setp high profile genuine call girl service available",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

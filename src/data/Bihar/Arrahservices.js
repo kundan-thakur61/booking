@@ -2,7 +2,7 @@ export const services = [
     {
       id: "arrah-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Arrah.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/9f/a0/93/9fa093a4fd0b6f18ef98947b7caf8483.jpg",
       images: [
         "https://i.pinimg.com/originals/4e/29/0c/4e290c7f09f106f00655356b509bb5cd.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "arrah",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Arrah.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "arrah-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Arrah.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/f3/d7/31/f3d7311a64cdabb7bc1e597231865fda.jpg",
       images: [
         "https://i.pinimg.com/originals/01/66/53/016653d7820b4844d9694f49ac132863.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "arrah",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Arrah.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "arrah-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Arrah.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/be/63/b9/be63b9bdc8c666cc0d7dfcc7d8975363.jpg",
       images: [
         "https://i.pinimg.com/originals/c3/23/ef/c323efad9cabb4826f161f12a027c526.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "arrah",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Arrah.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "arrah-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Arrah.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/e5/f5/59/e5f5599860f6e16d4c3312ec2486873f.jpg",
       images: [
         "https://i.pinimg.com/originals/a7/d0/4c/a7d04c1c7d64f5e0e373596c4d7bf9cd.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "arrah",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Arrah and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "arrah-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Arrah.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/e5/3c/99/e53c9923c8bdd46995994c98721ec460.jpg",
       images: [
         "https://i.pinimg.com/originals/96/80/e8/9680e8c0b01e12066787cbb724f8c430.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "arrah",
-      aboutme: "Professional, discreet and verified escort in Arrah. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "arrah-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Arrah.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/5c/f7/f7/5cf7f7debabece196e4cd4e035af5fcb.jpg",
       images: [
         "https://i.pinimg.com/originals/0c/08/6c/0c086ccadf5d1f1c45f5ff0187980449.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "arrah",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Arrah.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

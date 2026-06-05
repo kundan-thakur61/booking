@@ -2,7 +2,7 @@ export const services = [
     {
       id: "ambala-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Ambala.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/5a/1d/f2/5a1df265d1edefa0ab3fc91449e13862.jpg",
       images: [
         "https://i.pinimg.com/originals/93/e0/fd/93e0fd38430175fe40c5a29769182102.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "ambala",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Ambala.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "ambala-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Ambala.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/6a/3e/3c/6a3e3c0cfbeb2b167ce54496e1c07c01.jpg",
       images: [
         "https://i.pinimg.com/originals/c6/f6/9f/c6f69fab5424daa43b3750e646e1e89c.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "ambala",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Ambala.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "ambala-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Ambala.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/2a/50/bd/2a50bd474875cb30772a14acab910569.jpg",
       images: [
         "https://i.pinimg.com/originals/91/db/4e/91db4e167a73f8cf4f16809378fa75af.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "ambala",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Ambala.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "ambala-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Ambala.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/02/c6/4e/02c64ef435a12d471d339e151134ee32.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/e2/d0/22/e2d022318569447d5bcb7084e2198336.0000000.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "ambala",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Ambala and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "ambala-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Ambala.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/89/ad/b3/89adb33e5047b5b868b2a7a9f785f425.jpg",
       images: [
         "https://i.pinimg.com/originals/2c/ec/4b/2cec4bad9875b7a73e2908f319e57be2.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "ambala",
-      aboutme: "Professional, discreet and verified escort in Ambala. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "ambala-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Ambala.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/51/e3/cc/51e3ccd57cce2564109676d992670713.0000000.jpg",
       images: [
         "https://i.pinimg.com/videos/thumbnails/originals/9a/2b/72/9a2b7299be8558a72e725f324e26ffea.0000000.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "ambala",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Ambala.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

@@ -2,7 +2,7 @@ export const services = [
     {
       id: "anantnag-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Anantnag.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/originals/04/7e/60/047e6022719491fd44c8187c19ecbd3d.jpg",
       images: [
         "https://i.pinimg.com/originals/89/ad/b3/89adb33e5047b5b868b2a7a9f785f425.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "anantnag",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Anantnag.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "anantnag-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Anantnag.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/originals/12/b4/29/12b429b33b228383fc4e8338fbfbe24e.jpg",
       images: [
         "https://i.pinimg.com/originals/f2/f2/80/f2f280cda804f0b42d9bcb59f8ef5539.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "anantnag",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Anantnag.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "anantnag-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Anantnag.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/4a/9a/f1/4a9af1085b3ebd34aeba71696aaf28cb.jpg",
       images: [
         "https://i.pinimg.com/originals/5b/be/25/5bbe259158d94626a5a07073d8c6ced3.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "anantnag",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Anantnag.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "anantnag-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Anantnag.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/originals/7d/07/2f/7d072fec8689c762e02df4122d2e62d0.jpg",
       images: [
         "https://i.pinimg.com/originals/5c/f7/f7/5cf7f7debabece196e4cd4e035af5fcb.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "anantnag",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Anantnag and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "anantnag-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Anantnag.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/originals/ec/26/7b/ec267b19be84a0d2a04b77f88f61439e.jpg",
       images: [
         "https://i.pinimg.com/originals/45/b0/56/45b05603810c4199b792ec246879d0d7.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "anantnag",
-      aboutme: "Professional, discreet and verified escort in Anantnag. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "anantnag-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Anantnag.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/25/a3/10/25a310db46859c10eced80b4aa67d00d.jpg",
       images: [
         "https://i.pinimg.com/originals/93/f9/4b/93f94bd4b09c550e6ed114503002ce9a.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "anantnag",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Anantnag.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

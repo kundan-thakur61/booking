@@ -2,7 +2,7 @@ export const services = [
     {
       id: "mohali-001",
       name: "Body Massage Service",
-      description: "Relaxing therapeutic massage services with premium companionship in Mohali.",
+      description: "💸ONLY CASH PAYMENT 100% SAFE AND SECURE SERVICE AVAILABLE If you need 100% Real girlfriend experience then please call me for more details.. HOTTEST TAMIL GENUINE VIP GIRL'S AVAILABLE IN LOW COST KANNADA TELGU TAMIL NORT GF EXPERIENCE Affordable…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/c7/6f/8f/c76f8ff8f6d019a8c872efe894707c71.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/76/15/eb/7615ebf6848098cabbafb7d57ac1f013.jpg",
@@ -13,7 +13,7 @@ export const services = [
       availability: "24/7 Available",
       age: "21",
       location: "mohali",
-      aboutme: "I am a professional massage therapist with years of experience in therapeutic and relaxation techniques, serving Mohali.",
+      aboutme: ".✅💫.NO ADVANCE HAND CASH PAYMENT IN HOTEL 24 HOURS AVAILABLE HOME YA HOTEL FULL ALL OVER BANGLORE CITY GENUINE SERVICE call girls banglore",
       tag: "massage,spa,body massage",
       service: "Full Body,Swedish,Deep Tissue",
       attentionTo: "men,women,couples",
@@ -22,7 +22,7 @@ export const services = [
     {
       id: "mohali-002",
       name: "VIP Companion Service",
-      description: "Premium VIP escort and companion service for elite clientele in Mohali.",
+      description: "🆑𝗚𝗘𝗡𝗨𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 ★ 𝐀-𝐋𝐞𝐯𝐞𝐥 (𝟓 𝐬𝐭𝐚𝐫 )Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/0d/28/24/0d282447e0ac43fd1bac6af3859be174.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/ab/be/94/abbe94e246b45b1c8a4a617eed22f9f8.jpg",
@@ -32,7 +32,7 @@ export const services = [
       availability: "By Appointment",
       age: "23",
       location: "mohali",
-      aboutme: "Sophisticated, well-educated companion available for social events, dinners, and private meetings across Mohali.",
+      aboutme: "🆑 Banglore 2000 Unlimited Shots High quality low price❣️ college girls available now call me",
       tag: "vip,companion,elite",
       service: "Social Events,Dinner Date,Travel Companion",
       attentionTo: "men,couples",
@@ -41,7 +41,7 @@ export const services = [
     {
       id: "mohali-003",
       name: "Relaxation Spa Service",
-      description: "Complete spa and relaxation experience with trained professionals in Mohali.",
+      description: "Hello gentleman if you need genuine's profile of hot girl in ++ Call me and appoint best high profile hot girls model or south north profile I have a lot to show you, I really give myself completely, with me you can feel very comfortable as my main…",
       image: "https://i.pinimg.com/originals/26/b2/c7/26b2c731cd10f772fdb9ab2b658a3d0e.jpg",
       images: [
         "https://i.pinimg.com/originals/5a/e3/72/5ae3721b17b2b52195fde47f0c882735.jpg",
@@ -50,7 +50,7 @@ export const services = [
       availability: "10 AM – 10 PM",
       age: "22",
       location: "mohali",
-      aboutme: "Certified spa therapist offering a full range of relaxation and wellness treatments in Mohali.",
+      aboutme: "BANGLORE BEST SAFE AND SECURE GENUINE TRUSTED ESCORT SERVICE CALL ME BOOK",
       tag: "spa,relaxation,wellness",
       service: "Aromatherapy,Hot Stone,Head Massage",
       attentionTo: "men,women",
@@ -59,7 +59,7 @@ export const services = [
     {
       id: "mohali-004",
       name: "Travel Companion Service",
-      description: "Charming travel companions for business trips and leisure tours across Mohali.",
+      description: "VIP call girl ⭐⭐⭐⭐⭐ WHATSAPP DON'T WEST MY TIME ONLY GENUINE PARSAN FOR Call ENJOY B2B NUDE SEX & WhatsApp; SPA SHOWER BATH BY SEXY GALS ONLY AROMATHERAPY,SPA,HAPPY ENDING MASSAGE ,NUDE B2B MASSAGE RAIN SHOWER BATH TANTRIK MASSAGE BDSM CANDLE MASSAGE…",
       image: "https://i.pinimg.com/videos/thumbnails/originals/1d/2c/7c/1d2c7caa838f699cde042480b3426213.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/24/99/54/249954ec10201d05358dc4b8d210fbfc.jpg",
@@ -68,7 +68,7 @@ export const services = [
       availability: "24/7 Available",
       age: "24",
       location: "mohali",
-      aboutme: "Adventurous and fun travel companion with great knowledge of Mohali and nearby areas.",
+      aboutme: "HANS TO HAND PAYMENT 𝗘𝗦𝗖𝗢𝗥𝗧 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘",
       tag: "travel,companion,tours",
       service: "Business Travel,Leisure Tours,Hotel Companion",
       attentionTo: "men,women,couples",
@@ -77,7 +77,7 @@ export const services = [
     {
       id: "mohali-005",
       name: "Verified Escort Service",
-      description: "100% verified escort services with complete discretion and professionalism in Mohali.",
+      description: "I’m seeking trust well minded real women’s house suffering wishes at home, private talk and private meeting and take care of only Jimmy woman’s or housewife only trust, not a beauty, not age",
       image: "https://i.pinimg.com/videos/thumbnails/originals/9d/cf/d2/9dcfd25efe34a298dc91f63c6e5351ce.0000000.jpg",
       images: [
         "https://i.pinimg.com/originals/99/95/95/999595276a56ed3bf2b9914a95a15e8f.jpg",
@@ -87,7 +87,7 @@ export const services = [
       availability: "24/7 Available",
       age: "22",
       location: "mohali",
-      aboutme: "Professional, discreet and verified escort in Mohali. Your privacy and safety is my priority.",
+      aboutme: "I’m seeking trust woman, well minded",
       tag: "verified,escort,discreet",
       service: "In-Call,Out-Call,Overnight",
       attentionTo: "men",
@@ -96,7 +96,7 @@ export const services = [
     {
       id: "mohali-006",
       name: "Premium Night Service",
-      description: "Exclusive premium overnight companion service in Mohali.",
+      description: "Hello All guys 👋it's Vishakha kannada genuine girl profile . My all Self service no agent no broker.. WhatsApp and telegram Live ❤️online live full open VC🤳 , phone chat, kannada VC with voice roleplay all kind of roles. Full Satisfaction💕 Time pass…",
       image: "https://i.pinimg.com/originals/35/8f/82/358f824d3accdb8c7139eea31b27ddef.jpg",
       images: [
         "https://i.pinimg.com/originals/75/7b/25/757b2500eb98f9abed8c49a531dc9d4d.jpg",
@@ -105,7 +105,7 @@ export const services = [
       availability: "Evening & Night",
       age: "25",
       location: "mohali",
-      aboutme: "Elegant, charming and discreet companion for an unforgettable premium evening experience in Mohali.",
+      aboutme: "Hello 👋 it's visakha Kannada girl available live phone chat VC open show Gf experience relationship message....",
       tag: "premium,night,companion",
       service: "Dinner Date,Night Companion,Overnight",
       attentionTo: "men",

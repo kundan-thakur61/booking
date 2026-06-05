@@ -243,6 +243,9 @@ const Deoghar = () => {
             <Link
               to={`/jharkhand/deoghar/service/${service.id}`}
               className="block h-full"
+               onClick={() => {
+              window.scrollTo(0, 0);
+              }}
             >
               <div className="relative overflow-hidden">
                 <LazyImage
@@ -261,7 +264,7 @@ const Deoghar = () => {
               </div>
 
               <div className="p-6">
-                <h3 className="text-xl font-bold text-neutral-900 mb-2 group-hover:text-pink-600 transition-colors">
+                <h3 className="text-xl font-bold text-neutral-900 mb-2 group-hover:text-pink-600 transition-colors line-clamp-3">
                   {service.description}
                 </h3>
 
