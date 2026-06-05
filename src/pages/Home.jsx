@@ -209,7 +209,7 @@ const Home = () => {
       </section>
 
       {/* Top Cities */}
-      <section className="container mx-auto px-4 sm:px-6 py-8 sm:py-12">
+      <section className="w-full px-1.5  sm:px-6  py-8 sm:py-12">
         <h2 className="text-2xl sm:text-3xl font-bold text-neutral-900 mb-6 sm:mb-8 text-center">
           Browse by City
         </h2>
@@ -252,7 +252,7 @@ const Home = () => {
         </div> */}
       </section>
 
-       <section className="container mx-auto px-4 sm:px-6 py-8 sm:py-12">
+       <section className="w-full px-1.5  sm:px-6 py-8 sm:py-12">
         <h2 className="text-2xl sm:text-3xl font-bold text-neutral-900 mb-6 sm:mb-8 text-center">
           Quick Links
         </h2>
@@ -271,7 +271,7 @@ const Home = () => {
       </section>
 
       {/* FAQ Section for AEO Optimization */}
-      <section className="container mx-auto px-4 sm:px-6 py-8 sm:py-12 bg-white rounded-xl sm:rounded-2xl shadow-sm">
+      <section className="w-full px-1.5  sm:px-6 py-8 sm:py-12 bg-white rounded-xl sm:rounded-2xl shadow-sm">
         <h2 className="text-2xl sm:text-3xl font-bold text-neutral-900 mb-6 sm:mb-8 text-center">
           Frequently Asked Questions
         </h2>
@@ -341,7 +341,7 @@ const Home = () => {
       </section>
 
       {/* SEO Content */}
-      <section className="container mx-auto px-4 sm:px-6 py-8 sm:py-12">
+      <section className="w-full px-1.5   sm:px-6 py-8 sm:py-12">
         <div className="bg-white rounded-xl sm:rounded-2xl p-4 sm:p-6 md:p-8 max-w-4xl mx-auto">
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             About BookEase - India's Premier Adult Services Directory

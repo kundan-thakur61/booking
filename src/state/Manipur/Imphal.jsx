@@ -140,8 +140,8 @@ const Imphal = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Imphal Escorts 2026 \u2014 83+ Verified Profiles | BookEase Manipur"
-        description="\u2713 83+ verified Imphal escorts \u2713 Imphal City & Thangal Bazaar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Imphal City, Thangal Bazaar, Paona Bazaar. 18+ only. Verified profiles."
+        title="Imphal Escorts 2026 \u2014 51+ Verified Profiles | BookEase Manipur"
+        description="\u2713 51+ verified Imphal escorts \u2713 Imphal City & Thangal Bazaar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Imphal City, Thangal Bazaar, Paona Bazaar. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/manipur/imphal"
         image="https://www.escortmumbaii.in/imphal-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Imphal = () => {
         faqSchema={imphalFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Imphal escorts 2026, escorts in Imphal, verified Imphal escorts, 83+ profiles, Imphal City escorts, Thangal Bazaar escorts, Paona Bazaar escorts, available tonight' },
+          { name: 'keywords', content: 'Imphal escorts 2026, escorts in Imphal, verified Imphal escorts, 51+ profiles, Imphal City escorts, Thangal Bazaar escorts, Paona Bazaar escorts, available tonight' },
           { name: 'geo.position', content: `${imphalData.coordinates.latitude};${imphalData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Imphal, Manipur' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Imphal = () => {
       <Header showBack title="Imphal Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Imphal = () => {
             <span>Imphal</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Imphal Escorts 2026  83+ Verified Companions in Imphal City & Thangal Bazaar
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Imphal Escorts 2026  51+ Verified Companions in Imphal City & Thangal Bazaar
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 83+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 51+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Imphal including Imphal City, Thangal Bazaar, Paona Bazaar.
             Discreet, safe, and professional service specifically for Imphal residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Imphal = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Imphal Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Imphal
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Imphal = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Imphal = () => {
             <li><strong>24/7 Imphal Availability:</strong> Services available round the clock across all Imphal areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Imphal residents and visitors</li>
             <li><strong>Imphal-Specific Safety:</strong> Secure platform with companions trained in Imphal area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 83+ verified profiles of independent escorts and professional companions specifically available in Imphal</li>
+            <li><strong>Extensive Selection:</strong> 51+ verified profiles of independent escorts and professional companions specifically available in Imphal</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Imphal's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Imphal = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Manipur Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Bishnupur", slug: "bishnupur", count: 50 },
               { name: "Thoubal", slug: "thoubal", count: 65 }

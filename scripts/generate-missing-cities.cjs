@@ -494,8 +494,8 @@ const ${componentName} = () => {
                     </div>
                   </div>
                   <div className="p-6">
-                    <h3 className="text-xl font-bold text-neutral-900 mb-2 group-hover:text-pink-600 transition-colors">{service.name}</h3>
-                    <p className="text-neutral-600 text-sm mb-4 line-clamp-2">{service.description}</p>
+                    <h3 className="text-xl font-bold text-neutral-900 mb-2 group-hover:text-pink-600 transition-colors">{service.description}</h3>
+                  
                     <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                       <div className="flex items-center gap-2 text-sm text-neutral-500">
                         <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -631,50 +631,51 @@ export default ${componentName};
 
 // Main execution
 function main() {
-  const existingStates = getExistingStates();
-  let createdFiles = 0;
-  let skippedFiles = 0;
+  let updatedFiles = 0;
 
   for (const [state, cities] of Object.entries(ALL_STATES)) {
-    const existingCities = getExistingCities(state);
-
     for (const city of cities) {
       const cityFileName = camelCase(city.name);
-      const serviceFileName = camelCase(city.name) + 'services';
-
-      // Check if city JSX already exists
-      if (existingCities.includes(cityFileName)) {
-        skippedFiles++;
-        continue;
-      }
+      const serviceFileName = `${cityFileName}services`;
 
       // Create state directory if needed
       const stateDirPath = path.join(stateDir, state);
-      if (!fs.existsSync(stateDirPath)) {
-        fs.mkdirSync(stateDirPath, { recursive: true });
-      }
+      fs.mkdirSync(stateDirPath, { recursive: true });
 
       // Create data directory if needed
       const dataDirPath = path.join(dataDir, state);
-      if (!fs.existsSync(dataDirPath)) {
-        fs.mkdirSync(dataDirPath, { recursive: true });
-      }
+      fs.mkdirSync(dataDirPath, { recursive: true });
 
-      // Write services data file
-      const servicesPath = path.join(dataDirPath, `${serviceFileName}.js`);
-      if (!fs.existsSync(servicesPath)) {
-        fs.writeFileSync(servicesPath, generateServicesFile(city, state), 'utf8');
-      }
+      // Overwrite services data file
+      const servicesPath = path.join(
+        dataDirPath,
+        `${serviceFileName}.js`
+      );
 
-      // Write city JSX component
-      const jsxPath = path.join(stateDirPath, `${cityFileName}.jsx`);
-      fs.writeFileSync(jsxPath, generateCityJSX(city, state, cities), 'utf8');
-      createdFiles++;
-      console.log(`  ✓ ${state}/${cityFileName}`);
+      fs.writeFileSync(
+        servicesPath,
+        generateServicesFile(city, state),
+        'utf8'
+      );
+
+      // Overwrite city JSX component
+      const jsxPath = path.join(
+        stateDirPath,
+        `${cityFileName}.jsx`
+      );
+
+      fs.writeFileSync(
+        jsxPath,
+        generateCityJSX(city, state, cities),
+        'utf8'
+      );
+
+      updatedFiles++;
+      console.log(`✓ Updated ${state}/${cityFileName}`);
     }
   }
 
-  console.log(`\nDone! Created ${createdFiles} city pages, skipped ${skippedFiles} existing.`);
+  console.log(`\nDone! Updated ${updatedFiles} city pages and service files.`);
 }
 
 main();

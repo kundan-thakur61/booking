@@ -140,8 +140,8 @@ const Roorkee = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Roorkee Escorts 2026 \u2014 121+ Verified Profiles | BookEase Uttarakhand"
-        description="\u2713 121+ verified Roorkee escorts \u2713 Roorkee City & Civil Lines \u2713 Available tonight \u2713 24/7 service. Book premium companions in Roorkee City, Civil Lines, Station Road. 18+ only. Verified profiles."
+        title="Roorkee Escorts 2026 \u2014 54+ Verified Profiles | BookEase Uttarakhand"
+        description="\u2713 54+ verified Roorkee escorts \u2713 Roorkee City & Civil Lines \u2713 Available tonight \u2713 24/7 service. Book premium companions in Roorkee City, Civil Lines, Station Road. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/uttarakhand/roorkee"
         image="https://www.escortmumbaii.in/roorkee-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Roorkee = () => {
         faqSchema={roorkeeFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Roorkee escorts 2026, escorts in Roorkee, verified Roorkee escorts, 121+ profiles, Roorkee City escorts, Civil Lines escorts, Station Road escorts, available tonight' },
+          { name: 'keywords', content: 'Roorkee escorts 2026, escorts in Roorkee, verified Roorkee escorts, 54+ profiles, Roorkee City escorts, Civil Lines escorts, Station Road escorts, available tonight' },
           { name: 'geo.position', content: `${roorkeeData.coordinates.latitude};${roorkeeData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Roorkee, Uttarakhand' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Roorkee = () => {
       <Header showBack title="Roorkee Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Roorkee = () => {
             <span>Roorkee</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Roorkee Escorts 2026  121+ Verified Companions in Roorkee City & Civil Lines
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Roorkee Escorts 2026  54+ Verified Companions in Roorkee City & Civil Lines
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 121+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 54+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Roorkee including Roorkee City, Civil Lines, Station Road.
             Discreet, safe, and professional service specifically for Roorkee residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Roorkee = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Roorkee Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Roorkee
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Roorkee = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Roorkee = () => {
             <li><strong>24/7 Roorkee Availability:</strong> Services available round the clock across all Roorkee areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Roorkee residents and visitors</li>
             <li><strong>Roorkee-Specific Safety:</strong> Secure platform with companions trained in Roorkee area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 121+ verified profiles of independent escorts and professional companions specifically available in Roorkee</li>
+            <li><strong>Extensive Selection:</strong> 54+ verified profiles of independent escorts and professional companions specifically available in Roorkee</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Roorkee's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Roorkee = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Uttarakhand Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Dehradun", slug: "dehradun", count: 50 },
               { name: "Haldwani", slug: "haldwani", count: 65 },

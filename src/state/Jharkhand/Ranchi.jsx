@@ -140,8 +140,8 @@ const Ranchi = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Ranchi Escorts 2026 \u2014 67+ Verified Profiles | BookEase Jharkhand"
-        description="\u2713 67+ verified Ranchi escorts \u2713 Ranchi City & Main Road \u2713 Available tonight \u2713 24/7 service. Book premium companions in Ranchi City, Main Road, Doranda. 18+ only. Verified profiles."
+        title="Ranchi Escorts 2026 \u2014 77+ Verified Profiles | BookEase Jharkhand"
+        description="\u2713 77+ verified Ranchi escorts \u2713 Ranchi City & Main Road \u2713 Available tonight \u2713 24/7 service. Book premium companions in Ranchi City, Main Road, Doranda. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/jharkhand/ranchi"
         image="https://www.escortmumbaii.in/ranchi-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Ranchi = () => {
         faqSchema={ranchiFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Ranchi escorts 2026, escorts in Ranchi, verified Ranchi escorts, 67+ profiles, Ranchi City escorts, Main Road escorts, Doranda escorts, available tonight' },
+          { name: 'keywords', content: 'Ranchi escorts 2026, escorts in Ranchi, verified Ranchi escorts, 77+ profiles, Ranchi City escorts, Main Road escorts, Doranda escorts, available tonight' },
           { name: 'geo.position', content: `${ranchiData.coordinates.latitude};${ranchiData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Ranchi, Jharkhand' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Ranchi = () => {
       <Header showBack title="Ranchi Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Ranchi = () => {
             <span>Ranchi</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Ranchi Escorts 2026  67+ Verified Companions in Ranchi City & Main Road
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Ranchi Escorts 2026  77+ Verified Companions in Ranchi City & Main Road
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 67+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 77+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Ranchi including Ranchi City, Main Road, Doranda.
             Discreet, safe, and professional service specifically for Ranchi residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Ranchi = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Ranchi Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Ranchi
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Ranchi = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Ranchi = () => {
             <li><strong>24/7 Ranchi Availability:</strong> Services available round the clock across all Ranchi areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Ranchi residents and visitors</li>
             <li><strong>Ranchi-Specific Safety:</strong> Secure platform with companions trained in Ranchi area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 67+ verified profiles of independent escorts and professional companions specifically available in Ranchi</li>
+            <li><strong>Extensive Selection:</strong> 77+ verified profiles of independent escorts and professional companions specifically available in Ranchi</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Ranchi's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Ranchi = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Jharkhand Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Bokaro", slug: "bokaro", count: 50 },
               { name: "Deoghar", slug: "deoghar", count: 65 },

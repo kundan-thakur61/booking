@@ -140,8 +140,8 @@ const Giridih = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Giridih Escorts 2026 \u2014 94+ Verified Profiles | BookEase Jharkhand"
-        description="\u2713 94+ verified Giridih escorts \u2713 Giridih Town & Station Road \u2713 Available tonight \u2713 24/7 service. Book premium companions in Giridih Town, Station Road, Court Road. 18+ only. Verified profiles."
+        title="Giridih Escorts 2026 \u2014 62+ Verified Profiles | BookEase Jharkhand"
+        description="\u2713 62+ verified Giridih escorts \u2713 Giridih Town & Station Road \u2713 Available tonight \u2713 24/7 service. Book premium companions in Giridih Town, Station Road, Court Road. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/jharkhand/giridih"
         image="https://www.escortmumbaii.in/giridih-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Giridih = () => {
         faqSchema={giridihFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Giridih escorts 2026, escorts in Giridih, verified Giridih escorts, 94+ profiles, Giridih Town escorts, Station Road escorts, Court Road escorts, available tonight' },
+          { name: 'keywords', content: 'Giridih escorts 2026, escorts in Giridih, verified Giridih escorts, 62+ profiles, Giridih Town escorts, Station Road escorts, Court Road escorts, available tonight' },
           { name: 'geo.position', content: `${giridihData.coordinates.latitude};${giridihData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Giridih, Jharkhand' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Giridih = () => {
       <Header showBack title="Giridih Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Giridih = () => {
             <span>Giridih</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Giridih Escorts 2026  94+ Verified Companions in Giridih Town & Station Road
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Giridih Escorts 2026  62+ Verified Companions in Giridih Town & Station Road
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 94+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 62+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Giridih including Giridih Town, Station Road, Court Road.
             Discreet, safe, and professional service specifically for Giridih residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Giridih = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Giridih Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Giridih
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Giridih = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Giridih = () => {
             <li><strong>24/7 Giridih Availability:</strong> Services available round the clock across all Giridih areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Giridih residents and visitors</li>
             <li><strong>Giridih-Specific Safety:</strong> Secure platform with companions trained in Giridih area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 94+ verified profiles of independent escorts and professional companions specifically available in Giridih</li>
+            <li><strong>Extensive Selection:</strong> 62+ verified profiles of independent escorts and professional companions specifically available in Giridih</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Giridih's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Giridih = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Jharkhand Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Bokaro", slug: "bokaro", count: 50 },
               { name: "Deoghar", slug: "deoghar", count: 65 },

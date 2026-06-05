@@ -140,8 +140,8 @@ const Raipur = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Raipur Escorts 2026 \u2014 110+ Verified Profiles | BookEase Chhattisgarh"
-        description="\u2713 110+ verified Raipur escorts \u2713 Raipur City & Shankar Nagar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Raipur City, Shankar Nagar, Telibandha. 18+ only. Verified profiles."
+        title="Raipur Escorts 2026 \u2014 58+ Verified Profiles | BookEase Chhattisgarh"
+        description="\u2713 58+ verified Raipur escorts \u2713 Raipur City & Shankar Nagar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Raipur City, Shankar Nagar, Telibandha. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/chhattisgarh/raipur"
         image="https://www.escortmumbaii.in/raipur-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Raipur = () => {
         faqSchema={raipurFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Raipur escorts 2026, escorts in Raipur, verified Raipur escorts, 110+ profiles, Raipur City escorts, Shankar Nagar escorts, Telibandha escorts, available tonight' },
+          { name: 'keywords', content: 'Raipur escorts 2026, escorts in Raipur, verified Raipur escorts, 58+ profiles, Raipur City escorts, Shankar Nagar escorts, Telibandha escorts, available tonight' },
           { name: 'geo.position', content: `${raipurData.coordinates.latitude};${raipurData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Raipur, Chhattisgarh' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Raipur = () => {
       <Header showBack title="Raipur Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Raipur = () => {
             <span>Raipur</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Raipur Escorts 2026  110+ Verified Companions in Raipur City & Shankar Nagar
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Raipur Escorts 2026  58+ Verified Companions in Raipur City & Shankar Nagar
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 110+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 58+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Raipur including Raipur City, Shankar Nagar, Telibandha.
             Discreet, safe, and professional service specifically for Raipur residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Raipur = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Raipur Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Raipur
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Raipur = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Raipur = () => {
             <li><strong>24/7 Raipur Availability:</strong> Services available round the clock across all Raipur areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Raipur residents and visitors</li>
             <li><strong>Raipur-Specific Safety:</strong> Secure platform with companions trained in Raipur area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 110+ verified profiles of independent escorts and professional companions specifically available in Raipur</li>
+            <li><strong>Extensive Selection:</strong> 58+ verified profiles of independent escorts and professional companions specifically available in Raipur</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Raipur's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Raipur = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Chhattisgarh Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Bhilai", slug: "bhilai", count: 50 },
               { name: "Bilaspur", slug: "bilaspur", count: 65 },

@@ -140,8 +140,8 @@ const Gyalshing = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Gyalshing Escorts 2026 \u2014 73+ Verified Profiles | BookEase Sikkim"
-        description="\u2713 73+ verified Gyalshing escorts \u2713 Gyalshing Town & Pelling \u2713 Available tonight \u2713 24/7 service. Book premium companions in Gyalshing Town, Pelling, Yuksom. 18+ only. Verified profiles."
+        title="Gyalshing Escorts 2026 \u2014 69+ Verified Profiles | BookEase Sikkim"
+        description="\u2713 69+ verified Gyalshing escorts \u2713 Gyalshing Town & Pelling \u2713 Available tonight \u2713 24/7 service. Book premium companions in Gyalshing Town, Pelling, Yuksom. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/sikkim/gyalshing"
         image="https://www.escortmumbaii.in/gyalshing-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Gyalshing = () => {
         faqSchema={gyalshingFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Gyalshing escorts 2026, escorts in Gyalshing, verified Gyalshing escorts, 73+ profiles, Gyalshing Town escorts, Pelling escorts, Yuksom escorts, available tonight' },
+          { name: 'keywords', content: 'Gyalshing escorts 2026, escorts in Gyalshing, verified Gyalshing escorts, 69+ profiles, Gyalshing Town escorts, Pelling escorts, Yuksom escorts, available tonight' },
           { name: 'geo.position', content: `${gyalshingData.coordinates.latitude};${gyalshingData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Gyalshing, Sikkim' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Gyalshing = () => {
       <Header showBack title="Gyalshing Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Gyalshing = () => {
             <span>Gyalshing</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Gyalshing Escorts 2026  73+ Verified Companions in Gyalshing Town & Pelling
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Gyalshing Escorts 2026  69+ Verified Companions in Gyalshing Town & Pelling
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 73+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 69+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Gyalshing including Gyalshing Town, Pelling, Yuksom.
             Discreet, safe, and professional service specifically for Gyalshing residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Gyalshing = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Gyalshing Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Gyalshing
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Gyalshing = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Gyalshing = () => {
             <li><strong>24/7 Gyalshing Availability:</strong> Services available round the clock across all Gyalshing areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Gyalshing residents and visitors</li>
             <li><strong>Gyalshing-Specific Safety:</strong> Secure platform with companions trained in Gyalshing area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 73+ verified profiles of independent escorts and professional companions specifically available in Gyalshing</li>
+            <li><strong>Extensive Selection:</strong> 69+ verified profiles of independent escorts and professional companions specifically available in Gyalshing</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Gyalshing's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Gyalshing = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Sikkim Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Gangtok", slug: "gangtok", count: 50 },
               { name: "Namchi", slug: "namchi", count: 65 }

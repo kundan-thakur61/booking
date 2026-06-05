@@ -140,8 +140,8 @@ const Namchi = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Namchi Escorts 2026 \u2014 103+ Verified Profiles | BookEase Sikkim"
-        description="\u2713 103+ verified Namchi escorts \u2713 Namchi Town & Central Park \u2713 Available tonight \u2713 24/7 service. Book premium companions in Namchi Town, Central Park, Damthang. 18+ only. Verified profiles."
+        title="Namchi Escorts 2026 \u2014 110+ Verified Profiles | BookEase Sikkim"
+        description="\u2713 110+ verified Namchi escorts \u2713 Namchi Town & Central Park \u2713 Available tonight \u2713 24/7 service. Book premium companions in Namchi Town, Central Park, Damthang. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/sikkim/namchi"
         image="https://www.escortmumbaii.in/namchi-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Namchi = () => {
         faqSchema={namchiFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Namchi escorts 2026, escorts in Namchi, verified Namchi escorts, 103+ profiles, Namchi Town escorts, Central Park escorts, Damthang escorts, available tonight' },
+          { name: 'keywords', content: 'Namchi escorts 2026, escorts in Namchi, verified Namchi escorts, 110+ profiles, Namchi Town escorts, Central Park escorts, Damthang escorts, available tonight' },
           { name: 'geo.position', content: `${namchiData.coordinates.latitude};${namchiData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Namchi, Sikkim' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Namchi = () => {
       <Header showBack title="Namchi Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Namchi = () => {
             <span>Namchi</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Namchi Escorts 2026  103+ Verified Companions in Namchi Town & Central Park
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Namchi Escorts 2026  110+ Verified Companions in Namchi Town & Central Park
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 103+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 110+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Namchi including Namchi Town, Central Park, Damthang.
             Discreet, safe, and professional service specifically for Namchi residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Namchi = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Namchi Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Namchi
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Namchi = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Namchi = () => {
             <li><strong>24/7 Namchi Availability:</strong> Services available round the clock across all Namchi areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Namchi residents and visitors</li>
             <li><strong>Namchi-Specific Safety:</strong> Secure platform with companions trained in Namchi area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 103+ verified profiles of independent escorts and professional companions specifically available in Namchi</li>
+            <li><strong>Extensive Selection:</strong> 110+ verified profiles of independent escorts and professional companions specifically available in Namchi</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Namchi's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Namchi = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Sikkim Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Gangtok", slug: "gangtok", count: 50 },
               { name: "Gyalshing", slug: "gyalshing", count: 65 }

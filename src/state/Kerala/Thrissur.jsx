@@ -140,8 +140,8 @@ const Thrissur = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Thrissur Escorts 2026 \u2014 100+ Verified Profiles | BookEase Kerala"
-        description="\u2713 100+ verified Thrissur escorts \u2713 Thrissur City & Round East \u2713 Available tonight \u2713 24/7 service. Book premium companions in Thrissur City, Round East, Round South. 18+ only. Verified profiles."
+        title="Thrissur Escorts 2026 \u2014 128+ Verified Profiles | BookEase Kerala"
+        description="\u2713 128+ verified Thrissur escorts \u2713 Thrissur City & Round East \u2713 Available tonight \u2713 24/7 service. Book premium companions in Thrissur City, Round East, Round South. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/kerala/thrissur"
         image="https://www.escortmumbaii.in/thrissur-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Thrissur = () => {
         faqSchema={thrissurFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Thrissur escorts 2026, escorts in Thrissur, verified Thrissur escorts, 100+ profiles, Thrissur City escorts, Round East escorts, Round South escorts, available tonight' },
+          { name: 'keywords', content: 'Thrissur escorts 2026, escorts in Thrissur, verified Thrissur escorts, 128+ profiles, Thrissur City escorts, Round East escorts, Round South escorts, available tonight' },
           { name: 'geo.position', content: `${thrissurData.coordinates.latitude};${thrissurData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Thrissur, Kerala' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Thrissur = () => {
       <Header showBack title="Thrissur Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Thrissur = () => {
             <span>Thrissur</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Thrissur Escorts 2026  100+ Verified Companions in Thrissur City & Round East
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Thrissur Escorts 2026  128+ Verified Companions in Thrissur City & Round East
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 100+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 128+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Thrissur including Thrissur City, Round East, Round South.
             Discreet, safe, and professional service specifically for Thrissur residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Thrissur = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Thrissur Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Thrissur
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Thrissur = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Thrissur = () => {
             <li><strong>24/7 Thrissur Availability:</strong> Services available round the clock across all Thrissur areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Thrissur residents and visitors</li>
             <li><strong>Thrissur-Specific Safety:</strong> Secure platform with companions trained in Thrissur area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 100+ verified profiles of independent escorts and professional companions specifically available in Thrissur</li>
+            <li><strong>Extensive Selection:</strong> 128+ verified profiles of independent escorts and professional companions specifically available in Thrissur</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Thrissur's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Thrissur = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Kerala Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Alappuzha", slug: "alappuzha", count: 50 },
               { name: "Kannur", slug: "kannur", count: 65 },

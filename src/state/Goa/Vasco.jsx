@@ -140,8 +140,8 @@ const Vasco = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Vasco Escorts 2026 \u2014 97+ Verified Profiles | BookEase Goa"
-        description="\u2713 97+ verified Vasco escorts \u2713 Vasco City & Mangor Hill \u2713 Available tonight \u2713 24/7 service. Book premium companions in Vasco City, Mangor Hill, Baina. 18+ only. Verified profiles."
+        title="Vasco Escorts 2026 \u2014 126+ Verified Profiles | BookEase Goa"
+        description="\u2713 126+ verified Vasco escorts \u2713 Vasco City & Mangor Hill \u2713 Available tonight \u2713 24/7 service. Book premium companions in Vasco City, Mangor Hill, Baina. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/goa/vasco"
         image="https://www.escortmumbaii.in/vasco-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Vasco = () => {
         faqSchema={vascoFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Vasco escorts 2026, escorts in Vasco, verified Vasco escorts, 97+ profiles, Vasco City escorts, Mangor Hill escorts, Baina escorts, available tonight' },
+          { name: 'keywords', content: 'Vasco escorts 2026, escorts in Vasco, verified Vasco escorts, 126+ profiles, Vasco City escorts, Mangor Hill escorts, Baina escorts, available tonight' },
           { name: 'geo.position', content: `${vascoData.coordinates.latitude};${vascoData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Vasco, Goa' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Vasco = () => {
       <Header showBack title="Vasco Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Vasco = () => {
             <span>Vasco</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Vasco Escorts 2026  97+ Verified Companions in Vasco City & Mangor Hill
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Vasco Escorts 2026  126+ Verified Companions in Vasco City & Mangor Hill
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 97+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 126+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Vasco including Vasco City, Mangor Hill, Baina.
             Discreet, safe, and professional service specifically for Vasco residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Vasco = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Vasco Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Vasco
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Vasco = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Vasco = () => {
             <li><strong>24/7 Vasco Availability:</strong> Services available round the clock across all Vasco areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Vasco residents and visitors</li>
             <li><strong>Vasco-Specific Safety:</strong> Secure platform with companions trained in Vasco area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 97+ verified profiles of independent escorts and professional companions specifically available in Vasco</li>
+            <li><strong>Extensive Selection:</strong> 126+ verified profiles of independent escorts and professional companions specifically available in Vasco</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Vasco's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Vasco = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Goa Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Calangute", slug: "calangute", count: 50 },
               { name: "Mapusa", slug: "mapusa", count: 65 },

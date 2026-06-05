@@ -140,8 +140,8 @@ const Kohima = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Kohima Escorts 2026 \u2014 90+ Verified Profiles | BookEase Nagaland"
-        description="\u2713 90+ verified Kohima escorts \u2713 Kohima Town & Main Town \u2713 Available tonight \u2713 24/7 service. Book premium companions in Kohima Town, Main Town, High School Area. 18+ only. Verified profiles."
+        title="Kohima Escorts 2026 \u2014 119+ Verified Profiles | BookEase Nagaland"
+        description="\u2713 119+ verified Kohima escorts \u2713 Kohima Town & Main Town \u2713 Available tonight \u2713 24/7 service. Book premium companions in Kohima Town, Main Town, High School Area. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/nagaland/kohima"
         image="https://www.escortmumbaii.in/kohima-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Kohima = () => {
         faqSchema={kohimaFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Kohima escorts 2026, escorts in Kohima, verified Kohima escorts, 90+ profiles, Kohima Town escorts, Main Town escorts, High School Area escorts, available tonight' },
+          { name: 'keywords', content: 'Kohima escorts 2026, escorts in Kohima, verified Kohima escorts, 119+ profiles, Kohima Town escorts, Main Town escorts, High School Area escorts, available tonight' },
           { name: 'geo.position', content: `${kohimaData.coordinates.latitude};${kohimaData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Kohima, Nagaland' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Kohima = () => {
       <Header showBack title="Kohima Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Kohima = () => {
             <span>Kohima</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Kohima Escorts 2026  90+ Verified Companions in Kohima Town & Main Town
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Kohima Escorts 2026  119+ Verified Companions in Kohima Town & Main Town
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 90+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 119+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Kohima including Kohima Town, Main Town, High School Area.
             Discreet, safe, and professional service specifically for Kohima residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Kohima = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Kohima Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Kohima
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Kohima = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Kohima = () => {
             <li><strong>24/7 Kohima Availability:</strong> Services available round the clock across all Kohima areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Kohima residents and visitors</li>
             <li><strong>Kohima-Specific Safety:</strong> Secure platform with companions trained in Kohima area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 90+ verified profiles of independent escorts and professional companions specifically available in Kohima</li>
+            <li><strong>Extensive Selection:</strong> 119+ verified profiles of independent escorts and professional companions specifically available in Kohima</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Kohima's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Kohima = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Nagaland Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Dimapur", slug: "dimapur", count: 50 },
               { name: "Mokokchung", slug: "mokokchung", count: 65 }

@@ -140,8 +140,8 @@ const Bhubaneswar = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Bhubaneswar Escorts 2026 \u2014 96+ Verified Profiles | BookEase Odisha"
-        description="\u2713 96+ verified Bhubaneswar escorts \u2713 Bhubaneswar City & Saheed Nagar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Bhubaneswar City, Saheed Nagar, Jaydev Vihar. 18+ only. Verified profiles."
+        title="Bhubaneswar Escorts 2026 \u2014 122+ Verified Profiles | BookEase Odisha"
+        description="\u2713 122+ verified Bhubaneswar escorts \u2713 Bhubaneswar City & Saheed Nagar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Bhubaneswar City, Saheed Nagar, Jaydev Vihar. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/odisha/bhubaneswar"
         image="https://www.escortmumbaii.in/bhubaneswar-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Bhubaneswar = () => {
         faqSchema={bhubaneswarFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Bhubaneswar escorts 2026, escorts in Bhubaneswar, verified Bhubaneswar escorts, 96+ profiles, Bhubaneswar City escorts, Saheed Nagar escorts, Jaydev Vihar escorts, available tonight' },
+          { name: 'keywords', content: 'Bhubaneswar escorts 2026, escorts in Bhubaneswar, verified Bhubaneswar escorts, 122+ profiles, Bhubaneswar City escorts, Saheed Nagar escorts, Jaydev Vihar escorts, available tonight' },
           { name: 'geo.position', content: `${bhubaneswarData.coordinates.latitude};${bhubaneswarData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Bhubaneswar, Odisha' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Bhubaneswar = () => {
       <Header showBack title="Bhubaneswar Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Bhubaneswar = () => {
             <span>Bhubaneswar</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Bhubaneswar Escorts 2026  96+ Verified Companions in Bhubaneswar City & Saheed Nagar
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Bhubaneswar Escorts 2026  122+ Verified Companions in Bhubaneswar City & Saheed Nagar
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 96+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 122+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Bhubaneswar including Bhubaneswar City, Saheed Nagar, Jaydev Vihar.
             Discreet, safe, and professional service specifically for Bhubaneswar residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Bhubaneswar = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Bhubaneswar Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Bhubaneswar
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Bhubaneswar = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Bhubaneswar = () => {
             <li><strong>24/7 Bhubaneswar Availability:</strong> Services available round the clock across all Bhubaneswar areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Bhubaneswar residents and visitors</li>
             <li><strong>Bhubaneswar-Specific Safety:</strong> Secure platform with companions trained in Bhubaneswar area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 96+ verified profiles of independent escorts and professional companions specifically available in Bhubaneswar</li>
+            <li><strong>Extensive Selection:</strong> 122+ verified profiles of independent escorts and professional companions specifically available in Bhubaneswar</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Bhubaneswar's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Bhubaneswar = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Odisha Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Berhampur", slug: "berhampur", count: 50 },
               { name: "Cuttack", slug: "cuttack", count: 65 },

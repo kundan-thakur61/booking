@@ -140,8 +140,8 @@ const Korba = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Korba Escorts 2026 \u2014 119+ Verified Profiles | BookEase Chhattisgarh"
-        description="\u2713 119+ verified Korba escorts \u2713 Korba Town & NTPC Township \u2713 Available tonight \u2713 24/7 service. Book premium companions in Korba Town, NTPC Township, Kusmunda. 18+ only. Verified profiles."
+        title="Korba Escorts 2026 \u2014 103+ Verified Profiles | BookEase Chhattisgarh"
+        description="\u2713 103+ verified Korba escorts \u2713 Korba Town & NTPC Township \u2713 Available tonight \u2713 24/7 service. Book premium companions in Korba Town, NTPC Township, Kusmunda. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/chhattisgarh/korba"
         image="https://www.escortmumbaii.in/korba-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Korba = () => {
         faqSchema={korbaFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Korba escorts 2026, escorts in Korba, verified Korba escorts, 119+ profiles, Korba Town escorts, NTPC Township escorts, Kusmunda escorts, available tonight' },
+          { name: 'keywords', content: 'Korba escorts 2026, escorts in Korba, verified Korba escorts, 103+ profiles, Korba Town escorts, NTPC Township escorts, Kusmunda escorts, available tonight' },
           { name: 'geo.position', content: `${korbaData.coordinates.latitude};${korbaData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Korba, Chhattisgarh' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Korba = () => {
       <Header showBack title="Korba Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Korba = () => {
             <span>Korba</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Korba Escorts 2026  119+ Verified Companions in Korba Town & NTPC Township
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Korba Escorts 2026  103+ Verified Companions in Korba Town & NTPC Township
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 119+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 103+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Korba including Korba Town, NTPC Township, Kusmunda.
             Discreet, safe, and professional service specifically for Korba residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Korba = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Korba Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Korba
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Korba = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Korba = () => {
             <li><strong>24/7 Korba Availability:</strong> Services available round the clock across all Korba areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Korba residents and visitors</li>
             <li><strong>Korba-Specific Safety:</strong> Secure platform with companions trained in Korba area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 119+ verified profiles of independent escorts and professional companions specifically available in Korba</li>
+            <li><strong>Extensive Selection:</strong> 103+ verified profiles of independent escorts and professional companions specifically available in Korba</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Korba's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Korba = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Chhattisgarh Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Bhilai", slug: "bhilai", count: 50 },
               { name: "Bilaspur", slug: "bilaspur", count: 65 },

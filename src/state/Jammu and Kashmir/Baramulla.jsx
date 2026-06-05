@@ -140,8 +140,8 @@ const Baramulla = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Baramulla Escorts 2026 \u2014 118+ Verified Profiles | BookEase Jammu and Kashmir"
-        description="\u2713 118+ verified Baramulla escorts \u2713 Baramulla Town & Dewan Bagh \u2713 Available tonight \u2713 24/7 service. Book premium companions in Baramulla Town, Dewan Bagh, Kanispora. 18+ only. Verified profiles."
+        title="Baramulla Escorts 2026 \u2014 89+ Verified Profiles | BookEase Jammu and Kashmir"
+        description="\u2713 89+ verified Baramulla escorts \u2713 Baramulla Town & Dewan Bagh \u2713 Available tonight \u2713 24/7 service. Book premium companions in Baramulla Town, Dewan Bagh, Kanispora. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/jammu-and-kashmir/baramulla"
         image="https://www.escortmumbaii.in/baramulla-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Baramulla = () => {
         faqSchema={baramullaFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Baramulla escorts 2026, escorts in Baramulla, verified Baramulla escorts, 118+ profiles, Baramulla Town escorts, Dewan Bagh escorts, Kanispora escorts, available tonight' },
+          { name: 'keywords', content: 'Baramulla escorts 2026, escorts in Baramulla, verified Baramulla escorts, 89+ profiles, Baramulla Town escorts, Dewan Bagh escorts, Kanispora escorts, available tonight' },
           { name: 'geo.position', content: `${baramullaData.coordinates.latitude};${baramullaData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Baramulla, Jammu and Kashmir' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Baramulla = () => {
       <Header showBack title="Baramulla Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Baramulla = () => {
             <span>Baramulla</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Baramulla Escorts 2026  118+ Verified Companions in Baramulla Town & Dewan Bagh
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Baramulla Escorts 2026  89+ Verified Companions in Baramulla Town & Dewan Bagh
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 118+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 89+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Baramulla including Baramulla Town, Dewan Bagh, Kanispora.
             Discreet, safe, and professional service specifically for Baramulla residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Baramulla = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Baramulla Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Baramulla
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Baramulla = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Baramulla = () => {
             <li><strong>24/7 Baramulla Availability:</strong> Services available round the clock across all Baramulla areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Baramulla residents and visitors</li>
             <li><strong>Baramulla-Specific Safety:</strong> Secure platform with companions trained in Baramulla area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 118+ verified profiles of independent escorts and professional companions specifically available in Baramulla</li>
+            <li><strong>Extensive Selection:</strong> 89+ verified profiles of independent escorts and professional companions specifically available in Baramulla</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Baramulla's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Baramulla = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Jammu and Kashmir Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Anantnag", slug: "anantnag", count: 50 },
               { name: "Jammu", slug: "jammu", count: 65 },

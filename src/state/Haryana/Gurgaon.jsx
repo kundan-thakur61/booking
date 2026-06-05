@@ -140,8 +140,8 @@ const Gurgaon = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Gurgaon Escorts 2026 \u2014 93+ Verified Profiles | BookEase Haryana"
-        description="\u2713 93+ verified Gurgaon escorts \u2713 Gurgaon City & DLF Phase 1 \u2713 Available tonight \u2713 24/7 service. Book premium companions in Gurgaon City, DLF Phase 1, Sohna Road. 18+ only. Verified profiles."
+        title="Gurgaon Escorts 2026 \u2014 92+ Verified Profiles | BookEase Haryana"
+        description="\u2713 92+ verified Gurgaon escorts \u2713 Gurgaon City & DLF Phase 1 \u2713 Available tonight \u2713 24/7 service. Book premium companions in Gurgaon City, DLF Phase 1, Sohna Road. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/haryana/gurgaon"
         image="https://www.escortmumbaii.in/gurgaon-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Gurgaon = () => {
         faqSchema={gurgaonFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Gurgaon escorts 2026, escorts in Gurgaon, verified Gurgaon escorts, 93+ profiles, Gurgaon City escorts, DLF Phase 1 escorts, Sohna Road escorts, available tonight' },
+          { name: 'keywords', content: 'Gurgaon escorts 2026, escorts in Gurgaon, verified Gurgaon escorts, 92+ profiles, Gurgaon City escorts, DLF Phase 1 escorts, Sohna Road escorts, available tonight' },
           { name: 'geo.position', content: `${gurgaonData.coordinates.latitude};${gurgaonData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Gurgaon, Haryana' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Gurgaon = () => {
       <Header showBack title="Gurgaon Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Gurgaon = () => {
             <span>Gurgaon</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Gurgaon Escorts 2026  93+ Verified Companions in Gurgaon City & DLF Phase 1
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Gurgaon Escorts 2026  92+ Verified Companions in Gurgaon City & DLF Phase 1
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 93+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 92+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Gurgaon including Gurgaon City, DLF Phase 1, Sohna Road.
             Discreet, safe, and professional service specifically for Gurgaon residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Gurgaon = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Gurgaon Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Gurgaon
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Gurgaon = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Gurgaon = () => {
             <li><strong>24/7 Gurgaon Availability:</strong> Services available round the clock across all Gurgaon areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Gurgaon residents and visitors</li>
             <li><strong>Gurgaon-Specific Safety:</strong> Secure platform with companions trained in Gurgaon area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 93+ verified profiles of independent escorts and professional companions specifically available in Gurgaon</li>
+            <li><strong>Extensive Selection:</strong> 92+ verified profiles of independent escorts and professional companions specifically available in Gurgaon</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Gurgaon's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Gurgaon = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Haryana Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Ambala", slug: "ambala", count: 50 },
               { name: "Faridabad", slug: "faridabad", count: 65 },

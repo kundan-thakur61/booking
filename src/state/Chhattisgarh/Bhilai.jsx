@@ -140,8 +140,8 @@ const Bhilai = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Bhilai Escorts 2026 \u2014 129+ Verified Profiles | BookEase Chhattisgarh"
-        description="\u2713 129+ verified Bhilai escorts \u2713 Bhilai Township & Supela \u2713 Available tonight \u2713 24/7 service. Book premium companions in Bhilai Township, Supela, Nehru Nagar. 18+ only. Verified profiles."
+        title="Bhilai Escorts 2026 \u2014 65+ Verified Profiles | BookEase Chhattisgarh"
+        description="\u2713 65+ verified Bhilai escorts \u2713 Bhilai Township & Supela \u2713 Available tonight \u2713 24/7 service. Book premium companions in Bhilai Township, Supela, Nehru Nagar. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/chhattisgarh/bhilai"
         image="https://www.escortmumbaii.in/bhilai-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Bhilai = () => {
         faqSchema={bhilaiFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Bhilai escorts 2026, escorts in Bhilai, verified Bhilai escorts, 129+ profiles, Bhilai Township escorts, Supela escorts, Nehru Nagar escorts, available tonight' },
+          { name: 'keywords', content: 'Bhilai escorts 2026, escorts in Bhilai, verified Bhilai escorts, 65+ profiles, Bhilai Township escorts, Supela escorts, Nehru Nagar escorts, available tonight' },
           { name: 'geo.position', content: `${bhilaiData.coordinates.latitude};${bhilaiData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Bhilai, Chhattisgarh' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Bhilai = () => {
       <Header showBack title="Bhilai Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Bhilai = () => {
             <span>Bhilai</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Bhilai Escorts 2026  129+ Verified Companions in Bhilai Township & Supela
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Bhilai Escorts 2026  65+ Verified Companions in Bhilai Township & Supela
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 129+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 65+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Bhilai including Bhilai Township, Supela, Nehru Nagar.
             Discreet, safe, and professional service specifically for Bhilai residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Bhilai = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Bhilai Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Bhilai
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Bhilai = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Bhilai = () => {
             <li><strong>24/7 Bhilai Availability:</strong> Services available round the clock across all Bhilai areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Bhilai residents and visitors</li>
             <li><strong>Bhilai-Specific Safety:</strong> Secure platform with companions trained in Bhilai area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 129+ verified profiles of independent escorts and professional companions specifically available in Bhilai</li>
+            <li><strong>Extensive Selection:</strong> 65+ verified profiles of independent escorts and professional companions specifically available in Bhilai</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Bhilai's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Bhilai = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Chhattisgarh Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Bilaspur", slug: "bilaspur", count: 50 },
               { name: "Durg", slug: "durg", count: 65 },

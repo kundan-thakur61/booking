@@ -140,8 +140,8 @@ const Calangute = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Calangute Escorts 2026 \u2014 87+ Verified Profiles | BookEase Goa"
-        description="\u2713 87+ verified Calangute escorts \u2713 Calangute Beach & Baga \u2713 Available tonight \u2713 24/7 service. Book premium companions in Calangute Beach, Baga, Candolim. 18+ only. Verified profiles."
+        title="Calangute Escorts 2026 \u2014 114+ Verified Profiles | BookEase Goa"
+        description="\u2713 114+ verified Calangute escorts \u2713 Calangute Beach & Baga \u2713 Available tonight \u2713 24/7 service. Book premium companions in Calangute Beach, Baga, Candolim. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/goa/calangute"
         image="https://www.escortmumbaii.in/calangute-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Calangute = () => {
         faqSchema={calanguteFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Calangute escorts 2026, escorts in Calangute, verified Calangute escorts, 87+ profiles, Calangute Beach escorts, Baga escorts, Candolim escorts, available tonight' },
+          { name: 'keywords', content: 'Calangute escorts 2026, escorts in Calangute, verified Calangute escorts, 114+ profiles, Calangute Beach escorts, Baga escorts, Candolim escorts, available tonight' },
           { name: 'geo.position', content: `${calanguteData.coordinates.latitude};${calanguteData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Calangute, Goa' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Calangute = () => {
       <Header showBack title="Calangute Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Calangute = () => {
             <span>Calangute</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Calangute Escorts 2026  87+ Verified Companions in Calangute Beach & Baga
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Calangute Escorts 2026  114+ Verified Companions in Calangute Beach & Baga
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 87+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 114+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Calangute including Calangute Beach, Baga, Candolim.
             Discreet, safe, and professional service specifically for Calangute residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Calangute = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Calangute Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Calangute
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Calangute = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Calangute = () => {
             <li><strong>24/7 Calangute Availability:</strong> Services available round the clock across all Calangute areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Calangute residents and visitors</li>
             <li><strong>Calangute-Specific Safety:</strong> Secure platform with companions trained in Calangute area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 87+ verified profiles of independent escorts and professional companions specifically available in Calangute</li>
+            <li><strong>Extensive Selection:</strong> 114+ verified profiles of independent escorts and professional companions specifically available in Calangute</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Calangute's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Calangute = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Goa Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Mapusa", slug: "mapusa", count: 50 },
               { name: "Margao", slug: "margao", count: 65 },

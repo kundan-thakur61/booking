@@ -140,8 +140,8 @@ const Faridabad = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Faridabad Escorts 2026 \u2014 127+ Verified Profiles | BookEase Haryana"
-        description="\u2713 127+ verified Faridabad escorts \u2713 Faridabad City & NIT \u2713 Available tonight \u2713 24/7 service. Book premium companions in Faridabad City, NIT, Sector 15. 18+ only. Verified profiles."
+        title="Faridabad Escorts 2026 \u2014 91+ Verified Profiles | BookEase Haryana"
+        description="\u2713 91+ verified Faridabad escorts \u2713 Faridabad City & NIT \u2713 Available tonight \u2713 24/7 service. Book premium companions in Faridabad City, NIT, Sector 15. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/haryana/faridabad"
         image="https://www.escortmumbaii.in/faridabad-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Faridabad = () => {
         faqSchema={faridabadFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Faridabad escorts 2026, escorts in Faridabad, verified Faridabad escorts, 127+ profiles, Faridabad City escorts, NIT escorts, Sector 15 escorts, available tonight' },
+          { name: 'keywords', content: 'Faridabad escorts 2026, escorts in Faridabad, verified Faridabad escorts, 91+ profiles, Faridabad City escorts, NIT escorts, Sector 15 escorts, available tonight' },
           { name: 'geo.position', content: `${faridabadData.coordinates.latitude};${faridabadData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Faridabad, Haryana' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Faridabad = () => {
       <Header showBack title="Faridabad Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Faridabad = () => {
             <span>Faridabad</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Faridabad Escorts 2026  127+ Verified Companions in Faridabad City & NIT
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Faridabad Escorts 2026  91+ Verified Companions in Faridabad City & NIT
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 127+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 91+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Faridabad including Faridabad City, NIT, Sector 15.
             Discreet, safe, and professional service specifically for Faridabad residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Faridabad = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Faridabad Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Faridabad
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Faridabad = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Faridabad = () => {
             <li><strong>24/7 Faridabad Availability:</strong> Services available round the clock across all Faridabad areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Faridabad residents and visitors</li>
             <li><strong>Faridabad-Specific Safety:</strong> Secure platform with companions trained in Faridabad area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 127+ verified profiles of independent escorts and professional companions specifically available in Faridabad</li>
+            <li><strong>Extensive Selection:</strong> 91+ verified profiles of independent escorts and professional companions specifically available in Faridabad</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Faridabad's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Faridabad = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Haryana Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Ambala", slug: "ambala", count: 50 },
               { name: "Gurgaon", slug: "gurgaon", count: 65 },

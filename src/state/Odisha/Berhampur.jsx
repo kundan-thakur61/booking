@@ -140,8 +140,8 @@ const Berhampur = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Berhampur Escorts 2026 \u2014 68+ Verified Profiles | BookEase Odisha"
-        description="\u2713 68+ verified Berhampur escorts \u2713 Berhampur City & Gandhi Nagar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Berhampur City, Gandhi Nagar, Ambapua. 18+ only. Verified profiles."
+        title="Berhampur Escorts 2026 \u2014 58+ Verified Profiles | BookEase Odisha"
+        description="\u2713 58+ verified Berhampur escorts \u2713 Berhampur City & Gandhi Nagar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Berhampur City, Gandhi Nagar, Ambapua. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/odisha/berhampur"
         image="https://www.escortmumbaii.in/berhampur-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Berhampur = () => {
         faqSchema={berhampurFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Berhampur escorts 2026, escorts in Berhampur, verified Berhampur escorts, 68+ profiles, Berhampur City escorts, Gandhi Nagar escorts, Ambapua escorts, available tonight' },
+          { name: 'keywords', content: 'Berhampur escorts 2026, escorts in Berhampur, verified Berhampur escorts, 58+ profiles, Berhampur City escorts, Gandhi Nagar escorts, Ambapua escorts, available tonight' },
           { name: 'geo.position', content: `${berhampurData.coordinates.latitude};${berhampurData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Berhampur, Odisha' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Berhampur = () => {
       <Header showBack title="Berhampur Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Berhampur = () => {
             <span>Berhampur</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Berhampur Escorts 2026  68+ Verified Companions in Berhampur City & Gandhi Nagar
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Berhampur Escorts 2026  58+ Verified Companions in Berhampur City & Gandhi Nagar
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 68+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 58+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Berhampur including Berhampur City, Gandhi Nagar, Ambapua.
             Discreet, safe, and professional service specifically for Berhampur residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Berhampur = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Berhampur Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Berhampur
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Berhampur = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Berhampur = () => {
             <li><strong>24/7 Berhampur Availability:</strong> Services available round the clock across all Berhampur areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Berhampur residents and visitors</li>
             <li><strong>Berhampur-Specific Safety:</strong> Secure platform with companions trained in Berhampur area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 68+ verified profiles of independent escorts and professional companions specifically available in Berhampur</li>
+            <li><strong>Extensive Selection:</strong> 58+ verified profiles of independent escorts and professional companions specifically available in Berhampur</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Berhampur's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Berhampur = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Odisha Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Bhubaneswar", slug: "bhubaneswar", count: 50 },
               { name: "Cuttack", slug: "cuttack", count: 65 },

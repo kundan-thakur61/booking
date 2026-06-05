@@ -140,7 +140,7 @@ const Andheri = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Andheri Escorts 2026 \u2014 150+ Verified Profiles | BookEase Mumbai"
+        title="Andheri Escorts 2026 \u20 150+ Verified Profiles | BookEase Mumbai"
         description="\u2713 150+ verified Andheri escorts \u2713 Andheri East & Andheri West \u2713 Available tonight \u2713 24/7 service. Book premium companions in Andheri East, Andheri West, Versova. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/mumbai/andheri"
         image="https://www.escortmumbaii.in/andheri-og.jpg"

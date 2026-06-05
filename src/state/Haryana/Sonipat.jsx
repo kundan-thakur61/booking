@@ -140,8 +140,8 @@ const Sonipat = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Sonipat Escorts 2026 \u2014 63+ Verified Profiles | BookEase Haryana"
-        description="\u2713 63+ verified Sonipat escorts \u2713 Sonipat City & Sector 14 \u2713 Available tonight \u2713 24/7 service. Book premium companions in Sonipat City, Sector 14, Model Town. 18+ only. Verified profiles."
+        title="Sonipat Escorts 2026 \u2014 61+ Verified Profiles | BookEase Haryana"
+        description="\u2713 61+ verified Sonipat escorts \u2713 Sonipat City & Sector 14 \u2713 Available tonight \u2713 24/7 service. Book premium companions in Sonipat City, Sector 14, Model Town. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/haryana/sonipat"
         image="https://www.escortmumbaii.in/sonipat-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Sonipat = () => {
         faqSchema={sonipatFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Sonipat escorts 2026, escorts in Sonipat, verified Sonipat escorts, 63+ profiles, Sonipat City escorts, Sector 14 escorts, Model Town escorts, available tonight' },
+          { name: 'keywords', content: 'Sonipat escorts 2026, escorts in Sonipat, verified Sonipat escorts, 61+ profiles, Sonipat City escorts, Sector 14 escorts, Model Town escorts, available tonight' },
           { name: 'geo.position', content: `${sonipatData.coordinates.latitude};${sonipatData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Sonipat, Haryana' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Sonipat = () => {
       <Header showBack title="Sonipat Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Sonipat = () => {
             <span>Sonipat</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Sonipat Escorts 2026  63+ Verified Companions in Sonipat City & Sector 14
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Sonipat Escorts 2026  61+ Verified Companions in Sonipat City & Sector 14
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 63+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 61+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Sonipat including Sonipat City, Sector 14, Model Town.
             Discreet, safe, and professional service specifically for Sonipat residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Sonipat = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Sonipat Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Sonipat
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Sonipat = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Sonipat = () => {
             <li><strong>24/7 Sonipat Availability:</strong> Services available round the clock across all Sonipat areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Sonipat residents and visitors</li>
             <li><strong>Sonipat-Specific Safety:</strong> Secure platform with companions trained in Sonipat area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 63+ verified profiles of independent escorts and professional companions specifically available in Sonipat</li>
+            <li><strong>Extensive Selection:</strong> 61+ verified profiles of independent escorts and professional companions specifically available in Sonipat</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Sonipat's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Sonipat = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Haryana Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Ambala", slug: "ambala", count: 50 },
               { name: "Faridabad", slug: "faridabad", count: 65 },

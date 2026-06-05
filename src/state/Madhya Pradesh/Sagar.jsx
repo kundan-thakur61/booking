@@ -140,8 +140,8 @@ const Sagar = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Sagar Escorts 2026 \u2014 72+ Verified Profiles | BookEase Madhya Pradesh"
-        description="\u2713 72+ verified Sagar escorts \u2713 Sagar City & Civil Lines \u2713 Available tonight \u2713 24/7 service. Book premium companions in Sagar City, Civil Lines, Cantt Area. 18+ only. Verified profiles."
+        title="Sagar Escorts 2026 \u2014 102+ Verified Profiles | BookEase Madhya Pradesh"
+        description="\u2713 102+ verified Sagar escorts \u2713 Sagar City & Civil Lines \u2713 Available tonight \u2713 24/7 service. Book premium companions in Sagar City, Civil Lines, Cantt Area. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/madhya-pradesh/sagar"
         image="https://www.escortmumbaii.in/sagar-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Sagar = () => {
         faqSchema={sagarFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Sagar escorts 2026, escorts in Sagar, verified Sagar escorts, 72+ profiles, Sagar City escorts, Civil Lines escorts, Cantt Area escorts, available tonight' },
+          { name: 'keywords', content: 'Sagar escorts 2026, escorts in Sagar, verified Sagar escorts, 102+ profiles, Sagar City escorts, Civil Lines escorts, Cantt Area escorts, available tonight' },
           { name: 'geo.position', content: `${sagarData.coordinates.latitude};${sagarData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Sagar, Madhya Pradesh' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Sagar = () => {
       <Header showBack title="Sagar Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Sagar = () => {
             <span>Sagar</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Sagar Escorts 2026  72+ Verified Companions in Sagar City & Civil Lines
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Sagar Escorts 2026  102+ Verified Companions in Sagar City & Civil Lines
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 72+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 102+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Sagar including Sagar City, Civil Lines, Cantt Area.
             Discreet, safe, and professional service specifically for Sagar residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Sagar = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Sagar Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Sagar
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Sagar = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Sagar = () => {
             <li><strong>24/7 Sagar Availability:</strong> Services available round the clock across all Sagar areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Sagar residents and visitors</li>
             <li><strong>Sagar-Specific Safety:</strong> Secure platform with companions trained in Sagar area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 72+ verified profiles of independent escorts and professional companions specifically available in Sagar</li>
+            <li><strong>Extensive Selection:</strong> 102+ verified profiles of independent escorts and professional companions specifically available in Sagar</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Sagar's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Sagar = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Madhya Pradesh Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Bhopal", slug: "bhopal", count: 50 },
               { name: "Gwalior", slug: "gwalior", count: 65 },

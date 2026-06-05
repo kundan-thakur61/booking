@@ -140,8 +140,8 @@ const Panipat = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Panipat Escorts 2026 \u2014 82+ Verified Profiles | BookEase Haryana"
-        description="\u2713 82+ verified Panipat escorts \u2713 Panipat City & Model Town \u2713 Available tonight \u2713 24/7 service. Book premium companions in Panipat City, Model Town, Sector 25. 18+ only. Verified profiles."
+        title="Panipat Escorts 2026 \u2014 79+ Verified Profiles | BookEase Haryana"
+        description="\u2713 79+ verified Panipat escorts \u2713 Panipat City & Model Town \u2713 Available tonight \u2713 24/7 service. Book premium companions in Panipat City, Model Town, Sector 25. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/haryana/panipat"
         image="https://www.escortmumbaii.in/panipat-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Panipat = () => {
         faqSchema={panipatFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Panipat escorts 2026, escorts in Panipat, verified Panipat escorts, 82+ profiles, Panipat City escorts, Model Town escorts, Sector 25 escorts, available tonight' },
+          { name: 'keywords', content: 'Panipat escorts 2026, escorts in Panipat, verified Panipat escorts, 79+ profiles, Panipat City escorts, Model Town escorts, Sector 25 escorts, available tonight' },
           { name: 'geo.position', content: `${panipatData.coordinates.latitude};${panipatData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Panipat, Haryana' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Panipat = () => {
       <Header showBack title="Panipat Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Panipat = () => {
             <span>Panipat</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Panipat Escorts 2026  82+ Verified Companions in Panipat City & Model Town
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Panipat Escorts 2026  79+ Verified Companions in Panipat City & Model Town
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 82+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 79+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Panipat including Panipat City, Model Town, Sector 25.
             Discreet, safe, and professional service specifically for Panipat residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Panipat = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Panipat Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Panipat
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Panipat = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Panipat = () => {
             <li><strong>24/7 Panipat Availability:</strong> Services available round the clock across all Panipat areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Panipat residents and visitors</li>
             <li><strong>Panipat-Specific Safety:</strong> Secure platform with companions trained in Panipat area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 82+ verified profiles of independent escorts and professional companions specifically available in Panipat</li>
+            <li><strong>Extensive Selection:</strong> 79+ verified profiles of independent escorts and professional companions specifically available in Panipat</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Panipat's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Panipat = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Haryana Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Ambala", slug: "ambala", count: 50 },
               { name: "Faridabad", slug: "faridabad", count: 65 },

@@ -140,8 +140,8 @@ const Thoubal = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Thoubal Escorts 2026 \u2014 85+ Verified Profiles | BookEase Manipur"
-        description="\u2713 85+ verified Thoubal escorts \u2713 Thoubal Town & Thoubal Bazar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Thoubal Town, Thoubal Bazar, Wangjing. 18+ only. Verified profiles."
+        title="Thoubal Escorts 2026 \u2014 123+ Verified Profiles | BookEase Manipur"
+        description="\u2713 123+ verified Thoubal escorts \u2713 Thoubal Town & Thoubal Bazar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Thoubal Town, Thoubal Bazar, Wangjing. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/manipur/thoubal"
         image="https://www.escortmumbaii.in/thoubal-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Thoubal = () => {
         faqSchema={thoubalFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Thoubal escorts 2026, escorts in Thoubal, verified Thoubal escorts, 85+ profiles, Thoubal Town escorts, Thoubal Bazar escorts, Wangjing escorts, available tonight' },
+          { name: 'keywords', content: 'Thoubal escorts 2026, escorts in Thoubal, verified Thoubal escorts, 123+ profiles, Thoubal Town escorts, Thoubal Bazar escorts, Wangjing escorts, available tonight' },
           { name: 'geo.position', content: `${thoubalData.coordinates.latitude};${thoubalData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Thoubal, Manipur' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Thoubal = () => {
       <Header showBack title="Thoubal Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Thoubal = () => {
             <span>Thoubal</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Thoubal Escorts 2026  85+ Verified Companions in Thoubal Town & Thoubal Bazar
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Thoubal Escorts 2026  123+ Verified Companions in Thoubal Town & Thoubal Bazar
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 85+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 123+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Thoubal including Thoubal Town, Thoubal Bazar, Wangjing.
             Discreet, safe, and professional service specifically for Thoubal residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Thoubal = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Thoubal Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Thoubal
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Thoubal = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Thoubal = () => {
             <li><strong>24/7 Thoubal Availability:</strong> Services available round the clock across all Thoubal areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Thoubal residents and visitors</li>
             <li><strong>Thoubal-Specific Safety:</strong> Secure platform with companions trained in Thoubal area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 85+ verified profiles of independent escorts and professional companions specifically available in Thoubal</li>
+            <li><strong>Extensive Selection:</strong> 123+ verified profiles of independent escorts and professional companions specifically available in Thoubal</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Thoubal's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Thoubal = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Manipur Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Bishnupur", slug: "bishnupur", count: 50 },
               { name: "Imphal", slug: "imphal", count: 65 }

@@ -140,8 +140,8 @@ const Karnal = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Karnal Escorts 2026 \u2014 56+ Verified Profiles | BookEase Haryana"
-        description="\u2713 56+ verified Karnal escorts \u2713 Karnal City & Model Town \u2713 Available tonight \u2713 24/7 service. Book premium companions in Karnal City, Model Town, Sector 6. 18+ only. Verified profiles."
+        title="Karnal Escorts 2026 \u2014 90+ Verified Profiles | BookEase Haryana"
+        description="\u2713 90+ verified Karnal escorts \u2713 Karnal City & Model Town \u2713 Available tonight \u2713 24/7 service. Book premium companions in Karnal City, Model Town, Sector 6. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/haryana/karnal"
         image="https://www.escortmumbaii.in/karnal-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Karnal = () => {
         faqSchema={karnalFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Karnal escorts 2026, escorts in Karnal, verified Karnal escorts, 56+ profiles, Karnal City escorts, Model Town escorts, Sector 6 escorts, available tonight' },
+          { name: 'keywords', content: 'Karnal escorts 2026, escorts in Karnal, verified Karnal escorts, 90+ profiles, Karnal City escorts, Model Town escorts, Sector 6 escorts, available tonight' },
           { name: 'geo.position', content: `${karnalData.coordinates.latitude};${karnalData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Karnal, Haryana' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Karnal = () => {
       <Header showBack title="Karnal Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Karnal = () => {
             <span>Karnal</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Karnal Escorts 2026  56+ Verified Companions in Karnal City & Model Town
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Karnal Escorts 2026  90+ Verified Companions in Karnal City & Model Town
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 56+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 90+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Karnal including Karnal City, Model Town, Sector 6.
             Discreet, safe, and professional service specifically for Karnal residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Karnal = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Karnal Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Karnal
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Karnal = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Karnal = () => {
             <li><strong>24/7 Karnal Availability:</strong> Services available round the clock across all Karnal areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Karnal residents and visitors</li>
             <li><strong>Karnal-Specific Safety:</strong> Secure platform with companions trained in Karnal area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 56+ verified profiles of independent escorts and professional companions specifically available in Karnal</li>
+            <li><strong>Extensive Selection:</strong> 90+ verified profiles of independent escorts and professional companions specifically available in Karnal</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Karnal's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Karnal = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Haryana Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Ambala", slug: "ambala", count: 50 },
               { name: "Faridabad", slug: "faridabad", count: 65 },

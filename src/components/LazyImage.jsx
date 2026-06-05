@@ -96,30 +96,29 @@ const LazyImage = ({
 
       {/* Actual Image - Native Lazy Loading */}
       {src && (
-        <img
-          src={hasError ? placeholder : src}
-          srcSet={hasError ? undefined : srcSet}
-          alt={alt}
-          loading={priority ? 'eager' : loading}
-          decoding={decoding}
-          fetchpriority={priority ? 'high' : 'auto'}
-          sizes={sizes}
-          width={width}
-          height={height}
-          className={`${
-            aspectRatio ? 'absolute inset-0 w-full h-full' : 'w-full h-auto'
-          } transition-opacity duration-300 ${
-            isLoading ? 'opacity-0' : 'opacity-100'
-          } ${hasError ? 'blur-sm grayscale' : ''}`}
-          style={{
-            objectFit,
-            objectPosition,
-            filter: 'blur(8px)',
-          }}
-          onLoad={handleLoad}
-          onError={handleError}
-          {...props}
-        />
+<img
+  src={hasError ? placeholder : src}
+  srcSet={hasError ? undefined : srcSet}
+  alt={alt}
+  loading={priority ? 'eager' : loading}
+  decoding={decoding}
+  fetchpriority={priority ? 'high' : 'auto'}
+  sizes={sizes}
+  width={width}
+  height={height}
+  className={`${
+    aspectRatio ? 'absolute inset-0 w-full h-full' : 'w-full h-auto'
+  } transition-opacity duration-300 ${
+    isLoading ? 'opacity-0' : 'opacity-100'
+  } ${hasError ? 'grayscale' : ''}`}
+  style={{
+    objectFit,
+    objectPosition,
+  }}
+  onLoad={handleLoad}
+  onError={handleError}
+  {...props}
+/>
       )}
     </div>
   );

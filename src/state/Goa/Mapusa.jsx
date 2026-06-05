@@ -140,8 +140,8 @@ const Mapusa = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Mapusa Escorts 2026 \u2014 76+ Verified Profiles | BookEase Goa"
-        description="\u2713 76+ verified Mapusa escorts \u2713 Mapusa Town & Peddem \u2713 Available tonight \u2713 24/7 service. Book premium companions in Mapusa Town, Peddem, Cunchelim. 18+ only. Verified profiles."
+        title="Mapusa Escorts 2026 \u2014 52+ Verified Profiles | BookEase Goa"
+        description="\u2713 52+ verified Mapusa escorts \u2713 Mapusa Town & Peddem \u2713 Available tonight \u2713 24/7 service. Book premium companions in Mapusa Town, Peddem, Cunchelim. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/goa/mapusa"
         image="https://www.escortmumbaii.in/mapusa-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Mapusa = () => {
         faqSchema={mapusaFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Mapusa escorts 2026, escorts in Mapusa, verified Mapusa escorts, 76+ profiles, Mapusa Town escorts, Peddem escorts, Cunchelim escorts, available tonight' },
+          { name: 'keywords', content: 'Mapusa escorts 2026, escorts in Mapusa, verified Mapusa escorts, 52+ profiles, Mapusa Town escorts, Peddem escorts, Cunchelim escorts, available tonight' },
           { name: 'geo.position', content: `${mapusaData.coordinates.latitude};${mapusaData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Mapusa, Goa' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Mapusa = () => {
       <Header showBack title="Mapusa Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Mapusa = () => {
             <span>Mapusa</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Mapusa Escorts 2026  76+ Verified Companions in Mapusa Town & Peddem
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Mapusa Escorts 2026  52+ Verified Companions in Mapusa Town & Peddem
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 76+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 52+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Mapusa including Mapusa Town, Peddem, Cunchelim.
             Discreet, safe, and professional service specifically for Mapusa residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Mapusa = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Mapusa Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Mapusa
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Mapusa = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Mapusa = () => {
             <li><strong>24/7 Mapusa Availability:</strong> Services available round the clock across all Mapusa areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Mapusa residents and visitors</li>
             <li><strong>Mapusa-Specific Safety:</strong> Secure platform with companions trained in Mapusa area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 76+ verified profiles of independent escorts and professional companions specifically available in Mapusa</li>
+            <li><strong>Extensive Selection:</strong> 52+ verified profiles of independent escorts and professional companions specifically available in Mapusa</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Mapusa's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Mapusa = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Goa Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Calangute", slug: "calangute", count: 50 },
               { name: "Margao", slug: "margao", count: 65 },

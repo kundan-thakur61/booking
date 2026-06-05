@@ -140,8 +140,8 @@ const Ludhiana = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Ludhiana Escorts 2026 \u2014 89+ Verified Profiles | BookEase Punjab"
-        description="\u2713 89+ verified Ludhiana escorts \u2713 Ludhiana City & Model Town \u2713 Available tonight \u2713 24/7 service. Book premium companions in Ludhiana City, Model Town, Civil Lines. 18+ only. Verified profiles."
+        title="Ludhiana Escorts 2026 \u2014 82+ Verified Profiles | BookEase Punjab"
+        description="\u2713 82+ verified Ludhiana escorts \u2713 Ludhiana City & Model Town \u2713 Available tonight \u2713 24/7 service. Book premium companions in Ludhiana City, Model Town, Civil Lines. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/punjab/ludhiana"
         image="https://www.escortmumbaii.in/ludhiana-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Ludhiana = () => {
         faqSchema={ludhianaFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Ludhiana escorts 2026, escorts in Ludhiana, verified Ludhiana escorts, 89+ profiles, Ludhiana City escorts, Model Town escorts, Civil Lines escorts, available tonight' },
+          { name: 'keywords', content: 'Ludhiana escorts 2026, escorts in Ludhiana, verified Ludhiana escorts, 82+ profiles, Ludhiana City escorts, Model Town escorts, Civil Lines escorts, available tonight' },
           { name: 'geo.position', content: `${ludhianaData.coordinates.latitude};${ludhianaData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Ludhiana, Punjab' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Ludhiana = () => {
       <Header showBack title="Ludhiana Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Ludhiana = () => {
             <span>Ludhiana</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Ludhiana Escorts 2026  89+ Verified Companions in Ludhiana City & Model Town
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Ludhiana Escorts 2026  82+ Verified Companions in Ludhiana City & Model Town
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 89+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 82+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Ludhiana including Ludhiana City, Model Town, Civil Lines.
             Discreet, safe, and professional service specifically for Ludhiana residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Ludhiana = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Ludhiana Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Ludhiana
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Ludhiana = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Ludhiana = () => {
             <li><strong>24/7 Ludhiana Availability:</strong> Services available round the clock across all Ludhiana areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Ludhiana residents and visitors</li>
             <li><strong>Ludhiana-Specific Safety:</strong> Secure platform with companions trained in Ludhiana area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 89+ verified profiles of independent escorts and professional companions specifically available in Ludhiana</li>
+            <li><strong>Extensive Selection:</strong> 82+ verified profiles of independent escorts and professional companions specifically available in Ludhiana</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Ludhiana's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Ludhiana = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Punjab Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Amritsar", slug: "amritsar", count: 50 },
               { name: "Bathinda", slug: "bathinda", count: 65 },

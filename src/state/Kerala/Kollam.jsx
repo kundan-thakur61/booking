@@ -140,8 +140,8 @@ const Kollam = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Kollam Escorts 2026 \u2014 88+ Verified Profiles | BookEase Kerala"
-        description="\u2713 88+ verified Kollam escorts \u2713 Kollam City & Chinnakada \u2713 Available tonight \u2713 24/7 service. Book premium companions in Kollam City, Chinnakada, Polayathode. 18+ only. Verified profiles."
+        title="Kollam Escorts 2026 \u2014 64+ Verified Profiles | BookEase Kerala"
+        description="\u2713 64+ verified Kollam escorts \u2713 Kollam City & Chinnakada \u2713 Available tonight \u2713 24/7 service. Book premium companions in Kollam City, Chinnakada, Polayathode. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/kerala/kollam"
         image="https://www.escortmumbaii.in/kollam-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Kollam = () => {
         faqSchema={kollamFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Kollam escorts 2026, escorts in Kollam, verified Kollam escorts, 88+ profiles, Kollam City escorts, Chinnakada escorts, Polayathode escorts, available tonight' },
+          { name: 'keywords', content: 'Kollam escorts 2026, escorts in Kollam, verified Kollam escorts, 64+ profiles, Kollam City escorts, Chinnakada escorts, Polayathode escorts, available tonight' },
           { name: 'geo.position', content: `${kollamData.coordinates.latitude};${kollamData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Kollam, Kerala' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Kollam = () => {
       <Header showBack title="Kollam Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Kollam = () => {
             <span>Kollam</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Kollam Escorts 2026  88+ Verified Companions in Kollam City & Chinnakada
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Kollam Escorts 2026  64+ Verified Companions in Kollam City & Chinnakada
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 88+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 64+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Kollam including Kollam City, Chinnakada, Polayathode.
             Discreet, safe, and professional service specifically for Kollam residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Kollam = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Kollam Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Kollam
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Kollam = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Kollam = () => {
             <li><strong>24/7 Kollam Availability:</strong> Services available round the clock across all Kollam areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Kollam residents and visitors</li>
             <li><strong>Kollam-Specific Safety:</strong> Secure platform with companions trained in Kollam area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 88+ verified profiles of independent escorts and professional companions specifically available in Kollam</li>
+            <li><strong>Extensive Selection:</strong> 64+ verified profiles of independent escorts and professional companions specifically available in Kollam</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Kollam's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Kollam = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Kerala Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Alappuzha", slug: "alappuzha", count: 50 },
               { name: "Kannur", slug: "kannur", count: 65 },

@@ -140,8 +140,8 @@ const Puri = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Puri Escorts 2026 \u2014 115+ Verified Profiles | BookEase Odisha"
-        description="\u2713 115+ verified Puri escorts \u2713 Puri Town & Grand Road \u2713 Available tonight \u2713 24/7 service. Book premium companions in Puri Town, Grand Road, CT Road. 18+ only. Verified profiles."
+        title="Puri Escorts 2026 \u2014 53+ Verified Profiles | BookEase Odisha"
+        description="\u2713 53+ verified Puri escorts \u2713 Puri Town & Grand Road \u2713 Available tonight \u2713 24/7 service. Book premium companions in Puri Town, Grand Road, CT Road. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/odisha/puri"
         image="https://www.escortmumbaii.in/puri-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Puri = () => {
         faqSchema={puriFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Puri escorts 2026, escorts in Puri, verified Puri escorts, 115+ profiles, Puri Town escorts, Grand Road escorts, CT Road escorts, available tonight' },
+          { name: 'keywords', content: 'Puri escorts 2026, escorts in Puri, verified Puri escorts, 53+ profiles, Puri Town escorts, Grand Road escorts, CT Road escorts, available tonight' },
           { name: 'geo.position', content: `${puriData.coordinates.latitude};${puriData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Puri, Odisha' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Puri = () => {
       <Header showBack title="Puri Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Puri = () => {
             <span>Puri</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Puri Escorts 2026  115+ Verified Companions in Puri Town & Grand Road
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Puri Escorts 2026  53+ Verified Companions in Puri Town & Grand Road
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 115+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 53+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Puri including Puri Town, Grand Road, CT Road.
             Discreet, safe, and professional service specifically for Puri residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Puri = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Puri Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Puri
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Puri = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Puri = () => {
             <li><strong>24/7 Puri Availability:</strong> Services available round the clock across all Puri areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Puri residents and visitors</li>
             <li><strong>Puri-Specific Safety:</strong> Secure platform with companions trained in Puri area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 115+ verified profiles of independent escorts and professional companions specifically available in Puri</li>
+            <li><strong>Extensive Selection:</strong> 53+ verified profiles of independent escorts and professional companions specifically available in Puri</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Puri's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Puri = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Odisha Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Berhampur", slug: "berhampur", count: 50 },
               { name: "Bhubaneswar", slug: "bhubaneswar", count: 65 },

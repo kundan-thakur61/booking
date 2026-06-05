@@ -140,8 +140,8 @@ const Margao = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Margao Escorts 2026 \u2014 68+ Verified Profiles | BookEase Goa"
-        description="\u2713 68+ verified Margao escorts \u2713 Margao City & Fatorda \u2713 Available tonight \u2713 24/7 service. Book premium companions in Margao City, Fatorda, Comba. 18+ only. Verified profiles."
+        title="Margao Escorts 2026 \u2014 109+ Verified Profiles | BookEase Goa"
+        description="\u2713 109+ verified Margao escorts \u2713 Margao City & Fatorda \u2713 Available tonight \u2713 24/7 service. Book premium companions in Margao City, Fatorda, Comba. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/goa/margao"
         image="https://www.escortmumbaii.in/margao-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Margao = () => {
         faqSchema={margaoFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Margao escorts 2026, escorts in Margao, verified Margao escorts, 68+ profiles, Margao City escorts, Fatorda escorts, Comba escorts, available tonight' },
+          { name: 'keywords', content: 'Margao escorts 2026, escorts in Margao, verified Margao escorts, 109+ profiles, Margao City escorts, Fatorda escorts, Comba escorts, available tonight' },
           { name: 'geo.position', content: `${margaoData.coordinates.latitude};${margaoData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Margao, Goa' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Margao = () => {
       <Header showBack title="Margao Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Margao = () => {
             <span>Margao</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Margao Escorts 2026  68+ Verified Companions in Margao City & Fatorda
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Margao Escorts 2026  109+ Verified Companions in Margao City & Fatorda
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 68+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 109+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Margao including Margao City, Fatorda, Comba.
             Discreet, safe, and professional service specifically for Margao residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Margao = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Margao Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Margao
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Margao = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Margao = () => {
             <li><strong>24/7 Margao Availability:</strong> Services available round the clock across all Margao areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Margao residents and visitors</li>
             <li><strong>Margao-Specific Safety:</strong> Secure platform with companions trained in Margao area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 68+ verified profiles of independent escorts and professional companions specifically available in Margao</li>
+            <li><strong>Extensive Selection:</strong> 109+ verified profiles of independent escorts and professional companions specifically available in Margao</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Margao's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Margao = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Goa Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Calangute", slug: "calangute", count: 50 },
               { name: "Mapusa", slug: "mapusa", count: 65 },

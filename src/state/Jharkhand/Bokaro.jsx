@@ -140,8 +140,8 @@ const Bokaro = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Bokaro Escorts 2026 \u2014 75+ Verified Profiles | BookEase Jharkhand"
-        description="\u2713 75+ verified Bokaro escorts \u2713 Bokaro Steel City & Sector 1 \u2713 Available tonight \u2713 24/7 service. Book premium companions in Bokaro Steel City, Sector 1, Sector 4. 18+ only. Verified profiles."
+        title="Bokaro Escorts 2026 \u2014 125+ Verified Profiles | BookEase Jharkhand"
+        description="\u2713 125+ verified Bokaro escorts \u2713 Bokaro Steel City & Sector 1 \u2713 Available tonight \u2713 24/7 service. Book premium companions in Bokaro Steel City, Sector 1, Sector 4. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/jharkhand/bokaro"
         image="https://www.escortmumbaii.in/bokaro-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Bokaro = () => {
         faqSchema={bokaroFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Bokaro escorts 2026, escorts in Bokaro, verified Bokaro escorts, 75+ profiles, Bokaro Steel City escorts, Sector 1 escorts, Sector 4 escorts, available tonight' },
+          { name: 'keywords', content: 'Bokaro escorts 2026, escorts in Bokaro, verified Bokaro escorts, 125+ profiles, Bokaro Steel City escorts, Sector 1 escorts, Sector 4 escorts, available tonight' },
           { name: 'geo.position', content: `${bokaroData.coordinates.latitude};${bokaroData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Bokaro, Jharkhand' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Bokaro = () => {
       <Header showBack title="Bokaro Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Bokaro = () => {
             <span>Bokaro</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Bokaro Escorts 2026  75+ Verified Companions in Bokaro Steel City & Sector 1
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Bokaro Escorts 2026  125+ Verified Companions in Bokaro Steel City & Sector 1
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 75+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 125+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Bokaro including Bokaro Steel City, Sector 1, Sector 4.
             Discreet, safe, and professional service specifically for Bokaro residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Bokaro = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Bokaro Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Bokaro
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Bokaro = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Bokaro = () => {
             <li><strong>24/7 Bokaro Availability:</strong> Services available round the clock across all Bokaro areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Bokaro residents and visitors</li>
             <li><strong>Bokaro-Specific Safety:</strong> Secure platform with companions trained in Bokaro area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 75+ verified profiles of independent escorts and professional companions specifically available in Bokaro</li>
+            <li><strong>Extensive Selection:</strong> 125+ verified profiles of independent escorts and professional companions specifically available in Bokaro</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Bokaro's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Bokaro = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Jharkhand Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Deoghar", slug: "deoghar", count: 50 },
               { name: "Dhanbad", slug: "dhanbad", count: 65 },

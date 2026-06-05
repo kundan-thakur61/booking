@@ -140,8 +140,8 @@ const Kozhikode = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Kozhikode Escorts 2026 \u2014 52+ Verified Profiles | BookEase Kerala"
-        description="\u2713 52+ verified Kozhikode escorts \u2713 Kozhikode City & SM Street \u2713 Available tonight \u2713 24/7 service. Book premium companions in Kozhikode City, SM Street, Mavoor Road. 18+ only. Verified profiles."
+        title="Kozhikode Escorts 2026 \u2014 114+ Verified Profiles | BookEase Kerala"
+        description="\u2713 114+ verified Kozhikode escorts \u2713 Kozhikode City & SM Street \u2713 Available tonight \u2713 24/7 service. Book premium companions in Kozhikode City, SM Street, Mavoor Road. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/kerala/kozhikode"
         image="https://www.escortmumbaii.in/kozhikode-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Kozhikode = () => {
         faqSchema={kozhikodeFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Kozhikode escorts 2026, escorts in Kozhikode, verified Kozhikode escorts, 52+ profiles, Kozhikode City escorts, SM Street escorts, Mavoor Road escorts, available tonight' },
+          { name: 'keywords', content: 'Kozhikode escorts 2026, escorts in Kozhikode, verified Kozhikode escorts, 114+ profiles, Kozhikode City escorts, SM Street escorts, Mavoor Road escorts, available tonight' },
           { name: 'geo.position', content: `${kozhikodeData.coordinates.latitude};${kozhikodeData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Kozhikode, Kerala' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Kozhikode = () => {
       <Header showBack title="Kozhikode Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Kozhikode = () => {
             <span>Kozhikode</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Kozhikode Escorts 2026  52+ Verified Companions in Kozhikode City & SM Street
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Kozhikode Escorts 2026  114+ Verified Companions in Kozhikode City & SM Street
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 52+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 114+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Kozhikode including Kozhikode City, SM Street, Mavoor Road.
             Discreet, safe, and professional service specifically for Kozhikode residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Kozhikode = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Kozhikode Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Kozhikode
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Kozhikode = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Kozhikode = () => {
             <li><strong>24/7 Kozhikode Availability:</strong> Services available round the clock across all Kozhikode areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Kozhikode residents and visitors</li>
             <li><strong>Kozhikode-Specific Safety:</strong> Secure platform with companions trained in Kozhikode area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 52+ verified profiles of independent escorts and professional companions specifically available in Kozhikode</li>
+            <li><strong>Extensive Selection:</strong> 114+ verified profiles of independent escorts and professional companions specifically available in Kozhikode</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Kozhikode's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Kozhikode = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Kerala Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Alappuzha", slug: "alappuzha", count: 50 },
               { name: "Kannur", slug: "kannur", count: 65 },

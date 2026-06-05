@@ -140,8 +140,8 @@ const Kochi = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Kochi Escorts 2026 \u2014 51+ Verified Profiles | BookEase Kerala"
-        description="\u2713 51+ verified Kochi escorts \u2713 Kochi City & MG Road \u2713 Available tonight \u2713 24/7 service. Book premium companions in Kochi City, MG Road, Marine Drive. 18+ only. Verified profiles."
+        title="Kochi Escorts 2026 \u2014 100+ Verified Profiles | BookEase Kerala"
+        description="\u2713 100+ verified Kochi escorts \u2713 Kochi City & MG Road \u2713 Available tonight \u2713 24/7 service. Book premium companions in Kochi City, MG Road, Marine Drive. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/kerala/kochi"
         image="https://www.escortmumbaii.in/kochi-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Kochi = () => {
         faqSchema={kochiFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Kochi escorts 2026, escorts in Kochi, verified Kochi escorts, 51+ profiles, Kochi City escorts, MG Road escorts, Marine Drive escorts, available tonight' },
+          { name: 'keywords', content: 'Kochi escorts 2026, escorts in Kochi, verified Kochi escorts, 100+ profiles, Kochi City escorts, MG Road escorts, Marine Drive escorts, available tonight' },
           { name: 'geo.position', content: `${kochiData.coordinates.latitude};${kochiData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Kochi, Kerala' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Kochi = () => {
       <Header showBack title="Kochi Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Kochi = () => {
             <span>Kochi</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Kochi Escorts 2026  51+ Verified Companions in Kochi City & MG Road
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Kochi Escorts 2026  100+ Verified Companions in Kochi City & MG Road
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 51+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 100+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Kochi including Kochi City, MG Road, Marine Drive.
             Discreet, safe, and professional service specifically for Kochi residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Kochi = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Kochi Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Kochi
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Kochi = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Kochi = () => {
             <li><strong>24/7 Kochi Availability:</strong> Services available round the clock across all Kochi areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Kochi residents and visitors</li>
             <li><strong>Kochi-Specific Safety:</strong> Secure platform with companions trained in Kochi area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 51+ verified profiles of independent escorts and professional companions specifically available in Kochi</li>
+            <li><strong>Extensive Selection:</strong> 100+ verified profiles of independent escorts and professional companions specifically available in Kochi</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Kochi's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Kochi = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Kerala Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Alappuzha", slug: "alappuzha", count: 50 },
               { name: "Kannur", slug: "kannur", count: 65 },

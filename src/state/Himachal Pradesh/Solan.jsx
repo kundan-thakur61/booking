@@ -140,8 +140,8 @@ const Solan = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Solan Escorts 2026 \u2014 94+ Verified Profiles | BookEase Himachal Pradesh"
-        description="\u2713 94+ verified Solan escorts \u2713 Solan City & Mall Road \u2713 Available tonight \u2713 24/7 service. Book premium companions in Solan City, Mall Road, Rajgarh. 18+ only. Verified profiles."
+        title="Solan Escorts 2026 \u2014 117+ Verified Profiles | BookEase Himachal Pradesh"
+        description="\u2713 117+ verified Solan escorts \u2713 Solan City & Mall Road \u2713 Available tonight \u2713 24/7 service. Book premium companions in Solan City, Mall Road, Rajgarh. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/himachal-pradesh/solan"
         image="https://www.escortmumbaii.in/solan-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Solan = () => {
         faqSchema={solanFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Solan escorts 2026, escorts in Solan, verified Solan escorts, 94+ profiles, Solan City escorts, Mall Road escorts, Rajgarh escorts, available tonight' },
+          { name: 'keywords', content: 'Solan escorts 2026, escorts in Solan, verified Solan escorts, 117+ profiles, Solan City escorts, Mall Road escorts, Rajgarh escorts, available tonight' },
           { name: 'geo.position', content: `${solanData.coordinates.latitude};${solanData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Solan, Himachal Pradesh' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Solan = () => {
       <Header showBack title="Solan Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Solan = () => {
             <span>Solan</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Solan Escorts 2026  94+ Verified Companions in Solan City & Mall Road
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Solan Escorts 2026  117+ Verified Companions in Solan City & Mall Road
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 94+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 117+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Solan including Solan City, Mall Road, Rajgarh.
             Discreet, safe, and professional service specifically for Solan residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Solan = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Solan Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Solan
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Solan = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Solan = () => {
             <li><strong>24/7 Solan Availability:</strong> Services available round the clock across all Solan areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Solan residents and visitors</li>
             <li><strong>Solan-Specific Safety:</strong> Secure platform with companions trained in Solan area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 94+ verified profiles of independent escorts and professional companions specifically available in Solan</li>
+            <li><strong>Extensive Selection:</strong> 117+ verified profiles of independent escorts and professional companions specifically available in Solan</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Solan's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Solan = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Himachal Pradesh Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Dharamshala", slug: "dharamshala", count: 50 },
               { name: "Kullu", slug: "kullu", count: 65 },

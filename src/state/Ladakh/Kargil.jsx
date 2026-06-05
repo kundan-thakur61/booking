@@ -140,8 +140,8 @@ const Kargil = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Kargil Escorts 2026 \u2014 72+ Verified Profiles | BookEase Ladakh"
-        description="\u2713 72+ verified Kargil escorts \u2713 Kargil Town & Main Bazaar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Kargil Town, Main Bazaar, Baroo. 18+ only. Verified profiles."
+        title="Kargil Escorts 2026 \u2014 123+ Verified Profiles | BookEase Ladakh"
+        description="\u2713 123+ verified Kargil escorts \u2713 Kargil Town & Main Bazaar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Kargil Town, Main Bazaar, Baroo. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/ladakh/kargil"
         image="https://www.escortmumbaii.in/kargil-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Kargil = () => {
         faqSchema={kargilFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Kargil escorts 2026, escorts in Kargil, verified Kargil escorts, 72+ profiles, Kargil Town escorts, Main Bazaar escorts, Baroo escorts, available tonight' },
+          { name: 'keywords', content: 'Kargil escorts 2026, escorts in Kargil, verified Kargil escorts, 123+ profiles, Kargil Town escorts, Main Bazaar escorts, Baroo escorts, available tonight' },
           { name: 'geo.position', content: `${kargilData.coordinates.latitude};${kargilData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Kargil, Ladakh' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Kargil = () => {
       <Header showBack title="Kargil Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Kargil = () => {
             <span>Kargil</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Kargil Escorts 2026  72+ Verified Companions in Kargil Town & Main Bazaar
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Kargil Escorts 2026  123+ Verified Companions in Kargil Town & Main Bazaar
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 72+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 123+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Kargil including Kargil Town, Main Bazaar, Baroo.
             Discreet, safe, and professional service specifically for Kargil residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Kargil = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Kargil Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Kargil
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Kargil = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Kargil = () => {
             <li><strong>24/7 Kargil Availability:</strong> Services available round the clock across all Kargil areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Kargil residents and visitors</li>
             <li><strong>Kargil-Specific Safety:</strong> Secure platform with companions trained in Kargil area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 72+ verified profiles of independent escorts and professional companions specifically available in Kargil</li>
+            <li><strong>Extensive Selection:</strong> 123+ verified profiles of independent escorts and professional companions specifically available in Kargil</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Kargil's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Kargil = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Ladakh Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Leh", slug: "leh", count: 50 }
             ].map((area) => (

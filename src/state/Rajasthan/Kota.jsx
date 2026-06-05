@@ -140,8 +140,8 @@ const Kota = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Kota Escorts 2026 \u2014 109+ Verified Profiles | BookEase Rajasthan"
-        description="\u2713 109+ verified Kota escorts \u2713 Kota City & Vigyan Nagar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Kota City, Vigyan Nagar, Talwandi. 18+ only. Verified profiles."
+        title="Kota Escorts 2026 \u2014 71+ Verified Profiles | BookEase Rajasthan"
+        description="\u2713 71+ verified Kota escorts \u2713 Kota City & Vigyan Nagar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Kota City, Vigyan Nagar, Talwandi. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/rajasthan/kota"
         image="https://www.escortmumbaii.in/kota-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Kota = () => {
         faqSchema={kotaFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Kota escorts 2026, escorts in Kota, verified Kota escorts, 109+ profiles, Kota City escorts, Vigyan Nagar escorts, Talwandi escorts, available tonight' },
+          { name: 'keywords', content: 'Kota escorts 2026, escorts in Kota, verified Kota escorts, 71+ profiles, Kota City escorts, Vigyan Nagar escorts, Talwandi escorts, available tonight' },
           { name: 'geo.position', content: `${kotaData.coordinates.latitude};${kotaData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Kota, Rajasthan' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Kota = () => {
       <Header showBack title="Kota Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Kota = () => {
             <span>Kota</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Kota Escorts 2026  109+ Verified Companions in Kota City & Vigyan Nagar
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Kota Escorts 2026  71+ Verified Companions in Kota City & Vigyan Nagar
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 109+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 71+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Kota including Kota City, Vigyan Nagar, Talwandi.
             Discreet, safe, and professional service specifically for Kota residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Kota = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Kota Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Kota
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Kota = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Kota = () => {
             <li><strong>24/7 Kota Availability:</strong> Services available round the clock across all Kota areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Kota residents and visitors</li>
             <li><strong>Kota-Specific Safety:</strong> Secure platform with companions trained in Kota area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 109+ verified profiles of independent escorts and professional companions specifically available in Kota</li>
+            <li><strong>Extensive Selection:</strong> 71+ verified profiles of independent escorts and professional companions specifically available in Kota</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Kota's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Kota = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Rajasthan Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Ajmer", slug: "ajmer", count: 50 },
               { name: "Bikaner", slug: "bikaner", count: 65 },

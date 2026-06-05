@@ -140,8 +140,8 @@ const Udhampur = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Udhampur Escorts 2026 \u2014 73+ Verified Profiles | BookEase Jammu and Kashmir"
-        description="\u2713 73+ verified Udhampur escorts \u2713 Udhampur City & Shiv Nagar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Udhampur City, Shiv Nagar, Jib. 18+ only. Verified profiles."
+        title="Udhampur Escorts 2026 \u2014 53+ Verified Profiles | BookEase Jammu and Kashmir"
+        description="\u2713 53+ verified Udhampur escorts \u2713 Udhampur City & Shiv Nagar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Udhampur City, Shiv Nagar, Jib. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/jammu-and-kashmir/udhampur"
         image="https://www.escortmumbaii.in/udhampur-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Udhampur = () => {
         faqSchema={udhampurFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Udhampur escorts 2026, escorts in Udhampur, verified Udhampur escorts, 73+ profiles, Udhampur City escorts, Shiv Nagar escorts, Jib escorts, available tonight' },
+          { name: 'keywords', content: 'Udhampur escorts 2026, escorts in Udhampur, verified Udhampur escorts, 53+ profiles, Udhampur City escorts, Shiv Nagar escorts, Jib escorts, available tonight' },
           { name: 'geo.position', content: `${udhampurData.coordinates.latitude};${udhampurData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Udhampur, Jammu and Kashmir' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Udhampur = () => {
       <Header showBack title="Udhampur Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Udhampur = () => {
             <span>Udhampur</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Udhampur Escorts 2026  73+ Verified Companions in Udhampur City & Shiv Nagar
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Udhampur Escorts 2026  53+ Verified Companions in Udhampur City & Shiv Nagar
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 73+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 53+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Udhampur including Udhampur City, Shiv Nagar, Jib.
             Discreet, safe, and professional service specifically for Udhampur residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Udhampur = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Udhampur Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Udhampur
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Udhampur = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Udhampur = () => {
             <li><strong>24/7 Udhampur Availability:</strong> Services available round the clock across all Udhampur areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Udhampur residents and visitors</li>
             <li><strong>Udhampur-Specific Safety:</strong> Secure platform with companions trained in Udhampur area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 73+ verified profiles of independent escorts and professional companions specifically available in Udhampur</li>
+            <li><strong>Extensive Selection:</strong> 53+ verified profiles of independent escorts and professional companions specifically available in Udhampur</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Udhampur's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Udhampur = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Jammu and Kashmir Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Anantnag", slug: "anantnag", count: 50 },
               { name: "Baramulla", slug: "baramulla", count: 65 },

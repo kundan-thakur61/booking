@@ -140,8 +140,8 @@ const Bilaspur = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Bilaspur Escorts 2026 \u2014 98+ Verified Profiles | BookEase Chhattisgarh"
-        description="\u2713 98+ verified Bilaspur escorts \u2713 Bilaspur City & Vyapar Vihar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Bilaspur City, Vyapar Vihar, Sarkanda. 18+ only. Verified profiles."
+        title="Bilaspur Escorts 2026 \u2014 115+ Verified Profiles | BookEase Chhattisgarh"
+        description="\u2713 115+ verified Bilaspur escorts \u2713 Bilaspur City & Vyapar Vihar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Bilaspur City, Vyapar Vihar, Sarkanda. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/chhattisgarh/bilaspur"
         image="https://www.escortmumbaii.in/bilaspur-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Bilaspur = () => {
         faqSchema={bilaspurFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Bilaspur escorts 2026, escorts in Bilaspur, verified Bilaspur escorts, 98+ profiles, Bilaspur City escorts, Vyapar Vihar escorts, Sarkanda escorts, available tonight' },
+          { name: 'keywords', content: 'Bilaspur escorts 2026, escorts in Bilaspur, verified Bilaspur escorts, 115+ profiles, Bilaspur City escorts, Vyapar Vihar escorts, Sarkanda escorts, available tonight' },
           { name: 'geo.position', content: `${bilaspurData.coordinates.latitude};${bilaspurData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Bilaspur, Chhattisgarh' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Bilaspur = () => {
       <Header showBack title="Bilaspur Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Bilaspur = () => {
             <span>Bilaspur</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Bilaspur Escorts 2026  98+ Verified Companions in Bilaspur City & Vyapar Vihar
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Bilaspur Escorts 2026  115+ Verified Companions in Bilaspur City & Vyapar Vihar
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 98+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 115+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Bilaspur including Bilaspur City, Vyapar Vihar, Sarkanda.
             Discreet, safe, and professional service specifically for Bilaspur residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Bilaspur = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Bilaspur Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Bilaspur
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Bilaspur = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Bilaspur = () => {
             <li><strong>24/7 Bilaspur Availability:</strong> Services available round the clock across all Bilaspur areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Bilaspur residents and visitors</li>
             <li><strong>Bilaspur-Specific Safety:</strong> Secure platform with companions trained in Bilaspur area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 98+ verified profiles of independent escorts and professional companions specifically available in Bilaspur</li>
+            <li><strong>Extensive Selection:</strong> 115+ verified profiles of independent escorts and professional companions specifically available in Bilaspur</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Bilaspur's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Bilaspur = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Chhattisgarh Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Bhilai", slug: "bhilai", count: 50 },
               { name: "Durg", slug: "durg", count: 65 },

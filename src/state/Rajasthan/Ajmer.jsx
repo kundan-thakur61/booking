@@ -140,8 +140,8 @@ const Ajmer = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Ajmer Escorts 2026 \u2014 122+ Verified Profiles | BookEase Rajasthan"
-        description="\u2713 122+ verified Ajmer escorts \u2713 Ajmer City & Naya Bazaar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Ajmer City, Naya Bazaar, Vaishali Nagar. 18+ only. Verified profiles."
+        title="Ajmer Escorts 2026 \u2014 87+ Verified Profiles | BookEase Rajasthan"
+        description="\u2713 87+ verified Ajmer escorts \u2713 Ajmer City & Naya Bazaar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Ajmer City, Naya Bazaar, Vaishali Nagar. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/rajasthan/ajmer"
         image="https://www.escortmumbaii.in/ajmer-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Ajmer = () => {
         faqSchema={ajmerFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Ajmer escorts 2026, escorts in Ajmer, verified Ajmer escorts, 122+ profiles, Ajmer City escorts, Naya Bazaar escorts, Vaishali Nagar escorts, available tonight' },
+          { name: 'keywords', content: 'Ajmer escorts 2026, escorts in Ajmer, verified Ajmer escorts, 87+ profiles, Ajmer City escorts, Naya Bazaar escorts, Vaishali Nagar escorts, available tonight' },
           { name: 'geo.position', content: `${ajmerData.coordinates.latitude};${ajmerData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Ajmer, Rajasthan' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Ajmer = () => {
       <Header showBack title="Ajmer Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Ajmer = () => {
             <span>Ajmer</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Ajmer Escorts 2026  122+ Verified Companions in Ajmer City & Naya Bazaar
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Ajmer Escorts 2026  87+ Verified Companions in Ajmer City & Naya Bazaar
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 122+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 87+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Ajmer including Ajmer City, Naya Bazaar, Vaishali Nagar.
             Discreet, safe, and professional service specifically for Ajmer residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Ajmer = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Ajmer Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Ajmer
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Ajmer = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Ajmer = () => {
             <li><strong>24/7 Ajmer Availability:</strong> Services available round the clock across all Ajmer areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Ajmer residents and visitors</li>
             <li><strong>Ajmer-Specific Safety:</strong> Secure platform with companions trained in Ajmer area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 122+ verified profiles of independent escorts and professional companions specifically available in Ajmer</li>
+            <li><strong>Extensive Selection:</strong> 87+ verified profiles of independent escorts and professional companions specifically available in Ajmer</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Ajmer's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Ajmer = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Rajasthan Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Bikaner", slug: "bikaner", count: 50 },
               { name: "Jaipur", slug: "jaipur", count: 65 },

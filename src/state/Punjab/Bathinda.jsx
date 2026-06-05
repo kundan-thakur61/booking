@@ -140,8 +140,8 @@ const Bathinda = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Bathinda Escorts 2026 \u2014 73+ Verified Profiles | BookEase Punjab"
-        description="\u2713 73+ verified Bathinda escorts \u2713 Bathinda City & Model Town \u2713 Available tonight \u2713 24/7 service. Book premium companions in Bathinda City, Model Town, Civil Lines. 18+ only. Verified profiles."
+        title="Bathinda Escorts 2026 \u2014 100+ Verified Profiles | BookEase Punjab"
+        description="\u2713 100+ verified Bathinda escorts \u2713 Bathinda City & Model Town \u2713 Available tonight \u2713 24/7 service. Book premium companions in Bathinda City, Model Town, Civil Lines. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/punjab/bathinda"
         image="https://www.escortmumbaii.in/bathinda-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Bathinda = () => {
         faqSchema={bathindaFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Bathinda escorts 2026, escorts in Bathinda, verified Bathinda escorts, 73+ profiles, Bathinda City escorts, Model Town escorts, Civil Lines escorts, available tonight' },
+          { name: 'keywords', content: 'Bathinda escorts 2026, escorts in Bathinda, verified Bathinda escorts, 100+ profiles, Bathinda City escorts, Model Town escorts, Civil Lines escorts, available tonight' },
           { name: 'geo.position', content: `${bathindaData.coordinates.latitude};${bathindaData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Bathinda, Punjab' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Bathinda = () => {
       <Header showBack title="Bathinda Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Bathinda = () => {
             <span>Bathinda</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Bathinda Escorts 2026  73+ Verified Companions in Bathinda City & Model Town
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Bathinda Escorts 2026  100+ Verified Companions in Bathinda City & Model Town
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 73+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 100+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Bathinda including Bathinda City, Model Town, Civil Lines.
             Discreet, safe, and professional service specifically for Bathinda residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Bathinda = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Bathinda Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Bathinda
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Bathinda = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Bathinda = () => {
             <li><strong>24/7 Bathinda Availability:</strong> Services available round the clock across all Bathinda areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Bathinda residents and visitors</li>
             <li><strong>Bathinda-Specific Safety:</strong> Secure platform with companions trained in Bathinda area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 73+ verified profiles of independent escorts and professional companions specifically available in Bathinda</li>
+            <li><strong>Extensive Selection:</strong> 100+ verified profiles of independent escorts and professional companions specifically available in Bathinda</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Bathinda's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Bathinda = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Punjab Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Amritsar", slug: "amritsar", count: 50 },
               { name: "Jalandhar", slug: "jalandhar", count: 65 },

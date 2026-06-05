@@ -140,8 +140,8 @@ const Bhopal = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Bhopal Escorts 2026 \u2014 107+ Verified Profiles | BookEase Madhya Pradesh"
-        description="\u2713 107+ verified Bhopal escorts \u2713 Bhopal City & MP Nagar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Bhopal City, MP Nagar, Arera Colony. 18+ only. Verified profiles."
+        title="Bhopal Escorts 2026 \u2014 66+ Verified Profiles | BookEase Madhya Pradesh"
+        description="\u2713 66+ verified Bhopal escorts \u2713 Bhopal City & MP Nagar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Bhopal City, MP Nagar, Arera Colony. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/madhya-pradesh/bhopal"
         image="https://www.escortmumbaii.in/bhopal-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Bhopal = () => {
         faqSchema={bhopalFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Bhopal escorts 2026, escorts in Bhopal, verified Bhopal escorts, 107+ profiles, Bhopal City escorts, MP Nagar escorts, Arera Colony escorts, available tonight' },
+          { name: 'keywords', content: 'Bhopal escorts 2026, escorts in Bhopal, verified Bhopal escorts, 66+ profiles, Bhopal City escorts, MP Nagar escorts, Arera Colony escorts, available tonight' },
           { name: 'geo.position', content: `${bhopalData.coordinates.latitude};${bhopalData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Bhopal, Madhya Pradesh' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Bhopal = () => {
       <Header showBack title="Bhopal Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Bhopal = () => {
             <span>Bhopal</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Bhopal Escorts 2026  107+ Verified Companions in Bhopal City & MP Nagar
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Bhopal Escorts 2026  66+ Verified Companions in Bhopal City & MP Nagar
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 107+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 66+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Bhopal including Bhopal City, MP Nagar, Arera Colony.
             Discreet, safe, and professional service specifically for Bhopal residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Bhopal = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Bhopal Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Bhopal
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Bhopal = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Bhopal = () => {
             <li><strong>24/7 Bhopal Availability:</strong> Services available round the clock across all Bhopal areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Bhopal residents and visitors</li>
             <li><strong>Bhopal-Specific Safety:</strong> Secure platform with companions trained in Bhopal area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 107+ verified profiles of independent escorts and professional companions specifically available in Bhopal</li>
+            <li><strong>Extensive Selection:</strong> 66+ verified profiles of independent escorts and professional companions specifically available in Bhopal</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Bhopal's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Bhopal = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Madhya Pradesh Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Gwalior", slug: "gwalior", count: 50 },
               { name: "Indore", slug: "indore", count: 65 },

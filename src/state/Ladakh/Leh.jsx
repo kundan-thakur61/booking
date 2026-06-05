@@ -140,8 +140,8 @@ const Leh = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Leh Escorts 2026 \u2014 90+ Verified Profiles | BookEase Ladakh"
-        description="\u2713 90+ verified Leh escorts \u2713 Leh City & Main Bazaar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Leh City, Main Bazaar, Fort Road. 18+ only. Verified profiles."
+        title="Leh Escorts 2026 \u2014 100+ Verified Profiles | BookEase Ladakh"
+        description="\u2713 100+ verified Leh escorts \u2713 Leh City & Main Bazaar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Leh City, Main Bazaar, Fort Road. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/ladakh/leh"
         image="https://www.escortmumbaii.in/leh-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Leh = () => {
         faqSchema={lehFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Leh escorts 2026, escorts in Leh, verified Leh escorts, 90+ profiles, Leh City escorts, Main Bazaar escorts, Fort Road escorts, available tonight' },
+          { name: 'keywords', content: 'Leh escorts 2026, escorts in Leh, verified Leh escorts, 100+ profiles, Leh City escorts, Main Bazaar escorts, Fort Road escorts, available tonight' },
           { name: 'geo.position', content: `${lehData.coordinates.latitude};${lehData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Leh, Ladakh' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Leh = () => {
       <Header showBack title="Leh Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Leh = () => {
             <span>Leh</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Leh Escorts 2026  90+ Verified Companions in Leh City & Main Bazaar
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Leh Escorts 2026  100+ Verified Companions in Leh City & Main Bazaar
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 90+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 100+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Leh including Leh City, Main Bazaar, Fort Road.
             Discreet, safe, and professional service specifically for Leh residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Leh = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Leh Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Leh
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Leh = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Leh = () => {
             <li><strong>24/7 Leh Availability:</strong> Services available round the clock across all Leh areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Leh residents and visitors</li>
             <li><strong>Leh-Specific Safety:</strong> Secure platform with companions trained in Leh area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 90+ verified profiles of independent escorts and professional companions specifically available in Leh</li>
+            <li><strong>Extensive Selection:</strong> 100+ verified profiles of independent escorts and professional companions specifically available in Leh</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Leh's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Leh = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Ladakh Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Kargil", slug: "kargil", count: 50 }
             ].map((area) => (

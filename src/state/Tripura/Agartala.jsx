@@ -140,8 +140,8 @@ const Agartala = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Agartala Escorts 2026 \u2014 75+ Verified Profiles | BookEase Tripura"
-        description="\u2713 75+ verified Agartala escorts \u2713 Agartala City & Battala \u2713 Available tonight \u2713 24/7 service. Book premium companions in Agartala City, Battala, Gol Bazar. 18+ only. Verified profiles."
+        title="Agartala Escorts 2026 \u2014 76+ Verified Profiles | BookEase Tripura"
+        description="\u2713 76+ verified Agartala escorts \u2713 Agartala City & Battala \u2713 Available tonight \u2713 24/7 service. Book premium companions in Agartala City, Battala, Gol Bazar. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/tripura/agartala"
         image="https://www.escortmumbaii.in/agartala-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Agartala = () => {
         faqSchema={agartalaFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Agartala escorts 2026, escorts in Agartala, verified Agartala escorts, 75+ profiles, Agartala City escorts, Battala escorts, Gol Bazar escorts, available tonight' },
+          { name: 'keywords', content: 'Agartala escorts 2026, escorts in Agartala, verified Agartala escorts, 76+ profiles, Agartala City escorts, Battala escorts, Gol Bazar escorts, available tonight' },
           { name: 'geo.position', content: `${agartalaData.coordinates.latitude};${agartalaData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Agartala, Tripura' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Agartala = () => {
       <Header showBack title="Agartala Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Agartala = () => {
             <span>Agartala</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Agartala Escorts 2026  75+ Verified Companions in Agartala City & Battala
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Agartala Escorts 2026  76+ Verified Companions in Agartala City & Battala
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 75+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 76+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Agartala including Agartala City, Battala, Gol Bazar.
             Discreet, safe, and professional service specifically for Agartala residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Agartala = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Agartala Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Agartala
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Agartala = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Agartala = () => {
             <li><strong>24/7 Agartala Availability:</strong> Services available round the clock across all Agartala areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Agartala residents and visitors</li>
             <li><strong>Agartala-Specific Safety:</strong> Secure platform with companions trained in Agartala area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 75+ verified profiles of independent escorts and professional companions specifically available in Agartala</li>
+            <li><strong>Extensive Selection:</strong> 76+ verified profiles of independent escorts and professional companions specifically available in Agartala</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Agartala's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Agartala = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Tripura Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Dharmanagar", slug: "dharmanagar", count: 50 },
               { name: "Udaipur", slug: "udaipur", count: 65 }

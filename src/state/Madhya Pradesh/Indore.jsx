@@ -140,8 +140,8 @@ const Indore = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Indore Escorts 2026 \u2014 96+ Verified Profiles | BookEase Madhya Pradesh"
-        description="\u2713 96+ verified Indore escorts \u2713 Indore City & Vijay Nagar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Indore City, Vijay Nagar, Palasia. 18+ only. Verified profiles."
+        title="Indore Escorts 2026 \u2014 88+ Verified Profiles | BookEase Madhya Pradesh"
+        description="\u2713 88+ verified Indore escorts \u2713 Indore City & Vijay Nagar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Indore City, Vijay Nagar, Palasia. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/madhya-pradesh/indore"
         image="https://www.escortmumbaii.in/indore-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Indore = () => {
         faqSchema={indoreFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Indore escorts 2026, escorts in Indore, verified Indore escorts, 96+ profiles, Indore City escorts, Vijay Nagar escorts, Palasia escorts, available tonight' },
+          { name: 'keywords', content: 'Indore escorts 2026, escorts in Indore, verified Indore escorts, 88+ profiles, Indore City escorts, Vijay Nagar escorts, Palasia escorts, available tonight' },
           { name: 'geo.position', content: `${indoreData.coordinates.latitude};${indoreData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Indore, Madhya Pradesh' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Indore = () => {
       <Header showBack title="Indore Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Indore = () => {
             <span>Indore</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Indore Escorts 2026  96+ Verified Companions in Indore City & Vijay Nagar
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Indore Escorts 2026  88+ Verified Companions in Indore City & Vijay Nagar
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 96+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 88+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Indore including Indore City, Vijay Nagar, Palasia.
             Discreet, safe, and professional service specifically for Indore residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Indore = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Indore Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Indore
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Indore = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Indore = () => {
             <li><strong>24/7 Indore Availability:</strong> Services available round the clock across all Indore areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Indore residents and visitors</li>
             <li><strong>Indore-Specific Safety:</strong> Secure platform with companions trained in Indore area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 96+ verified profiles of independent escorts and professional companions specifically available in Indore</li>
+            <li><strong>Extensive Selection:</strong> 88+ verified profiles of independent escorts and professional companions specifically available in Indore</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Indore's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Indore = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Madhya Pradesh Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Bhopal", slug: "bhopal", count: 50 },
               { name: "Gwalior", slug: "gwalior", count: 65 },

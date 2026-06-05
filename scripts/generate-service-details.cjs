@@ -11,8 +11,8 @@ const path = require('path');
 
 const ROOT = path.join(__dirname, '..');
 const DATA_DIR = path.join(ROOT, 'src', 'data');
-const SERVICE_CARD_DIR = path.join(ROOT, 'src', 'serviceCard');
-const TEMPLATE_PATH = path.join(__dirname, 'ServiceDetail.jsx');
+const SERVICE_CARD_DIR = path.join(ROOT, 'src', 'serviceCarDetails');
+const TEMPLATE_PATH = path.join(__dirname, 'service-detail-template.jsx');
 
 // Read the template
 const template = fs.readFileSync(TEMPLATE_PATH, 'utf8');
@@ -45,36 +45,44 @@ let errors = 0;
 for (const stateName of stateFolders) {
   const stateDataPath = path.join(DATA_DIR, stateName);
   const serviceCardFolder = toFolderName(stateName);
-  const serviceCardStatePath = path.join(SERVICE_CARD_DIR, serviceCardFolder);
+  const serviceCardStatePath = path.join(
+    SERVICE_CARD_DIR,
+    serviceCardFolder
+  );
 
-  // Skip if no matching serviceCard directory exists
+  // Create state folder if missing
   if (!fs.existsSync(serviceCardStatePath)) {
-    console.warn(`  WARN: No serviceCard folder for "${stateName}" (expected ${serviceCardFolder}/)`);
-    continue;
+    fs.mkdirSync(serviceCardStatePath, { recursive: true });
+    console.log(`CREATED FOLDER: ${serviceCardFolder}`);
   }
 
-  // Get all {City}services.js files in this state's data directory
-  const serviceFiles = fs.readdirSync(stateDataPath)
+  const serviceFiles = fs
+    .readdirSync(stateDataPath)
     .filter(f => f.endsWith('services.js'));
 
   for (const serviceFile of serviceFiles) {
     const cityName = serviceFile.replace('services.js', '');
     const cityDisplay = camelToDisplay(cityName);
-    const stateDisplay = stateName; // Already has spaces from data folder
+
+    const stateDisplay = stateName;
     const stateSlug = slugify(stateName);
     const citySlug = slugify(cityDisplay);
 
-    const outputFileName = `${cityName}servicesDetails.jsx`;
-    const outputPath = path.join(serviceCardStatePath, outputFileName);
+    const outputFileName = `${cityName}.jsx`;
+    const outputPath = path.join(
+      serviceCardStatePath,
+      outputFileName
+    );
 
-    // Skip if already exists
+    // Skip existing files
     // if (fs.existsSync(outputPath)) {
-    //   console.log(`  SKIP: ${serviceCardFolder}/${outputFileName} (already exists)`);
+    //   console.log(
+    //     `SKIP: ${serviceCardFolder}/${outputFileName}`
+    //   );
     //   skipped++;
     //   continue;
     // }
 
-    // Generate the file content by replacing placeholders
     const content = template
       .replace(/__STATE_DATA__/g, stateName)
       .replace(/__CITY_NAME__/g, cityName)
@@ -85,10 +93,17 @@ for (const stateName of stateFolders) {
 
     try {
       fs.writeFileSync(outputPath, content, 'utf8');
-      console.log(`  OK: ${serviceCardFolder}/${outputFileName}`);
+
+      console.log(
+        `OK: ${serviceCardFolder}/${outputFileName}`
+      );
+
       created++;
     } catch (err) {
-      console.error(`  ERR: ${serviceCardFolder}/${outputFileName} - ${err.message}`);
+      console.error(
+        `ERR: ${serviceCardFolder}/${outputFileName} - ${err.message}`
+      );
+
       errors++;
     }
   }

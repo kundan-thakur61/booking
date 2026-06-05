@@ -140,8 +140,8 @@ const Udaipur = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Udaipur Escorts 2026 \u2014 118+ Verified Profiles | BookEase Tripura"
-        description="\u2713 118+ verified Udaipur escorts \u2713 Udaipur Town & Matabari \u2713 Available tonight \u2713 24/7 service. Book premium companions in Udaipur Town, Matabari, Radhakishorepur. 18+ only. Verified profiles."
+        title="Udaipur Escorts 2026 \u2014 116+ Verified Profiles | BookEase Tripura"
+        description="\u2713 116+ verified Udaipur escorts \u2713 Udaipur Town & Matabari \u2713 Available tonight \u2713 24/7 service. Book premium companions in Udaipur Town, Matabari, Radhakishorepur. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/tripura/udaipur"
         image="https://www.escortmumbaii.in/udaipur-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Udaipur = () => {
         faqSchema={udaipurFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Udaipur escorts 2026, escorts in Udaipur, verified Udaipur escorts, 118+ profiles, Udaipur Town escorts, Matabari escorts, Radhakishorepur escorts, available tonight' },
+          { name: 'keywords', content: 'Udaipur escorts 2026, escorts in Udaipur, verified Udaipur escorts, 116+ profiles, Udaipur Town escorts, Matabari escorts, Radhakishorepur escorts, available tonight' },
           { name: 'geo.position', content: `${udaipurData.coordinates.latitude};${udaipurData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Udaipur, Tripura' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Udaipur = () => {
       <Header showBack title="Udaipur Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Udaipur = () => {
             <span>Udaipur</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Udaipur Escorts 2026  118+ Verified Companions in Udaipur Town & Matabari
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Udaipur Escorts 2026  116+ Verified Companions in Udaipur Town & Matabari
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 118+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 116+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Udaipur including Udaipur Town, Matabari, Radhakishorepur.
             Discreet, safe, and professional service specifically for Udaipur residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Udaipur = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Udaipur Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Udaipur
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Udaipur = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Udaipur = () => {
             <li><strong>24/7 Udaipur Availability:</strong> Services available round the clock across all Udaipur areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Udaipur residents and visitors</li>
             <li><strong>Udaipur-Specific Safety:</strong> Secure platform with companions trained in Udaipur area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 118+ verified profiles of independent escorts and professional companions specifically available in Udaipur</li>
+            <li><strong>Extensive Selection:</strong> 116+ verified profiles of independent escorts and professional companions specifically available in Udaipur</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Udaipur's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Udaipur = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Tripura Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Agartala", slug: "agartala", count: 50 },
               { name: "Dharmanagar", slug: "dharmanagar", count: 65 }

@@ -140,8 +140,8 @@ const Deoghar = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Deoghar Escorts 2026 \u2014 119+ Verified Profiles | BookEase Jharkhand"
-        description="\u2713 119+ verified Deoghar escorts \u2713 Deoghar City & Tower Chowk \u2713 Available tonight \u2713 24/7 service. Book premium companions in Deoghar City, Tower Chowk, Kachahri Road. 18+ only. Verified profiles."
+        title="Deoghar Escorts 2026 \u2014 111+ Verified Profiles | BookEase Jharkhand"
+        description="\u2713 111+ verified Deoghar escorts \u2713 Deoghar City & Tower Chowk \u2713 Available tonight \u2713 24/7 service. Book premium companions in Deoghar City, Tower Chowk, Kachahri Road. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/jharkhand/deoghar"
         image="https://www.escortmumbaii.in/deoghar-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Deoghar = () => {
         faqSchema={deogharFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Deoghar escorts 2026, escorts in Deoghar, verified Deoghar escorts, 119+ profiles, Deoghar City escorts, Tower Chowk escorts, Kachahri Road escorts, available tonight' },
+          { name: 'keywords', content: 'Deoghar escorts 2026, escorts in Deoghar, verified Deoghar escorts, 111+ profiles, Deoghar City escorts, Tower Chowk escorts, Kachahri Road escorts, available tonight' },
           { name: 'geo.position', content: `${deogharData.coordinates.latitude};${deogharData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Deoghar, Jharkhand' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Deoghar = () => {
       <Header showBack title="Deoghar Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Deoghar = () => {
             <span>Deoghar</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Deoghar Escorts 2026  119+ Verified Companions in Deoghar City & Tower Chowk
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Deoghar Escorts 2026  111+ Verified Companions in Deoghar City & Tower Chowk
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 119+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 111+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Deoghar including Deoghar City, Tower Chowk, Kachahri Road.
             Discreet, safe, and professional service specifically for Deoghar residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Deoghar = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Deoghar Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Deoghar
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Deoghar = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Deoghar = () => {
             <li><strong>24/7 Deoghar Availability:</strong> Services available round the clock across all Deoghar areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Deoghar residents and visitors</li>
             <li><strong>Deoghar-Specific Safety:</strong> Secure platform with companions trained in Deoghar area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 119+ verified profiles of independent escorts and professional companions specifically available in Deoghar</li>
+            <li><strong>Extensive Selection:</strong> 111+ verified profiles of independent escorts and professional companions specifically available in Deoghar</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Deoghar's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Deoghar = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Jharkhand Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Bokaro", slug: "bokaro", count: 50 },
               { name: "Dhanbad", slug: "dhanbad", count: 65 },

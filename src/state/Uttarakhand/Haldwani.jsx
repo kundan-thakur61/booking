@@ -140,8 +140,8 @@ const Haldwani = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Haldwani Escorts 2026 \u2014 68+ Verified Profiles | BookEase Uttarakhand"
-        description="\u2713 68+ verified Haldwani escorts \u2713 Haldwani City & Nainital Road \u2713 Available tonight \u2713 24/7 service. Book premium companions in Haldwani City, Nainital Road, Banbhoolpura. 18+ only. Verified profiles."
+        title="Haldwani Escorts 2026 \u2014 64+ Verified Profiles | BookEase Uttarakhand"
+        description="\u2713 64+ verified Haldwani escorts \u2713 Haldwani City & Nainital Road \u2713 Available tonight \u2713 24/7 service. Book premium companions in Haldwani City, Nainital Road, Banbhoolpura. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/uttarakhand/haldwani"
         image="https://www.escortmumbaii.in/haldwani-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Haldwani = () => {
         faqSchema={haldwaniFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Haldwani escorts 2026, escorts in Haldwani, verified Haldwani escorts, 68+ profiles, Haldwani City escorts, Nainital Road escorts, Banbhoolpura escorts, available tonight' },
+          { name: 'keywords', content: 'Haldwani escorts 2026, escorts in Haldwani, verified Haldwani escorts, 64+ profiles, Haldwani City escorts, Nainital Road escorts, Banbhoolpura escorts, available tonight' },
           { name: 'geo.position', content: `${haldwaniData.coordinates.latitude};${haldwaniData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Haldwani, Uttarakhand' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Haldwani = () => {
       <Header showBack title="Haldwani Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Haldwani = () => {
             <span>Haldwani</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Haldwani Escorts 2026  68+ Verified Companions in Haldwani City & Nainital Road
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Haldwani Escorts 2026  64+ Verified Companions in Haldwani City & Nainital Road
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 68+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 64+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Haldwani including Haldwani City, Nainital Road, Banbhoolpura.
             Discreet, safe, and professional service specifically for Haldwani residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Haldwani = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Haldwani Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Haldwani
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Haldwani = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Haldwani = () => {
             <li><strong>24/7 Haldwani Availability:</strong> Services available round the clock across all Haldwani areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Haldwani residents and visitors</li>
             <li><strong>Haldwani-Specific Safety:</strong> Secure platform with companions trained in Haldwani area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 68+ verified profiles of independent escorts and professional companions specifically available in Haldwani</li>
+            <li><strong>Extensive Selection:</strong> 64+ verified profiles of independent escorts and professional companions specifically available in Haldwani</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Haldwani's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Haldwani = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Uttarakhand Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Dehradun", slug: "dehradun", count: 50 },
               { name: "Haridwar", slug: "haridwar", count: 65 },

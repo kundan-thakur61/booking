@@ -140,8 +140,8 @@ const Rajnandgaon = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Rajnandgaon Escorts 2026 \u2014 116+ Verified Profiles | BookEase Chhattisgarh"
-        description="\u2713 116+ verified Rajnandgaon escorts \u2713 Rajnandgaon City & Ganj Mandi \u2713 Available tonight \u2713 24/7 service. Book premium companions in Rajnandgaon City, Ganj Mandi, Khamardih. 18+ only. Verified profiles."
+        title="Rajnandgaon Escorts 2026 \u2014 75+ Verified Profiles | BookEase Chhattisgarh"
+        description="\u2713 75+ verified Rajnandgaon escorts \u2713 Rajnandgaon City & Ganj Mandi \u2713 Available tonight \u2713 24/7 service. Book premium companions in Rajnandgaon City, Ganj Mandi, Khamardih. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/chhattisgarh/rajnandgaon"
         image="https://www.escortmumbaii.in/rajnandgaon-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Rajnandgaon = () => {
         faqSchema={rajnandgaonFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Rajnandgaon escorts 2026, escorts in Rajnandgaon, verified Rajnandgaon escorts, 116+ profiles, Rajnandgaon City escorts, Ganj Mandi escorts, Khamardih escorts, available tonight' },
+          { name: 'keywords', content: 'Rajnandgaon escorts 2026, escorts in Rajnandgaon, verified Rajnandgaon escorts, 75+ profiles, Rajnandgaon City escorts, Ganj Mandi escorts, Khamardih escorts, available tonight' },
           { name: 'geo.position', content: `${rajnandgaonData.coordinates.latitude};${rajnandgaonData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Rajnandgaon, Chhattisgarh' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Rajnandgaon = () => {
       <Header showBack title="Rajnandgaon Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Rajnandgaon = () => {
             <span>Rajnandgaon</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Rajnandgaon Escorts 2026  116+ Verified Companions in Rajnandgaon City & Ganj Mandi
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Rajnandgaon Escorts 2026  75+ Verified Companions in Rajnandgaon City & Ganj Mandi
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 116+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 75+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Rajnandgaon including Rajnandgaon City, Ganj Mandi, Khamardih.
             Discreet, safe, and professional service specifically for Rajnandgaon residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Rajnandgaon = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Rajnandgaon Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Rajnandgaon
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Rajnandgaon = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Rajnandgaon = () => {
             <li><strong>24/7 Rajnandgaon Availability:</strong> Services available round the clock across all Rajnandgaon areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Rajnandgaon residents and visitors</li>
             <li><strong>Rajnandgaon-Specific Safety:</strong> Secure platform with companions trained in Rajnandgaon area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 116+ verified profiles of independent escorts and professional companions specifically available in Rajnandgaon</li>
+            <li><strong>Extensive Selection:</strong> 75+ verified profiles of independent escorts and professional companions specifically available in Rajnandgaon</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Rajnandgaon's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Rajnandgaon = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Chhattisgarh Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Bhilai", slug: "bhilai", count: 50 },
               { name: "Bilaspur", slug: "bilaspur", count: 65 },

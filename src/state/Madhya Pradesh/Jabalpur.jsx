@@ -140,8 +140,8 @@ const Jabalpur = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Jabalpur Escorts 2026 \u2014 101+ Verified Profiles | BookEase Madhya Pradesh"
-        description="\u2713 101+ verified Jabalpur escorts \u2713 Jabalpur City & Wright Town \u2713 Available tonight \u2713 24/7 service. Book premium companions in Jabalpur City, Wright Town, Napier Town. 18+ only. Verified profiles."
+        title="Jabalpur Escorts 2026 \u2014 83+ Verified Profiles | BookEase Madhya Pradesh"
+        description="\u2713 83+ verified Jabalpur escorts \u2713 Jabalpur City & Wright Town \u2713 Available tonight \u2713 24/7 service. Book premium companions in Jabalpur City, Wright Town, Napier Town. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/madhya-pradesh/jabalpur"
         image="https://www.escortmumbaii.in/jabalpur-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Jabalpur = () => {
         faqSchema={jabalpurFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Jabalpur escorts 2026, escorts in Jabalpur, verified Jabalpur escorts, 101+ profiles, Jabalpur City escorts, Wright Town escorts, Napier Town escorts, available tonight' },
+          { name: 'keywords', content: 'Jabalpur escorts 2026, escorts in Jabalpur, verified Jabalpur escorts, 83+ profiles, Jabalpur City escorts, Wright Town escorts, Napier Town escorts, available tonight' },
           { name: 'geo.position', content: `${jabalpurData.coordinates.latitude};${jabalpurData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Jabalpur, Madhya Pradesh' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Jabalpur = () => {
       <Header showBack title="Jabalpur Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Jabalpur = () => {
             <span>Jabalpur</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Jabalpur Escorts 2026  101+ Verified Companions in Jabalpur City & Wright Town
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Jabalpur Escorts 2026  83+ Verified Companions in Jabalpur City & Wright Town
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 101+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 83+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Jabalpur including Jabalpur City, Wright Town, Napier Town.
             Discreet, safe, and professional service specifically for Jabalpur residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Jabalpur = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Jabalpur Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Jabalpur
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Jabalpur = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Jabalpur = () => {
             <li><strong>24/7 Jabalpur Availability:</strong> Services available round the clock across all Jabalpur areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Jabalpur residents and visitors</li>
             <li><strong>Jabalpur-Specific Safety:</strong> Secure platform with companions trained in Jabalpur area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 101+ verified profiles of independent escorts and professional companions specifically available in Jabalpur</li>
+            <li><strong>Extensive Selection:</strong> 83+ verified profiles of independent escorts and professional companions specifically available in Jabalpur</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Jabalpur's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Jabalpur = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Madhya Pradesh Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Bhopal", slug: "bhopal", count: 50 },
               { name: "Gwalior", slug: "gwalior", count: 65 },

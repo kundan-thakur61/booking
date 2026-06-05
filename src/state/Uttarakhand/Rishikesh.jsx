@@ -140,8 +140,8 @@ const Rishikesh = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Rishikesh Escorts 2026 \u2014 87+ Verified Profiles | BookEase Uttarakhand"
-        description="\u2713 87+ verified Rishikesh escorts \u2713 Rishikesh City & Ram Jhula \u2713 Available tonight \u2713 24/7 service. Book premium companions in Rishikesh City, Ram Jhula, Lakshman Jhula. 18+ only. Verified profiles."
+        title="Rishikesh Escorts 2026 \u2014 60+ Verified Profiles | BookEase Uttarakhand"
+        description="\u2713 60+ verified Rishikesh escorts \u2713 Rishikesh City & Ram Jhula \u2713 Available tonight \u2713 24/7 service. Book premium companions in Rishikesh City, Ram Jhula, Lakshman Jhula. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/uttarakhand/rishikesh"
         image="https://www.escortmumbaii.in/rishikesh-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Rishikesh = () => {
         faqSchema={rishikeshFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Rishikesh escorts 2026, escorts in Rishikesh, verified Rishikesh escorts, 87+ profiles, Rishikesh City escorts, Ram Jhula escorts, Lakshman Jhula escorts, available tonight' },
+          { name: 'keywords', content: 'Rishikesh escorts 2026, escorts in Rishikesh, verified Rishikesh escorts, 60+ profiles, Rishikesh City escorts, Ram Jhula escorts, Lakshman Jhula escorts, available tonight' },
           { name: 'geo.position', content: `${rishikeshData.coordinates.latitude};${rishikeshData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Rishikesh, Uttarakhand' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Rishikesh = () => {
       <Header showBack title="Rishikesh Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Rishikesh = () => {
             <span>Rishikesh</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Rishikesh Escorts 2026  87+ Verified Companions in Rishikesh City & Ram Jhula
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Rishikesh Escorts 2026  60+ Verified Companions in Rishikesh City & Ram Jhula
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 87+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 60+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Rishikesh including Rishikesh City, Ram Jhula, Lakshman Jhula.
             Discreet, safe, and professional service specifically for Rishikesh residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Rishikesh = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Rishikesh Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Rishikesh
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Rishikesh = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Rishikesh = () => {
             <li><strong>24/7 Rishikesh Availability:</strong> Services available round the clock across all Rishikesh areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Rishikesh residents and visitors</li>
             <li><strong>Rishikesh-Specific Safety:</strong> Secure platform with companions trained in Rishikesh area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 87+ verified profiles of independent escorts and professional companions specifically available in Rishikesh</li>
+            <li><strong>Extensive Selection:</strong> 60+ verified profiles of independent escorts and professional companions specifically available in Rishikesh</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Rishikesh's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Rishikesh = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Uttarakhand Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Dehradun", slug: "dehradun", count: 50 },
               { name: "Haldwani", slug: "haldwani", count: 65 },

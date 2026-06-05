@@ -140,8 +140,8 @@ const Jammu = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Jammu Escorts 2026 \u2014 74+ Verified Profiles | BookEase Jammu and Kashmir"
-        description="\u2713 74+ verified Jammu escorts \u2713 Jammu City & Gandhi Nagar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Jammu City, Gandhi Nagar, Residency Road. 18+ only. Verified profiles."
+        title="Jammu Escorts 2026 \u2014 87+ Verified Profiles | BookEase Jammu and Kashmir"
+        description="\u2713 87+ verified Jammu escorts \u2713 Jammu City & Gandhi Nagar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Jammu City, Gandhi Nagar, Residency Road. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/jammu-and-kashmir/jammu"
         image="https://www.escortmumbaii.in/jammu-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Jammu = () => {
         faqSchema={jammuFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Jammu escorts 2026, escorts in Jammu, verified Jammu escorts, 74+ profiles, Jammu City escorts, Gandhi Nagar escorts, Residency Road escorts, available tonight' },
+          { name: 'keywords', content: 'Jammu escorts 2026, escorts in Jammu, verified Jammu escorts, 87+ profiles, Jammu City escorts, Gandhi Nagar escorts, Residency Road escorts, available tonight' },
           { name: 'geo.position', content: `${jammuData.coordinates.latitude};${jammuData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Jammu, Jammu and Kashmir' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Jammu = () => {
       <Header showBack title="Jammu Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Jammu = () => {
             <span>Jammu</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Jammu Escorts 2026  74+ Verified Companions in Jammu City & Gandhi Nagar
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Jammu Escorts 2026  87+ Verified Companions in Jammu City & Gandhi Nagar
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 74+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 87+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Jammu including Jammu City, Gandhi Nagar, Residency Road.
             Discreet, safe, and professional service specifically for Jammu residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Jammu = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Jammu Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Jammu
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Jammu = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Jammu = () => {
             <li><strong>24/7 Jammu Availability:</strong> Services available round the clock across all Jammu areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Jammu residents and visitors</li>
             <li><strong>Jammu-Specific Safety:</strong> Secure platform with companions trained in Jammu area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 74+ verified profiles of independent escorts and professional companions specifically available in Jammu</li>
+            <li><strong>Extensive Selection:</strong> 87+ verified profiles of independent escorts and professional companions specifically available in Jammu</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Jammu's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Jammu = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Jammu and Kashmir Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Anantnag", slug: "anantnag", count: 50 },
               { name: "Baramulla", slug: "baramulla", count: 65 },

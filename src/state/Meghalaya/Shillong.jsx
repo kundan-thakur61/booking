@@ -140,8 +140,8 @@ const Shillong = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Shillong Escorts 2026 \u2014 73+ Verified Profiles | BookEase Meghalaya"
-        description="\u2713 73+ verified Shillong escorts \u2713 Shillong City & Police Bazaar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Shillong City, Police Bazaar, Laitumkhrah. 18+ only. Verified profiles."
+        title="Shillong Escorts 2026 \u2014 118+ Verified Profiles | BookEase Meghalaya"
+        description="\u2713 118+ verified Shillong escorts \u2713 Shillong City & Police Bazaar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Shillong City, Police Bazaar, Laitumkhrah. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/meghalaya/shillong"
         image="https://www.escortmumbaii.in/shillong-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Shillong = () => {
         faqSchema={shillongFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Shillong escorts 2026, escorts in Shillong, verified Shillong escorts, 73+ profiles, Shillong City escorts, Police Bazaar escorts, Laitumkhrah escorts, available tonight' },
+          { name: 'keywords', content: 'Shillong escorts 2026, escorts in Shillong, verified Shillong escorts, 118+ profiles, Shillong City escorts, Police Bazaar escorts, Laitumkhrah escorts, available tonight' },
           { name: 'geo.position', content: `${shillongData.coordinates.latitude};${shillongData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Shillong, Meghalaya' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Shillong = () => {
       <Header showBack title="Shillong Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Shillong = () => {
             <span>Shillong</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Shillong Escorts 2026  73+ Verified Companions in Shillong City & Police Bazaar
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Shillong Escorts 2026  118+ Verified Companions in Shillong City & Police Bazaar
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 73+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 118+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Shillong including Shillong City, Police Bazaar, Laitumkhrah.
             Discreet, safe, and professional service specifically for Shillong residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Shillong = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Shillong Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Shillong
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Shillong = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Shillong = () => {
             <li><strong>24/7 Shillong Availability:</strong> Services available round the clock across all Shillong areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Shillong residents and visitors</li>
             <li><strong>Shillong-Specific Safety:</strong> Secure platform with companions trained in Shillong area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 73+ verified profiles of independent escorts and professional companions specifically available in Shillong</li>
+            <li><strong>Extensive Selection:</strong> 118+ verified profiles of independent escorts and professional companions specifically available in Shillong</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Shillong's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Shillong = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Meghalaya Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Jowai", slug: "jowai", count: 50 },
               { name: "Tura", slug: "tura", count: 65 }

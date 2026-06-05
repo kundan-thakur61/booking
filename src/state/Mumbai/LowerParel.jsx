@@ -163,8 +163,8 @@ const LowerParel = () => {
       <Header showBack title="LowerParel Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,10 +173,10 @@ const LowerParel = () => {
             <span>LowerParel</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
             LowerParel Escorts 2026  60+ Verified Companions in Lower Parel East & Lower Parel West
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
             Browse 60+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of LowerParel including Lower Parel East, Lower Parel West, Worli Naka.
             Discreet, safe, and professional service specifically for LowerParel residents and visitors.
@@ -207,11 +207,11 @@ const LowerParel = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* LowerParel Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in LowerParel
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const LowerParel = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -451,7 +449,7 @@ const LowerParel = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Mumbai Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Andheri", slug: "andheri", count: 50 },
               { name: "Bandra", slug: "bandra", count: 65 },

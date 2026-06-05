@@ -140,8 +140,8 @@ const Aizawl = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Aizawl Escorts 2026 \u2014 121+ Verified Profiles | BookEase Mizoram"
-        description="\u2713 121+ verified Aizawl escorts \u2713 Aizawl City & Bara Bazaar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Aizawl City, Bara Bazaar, Dawrpui. 18+ only. Verified profiles."
+        title="Aizawl Escorts 2026 \u2014 114+ Verified Profiles | BookEase Mizoram"
+        description="\u2713 114+ verified Aizawl escorts \u2713 Aizawl City & Bara Bazaar \u2713 Available tonight \u2713 24/7 service. Book premium companions in Aizawl City, Bara Bazaar, Dawrpui. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/mizoram/aizawl"
         image="https://www.escortmumbaii.in/aizawl-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Aizawl = () => {
         faqSchema={aizawlFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Aizawl escorts 2026, escorts in Aizawl, verified Aizawl escorts, 121+ profiles, Aizawl City escorts, Bara Bazaar escorts, Dawrpui escorts, available tonight' },
+          { name: 'keywords', content: 'Aizawl escorts 2026, escorts in Aizawl, verified Aizawl escorts, 114+ profiles, Aizawl City escorts, Bara Bazaar escorts, Dawrpui escorts, available tonight' },
           { name: 'geo.position', content: `${aizawlData.coordinates.latitude};${aizawlData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Aizawl, Mizoram' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Aizawl = () => {
       <Header showBack title="Aizawl Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Aizawl = () => {
             <span>Aizawl</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Aizawl Escorts 2026  121+ Verified Companions in Aizawl City & Bara Bazaar
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Aizawl Escorts 2026  114+ Verified Companions in Aizawl City & Bara Bazaar
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 121+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 114+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Aizawl including Aizawl City, Bara Bazaar, Dawrpui.
             Discreet, safe, and professional service specifically for Aizawl residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Aizawl = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Aizawl Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Aizawl
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Aizawl = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Aizawl = () => {
             <li><strong>24/7 Aizawl Availability:</strong> Services available round the clock across all Aizawl areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Aizawl residents and visitors</li>
             <li><strong>Aizawl-Specific Safety:</strong> Secure platform with companions trained in Aizawl area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 121+ verified profiles of independent escorts and professional companions specifically available in Aizawl</li>
+            <li><strong>Extensive Selection:</strong> 114+ verified profiles of independent escorts and professional companions specifically available in Aizawl</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Aizawl's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Aizawl = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Mizoram Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Champhai", slug: "champhai", count: 50 },
               { name: "Lunglei", slug: "lunglei", count: 65 }

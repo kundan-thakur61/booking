@@ -140,8 +140,8 @@ const Bikaner = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Bikaner Escorts 2026 \u2014 88+ Verified Profiles | BookEase Rajasthan"
-        description="\u2713 88+ verified Bikaner escorts \u2713 Bikaner City & Station Road \u2713 Available tonight \u2713 24/7 service. Book premium companions in Bikaner City, Station Road, Jai Narayan Vyas Colony. 18+ only. Verified profiles."
+        title="Bikaner Escorts 2026 \u2014 120+ Verified Profiles | BookEase Rajasthan"
+        description="\u2713 120+ verified Bikaner escorts \u2713 Bikaner City & Station Road \u2713 Available tonight \u2713 24/7 service. Book premium companions in Bikaner City, Station Road, Jai Narayan Vyas Colony. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/rajasthan/bikaner"
         image="https://www.escortmumbaii.in/bikaner-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Bikaner = () => {
         faqSchema={bikanerFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Bikaner escorts 2026, escorts in Bikaner, verified Bikaner escorts, 88+ profiles, Bikaner City escorts, Station Road escorts, Jai Narayan Vyas Colony escorts, available tonight' },
+          { name: 'keywords', content: 'Bikaner escorts 2026, escorts in Bikaner, verified Bikaner escorts, 120+ profiles, Bikaner City escorts, Station Road escorts, Jai Narayan Vyas Colony escorts, available tonight' },
           { name: 'geo.position', content: `${bikanerData.coordinates.latitude};${bikanerData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Bikaner, Rajasthan' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Bikaner = () => {
       <Header showBack title="Bikaner Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Bikaner = () => {
             <span>Bikaner</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Bikaner Escorts 2026  88+ Verified Companions in Bikaner City & Station Road
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Bikaner Escorts 2026  120+ Verified Companions in Bikaner City & Station Road
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 88+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 120+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Bikaner including Bikaner City, Station Road, Jai Narayan Vyas Colony.
             Discreet, safe, and professional service specifically for Bikaner residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Bikaner = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Bikaner Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Bikaner
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Bikaner = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Bikaner = () => {
             <li><strong>24/7 Bikaner Availability:</strong> Services available round the clock across all Bikaner areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Bikaner residents and visitors</li>
             <li><strong>Bikaner-Specific Safety:</strong> Secure platform with companions trained in Bikaner area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 88+ verified profiles of independent escorts and professional companions specifically available in Bikaner</li>
+            <li><strong>Extensive Selection:</strong> 120+ verified profiles of independent escorts and professional companions specifically available in Bikaner</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Bikaner's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Bikaner = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Rajasthan Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Ajmer", slug: "ajmer", count: 50 },
               { name: "Jaipur", slug: "jaipur", count: 65 },

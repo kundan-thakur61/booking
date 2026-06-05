@@ -140,8 +140,8 @@ const Amritsar = () => {
   return (
     <div className="min-h-screen bg-neutral-50">
       <SEO
-        title="Amritsar Escorts 2026 \u2014 83+ Verified Profiles | BookEase Punjab"
-        description="\u2713 83+ verified Amritsar escorts \u2713 Amritsar City & Lawrence Road \u2713 Available tonight \u2713 24/7 service. Book premium companions in Amritsar City, Lawrence Road, Ranjit Avenue. 18+ only. Verified profiles."
+        title="Amritsar Escorts 2026 \u2014 102+ Verified Profiles | BookEase Punjab"
+        description="\u2713 102+ verified Amritsar escorts \u2713 Amritsar City & Lawrence Road \u2713 Available tonight \u2713 24/7 service. Book premium companions in Amritsar City, Lawrence Road, Ranjit Avenue. 18+ only. Verified profiles."
         canonical="https://www.escortmumbaii.in/punjab/amritsar"
         image="https://www.escortmumbaii.in/amritsar-og.jpg"
         entityType="localBusiness"
@@ -150,7 +150,7 @@ const Amritsar = () => {
         faqSchema={amritsarFaqSchema}
         breadcrumbSchema={breadcrumbSchema}
         meta={[
-          { name: 'keywords', content: 'Amritsar escorts 2026, escorts in Amritsar, verified Amritsar escorts, 83+ profiles, Amritsar City escorts, Lawrence Road escorts, Ranjit Avenue escorts, available tonight' },
+          { name: 'keywords', content: 'Amritsar escorts 2026, escorts in Amritsar, verified Amritsar escorts, 102+ profiles, Amritsar City escorts, Lawrence Road escorts, Ranjit Avenue escorts, available tonight' },
           { name: 'geo.position', content: `${amritsarData.coordinates.latitude};${amritsarData.coordinates.longitude}` },
           { name: 'geo.placename', content: 'Amritsar, Punjab' },
           { name: 'geo.region', content: 'IN-XX' }
@@ -163,8 +163,8 @@ const Amritsar = () => {
       <Header showBack title="Amritsar Escorts" />
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-pink-600 to-pink-700 text-white py-12">
-        <div className="container mx-auto px-4">
+      <div className="bg-gradient-to-red from-pink-600 to-pink-700 text-white py-12">
+        <div className="w-full px-1.5 py-8 sm:px-6">
           <nav className="text-sm mb-4 opacity-90 bg">
             <Link to="/" className="hover:underline text-white">Home</Link>
             <span className="mx-2"></span>
@@ -173,11 +173,11 @@ const Amritsar = () => {
             <span>Amritsar</span>
           </nav>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Amritsar Escorts 2026  83+ Verified Companions in Amritsar City & Lawrence Road
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 px-1.5">
+            Amritsar Escorts 2026  102+ Verified Companions in Amritsar City & Lawrence Road
           </h1>
-          <p className="text-xl mb-6 max-w-3xl">
-            Browse 83+ verified profiles of premium escorts and independent companions
+          <p className="text-xl mb-6 max-w-3xl text-black px-1.5">
+            Browse 102+ verified profiles of premium escorts and independent companions
             available 24/7 across all areas of Amritsar including Amritsar City, Lawrence Road, Ranjit Avenue.
             Discreet, safe, and professional service specifically for Amritsar residents and visitors.
           </p>
@@ -207,11 +207,11 @@ const Amritsar = () => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-8">
+      <div className="w-full px-1.5  sm:px-6 py-8">
 
         {/* Amritsar Areas Coverage */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-neutral-900 mb-6">
+          <h2 className="text-3xl font-bold text-neutral-900 mb-6 px-1.5">
             Areas Covered in Amritsar
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -265,9 +265,7 @@ const Amritsar = () => {
                   {service.description}
                 </h3>
 
-                // <p className="text-neutral-600 text-sm mb-4 line-clamp-2">
-                //   {service.description}
-                </p>
+
 
                 <div className="flex items-center justify-between pt-4 border-t border-neutral-100">
                   <div className="flex items-center gap-2 text-sm text-neutral-500">
@@ -303,7 +301,7 @@ const Amritsar = () => {
             <li><strong>24/7 Amritsar Availability:</strong> Services available round the clock across all Amritsar areas with real-time location-based availability updates</li>
             <li><strong>Local Discretion:</strong> Your privacy is paramount with confidential booking processes specifically designed for Amritsar residents and visitors</li>
             <li><strong>Amritsar-Specific Safety:</strong> Secure platform with companions trained in Amritsar area safety protocols and local meeting point recommendations</li>
-            <li><strong>Extensive Selection:</strong> 83+ verified profiles of independent escorts and professional companions specifically available in Amritsar</li>
+            <li><strong>Extensive Selection:</strong> 102+ verified profiles of independent escorts and professional companions specifically available in Amritsar</li>
             <li><strong>Area Expertise:</strong> Experienced companions familiar with Amritsar's layout, transportation, and preferred meeting venues</li>
           </ul>
 
@@ -451,7 +449,7 @@ const Amritsar = () => {
           <h2 className="text-3xl font-bold text-neutral-900 mb-6">
             Explore Other Punjab Areas
           </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 px-1.5">
             {[
               { name: "Bathinda", slug: "bathinda", count: 50 },
               { name: "Jalandhar", slug: "jalandhar", count: 65 },
