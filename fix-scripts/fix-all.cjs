@@ -499,6 +499,9 @@
                   key={s.id}
                   to={\`${serviceBasePath}/\${s.id}\`}
                   className="block bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 group"
+                      onClick={() => {
+                      window.scrollTo(0, 0);
+              }}
                 >
                   <div className="relative overflow-hidden">
                     <img
@@ -892,6 +895,9 @@
                     key={s.id}
                     to={\`${cityPath}/service/\${s.id}\`}
                     className="block bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 group"
+                    onClick={() => {
+                      window.scrollTo(0, 0);
+                    }}
                   >
                     <div className="relative overflow-hidden">
                       <img

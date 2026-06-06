@@ -335,6 +335,9 @@ import React, { useState, useMemo } from 'react';
                     key={s.id}
                     to={`/arunachal-pradesh/changlang/service/${s.id}`}
                     className="block bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 group"
+                    onClick={() => {
+                      window.scrollTo(0, 0);
+                    }}
                   >
                     <div className="relative overflow-hidden">
                       <img
